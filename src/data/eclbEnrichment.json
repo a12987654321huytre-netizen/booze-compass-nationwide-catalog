@@ -713,6 +713,60 @@
       "eclbHolderType": "company",
       "address": "3 Biggar Street,Miramar,6001",
       "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJwZ8jxgczZR4RGGFDIK1EXz0",
+      "eclbId": 693,
+      "eclbRegNo": "5779",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "Erf 3456 & 3458, Marine Drive, Summerstrand, Gqeberha, 6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJNdY_XynUeh4RYdbeYG-1B7U",
+      "eclbId": 694,
+      "eclbRegNo": "5780",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "Erf 62911 Shop 3 Daku Shopping Centre,Daku Road,Kwazakhele,Gqeberha,6000",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJaZSxInLSeh4Rf4wyq9Gjvuw",
+      "eclbId": 695,
+      "eclbRegNo": "5788",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "No.23 Shop 1A, Corner Heugh Road & 6Th Avenueshopping Centre, Walmer, Gqeberha, 6000",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJu4fQTOTTeh4REjel-Qr0v_Y",
+      "eclbId": 704,
+      "eclbRegNo": "5809",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty)Ltd",
+      "eclbHolderType": "company",
+      "address": "Shop 18 Stanford Square Centre,Stanford Road,Korsten,Gqeberha,6000",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJe5YxjZXQXx4RSBwgYNgoeUs",
+      "eclbId": 1122,
+      "eclbRegNo": "5752",
+      "eclbLicenceHolder": "Shoprite Checkers ( Pty ) Ltd",
+      "eclbHolderType": "company",
+      "address": "Shop 2, Tin Roof Building, 9 Madeira Street, Mthatha, 5099",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJCeKno2A-Yh4RYybNG5GEaAk",
+      "eclbId": 24,
+      "eclbRegNo": "17",
+      "eclbLicenceHolder": "C.J. Robinson Liquors (Pty) Limited",
+      "eclbHolderType": "store_brand",
+      "address": "17 Calderwood Street,5320",
+      "matchClass": "MATCH_CONFIRMED"
     }
   ]
 }

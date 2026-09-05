@@ -129,7 +129,7 @@ describe('TEST 4 — supermarket vs bottle store', () => {
     expect(
       NEW_POIS.pois.every(
         (poi) =>
-          /liquor|bottle|tops|cellar|drankwinkel|bottelstoor|off[-\s]?sales|dop shop/i.test(
+          /liquor|bottle|tops|cellar|drankwinkel|bottelstoor|off[-\s]?sales|dop shop|picardi|goodfellow|diamond|wynwinkel|blue bottle|liquorland/i.test(
             poi.name
           ) || /liquor|bottle|drankwinkel|bottelstoor/i.test(poi.address ?? '')
       )

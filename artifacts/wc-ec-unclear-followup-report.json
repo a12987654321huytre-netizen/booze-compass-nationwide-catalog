@@ -1,0 +1,573 @@
+{
+  "WC_UNCLEAR_ROWS_PROCESSED": 1146,
+  "WC_CONFIRMED_BOTTLE_STORES": 35,
+  "WC_MATCHED_EXISTING": 21,
+  "WC_NEW_POIS_ADDED": 14,
+  "WC_CONFIRMED_NOT_BOTTLE_STORES": 623,
+  "WC_STILL_AMBIGUOUS": 488,
+  "EC_REVIEW_ROWS_CHECKED_WITH_GOOGLE": 37,
+  "EC_CONFIRMED_EXISTING_MATCHES": 6,
+  "EC_NEW_POIS_ADDED": 1,
+  "EC_STILL_UNRESOLVED": 30,
+  "CATALOGUE_BEFORE": 6502,
+  "CATALOGUE_AFTER": 6517,
+  "ORIGINAL_IDS_PRESERVED": "6502 / 6502",
+  "DELETED": 0,
+  "integrity": {
+    "tests": "199 passed",
+    "snapshot": "/tmp/poi-id-snapshot-before-unclear-pass.json",
+    "all_before_ids_subseteq_all_after_ids": true
+  },
+  "wcNewPois": [
+    {
+      "id": "wcla-038573",
+      "name": "Small Boy's Liquors",
+      "city": "Robinvale",
+      "address": "6 Coly Lane, ROBINVALE, Atlantis, 7349",
+      "latitude": -33.5676828,
+      "longitude": 18.4978886,
+      "precision": "building",
+      "licenceNo": "WCP/038573"
+    },
+    {
+      "id": "wcla-038947",
+      "name": "Milton's Liquors",
+      "city": "Delft",
+      "address": "111 Mono Crescent, Leiden, DELFT, 7102",
+      "latitude": -33.964169,
+      "longitude": 18.6378864,
+      "precision": "building",
+      "licenceNo": "WCP/038947"
+    },
+    {
+      "id": "wcla-043684",
+      "name": "Boxer Superliquors Ilitha Mall",
+      "city": "Ilitha Park",
+      "address": "15 Khwezi Crescent, ILITHA PARK, Khayelitsha, 7784",
+      "latitude": -34.048248,
+      "longitude": 18.6703216,
+      "precision": "street",
+      "licenceNo": "WCP/043684"
+    },
+    {
+      "id": "wcla-008194",
+      "name": "Liquorland Express Esperanza",
+      "city": "Heidelberg",
+      "address": "Swartstraat, HEIDELBERG, 6665",
+      "latitude": -34.0906718,
+      "longitude": 20.9567248,
+      "precision": "building",
+      "licenceNo": "WCP/008194"
+    },
+    {
+      "id": "wcla-038606",
+      "name": "Crazy Liquors",
+      "city": "Oudtshoorn",
+      "address": "Randstraat 02, OUDTSHOORN, 6625",
+      "latitude": -33.5997715,
+      "longitude": 22.2115839,
+      "precision": "building",
+      "licenceNo": "WCP/038606"
+    },
+    {
+      "id": "wcla-039218",
+      "name": "Norman Goodfellows - Plett",
+      "city": "Plettenberg Bay",
+      "address": "Plett Airport Business Park, Shops 5-8, Airport Road, Roodefontein, PLETTENBERG BAY, 6600",
+      "latitude": -34.0900009,
+      "longitude": 23.3367321,
+      "precision": "street",
+      "licenceNo": "WCP/039218"
+    },
+    {
+      "id": "wcla-037915",
+      "name": "Panorama Bottelstoor",
+      "city": "Riversdale",
+      "address": "Corner Versveld and Petersen Street, RIVERSDALE, 6670",
+      "latitude": -34.0982,
+      "longitude": 21.25994,
+      "precision": "street",
+      "licenceNo": "WCP/037915"
+    },
+    {
+      "id": "wcla-030942",
+      "name": "Oasis Blue Bottle Liquors",
+      "city": "Bredasdorp",
+      "address": "31-33 Kerk Street, BREDASDORP, 7280",
+      "latitude": -34.5341517,
+      "longitude": 20.0405969,
+      "precision": "street",
+      "licenceNo": "WCP/030942"
+    },
+    {
+      "id": "wcla-011100",
+      "name": "Hangklip Bottle Store",
+      "city": "Pringle Bay",
+      "address": "14 Central Road, PRINGLE BAY, Kleinmond, 7196",
+      "latitude": -34.3515554,
+      "longitude": 18.8305446,
+      "precision": "street",
+      "licenceNo": "WCP/011100"
+    },
+    {
+      "id": "wcla-029520",
+      "name": "Captain's Corner Bottelstoor",
+      "city": "Klawer",
+      "address": "1 Alpha Street, KLAWER, 8145",
+      "latitude": -31.7672891,
+      "longitude": 18.6252577,
+      "precision": "building",
+      "licenceNo": "WCP/029520"
+    },
+    {
+      "id": "wcla-011426",
+      "name": "Cove Bottle Store",
+      "city": "St Helena Bay",
+      "address": "Main Street, Steenberg's Cove, ST HELENA BAY, Vredenburg, 7390",
+      "latitude": -32.7608896,
+      "longitude": 18.0267117,
+      "precision": "street",
+      "licenceNo": "WCP/011426"
+    },
+    {
+      "id": "wcla-042342",
+      "name": "Boxer Superliquors Mbekweni",
+      "city": "Mbekweni",
+      "address": "Corner of Wamkelekile and Elonwabo Streets, MBEKWENI, Paarl, 7655",
+      "latitude": -33.6743134,
+      "longitude": 18.9970988,
+      "precision": "building",
+      "licenceNo": "WCP/042342"
+    },
+    {
+      "id": "wcla-020675",
+      "name": "Sunrise Blue Bottle Liquors",
+      "city": "Somerset West",
+      "address": "Shop F, 157 Main Road, SOMERSET WEST, 7130",
+      "latitude": -34.08010489999999,
+      "longitude": 18.8480087,
+      "precision": "building",
+      "licenceNo": "WCP/020675"
+    },
+    {
+      "id": "wcla-037082",
+      "name": "Riverview Bottle Store",
+      "city": "Worcester",
+      "address": "151 Pieterse Street, WORCESTER, 6850",
+      "latitude": -33.659199,
+      "longitude": 19.4464199,
+      "precision": "building",
+      "licenceNo": "WCP/037082"
+    }
+  ],
+  "ecNewPois": [
+    {
+      "id": "eclb-1211",
+      "name": "ECR Liquor Store",
+      "city": "Qonce",
+      "address": "15 Wodehouse Street, Qonce, 5600",
+      "latitude": -32.8870063,
+      "longitude": 27.394358,
+      "precision": "building"
+    }
+  ],
+  "wcMatchedExisting": [
+    {
+      "licenceNo": "WCP/043528",
+      "premises": "The Wine Shop",
+      "existingId": "gplaces-ChIJTbMs04dnzB0RBUk41bHbFW4",
+      "existingName": "The Wine Shop Cape Town"
+    },
+    {
+      "licenceNo": "WCP/031302",
+      "premises": "Wine Concepts On Kloof",
+      "existingId": "gplaces-ChIJB3Ih7XFnzB0RfKyxsatxzyk",
+      "existingName": "Wine Concepts On Kloof"
+    },
+    {
+      "licenceNo": "WCP/029002",
+      "premises": "Wine Concepts",
+      "existingId": "gplaces-ChIJF_ri7sxCzB0RoEwiYf6BZIw",
+      "existingName": "Wine Concepts Newlands"
+    },
+    {
+      "licenceNo": "WCP/037024",
+      "premises": "Carolines Fine Wine Cellar - Tokai",
+      "existingId": "gplaces-ChIJ2Q_3cwFCzB0RPdRc4b67-OE",
+      "existingName": "Caroline's Fine Wine Cellar, Tokai"
+    },
+    {
+      "licenceNo": "WCP/042249",
+      "premises": "Boxer Superliquors Langa",
+      "existingId": "gplaces-ChIJ12iEcuxbzB0RzOdfSroEDGU",
+      "existingName": "Langa Boxer Liquors"
+    },
+    {
+      "licenceNo": "WCP/011429",
+      "premises": "Grapevine Blue Bottle",
+      "existingId": "gplaces-ChIJoahSoRdp0h0RzFjGSZ143RI",
+      "existingName": "The Grapevine BLUE BOTTLE LIQUORS"
+    },
+    {
+      "licenceNo": "WCP/000910",
+      "premises": "Boxer Superliquors Worcester",
+      "existingId": "gplaces-ChIJjfElj0WDzR0RHc3hOunZedI",
+      "existingName": "Worcester Boxer Liquors"
+    },
+    {
+      "licenceNo": "WCP/044285",
+      "premises": "Boxer Superliquors Kwanokuthula",
+      "existingId": "gplaces-ChIJr0MRFhrjeB4RzDc4YHKmsLE",
+      "existingName": "Kwanokuthula Crossing Boxer Liquors"
+    },
+    {
+      "licenceNo": "WCP/040820",
+      "premises": "Ultraliquors (Plettenberg Bay)",
+      "existingId": "gplaces-ChIJN4fF9kDjeB4RRzQlNfWChc0",
+      "existingName": "Ultra Liquors - Plettenberg Bay"
+    },
+    {
+      "licenceNo": "WCP/034551",
+      "premises": "Picardi Rebel Khayelitsha",
+      "existingId": "gplaces-ChIJGQxFEiJJzB0RuudaxfuS5Kk",
+      "existingName": "PicardiRebel Khayelitsha"
+    },
+    {
+      "licenceNo": "WCP/002490",
+      "premises": "Picardi Rebel Kraaifontein",
+      "existingId": "gplaces-ChIJSbpOCKlWzB0RN5rjmGiGv0s",
+      "existingName": "PicardiRebel Kraaifontein"
+    },
+    {
+      "licenceNo": "WCP/031464",
+      "premises": "Picardi Rebel Knysna",
+      "existingId": "gplaces-ChIJwxuLOHjreB4RGT6Tbx9iXKk",
+      "existingName": "PicardiRebel Knysna"
+    },
+    {
+      "licenceNo": "WCP/002242",
+      "premises": "Norman Goodfellows - Gardens",
+      "existingId": "gplaces-ChIJj16SoHlnzB0RQ3o1za8Brms",
+      "existingName": "Norman Goodfellows Gardens"
+    },
+    {
+      "licenceNo": "WCP/043304",
+      "premises": "NORMAN GOODFELLOWS CT",
+      "existingId": "gplaces-ChIJIbBJxZ5fzB0RrO5BziWuXNQ",
+      "existingName": "Norman Goodfellows Sunset Beach"
+    },
+    {
+      "licenceNo": "WCP/008511",
+      "premises": "Norman Goodfellows - Three Anchor Bay",
+      "existingId": "osm-seed-node-1110861732",
+      "existingName": "Norman Goodfellows Three Anchor Bay"
+    },
+    {
+      "licenceNo": "WCP/038708",
+      "premises": "The Cellar",
+      "existingId": "gplaces-ChIJizInNeMb1h0RRBjkv2CSM8c",
+      "existingName": "The Cellar York Centre George"
+    },
+    {
+      "licenceNo": "WCP/028509",
+      "premises": "Caroline's Fine Wine Cellar",
+      "existingId": "osm-seed-node-14038809224",
+      "existingName": "Caroline's Fine Wine Cellar Sea Point"
+    },
+    {
+      "licenceNo": "WCP/033092",
+      "premises": "City Cellar",
+      "existingId": "gplaces-ChIJL6m5QW1UzB0RF74OairsLDI",
+      "existingName": "City Cellar Joostenberg"
+    },
+    {
+      "licenceNo": "WCP/042343",
+      "premises": "Boxer Superliquors Phillipi",
+      "existingId": "gplaces-ChIJ1YTNdAZFzB0RkXwNBMgWk7o",
+      "existingName": "Boxer Superliquors Philippi"
+    },
+    {
+      "licenceNo": "WCP/030885",
+      "premises": "Diamond Discount Zwelethemba",
+      "existingId": "gplaces-ChIJseLENbGBzR0RoKwN20h58nQ",
+      "existingName": "Diamond's Discount Liquors Worcester Z"
+    },
+    {
+      "licenceNo": "WCP/002248",
+      "premises": "Solly Kramers",
+      "existingId": "gplaces-ChIJUTmk5khczB0Ryw1-qg3yWLw",
+      "existingName": "Solly Kramers Brooklyn"
+    }
+  ],
+  "ecMatchedExisting": [
+    {
+      "eclbId": 24,
+      "holder": "C.J. Robinson Liquors (Pty) Limited",
+      "existingId": "gplaces-ChIJCeKno2A-Yh4RYybNG5GEaAk",
+      "existingName": "Ultra Wholesale Liquors",
+      "address": "17 Calderwood Street"
+    },
+    {
+      "eclbId": 693,
+      "holder": "Shoprite Checkers (Pty) Ltd",
+      "existingId": "gplaces-ChIJwZ8jxgczZR4RGGFDIK1EXz0",
+      "existingName": "Checkers LiquorShop Boardwalk PE",
+      "address": "Marine Drive, Summerstrand"
+    },
+    {
+      "eclbId": 694,
+      "holder": "Shoprite Checkers (Pty) Ltd",
+      "existingId": "gplaces-ChIJNdY_XynUeh4RYdbeYG-1B7U",
+      "existingName": "Shoprite LiquorShop Daku Road",
+      "address": "Daku Shopping Centre, Daku Road"
+    },
+    {
+      "eclbId": 695,
+      "holder": "Shoprite Checkers (Pty) Ltd",
+      "existingId": "gplaces-ChIJaZSxInLSeh4Rf4wyq9Gjvuw",
+      "existingName": "Checkers LiquorShop 6th Avenue",
+      "address": "Heugh Road & 6th Avenue, Walmer"
+    },
+    {
+      "eclbId": 704,
+      "holder": "Shoprite Checkers (Pty)Ltd",
+      "existingId": "gplaces-ChIJu4fQTOTTeh4REjel-Qr0v_Y",
+      "existingName": "Shoprite LiquorShop Stanford Road",
+      "address": "Stanford Square Centre, Stanford Road"
+    },
+    {
+      "eclbId": 1122,
+      "holder": "Shoprite Checkers ( Pty ) Ltd",
+      "existingId": "gplaces-ChIJe5YxjZXQXx4RSBwgYNgoeUs",
+      "existingName": "Shoprite LiquorShop Mthatha",
+      "address": "9 Madeira / Dr Dan Pasiya Street"
+    }
+  ],
+  "wcLookedAmbiguousButNotBottleStore": [
+    {
+      "licenceNo": "WCP/031718",
+      "name": "Route 62 Wynwinkel",
+      "why": "Google: Route 62 Wine Shop and Camping Grounds — estate wine shop / camping, not a dedicated bottle store"
+    },
+    {
+      "licenceNo": "WCP/036355",
+      "name": "Dopshop @ Breede River Trading Post",
+      "why": "Google types grocery_or_supermarket / supermarket (Breede River Trading Post)"
+    },
+    {
+      "licenceNo": "WCP/043938",
+      "name": "Cellar X",
+      "why": "Franschhoek agricultural estate / cellar door, not a high-street bottle store"
+    },
+    {
+      "licenceNo": "WCP/028780",
+      "name": "Zetlers Food & Wine Shop",
+      "why": "Lynedoch R310 petrol / food & wine shop, not a dedicated bottle store"
+    },
+    {
+      "licenceNo": "WCP/034615",
+      "name": "Oak Barrel Wine Shop",
+      "why": "farm wine shop, George"
+    },
+    {
+      "licenceNo": "WCP/045314",
+      "name": "The Darling Wine Shop",
+      "why": "urban wine boutique at 5 Main Street; not Checkin Liquor Darling; not added as a bottle-store pin"
+    },
+    {
+      "licenceNo": "WCP/032033",
+      "name": "Cape Gate Superspar",
+      "why": "ordinary supermarket"
+    },
+    {
+      "licenceNo": "WCP/043836",
+      "name": "Food Lover's Market - Bothasig",
+      "why": "ordinary supermarket"
+    },
+    {
+      "licenceNo": "WCP/039662",
+      "name": "Makro Cape Gate",
+      "why": "warehouse, not dedicated bottle store (Makro Liquor already in catalogue separately)"
+    },
+    {
+      "licenceNo": "WCP/037708",
+      "name": "Twelve Apostles Winery",
+      "why": "wine farm / winery"
+    },
+    {
+      "licenceNo": "WCP/042563",
+      "name": "Constantia Uitsig Wine Shop",
+      "why": "estate wine shop"
+    },
+    {
+      "licenceNo": "WCP/041987",
+      "name": "The Cellar Southern Sun Waterfront",
+      "why": "hotel cellar / Southern Sun, not a bottle store"
+    },
+    {
+      "licenceNo": "WCP/034307",
+      "name": "Table Mountain Wine Shop",
+      "why": "Google: Table Mountain Cafe"
+    },
+    {
+      "licenceNo": "WCP/042071",
+      "name": "Yuppiechef (Willow Bridge)",
+      "why": "kitchen retailer"
+    },
+    {
+      "licenceNo": "WCP/034927",
+      "name": "Tesselaarsdal Bottlestore",
+      "why": "Google hospitality/winery at Farm 811, Tesselaarsdal"
+    }
+  ],
+  "wcStillNeedsHumanReview": [
+    {
+      "licenceNo": "WCP/008282",
+      "name": "Picardi Rebel",
+      "addr": "546 Inner Ring Road, ATLANTIS",
+      "why": "Second Atlantis Picardi licence (Picardi Hotelle). Places cannot produce a distinct coordinate from the existing Wesfleur Circle Picardi Liquors pin; distance is not identity so it was not merged or invented."
+    },
+    {
+      "licenceNo": "WCP/008234",
+      "name": "Kensington Liqour Store",
+      "addr": "170 Bunney Street, KENSINGTON",
+      "why": "Places only returns TOPS at SPAR Kensington (27 12th Avenue). Different street, different fascia — not merged, no independent 170 Bunney geocode."
+    },
+    {
+      "licenceNo": "WCP/039406",
+      "name": "Rooirok Offsales",
+      "addr": "234 Keurtjie Street, GRAAFWATER",
+      "why": "Places snapped to Graafwater Hotel / Agrimark, not a bottle-store coordinate."
+    },
+    {
+      "licenceNo": "WCP/032938",
+      "name": "Liquormait",
+      "addr": "311 Voortrekker Road, Maitland",
+      "why": "Name does not independently prove a dedicated bottle store; not geocoded this pass."
+    },
+    {
+      "licenceNo": "WCP/036187",
+      "name": "Generations",
+      "addr": "19 Bunting Crescent, Robinvale, ATLANTIS",
+      "why": "Consumption Off only; premises name does not prove a dedicated bottle store."
+    },
+    {
+      "licenceNo": "WCP/038439",
+      "name": "Margaret's",
+      "addr": "46 COURSER AVENUE, ROBINVALE, ATLANTIS",
+      "why": "Premises name does not prove a dedicated bottle store."
+    }
+  ],
+  "ecStillNeedsHumanReview": [
+    {
+      "eclbId": 240,
+      "holder": "Fairview Bottle Store",
+      "town": "Barkly East",
+      "addr": "2007 Church Street, Fairview, Barkly East",
+      "why": "dedicated name, no defensible Google geocode"
+    },
+    {
+      "eclbId": 790,
+      "holder": "Kavalier Drankwinkel Cc",
+      "town": "Jamestown",
+      "addr": "7 Hill Street, Jamestown",
+      "why": "dedicated name, no defensible Google geocode"
+    },
+    {
+      "eclbId": 1305,
+      "holder": "Shaz Bottle Store Magwatyuzeni Location",
+      "town": "Tsomo",
+      "addr": "Mfula Administrative Area, Tsomo",
+      "why": "dedicated name, no defensible Google geocode"
+    },
+    {
+      "eclbId": 1332,
+      "holder": "Amahlathi Bottle Store (Pty) Limited",
+      "town": "Zwelitsha",
+      "addr": "275 Tyhusha Admin Area, Zwelitsha",
+      "why": "dedicated name, no defensible Google geocode"
+    },
+    {
+      "eclbId": 9,
+      "holder": "Balmoral Bottle Store (Pty) Ltd",
+      "town": "",
+      "addr": "Corner Hunt And Somerset Streets",
+      "why": "dedicated name, no town / no defensible geocode"
+    },
+    {
+      "eclbId": 1043,
+      "holder": "Mg Liquors (Pty) Limted 10102",
+      "town": "Mdantsane",
+      "addr": "Zone 2, Highway Taxi Rank, Mdantsane",
+      "why": "Places suggested King Liquors Qumza Highway — different fascia, not merged"
+    },
+    {
+      "eclbId": 528,
+      "holder": "Daku Liquors Cc",
+      "town": "Gqeberha",
+      "addr": "Corner Dambisa Road And Mbilini Street, Kwazakhele",
+      "why": "not proven to be Shoprite LiquorShop Daku Road (different name/streets)"
+    },
+    {
+      "eclbId": 1215,
+      "holder": "King Beta Cc",
+      "town": "Qonce",
+      "addr": "29 Downing Street",
+      "why": "existing KING BETA pin is Buffalo Road — same-name different address stays unresolved, not merged"
+    },
+    {
+      "eclbId": 1135,
+      "holder": "Akl Liquor",
+      "town": "Ngcobo",
+      "addr": "76 High Street",
+      "why": "not TOPS Spargs Engcobo; no independent pin (tests forbid eclb-1135)"
+    },
+    {
+      "eclbId": 968,
+      "holder": "Lusikisiki Liquor Store Partnership",
+      "town": "Lusikisiki",
+      "addr": "42 Main Street",
+      "why": "not Shoprite Lusikisiki; no independent geocode this pass"
+    },
+    {
+      "eclbId": 43,
+      "holder": "Hennie & Yvonne",
+      "town": "Cookhouse",
+      "addr": "6B Main Street",
+      "why": "Places snapped to NOORSVELD DRANKWINKEL Jansenville (wrong town); not added"
+    },
+    {
+      "eclbId": 487,
+      "holder": "Sparks Liquor",
+      "town": "Fort Beaufort",
+      "addr": "16 Church Street",
+      "why": "16 Church is Prestons; TOPS Georgiou is a different street; not added"
+    },
+    {
+      "eclbId": 1250,
+      "holder": "Amathole Liquors Cc",
+      "town": "Somerset East",
+      "addr": "Erf 5453, 1 New Street",
+      "why": "Places snapped to a guesthouse"
+    },
+    {
+      "eclbId": 438,
+      "holder": "Shoprite Checkers (Pty) Limited",
+      "town": "East London",
+      "addr": "74 Buffalo Street",
+      "why": "Google is Shoprite supermarket, not LiquorShop"
+    },
+    {
+      "eclbId": 646,
+      "holder": "Pick 'N Pay Retailers (Pty) Limited",
+      "town": "Gqeberha",
+      "addr": "3456 Second Avenue, Summerstrand",
+      "why": "Google is Pick n Pay supermarket, not PnP Liquor"
+    }
+  ],
+  "notes": [
+    "Distance was never treated as identity. Wrong-town / wrong-fascia Google snaps (Small Boy's→Strand, Esparanza→TOPS Heidelberg, Captain's Corner→Klawer Wine Cellars, Crazy Liquors→Checkers LiquorShop, Goodfellows Plett→Three Anchor Bay / print shop, Picardi Atlantis→Wesfleur mall) were rejected or re-geocoded to the official address.",
+    "Sunrise Blue Bottle (157 Main) is distinct from TOPS Somerset West (150 Main). Boxer Superliquors Mbekweni is distinct from Jumbo Liquors Mafila Street. Riverview Bottle Store (151 Pieterse) is distinct from Boland Drankwinkel (23 Louis Lange).",
+    "Remaining WC ambiguous rows are mostly Consumption Off licences whose premises names do not prove a dedicated bottle store (person names, \"Place\", courier/office, Seven Eleven, etc.)."
+  ]
+}
