@@ -83,11 +83,22 @@ describe('ECLB merge is additive and never renames', () => {
   it('new pins are eclb-sourced and use safe public names', () => {
     const catalog = loadCatalog();
     const eclb = catalog.filter((poi) => poi.source === 'eclb');
-    expect(eclb).toHaveLength(2);
-    expect(eclb.map((poi) => poi.id).sort()).toEqual(['eclb-239', 'eclb-7']);
+    expect(eclb.length).toBe(NEW_POIS.pois.length);
+    expect(eclb.map((poi) => poi.id).sort()).toEqual(
+      [...NEW_POIS.pois.map((poi) => poi.id)].sort()
+    );
     expect(eclb.every((poi) => isSafePublicStoreName(poi.name))).toBe(true);
     expect(eclb.every((poi) => !looksLikePersonName(poi.name))).toBe(true);
     expect(catalog.find((poi) => poi.id === 'eclb-239')?.name).toBe('Barkly East Bottle Store');
+    expect(catalog.find((poi) => poi.id === 'eclb-7')?.name).toBe('TOPS at SPAR St Francis Bay');
+    expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-58')).toBe(false);
+    expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-326')).toBe(false);
+    expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-1180')).toBe(false);
+    expect(catalog.find((poi) => poi.id === 'eclb-95')?.name).toBe(
+      'Africa Bottle Store Blue Bottle Liquors'
+    );
+    expect(catalog.find((poi) => poi.id === 'eclb-95')?.eclbLicenceHolder).toBe('Mxolisi Christin');
+    expect(catalog.every((poi) => !/mxolisi christin/i.test(poi.name))).toBe(true);
   });
 
   it('confirmed matches keep the existing public name and attach the holder in the backend', () => {
