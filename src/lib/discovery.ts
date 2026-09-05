@@ -83,6 +83,10 @@ function eclbCatalog(latitude: number, longitude: number, radiusMeters: number):
   return findCatalogCandidates(latitude, longitude, radiusMeters, ['eclb']);
 }
 
+function wclaCatalog(latitude: number, longitude: number, radiusMeters: number): DiscoveredCandidate[] {
+  return findCatalogCandidates(latitude, longitude, radiusMeters, ['wcla']);
+}
+
 function assemble(
   candidates: DiscoveredCandidate[],
   latitude: number,
@@ -145,7 +149,7 @@ function assemble(
 
 /**
  * Instant local discovery: curated corrections + bundled OSM snapshot +
- * additive Google Places catalog + conservative ECLB gap pins + any
+ * additive Google Places catalog + conservative ECLB/WCLA gap pins + any
  * tiled cache. No network. Safe to paint the compass with.
  */
 export function discoverLocal(
@@ -157,6 +161,7 @@ export function discoverLocal(
   const seed = findSeedCandidates(latitude, longitude, radiusMeters);
   const google = googleCatalog(latitude, longitude, radiusMeters);
   const eclb = eclbCatalog(latitude, longitude, radiusMeters);
+  const wcla = wclaCatalog(latitude, longitude, radiusMeters);
   const cached = readNearbyTiles(latitude, longitude);
 
   const cacheCandidates: DiscoveredCandidate[] = cached.stores.map((store) => ({
@@ -183,7 +188,7 @@ export function discoverLocal(
     curatedParentName: store.parentName,
   }));
 
-  const merged = [...curated, ...seed, ...google, ...eclb, ...cacheCandidates];
+  const merged = [...curated, ...seed, ...google, ...eclb, ...wcla, ...cacheCandidates];
   return assemble(merged, latitude, longitude, radiusMeters, {
     fromCache: cached.stores.length > 0,
     cacheStale: cached.stale,
@@ -192,6 +197,7 @@ export function discoverLocal(
       ...(seed.length ? (['osm-seed'] as const) : []),
       ...(google.length ? (['google-places'] as const) : []),
       ...(eclb.length ? (['eclb'] as const) : []),
+      ...(wcla.length ? (['wcla'] as const) : []),
       ...(cached.stores.length ? (['cache'] as const) : []),
     ],
   });
@@ -203,7 +209,7 @@ export function discoverLocal(
  * results are merged additively.
  * Paid session fallback only if every durable source came back empty.
  *
- * If Overpass returns 0 or 4 records, existing seed/curated/google/eclb
+ * If Overpass returns 0 or 4 records, existing seed/curated/google/eclb/wcla
  * catalog records are still assembled — never replaced.
  */
 export async function discoverRefresh(
@@ -231,8 +237,9 @@ export async function discoverRefresh(
   const seed = findSeedCandidates(latitude, longitude, radiusMeters);
   const google = googleCatalog(latitude, longitude, radiusMeters);
   const eclb = eclbCatalog(latitude, longitude, radiusMeters);
+  const wcla = wclaCatalog(latitude, longitude, radiusMeters);
   const merged = assemble(
-    [...curated, ...seed, ...google, ...eclb, ...overpassCandidates],
+    [...curated, ...seed, ...google, ...eclb, ...wcla, ...overpassCandidates],
     latitude,
     longitude,
     radiusMeters,

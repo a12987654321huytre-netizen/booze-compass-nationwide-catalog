@@ -8,6 +8,8 @@ const SOURCE_PRIORITY: Record<LiquorStore['source'], number> = {
   osm: 4,
   'osm-seed': 3,
   'google-places': 3,
+  eclb: 3,
+  wcla: 3,
   cache: 2,
   'places-fallback': 1,
 };

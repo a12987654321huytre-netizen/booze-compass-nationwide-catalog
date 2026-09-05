@@ -20,11 +20,14 @@ import osmSeed from '../data/osm-seed.json';
 import googlePlacesFile from '../data/googlePlacesPois.json';
 import eclbEnrichmentFile from '../data/eclbEnrichment.json';
 import eclbNewPoiFile from '../data/eclbNewPois.json';
+import wclaEnrichmentFile from '../data/wclaEnrichment.json';
+import wclaNewPoiFile from '../data/wclaNewPois.json';
 import { fillEmptyFields } from './poiIntegrity';
 import { matchObservation, shouldAddAsNewPoi, shouldEnrichExisting } from './poiMatch';
 import type { GooglePlaceObservation } from './googlePlacesProvider';
 import { applyAdditiveInserts, assertAdditive } from './poiIntegrity';
 import type { EclbEnrichmentFile, EclbNewPoiFile } from './eclb';
+import type { WclaEnrichmentFile, WclaNewPoiFile } from './wcla';
 
 export type CatalogPoi = {
   id: string;
@@ -49,6 +52,10 @@ export type CatalogPoi = {
   eclbLicenceHolder?: string;
   eclbHolderType?: string;
   eclbId?: number;
+  /** Backend-only WCLA licence fields. Never copied onto LiquorStore.name. */
+  wclaLicenceNo?: string;
+  wclaLicenceHolder?: string;
+  wclaHolderType?: string;
 };
 
 export type PoiEnrichment = {
@@ -95,6 +102,8 @@ const SEED = osmSeed as SeedRecord[];
 const GOOGLE_FILE = googlePlacesFile as GooglePlacesFile;
 const ECLB_ENRICHMENT = eclbEnrichmentFile as EclbEnrichmentFile;
 const ECLB_NEW = eclbNewPoiFile as EclbNewPoiFile;
+const WCLA_ENRICHMENT = wclaEnrichmentFile as WclaEnrichmentFile;
+const WCLA_NEW = wclaNewPoiFile as WclaNewPoiFile;
 
 function cityFromAddress(address?: string): string | undefined {
   if (!address) return undefined;
@@ -192,6 +201,26 @@ function eclbNewToCatalog(): CatalogPoi[] {
   }));
 }
 
+function wclaNewToCatalog(): CatalogPoi[] {
+  return (WCLA_NEW.pois ?? []).map((poi) => ({
+    id: poi.id,
+    name: poi.name,
+    latitude: poi.latitude,
+    longitude: poi.longitude,
+    address: poi.address,
+    brand: poi.brand,
+    locationType: poi.locationType,
+    parentName: poi.parentName,
+    source: 'wcla' as const,
+    province: poi.province,
+    city: poi.city,
+    matchConfidence: 85,
+    wclaLicenceNo: poi.wclaLicenceNo,
+    wclaLicenceHolder: poi.wclaLicenceHolder,
+    wclaHolderType: poi.wclaHolderType,
+  }));
+}
+
 /**
  * Attach ECLB licence fields to existing POIs. Never renames.
  * Address is filled only when the catalog row has none.
@@ -217,6 +246,30 @@ function applyEclbEnrichment(pois: CatalogPoi[]): CatalogPoi[] {
   });
 }
 
+/**
+ * Attach WCLA licence fields to existing POIs. Never renames.
+ * Address is filled only when the catalog row has none.
+ */
+function applyWclaEnrichment(pois: CatalogPoi[]): CatalogPoi[] {
+  const rows = WCLA_ENRICHMENT.enrichment ?? [];
+  if (!rows.length) return pois;
+  const byId = new Map(rows.map((row) => [row.existingId, row]));
+  return pois.map((poi) => {
+    const extra = byId.get(poi.id);
+    if (!extra) return poi;
+    const withAddress = extra.address
+      ? fillEmptyFields(poi, { address: extra.address }, ['address'])
+      : poi;
+    return {
+      ...withAddress,
+      name: poi.name,
+      wclaLicenceNo: extra.wclaLicenceNo,
+      wclaLicenceHolder: extra.wclaLicenceHolder,
+      wclaHolderType: extra.wclaHolderType,
+    };
+  });
+}
+
 let cachedCatalog: CatalogPoi[] | null = null;
 
 /** Test/script hook. Production code never needs this. */
@@ -230,13 +283,14 @@ export function loadCatalog(): CatalogPoi[] {
   const existing = [...seedToCatalog(), ...curatedToCatalog()];
   const withGoogle = applyAdditiveInserts(existing, GOOGLE_FILE.pois ?? []);
   const withEclb = applyAdditiveInserts(withGoogle.catalog, eclbNewToCatalog());
+  const withWcla = applyAdditiveInserts(withEclb.catalog, wclaNewToCatalog());
   assertAdditive(
     existing.map((poi) => poi.id),
-    withEclb.catalog.map((poi) => poi.id),
+    withWcla.catalog.map((poi) => poi.id),
     'loadCatalog'
   );
-  const googleEnriched = applyEnrichment(withEclb.catalog, GOOGLE_FILE.enrichment ?? []);
-  cachedCatalog = applyEclbEnrichment(googleEnriched);
+  const googleEnriched = applyEnrichment(withWcla.catalog, GOOGLE_FILE.enrichment ?? []);
+  cachedCatalog = applyWclaEnrichment(applyEclbEnrichment(googleEnriched));
   return cachedCatalog;
 }
 
@@ -274,7 +328,7 @@ export function catalogPoiToCandidate(poi: CatalogPoi): DiscoveredCandidate {
     osmId: poi.osmId,
     googlePlaceId: poi.googlePlaceId,
     curatedName:
-      poi.source === 'curated' || poi.source === 'google-places' || poi.source === 'eclb'
+      poi.source === 'curated' || poi.source === 'google-places' || poi.source === 'eclb' || poi.source === 'wcla'
         ? poi.name
         : undefined,
     curatedType: poi.locationType,

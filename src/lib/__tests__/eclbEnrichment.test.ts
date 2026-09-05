@@ -12,10 +12,13 @@ import {
 } from '../eclb';
 import eclbNew from '../../data/eclbNewPois.json';
 import eclbEnrichment from '../../data/eclbEnrichment.json';
+import wclaNew from '../../data/wclaNewPois.json';
 import type { EclbEnrichmentFile, EclbNewPoiFile } from '../eclb';
+import type { WclaNewPoiFile } from '../wcla';
 
 const NEW_POIS = eclbNew as EclbNewPoiFile;
 const ENRICHMENT = eclbEnrichment as EclbEnrichmentFile;
+const WCLA_NEW = wclaNew as WclaNewPoiFile;
 
 describe('ECLB public naming', () => {
   it('never treats a personal licence-holder as a map name', () => {
@@ -61,7 +64,9 @@ describe('ECLB merge is additive and never renames', () => {
     const google = googleCatalogPois();
     expect(existing.every((poi) => catalog.some((row) => row.id === poi.id))).toBe(true);
     expect(google.every((poi) => catalog.some((row) => row.id === poi.id))).toBe(true);
-    expect(catalog.length).toBe(existing.length + google.length + NEW_POIS.pois.length);
+    expect(catalog.length).toBe(
+      existing.length + google.length + NEW_POIS.pois.length + WCLA_NEW.pois.length
+    );
   });
 
   it('does not create a new pin when an existing store already matches', () => {

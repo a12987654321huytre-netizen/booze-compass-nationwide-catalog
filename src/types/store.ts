@@ -20,7 +20,8 @@ export type LiquorSource =
   | 'cache'
   | 'google-places'
   | 'places-fallback'
-  | 'eclb';
+  | 'eclb'
+  | 'wcla';
 
 export type LiquorStore = {
   id: string;
