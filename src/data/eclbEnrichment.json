@@ -1,0 +1,718 @@
+{
+  "version": 1,
+  "generatedFrom": "ECLB 2025-2026 off-consumption register",
+  "rule": "fill empty fields only; never rename existing POIs",
+  "enrichment": [
+    {
+      "existingId": "gplaces-ChIJ8fs0VBkSiR4R-kH0Uvi1vGo",
+      "eclbId": 224,
+      "eclbRegNo": "1",
+      "eclbLicenceHolder": "1 Point",
+      "eclbHolderType": "unclear",
+      "address": "618 Liquors 7 Grey Street, Aliwal North, 9750",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJyeb4xggSiR4REDoAdKbyrJA",
+      "eclbId": 236,
+      "eclbRegNo": "5818",
+      "eclbLicenceHolder": "Shoprite Checkers(Pty)Ltd",
+      "eclbHolderType": "company",
+      "address": "Shop 9 Robinson Street,Bridgegate Centre, Aliwal North, 9750",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJ8fs0VBkSiR4RUL44oEDCr6U",
+      "eclbId": 238,
+      "eclbRegNo": "6771",
+      "eclbLicenceHolder": "Trade Busters 1178 Cc",
+      "eclbHolderType": "company",
+      "address": "1 Grey Street, Aliwal North, 9750",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJLUKn-dQlex4RscTp7PnWTUU",
+      "eclbId": 252,
+      "eclbRegNo": "283",
+      "eclbLicenceHolder": "Antonio Martinus Stander",
+      "eclbHolderType": "person",
+      "address": "Erf 19032,2 Gavin Street,Scheepershoogte, Bizana, 6229",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJVfMI_ZLEYB4RBRU1lDhkATw",
+      "eclbId": 282,
+      "eclbRegNo": "5760",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Limited",
+      "eclbHolderType": "company",
+      "address": "Erf 501,Shop 9A, Fingoland Mall,Butterworth,4960",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJtcOucYUoex4R5_hosckM_a4",
+      "eclbId": 331,
+      "eclbRegNo": "282",
+      "eclbLicenceHolder": "Antonio Martinus Stander & Chantell Doreen Stander",
+      "eclbHolderType": "unclear",
+      "address": "29 Bree Street, Despatch, 6220",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJUXKlJd4fZx4RVjyd4l4llMk",
+      "eclbId": 364,
+      "eclbRegNo": "444",
+      "eclbLicenceHolder": "Bay Liquor",
+      "eclbHolderType": "store_brand",
+      "address": "Shop No.2 Mytelene Court,Batting Road,Beacon Bay, East London, 5200",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJQWUTTQDhZh4RTYmdpSfdm04",
+      "eclbId": 373,
+      "eclbRegNo": "795",
+      "eclbLicenceHolder": "C.J. Robinson Liquors (Pty) Limited",
+      "eclbHolderType": "store_brand",
+      "address": "250 Oxford Street, East London, 5200",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJKQ9fym_hZh4RKl3QhiKJTEI",
+      "eclbId": 375,
+      "eclbRegNo": "841",
+      "eclbLicenceHolder": "Cavaleiro & Lambaz Cc",
+      "eclbHolderType": "company",
+      "address": "Erf 18787, 51 Jan Smuts Avenue,Greenfields,East London,5208",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJ4SOKHDrgZh4RuSgRgijonMM",
+      "eclbId": 379,
+      "eclbRegNo": "1145",
+      "eclbLicenceHolder": "Devereux Trust",
+      "eclbHolderType": "company",
+      "address": "52/54 Devereux Avenue,Vincent,East London,5247",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJgRLtQPHhZh4RzySzFkY79UA",
+      "eclbId": 385,
+      "eclbRegNo": "1440",
+      "eclbLicenceHolder": "Fasj Trade Cc",
+      "eclbHolderType": "company",
+      "address": "26 Bank Street,West Bank, East London,5200",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJIUDVe8fhZh4Rjh0eQ2_pMOM",
+      "eclbId": 391,
+      "eclbRegNo": "1583",
+      "eclbLicenceHolder": "Garboard Trade (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "Erf 14570, 200 Oxford Street, East London, 5201",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJj5RtzW7hZh4R-efKbZCoMnU",
+      "eclbId": 395,
+      "eclbRegNo": "1737",
+      "eclbLicenceHolder": "Greenfields Trust",
+      "eclbHolderType": "company",
+      "address": "Shops 5 & 6,79 Smuts Avenue,Greenfields Centre, East London, 5200",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJ-aqLTSPhZh4RsouZc12_Rvc",
+      "eclbId": 398,
+      "eclbRegNo": "1878",
+      "eclbLicenceHolder": "Ian Craig Myburgh",
+      "eclbHolderType": "person",
+      "address": "2 Robert King Crescent,Buffalo Flats, East London, 5201",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJI3ccS0AfZx4Rto8GjcAm5Ho",
+      "eclbId": 437,
+      "eclbRegNo": "5586",
+      "eclbLicenceHolder": "Ryan Peter Pederson",
+      "eclbHolderType": "person",
+      "address": "48 Arum Road, Gonubie, East London, 5200",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJRae2UK3hZh4RSqbWVlUYgWg",
+      "eclbId": 402,
+      "eclbRegNo": "2018",
+      "eclbLicenceHolder": "Jeramdas Nana Mitha Querinda Square",
+      "eclbHolderType": "person",
+      "address": "75 Garcia, Cambridge, East London, 5247",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJE5yMMESwZh4RZYxHIYKDNiE",
+      "eclbId": 380,
+      "eclbRegNo": "1200",
+      "eclbLicenceHolder": "Dorasamy Marimithu",
+      "eclbHolderType": "person",
+      "address": "82 Cambridge Road, Qonce, 5600",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJSyV6P_DgZh4RdRyj-E8bCac",
+      "eclbId": 439,
+      "eclbRegNo": "5763",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Limited",
+      "eclbHolderType": "company",
+      "address": "Shoprite Shopping Centre, Main Road, Amalinda,East London,5252",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJ_xCG2urhZh4R1Sfgez75JJo",
+      "eclbId": 440,
+      "eclbRegNo": "5805",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "Shop Ug7 Gilwell Shopping Centre, Cnr Gillwell & Fleet Street, East London, 5201",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJs7IM9GzgZh4RiXZCTanMOtw",
+      "eclbId": 441,
+      "eclbRegNo": "5807",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "T/A Checkers Liqourshop Shop G85 Hemingways Mall,Corner Western Avenue & Two Rivers Road,Cambridge,East London,5206",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJe83Ns0DgZh4RNIuuF4JOP2Q",
+      "eclbId": 442,
+      "eclbRegNo": "5814",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty0 Ltd",
+      "eclbHolderType": "company",
+      "address": "Shops 11.0 & 11.1 Balfour Park Shopping Centre, 26 Balfour Road, Vincent,East London,5247",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJtw4rTCvgZh4R1H_mpSmanTw",
+      "eclbId": 445,
+      "eclbRegNo": "6265",
+      "eclbLicenceHolder": "Stirling Trust",
+      "eclbHolderType": "company",
+      "address": "6 Epsom Road,Stirling, East London, 5200",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJf-IOq78ZZx4RwPvfBdwCEm4",
+      "eclbId": 451,
+      "eclbRegNo": "7054",
+      "eclbLicenceHolder": "Vw Legacy (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "68 Griffin Road,Cambridge West,East London5247",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJs4BmqZ_Xeh4RVsGd_TCd2z4",
+      "eclbId": 508,
+      "eclbRegNo": "629",
+      "eclbLicenceHolder": "Boxer Superliquors (Pty) Limited",
+      "eclbHolderType": "store_brand",
+      "address": "Erf 50625, Corner Of Spondo Koyana & Qeqe Streets, Zwide, Gqeberha, 6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJU4waD-3Teh4R_2uB210h84Q",
+      "eclbId": 509,
+      "eclbRegNo": "631",
+      "eclbLicenceHolder": "Boxer Superstore (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "112 - 120 Commercial Road,Korsten, Gqeberha,6000",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJ9bdweXDReh4R47wgRXtUO0w",
+      "eclbId": 516,
+      "eclbRegNo": "797",
+      "eclbLicenceHolder": "C.J. Robinson Liquors (Pty) Limited",
+      "eclbHolderType": "store_brand",
+      "address": "Corner Hurd Street & Belfast Drive,Gqeberha,6000",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJvSTcDlrTeh4RfE4Iv0D5icA",
+      "eclbId": 566,
+      "eclbRegNo": "1849",
+      "eclbLicenceHolder": "Home Dream Pe Supermarket",
+      "eclbHolderType": "company",
+      "address": "34 Connaught Avenue, Kensington, Gqeberha, 6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJWcYhad7Xeh4RfyVgtepI-DY",
+      "eclbId": 602,
+      "eclbRegNo": "3015",
+      "eclbLicenceHolder": "Margeret Cornelia Rudman",
+      "eclbHolderType": "person",
+      "address": "147 Dyke Road,Algoa Park,6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJo2v48pTTeh4Rs7XCbOgD9Tc",
+      "eclbId": 623,
+      "eclbRegNo": "3972",
+      "eclbLicenceHolder": "Nicholas Meyer",
+      "eclbHolderType": "person",
+      "address": "4 Wright Street, Sidwell, Gqeberha, 6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJpQID2-PXeh4R9LsHIrnwhQo",
+      "eclbId": 579,
+      "eclbRegNo": "2177",
+      "eclbLicenceHolder": "Keegan Wender Scheepers",
+      "eclbHolderType": "person",
+      "address": "43 Henna Street, Jacksonville, Gqeberha, 6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJieMMGHDTeh4Ro4TwANnzaKw",
+      "eclbId": 718,
+      "eclbRegNo": "6445",
+      "eclbLicenceHolder": "Thandile Mantlana",
+      "eclbHolderType": "person",
+      "address": "56 Crawford Street,North End,Gqeberha,6000",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJJ-R1pnrReh4RFUlHT2-4khM",
+      "eclbId": 538,
+      "eclbRegNo": "1152",
+      "eclbLicenceHolder": "Dial A Dop",
+      "eclbHolderType": "person",
+      "address": "6 Gutch Street,Gelvan Park,Gqeberha,6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJVejJ-7Qrex4RWjqScPobM_s",
+      "eclbId": 728,
+      "eclbRegNo": "6877",
+      "eclbLicenceHolder": "Vannesa Nonkosazana Makosimane",
+      "eclbHolderType": "person",
+      "address": "Erf 32941, 45 Didiza Street, Ikamvelihle, Gqeberha, 6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJAwMidwTXeh4Rxnqg7P-CX60",
+      "eclbId": 597,
+      "eclbRegNo": "2792",
+      "eclbLicenceHolder": "Luyanda Dyala",
+      "eclbHolderType": "person",
+      "address": "Erf 41517, 183 Koyana Street, Zwide, Gqeberha, 6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJdddZQ2LNeh4R5cttUiwgf2I",
+      "eclbId": 603,
+      "eclbRegNo": "3024",
+      "eclbLicenceHolder": "Maria Odette Gouws",
+      "eclbHolderType": "person",
+      "address": "Erf 475 & 476,57 Forest Hill Drive,Forest Hil, Gqeberha, 6000",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJq6qqatjQeh4Rq-NlIm06qIA",
+      "eclbId": 647,
+      "eclbRegNo": "5295",
+      "eclbLicenceHolder": "Pick 'N Pay Retailers (Pty) Limited",
+      "eclbHolderType": "company",
+      "address": "Erf 2923, Moffet Retail Park,Williams Moffet Expressway,Fairview,6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJx0kIDxHSeh4RoDfgydxRtGU",
+      "eclbId": 656,
+      "eclbRegNo": "5361",
+      "eclbLicenceHolder": "Prestons Pe Liquor Trust",
+      "eclbHolderType": "store_brand",
+      "address": "121 Main Road,Walmer Shopping Centre,Walmer, Gqeberha, 6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJZ6f8AHPSeh4RofYMnSLzXtk",
+      "eclbId": 657,
+      "eclbRegNo": "5362",
+      "eclbLicenceHolder": "Prestons Pe Liquor Trust",
+      "eclbHolderType": "store_brand",
+      "address": "148 Heugh Road,Walmer,Gqeberha,6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJo5UyBfnTeh4R2tlq6FmiNw8",
+      "eclbId": 658,
+      "eclbRegNo": "5363",
+      "eclbLicenceHolder": "Prestons Pe Liquor Trust",
+      "eclbHolderType": "store_brand",
+      "address": "2 Archie Place,Young Park,Gqeberha,6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJkS7_Id7Qeh4RNyxTGd6Ugdk",
+      "eclbId": 660,
+      "eclbRegNo": "5365",
+      "eclbLicenceHolder": "Prestons Pe Liquor Trust",
+      "eclbHolderType": "store_brand",
+      "address": "511 Cape Road,Linton Grange, Gqeberha,6000",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJSxCcSVvSeh4Rb8_O-5P06Kg",
+      "eclbId": 661,
+      "eclbRegNo": "5366",
+      "eclbLicenceHolder": "Prestons Pe Liquor Trust",
+      "eclbHolderType": "store_brand",
+      "address": "57 Westbourne Road, Central,Gqeberha, 6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJ94Xcot3Reh4R72vynLLeplc",
+      "eclbId": 662,
+      "eclbRegNo": "5368",
+      "eclbLicenceHolder": "Prestons Pe Liquor Trust",
+      "eclbHolderType": "store_brand",
+      "address": "Erf 1730,Corner Of Genadendal And Buffelsfontein Road,Mount Pleasant,6000",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJERclv7MyZR4RfiG0Mq3p0xs",
+      "eclbId": 663,
+      "eclbRegNo": "5373",
+      "eclbLicenceHolder": "Prestons Pe Liquor Trust",
+      "eclbHolderType": "store_brand",
+      "address": "Torquay Centre,Corner Torquay Street & 8Th Avenue,Summerstrand,6001",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJKwFM1OzReh4RxfufkBk4-pc",
+      "eclbId": 696,
+      "eclbRegNo": "5794",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "Shop 2 Big Ben Shopping Centre,Corner Six Avenue Cape Road & 116 Hurd Street,Newton Park,Gqeberha,6000",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJE7fD7Icrex4R79SUa4T0FhQ",
+      "eclbId": 699,
+      "eclbRegNo": "5799",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "Shop 8, Motherwell Shopping Centre,Nyara,Tyiniara And Wm Maku Streets,Motherwell,Gqeberha,6211",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJK__uoFTReh4Rh0a8erLqSUE",
+      "eclbId": 700,
+      "eclbRegNo": "5800",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "Shop Ld-M 29 Moffett On Main, Life Centre,Corner 17Th Avenue & Main Road,Walmer,Gqeberha,6057",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJH-iO5sMrex4R8gmswgAGuLc",
+      "eclbId": 701,
+      "eclbRegNo": "5801",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "Shop Ng 37, Cleary Park Shopping Centre,Stanford Road,Cleary Park,6000",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJR0ZQVrzTeh4R_LBVJ_ucqqo",
+      "eclbId": 705,
+      "eclbRegNo": "5824",
+      "eclbLicenceHolder": "Showground Liquor Store",
+      "eclbHolderType": "store_brand",
+      "address": "60 Kariega Road, Sydenham, Gqeberha, 6011",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJy7hXYzfReh4Rpe2XR4nNS1I",
+      "eclbId": 745,
+      "eclbRegNo": "7341",
+      "eclbLicenceHolder": "Yw Supermarket (Pty) Limited",
+      "eclbHolderType": "company",
+      "address": "324 Kragga Kamm Road,Kragga Kamma, Gqeberha, 6000",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJR6a7CRlTeh4Rpdu-DsEzCRg",
+      "eclbId": 782,
+      "eclbRegNo": "5815",
+      "eclbLicenceHolder": "Shoprite Checkers Pty Limited",
+      "eclbHolderType": "company",
+      "address": "10 Main Street, Humansdorp, 6300",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJOw-jkSBWeh4R17kmO93Hhqg",
+      "eclbId": 799,
+      "eclbRegNo": "611",
+      "eclbLicenceHolder": "Bonticraft Pty",
+      "eclbHolderType": "company",
+      "address": "Shop 48 Aston Manor Shopping Centre,4 Dolphin Drive,Aston Bay, Jefferey'S Bay, 6300",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJXZv8xzj_eh4REWBhCdBkoS8",
+      "eclbId": 806,
+      "eclbRegNo": "2002",
+      "eclbLicenceHolder": "Jb Beach Off-Sales Cc",
+      "eclbHolderType": "store_brand",
+      "address": "Da Gama Road, Jeffreys Bay, 6330",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJVXydrrb4eh4RgmrBGsHCBUA",
+      "eclbId": 810,
+      "eclbRegNo": "5159",
+      "eclbLicenceHolder": "Pellsrus Liquor Trust",
+      "eclbHolderType": "store_brand",
+      "address": "1 Harder Street,Jeffreys Bay,6330",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJ45vkProlex4RpugALpqYgmA",
+      "eclbId": 834,
+      "eclbRegNo": "131",
+      "eclbLicenceHolder": "Alliance Wholesalers Pty Ltd",
+      "eclbHolderType": "company",
+      "address": "4 Rich Street,Kariega,6230",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJv7DlkMUlex4RIcERRSxB9TM",
+      "eclbId": 842,
+      "eclbRegNo": "412",
+      "eclbLicenceHolder": "Banjocron Pty",
+      "eclbHolderType": "company",
+      "address": "142 Caledon Street,Kariega,6242",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJJ66VOm0kex4RFJEp67LrvNw",
+      "eclbId": 848,
+      "eclbRegNo": "802",
+      "eclbLicenceHolder": "Calbis Liquors",
+      "eclbHolderType": "store_brand",
+      "address": "297/299 Caledon Street,Central, Kariega, 6229",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJx2a33XIkex4R1ZyIkXI0YnU",
+      "eclbId": 858,
+      "eclbRegNo": "2109",
+      "eclbLicenceHolder": "Jubicol (Pty) Limited",
+      "eclbHolderType": "company",
+      "address": "30 Gibbon Street,Kariega,6229",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJl27NXlEnex4Rm3oBx8Bq9wU",
+      "eclbId": 844,
+      "eclbRegNo": "601",
+      "eclbLicenceHolder": "Bonisile Michael Zwengu",
+      "eclbHolderType": "person",
+      "address": "23 Ngxangxosi Street, Area 9 Gunguluza, Kwanobuhle, Kariega, 6242",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJJwPT3kkkex4R1IQxA1mwgdE",
+      "eclbId": 875,
+      "eclbRegNo": "5369",
+      "eclbLicenceHolder": "Prestons Pe Liquor Trust",
+      "eclbHolderType": "store_brand",
+      "address": "Fairbridge Heights7 7 Aalwyn Drive, Kariega, 6200",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJkQpyRlkkex4Rv8K4NOy_JdU",
+      "eclbId": 876,
+      "eclbRegNo": "5372",
+      "eclbLicenceHolder": "Prestons Pe Liquor Trust",
+      "eclbHolderType": "store_brand",
+      "address": "Shop 9, Levyvale Shopping Centre,Settlers Crescent,Kariega,6229",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJi6Pq-tPXeh4RhsfvKYAnsYA",
+      "eclbId": 881,
+      "eclbRegNo": "5790",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "Shop 13 Ziyabuya Shopping Centre, Cnr Uitenhage & Makwekwe Street, Kwa Dwesi, Gqeberha, 6000",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJ1brcumE-Yh4RTtM8JbcsNgE",
+      "eclbId": 918,
+      "eclbRegNo": "796",
+      "eclbLicenceHolder": "C.J. Robinson Liquors (Pty) Limited",
+      "eclbHolderType": "store_brand",
+      "address": "Corner Bowker Street & Robinson Roadkomani,5320",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJjRPP6nw-Yh4R51xYYMY0UHs",
+      "eclbId": 935,
+      "eclbRegNo": "5388",
+      "eclbLicenceHolder": "Protea Liquor Sales (Pty) Limited",
+      "eclbHolderType": "store_brand",
+      "address": "15 Ebden Street, Komani, 5320",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJmSavcYs_Yh4Ra65xA7db1mY",
+      "eclbId": 942,
+      "eclbRegNo": "6772",
+      "eclbLicenceHolder": "Tradeskills 114 (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "T/A Pick'N Pay Brewery Road,Komani,5320",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJK9wmnx5dZB4Rb_3bgxYc1eQ",
+      "eclbId": 992,
+      "eclbRegNo": "1876",
+      "eclbLicenceHolder": "Ian Craig Myburg",
+      "eclbHolderType": "person",
+      "address": "1 Jarvis Street, Makhanda, 6140",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJCclp7c5dZB4ROgOcIalHxuc",
+      "eclbId": 998,
+      "eclbRegNo": "5791",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "Shop 14 Grahamstown Market Square,Cnr Beaufort West & Market Streets,Grhmstown,4493",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJs56YattdZB4RHXDYOG2W1t4",
+      "eclbId": 1002,
+      "eclbRegNo": "6533",
+      "eclbLicenceHolder": "The Spar Group Limited",
+      "eclbHolderType": "company",
+      "address": "Erf 9469, 37 African Street,Makhanda,6139",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJcf1nYr3QXx4Rf7iC373fP68",
+      "eclbId": 1106,
+      "eclbRegNo": "645",
+      "eclbLicenceHolder": "Boxer Superstores (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "Corner Elliot And Bridge Street,Mthatha,5099",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJ_9F4EevRXx4R68TTO0UDbp4",
+      "eclbId": 1111,
+      "eclbRegNo": "3110",
+      "eclbLicenceHolder": "Massdiscounters (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "Shop No 3 Mthatha Plaza, Erf 18647 35 Nelson Mandela Drive, Mthatha, 6059",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJLdSVJ7zQXx4R44KVRYvvRfY",
+      "eclbId": 1123,
+      "eclbRegNo": "5817",
+      "eclbLicenceHolder": "Shoprite Checkers(Pty)Ltd",
+      "eclbHolderType": "company",
+      "address": "Shop 14 Circle Triangle,Chatham, Eagle & Elliot Road,Mthatha,5100",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJ2aC1qfTLZR4RxbmAn08LAXs",
+      "eclbId": 1191,
+      "eclbRegNo": "5358",
+      "eclbLicenceHolder": "Prestons Liquors Pe Trust",
+      "eclbHolderType": "store_brand",
+      "address": "36 B Corner Of Main And Biscay Roads, Port Alfred,6170",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJZZvhHl3LZR4R6LFWbmLMcpU",
+      "eclbId": 1194,
+      "eclbRegNo": "6880",
+      "eclbLicenceHolder": "Vaslovision (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "32-36 Biscay Road,Port Alfred,6170",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJX7vcHEqwZh4RaR9XVow5pow",
+      "eclbId": 1213,
+      "eclbRegNo": "1748",
+      "eclbLicenceHolder": "Gwenrose (Pty) Limited",
+      "eclbHolderType": "company",
+      "address": "8 Smith Street, Qonce, 5600",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJ_85_6kmxZh4RGEsVpDuT25s",
+      "eclbId": 1214,
+      "eclbRegNo": "2273",
+      "eclbLicenceHolder": "King Beta Cc",
+      "eclbHolderType": "company",
+      "address": "1758 Corner Grey Street & Buffalo Road,King Williams Town, 5600",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJ2Q4rpU-xZh4RhidaeKOjVJ4",
+      "eclbId": 1223,
+      "eclbRegNo": "3976",
+      "eclbLicenceHolder": "Nick'S Foods (Pty) Limited",
+      "eclbHolderType": "company",
+      "address": "11 Walker Street, Qonce, 5600",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJuyvla0qwZh4RjU4W7YopcNM",
+      "eclbId": 1232,
+      "eclbRegNo": "5781",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Ltd",
+      "eclbHolderType": "company",
+      "address": "Erf 8881,Shop 102,Metlife Mall, Qonce, 5600",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJkZSbE4A1fR4RlPe4HS0q5GE",
+      "eclbId": 154,
+      "eclbRegNo": "6094",
+      "eclbLicenceHolder": "Siyabonga Sonkwala",
+      "eclbHolderType": "person",
+      "address": "315 Sikhulu Street, Lingelihle,5880",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJqT2dmg3Reh4Rri8yyBSLYQo",
+      "eclbId": 129,
+      "eclbRegNo": "5371",
+      "eclbLicenceHolder": "Prestons Pe Liquor Trust",
+      "eclbHolderType": "store_brand",
+      "address": "Shop 4, Fernglen Shopping Centre Stella Londt Drive,Fernglen",
+      "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "gplaces-ChIJpa1CPeTReh4RL49_ImULBrs",
+      "eclbId": 180,
+      "eclbRegNo": "7119",
+      "eclbLicenceHolder": "Wicketvent Cc",
+      "eclbHolderType": "company",
+      "address": "3 Biggar Street,Miramar,6001",
+      "matchClass": "MATCH_CONFIRMED"
+    }
+  ]
+}

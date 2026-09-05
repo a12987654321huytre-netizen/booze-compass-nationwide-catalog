@@ -25,6 +25,8 @@ used **offline for discovery / audit**, not as a paid runtime dependency.
 | OSM seed | `src/data/osm-seed.json` | Original seed POIs (never deleted) |
 | Curated corrections | `src/data/curatedPois.ts` | Known additions / renames / exclusions |
 | Nationwide Google Places discoveries | `src/data/googlePlacesPois.json` | Additive observations already ingested |
+| ECLB licence enrichment (EC only) | `src/data/eclbEnrichment.json` | Backend licence-holder / reg-no on existing pins. Never renames. |
+| ECLB gap pins (EC only) | `src/data/eclbNewPois.json` | New pins only where no catalog match and a verified public name exists |
 
 `loadCatalog()` in `src/lib/poiCatalog.ts` merges these **additively**:
 
@@ -33,11 +35,12 @@ used **offline for discovery / audit**, not as a paid runtime dependency.
 - Same-name / same-brand businesses at different physical locations stay separate.
 - Deduplication only happens with enough evidence they are the same place.
 - When uncertain, both records are kept.
+- Eastern Cape Liquor Board records are matched onto existing pins. Personal licence-holder names never become map names. Absence from the register never deletes a pin.
 
 Opening the app does **not** call Google Places. The browser never contains
 the Google Places API key. Runtime lookup order:
 
-1. Bundled catalog (seed + curated + nationwide Google discoveries)
+1. Bundled catalog (seed + curated + nationwide Google discoveries + conservative ECLB gap pins)
 2. Optional same-origin `/api/bottle-stores` refresh (EdgeOne; Overpass additive)
 3. Never Google Places on app open
 
@@ -46,7 +49,9 @@ Catalog sizes at commit time:
 - Google Places catalog (`src/data/googlePlacesPois.json`): **5616** POIs
 - OSM seed: **112** POIs
 - Curated additions: **4** POIs
-- Combined catalog available to the app: **5732** POIs
+- ECLB gap pins (`src/data/eclbNewPois.json`): **2** POIs (St Francis Bay TOPS, Barkly East Bottle Store)
+- Combined catalog available to the app: **5734** POIs
+- ECLB confirmed enrichments of existing pins: **79** (Eastern Cape off-consumption register, 1,339 rows)
 
 ---
 
@@ -80,6 +85,7 @@ Regression coverage includes:
 - additive POI integrity (`src/lib/__tests__/poiIntegrity.test.ts`)
 - POI matching / dedup (`src/lib/__tests__/poiMatch.test.ts`)
 - catalog loader (`src/lib/__tests__/poiCatalog.test.ts`)
+- ECLB licence match/enrich (never rename, never person-as-shop-name) (`src/lib/__tests__/eclbEnrichment.test.ts`)
 - Google Places provider (script-only; no runtime key) (`src/lib/__tests__/googlePlacesProvider.test.ts`)
 - nationwide geography / search grid (`src/lib/__tests__/saGeography.test.ts`)
 - liquor-store classification / scoring

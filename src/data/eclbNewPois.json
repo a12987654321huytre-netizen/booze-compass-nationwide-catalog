@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "rule": "New pins only where no credible existing catalog match AND an independently verified public name exists. Personal licence-holder names are never used as the map name. Fairbridge Prestons is an enrichment of the existing Google pin, not a new pin.",
+  "pois": [
+    {
+      "id": "eclb-7",
+      "name": "TOPS at SPAR St Francis Bay",
+      "latitude": -34.1615,
+      "longitude": 24.8285,
+      "address": "Village Square Shopping Centre, St Francis Drive, Sea Vista, St Francis Bay, 6312",
+      "city": "St Francis Bay",
+      "province": "Eastern Cape",
+      "brand": "TOPS at SPAR",
+      "locationType": "standalone",
+      "parentName": "SPAR",
+      "source": "eclb",
+      "eclbId": 7,
+      "eclbRegNo": "279",
+      "eclbLicenceHolder": "Anton Viljoen",
+      "eclbHolderType": "person",
+      "publicNameSource": "TOPS at SPAR store locator / my-catalogue Village Square St Francis Bay",
+      "geocodePrecision": "locality",
+      "notes": "ECLB lists Anton Viljoen at Erf 3083 Shop 7 St Francis Bay. Public fascia is TOPS at SPAR Village Square. Rushtail 55 (eclb 1262) is a second off-consumption row at the same centre and is not given its own pin."
+    },
+    {
+      "id": "eclb-239",
+      "name": "Barkly East Bottle Store",
+      "latitude": -30.9680708,
+      "longitude": 27.5942814,
+      "address": "22 De Villiers Street, Barkly East, 9786",
+      "city": "Barkly East",
+      "province": "Eastern Cape",
+      "brand": "Barkly East Bottle Store",
+      "locationType": "standalone",
+      "source": "eclb",
+      "eclbId": 239,
+      "eclbRegNo": "426",
+      "eclbLicenceHolder": "Barkly East Bottle Store Cc",
+      "eclbHolderType": "store_brand",
+      "publicNameSource": "African Advice / CallUpContact listings at 22 De Villiers Street",
+      "geocodePrecision": "street",
+      "notes": "Holder name matches the published shop name. Catalog had no Barkly East pin."
+    }
+  ]
+}

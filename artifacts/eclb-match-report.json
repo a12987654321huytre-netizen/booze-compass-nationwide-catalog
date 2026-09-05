@@ -1,0 +1,33 @@
+{
+  "source": "ECLB Register of Registered Liquor Traders 2025-2026",
+  "scope": "Eastern Cape off-consumption only",
+  "existingEasternCapeCatalog": 382,
+  "eclbOffConsumption": 1339,
+  "matchClasses": {
+    "unmatched": 988,
+    "MATCH_CONFIRMED": 79,
+    "POSSIBLE_MATCH": 255,
+    "MATCH_LIKELY": 17
+  },
+  "actions": {
+    "no_existing_match": 988,
+    "enrich_existing": 79,
+    "review_possible": 254,
+    "review_likely": 17,
+    "review_possible_duplicate_licence": 1
+  },
+  "holderTypes": {
+    "company": 518,
+    "person": 636,
+    "unclear": 110,
+    "store_brand": 75
+  },
+  "confirmedEnrichment": 79,
+  "notes": [
+    "Existing Booze Compass names are retained on every confirmed match.",
+    "Personal licence-holder names are never used as map-facing store names.",
+    "Absence from the ECLB register does not delete an existing catalog POI.",
+    "New pins are not created from unmatched person/unclear rows without independent public-name + coordinate verification.",
+    "Form 18 (ECLB) has separate BUSINESS NAME and LICENCE HOLDER FULL NAME; the published register only lists the registered person."
+  ]
+}

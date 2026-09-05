@@ -18,6 +18,8 @@ dist-ssr
 # Discovery checkpoints (can contain large observation dumps)
 artifacts/*checkpoint*
 artifacts/*.tmp
+artifacts/eclb-match-results.json
+scripts/__pycache__/
 *.tmp
 
 # Editor

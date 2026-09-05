@@ -19,7 +19,8 @@ export type LiquorSource =
   | 'curated'
   | 'cache'
   | 'google-places'
-  | 'places-fallback';
+  | 'places-fallback'
+  | 'eclb';
 
 export type LiquorStore = {
   id: string;
