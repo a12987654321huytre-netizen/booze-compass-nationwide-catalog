@@ -3,6 +3,7 @@
   "rule": "Dedicated LIKELY bottle stores are added with a defensible geocode of the official WCLA premises address (shop / building / shopping-centre / street / erf). Distance is not identity. Different fascias in one centre stay as separate pins. Personal licence-holder names are never map names. Matched and rejected rows are not redone. Absence from WCLA never deletes an existing POI.",
   "source": "western_cape_liquor_authority",
   "sourceDate": "2026-06-29",
+  "count": 722,
   "pois": [
     {
       "id": "wcla-002359",

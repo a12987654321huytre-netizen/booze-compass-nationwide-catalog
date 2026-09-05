@@ -1,0 +1,170 @@
+{
+  "catalogueBefore": 5789,
+  "catalogueAfter": 6502,
+  "wclaWorkingSetProcessed": 2474,
+  "wclaFullExtract": 9378,
+  "likelyBottleStoreCandidates": 1328,
+  "firstPassReviewUnclearNames": 1146,
+  "matchedExistingLicences": 502,
+  "newDedicatedBottleStoresAdded": 722,
+  "rejectedNotBottleStores": 73,
+  "likelyDedicatedStillReview": 18,
+  "unresolvedReview": 1164,
+  "unresolvedReviewBreakdown": {
+    "likelyDedicatedAmbiguousGeocodeOrIdentity": 18,
+    "firstPassReviewUnclearPremisesNamesNotAutoImported": 1146,
+    "note": "The earlier figure of 1968 unmatched dedicated rows was NOT 1968 of the 1328 strong candidates. After the identity pass, REVIEW_REQUIRED lumped leftover unmatched LIKELY dedicated (~900) together with the entire 1146 first-pass REVIEW rows (off-consumption licences whose premises names do not prove a dedicated bottle store). Those 1146 were never in the auto-import set. This pass reprocessed only unmatched LIKELY dedicated rows."
+  },
+  "originalIdsPreserved": "5789 / 5789",
+  "deleted": 0,
+  "enrichmentRows": 502,
+  "geocodePrecision": {
+    "street": 489,
+    "building": 230,
+    "locality": 3
+  },
+  "integrity": {
+    "all_before_ids_subset_of_after": true,
+    "deleted": 0,
+    "snapshotBefore": 5789,
+    "snapshotAfter": 6502,
+    "note": "Absence from WCLA is never deletion. Snapshot is loadCatalog 5789 before the address-geocode pass (112 OSM + 4 curated + 5616 Google + 48 ECLB + 9 WCLA). After: 5789 - 9 + 722 = 6502. Distance is not identity. Different fascias in one centre stay as separate pins."
+  },
+  "why1968WasMisleading": {
+    "workingSet": "2474 = 1328 LIKELY_BOTTLE_STORE + 1146 first-pass REVIEW_REQUIRED",
+    "what1968Was": "REVIEW_REQUIRED class count after identity matching \u2248 leftover unmatched LIKELY dedicated (~822\u2013900) + 1146 unclear-name rows",
+    "whatThisPassProcessed": "Only unmatched LIKELY dedicated rows. Matched and rejected records were not redone. The 1146 unclear names remain review-by-design.",
+    "likelyDedicatedRemaining": 18
+  },
+  "classCounts": {
+    "NEW_POI": 722,
+    "MATCH_CONFIRMED_OR_LIKELY_ENRICHMENT": 502,
+    "REJECTED_FOR_COMPASS": 73,
+    "LIKELY_DEDICATED_STILL_REVIEW": 18,
+    "FIRST_PASS_REVIEW_UNCLEAR_NOT_IMPORTED": 1146
+  },
+  "coordinateStandard": [
+    "exact shop coordinate if available",
+    "exact premises/building coordinate",
+    "shopping-centre coordinate",
+    "street-address coordinate",
+    "property/erf / tiny-settlement centroid where the official address has nothing finer",
+    "large-town centroids were not used",
+    "coordinates were not invented"
+  ],
+  "notRedone": {
+    "matched": "Existing MATCH_CONFIRMED / MATCH_LIKELY enrichment rows kept",
+    "rejected": "All 73 REJECTED_FOR_COMPASS rows kept (wine farms, generic supermarkets, brewery/wholesale, dark store)"
+  },
+  "stillReviewLikelyDedicated": [
+    {
+      "licenceNo": "WCP/039019",
+      "name": "Dee's Liquors",
+      "addr": "BB 183 Phazama Street, Town 2, KHAYELITSHA, 7784",
+      "why": "no defensible street/centre/erf geocode, or geocode snapped to a different premises"
+    },
+    {
+      "licenceNo": "WCP/037231",
+      "name": "Ascension Liquors",
+      "addr": "25A Ascension Road, MANENBERG, 7767",
+      "why": "no defensible street/centre/erf geocode, or geocode snapped to a different premises"
+    },
+    {
+      "licenceNo": "WCP/042462",
+      "name": "Tessie's Liquor Store",
+      "addr": "71A Citrus Street, BISHOP LAVIS, Matroosfontein, 7490",
+      "why": "no defensible street/centre/erf geocode, or geocode snapped to a different premises"
+    },
+    {
+      "licenceNo": "WCP/038096",
+      "name": "Toenie's Liquors",
+      "addr": "11 Blackberry Street, BISHOP LAVIS, Matroosfontein, 7490",
+      "why": "no defensible street/centre/erf geocode, or geocode snapped to a different premises"
+    },
+    {
+      "licenceNo": "WCP/038811",
+      "name": "Red Door Liquor Store",
+      "addr": "20 WATERBLOM STREET, Wesbank, MFULENI, 7100",
+      "why": "no defensible street/centre/erf geocode, or geocode snapped to a different premises"
+    },
+    {
+      "licenceNo": "WCP/036196",
+      "name": "Wesbank Liquors",
+      "addr": "18 Zara Gosa Street, Wesbank, MFULENI, 7100",
+      "why": "no defensible street/centre/erf geocode, or geocode snapped to a different premises"
+    },
+    {
+      "licenceNo": "WCP/033944",
+      "name": "Willy's Liquor Shop",
+      "addr": "26 Denise Circle, lentegeur, COLORADO PARK, Mitchells Plain, 7785",
+      "why": "no defensible street/centre/erf geocode, or geocode snapped to a different premises"
+    },
+    {
+      "licenceNo": "WCP/037999",
+      "name": "Ma-Thole Amnyama Liquors",
+      "addr": "Cnr Oliver Tambo & Charles Ndaba Street, WELTEVREDEN, SAMORA MACHEL, Mitchells Plain, 7785",
+      "why": "no defensible street/centre/erf geocode, or geocode snapped to a different premises"
+    },
+    {
+      "licenceNo": "WCP/030953",
+      "name": "Blackhorse Liquor Store",
+      "addr": "JOLES EIENDOM (PTY) LTD, ERF 5375, STELLENBOSCH, 7600",
+      "why": "no defensible street/centre/erf geocode, or geocode snapped to a different premises"
+    },
+    {
+      "licenceNo": "WCP/021818",
+      "name": "Dee Bee Alg. Handelaar & Bottelstoor",
+      "addr": "6 Main Road, AVONTUUR, Uniondale,",
+      "why": "no defensible street/centre/erf geocode, or geocode snapped to a different premises"
+    },
+    {
+      "licenceNo": "WCP/041928",
+      "name": "Market Liquor Land",
+      "addr": "519 Market Street, Chatsworth, MALMESBURY, 7300",
+      "why": "no defensible street/centre/erf geocode, or geocode snapped to a different premises"
+    },
+    {
+      "licenceNo": "WCP/029883",
+      "name": "H.C Bottle Store",
+      "addr": "GELEe TE BULTWEG, VREDENDAL NOORD, VREDENDAL, 8160",
+      "why": "no defensible street/centre/erf geocode, or geocode snapped to a different premises"
+    },
+    {
+      "licenceNo": "WCP/036030",
+      "name": "Archie's Liquors",
+      "addr": "435 BAUERMEISTER STREET, VREDENDAL NORTH, Vredendal, 8160",
+      "why": "no defensible street/centre/erf geocode, or geocode snapped to a different premises"
+    },
+    {
+      "licenceNo": "WCP/028003",
+      "name": "Scott's Drankwinkel",
+      "addr": "Portion 19 (Welbedacht), Part of Portion 18 of Farm Vyeboomsriver no. 85, VILLIERSDORP, 6848",
+      "why": "geocode snapped to a different premises; identity/address still ambiguous"
+    },
+    {
+      "licenceNo": "WCP/030225",
+      "name": "Schoonberg Liquor Store",
+      "addr": "Schoonberg Centre, Main Road, STRUIS BAY, Bredasdorp, 7285",
+      "why": "geocode snapped to a different premises; identity/address still ambiguous"
+    },
+    {
+      "licenceNo": "WCP/034722",
+      "name": "J.Dreyer Liquor Shop",
+      "addr": "Gedeelte 19 & 20 (Gedeelte van Gedeelte 5) Van Plaas, Nieuwefontein Nr 11, KLIPRAND, Bitterfontein,",
+      "why": "geocode snapped to a different premises; identity/address still ambiguous"
+    },
+    {
+      "licenceNo": "WCP/008509",
+      "name": "De Kelders Drankwinkel",
+      "addr": "H/V KERK & HAWESTRAAT, GANS BAY, 7220",
+      "why": "geocode snapped to a different premises; identity/address still ambiguous"
+    },
+    {
+      "licenceNo": "WCP/038594",
+      "name": "Tommy's Liquor",
+      "addr": "9 Jakarandalaan, Uitsig, ELSIES RIVER, 7490",
+      "why": "geocode snapped to a different premises; identity/address still ambiguous"
+    }
+  ],
+  "tests": "199 passed (vitest). Additive snapshot 5789 \u2286 after. DELETED 0."
+}

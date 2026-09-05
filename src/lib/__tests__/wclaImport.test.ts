@@ -129,7 +129,9 @@ describe('TEST 4 — supermarket vs bottle store', () => {
     expect(
       NEW_POIS.pois.every(
         (poi) =>
-          /liquor|bottle|tops|cellar/i.test(poi.name) || /liquor|bottle/i.test(poi.address ?? '')
+          /liquor|bottle|tops|cellar|drankwinkel|bottelstoor|off[-\s]?sales|dop shop/i.test(
+            poi.name
+          ) || /liquor|bottle|drankwinkel|bottelstoor/i.test(poi.address ?? '')
       )
     ).toBe(true);
   });

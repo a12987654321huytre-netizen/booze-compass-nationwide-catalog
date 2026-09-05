@@ -96,7 +96,7 @@ export function publicEclbDisplayName(input: {
 export function looksLikePersonName(value: string): boolean {
   const t = value.trim();
   if (!t) return false;
-  if (/\b(pty|ltd|limited|cc|trust|liquor|liquors|liqour|bottle|cellar|booze|drankwinkel|sales|spar|boxer|shoprite|checkers|woolworths|tops|takeaway|off-sales)\b/i.test(t)) {
+  if (/\b(pty|ltd|limited|cc|trust|liquor|liquors|liqour|bottle|bottelstoor|cellar|booze|drankwinkel|sales|spar|boxer|shoprite|checkers|woolworths|tops|takeaway|off-sales|liquorland|dop)\b/i.test(t)) {
     return false;
   }
   const parts = t.split(/\s+/);
