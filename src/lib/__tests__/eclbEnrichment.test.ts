@@ -114,6 +114,32 @@ describe('ECLB merge is additive and never renames', () => {
     expect(catalog.find((poi) => poi.id === 'eclb-478')?.address).not.toMatch(/Godlwana/i);
     expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-1092')).toBe(false);
     expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-1146')).toBe(false);
+    const kirkwoodTops = catalog.find((poi) => poi.id === 'eclb-908');
+    expect(kirkwoodTops?.name).toBe('TOPS at SPAR Kirkwood');
+    expect(kirkwoodTops?.address).toMatch(/15 Main/i);
+    expect(kirkwoodTops?.name).not.toMatch(/blue bottle/i);
+    const kirkwoodShoprite = catalog.find((poi) => poi.id === 'eclb-910');
+    expect(kirkwoodShoprite?.name).toBe('Shoprite LiquorShop Kirkwood');
+    expect(kirkwoodShoprite?.address).toMatch(/Market/i);
+    const dimbaza = catalog.find((poi) => poi.id === 'eclb-343');
+    expect(dimbaza?.name).toBe('Dimbaza Bottle Store');
+    expect(dimbaza?.address).toMatch(/661 Stand/i);
+    expect(dimbaza?.name).not.toMatch(/shdt/i);
+    expect(dimbaza?.name).not.toMatch(/hebe/i);
+    expect(dimbaza?.eclbLicenceHolder).toMatch(/Shdt/i);
+    const stutterheim = catalog.find((poi) => poi.id === 'eclb-1298');
+    expect(stutterheim?.name).toBe("Big Daddy's Cash & Carry Stutterheim");
+    expect(stutterheim?.address).toMatch(/Maclean/i);
+    expect(stutterheim?.name).not.toMatch(/sparks/i);
+    expect(stutterheim?.eclbLicenceHolder).toMatch(/Sparks Liquor Cc/i);
+    expect(catalog.find((poi) => poi.id === 'eclb-459')?.name).toBe('Boxer Liquors Elliotdale');
+    expect(catalog.find((poi) => poi.id === 'eclb-459')?.address).toMatch(/17 Main/i);
+    expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-460')).toBe(false);
+    expect(
+      catalog.find((poi) => poi.id === 'gplaces-ChIJP4FG4kOwZh4REmzc-vYpg88')?.name
+    ).toBe('King Bottle Store');
+    expect(NEW_POIS.pois.every((poi) => poi.id !== 'eclb-king-bottle')).toBe(true);
+    expect(catalog.every((poi) => !/^s m hebe$/i.test(poi.name))).toBe(true);
   });
 
   it('confirmed matches keep the existing public name and attach the holder in the backend', () => {

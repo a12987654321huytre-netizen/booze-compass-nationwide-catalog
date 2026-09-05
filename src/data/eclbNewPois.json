@@ -115,7 +115,7 @@
       "eclbHolderType": "company",
       "publicNameSource": "Blue Bottle Liquors store locator 2026, Erf 8920 cnr Grubb & Blyth Street, Butterworth",
       "geocodePrecision": "building",
-      "notes": "310m from existing TOPS at SPAR Butterworth (Fuller & Carnegie) and 354m from Shoprite LiquorShop Butterworth — different brands, not a duplicate."
+      "notes": "310m from existing TOPS at SPAR Butterworth (Fuller & Carnegie) and 354m from Shoprite LiquorShop Butterworth \u2014 different brands, not a duplicate."
     },
     {
       "id": "eclb-350",
@@ -191,7 +191,7 @@
       "eclbHolderType": "company",
       "publicNameSource": "Blue Bottle Liquors store locator 2026, 02 Jacaranda Street, Lusikisiki",
       "geocodePrecision": "building",
-      "notes": "Do not merge with eclb 969 (Erf 8 Jacaranda) — a second Jacaranda Street licence."
+      "notes": "Do not merge with eclb 969 (Erf 8 Jacaranda) \u2014 a second Jacaranda Street licence."
     },
     {
       "id": "eclb-1064",
@@ -229,7 +229,7 @@
       "eclbHolderType": "company",
       "publicNameSource": "Blue Bottle Liquors store locator 2026, 22 Rosemead Road, Middelburg EC",
       "geocodePrecision": "building",
-      "notes": "Eastern Cape Middelburg, not Mpumalanga. Distinct from TOPS at SPAR Middelburg EC at 21 Van Reenen Street (not pinned — street centroid only)."
+      "notes": "Eastern Cape Middelburg, not Mpumalanga. Distinct from TOPS at SPAR Middelburg EC at 21 Van Reenen Street (not pinned \u2014 street centroid only)."
     },
     {
       "id": "eclb-1197",
@@ -286,7 +286,7 @@
       "eclbHolderType": "company",
       "publicNameSource": "Blue Bottle Liquors store locator 2026, 162 St Francis Drive, St Francis Bay",
       "geocodePrecision": "building",
-      "notes": "450m from existing eclb-7 TOPS at SPAR Village Square — different shop, not a duplicate."
+      "notes": "450m from existing eclb-7 TOPS at SPAR Village Square \u2014 different shop, not a duplicate."
     },
     {
       "id": "eclb-932",
@@ -305,7 +305,7 @@
       "eclbHolderType": "company",
       "publicNameSource": "Blue Bottle Liquors store locator 2026, Erf 9 R61 Queenstown Road, Cicirha, Mthatha",
       "geocodePrecision": "building",
-      "notes": "Register town field says Komani; the premises is Cicirha, Mthatha. 1.6km from TOPS Savoy — different shop."
+      "notes": "Register town field says Komani; the premises is Cicirha, Mthatha. 1.6km from TOPS Savoy \u2014 different shop."
     },
     {
       "id": "eclb-990",
@@ -324,7 +324,7 @@
       "eclbHolderType": "store_brand",
       "publicNameSource": "OpenStreetMap amenity Ultra Liquors at 51 Beaufort Street, Makhanda; Ultra Liquors / C.J. Robinson chain",
       "geocodePrecision": "building",
-      "notes": "128m from Shoprite LiquorShop Grahamstown (Beaufort & Market) — different shop. Holder C.J. Robinson is backend-only. Queenstown Ultra is already in the catalogue and is not this store."
+      "notes": "128m from Shoprite LiquorShop Grahamstown (Beaufort & Market) \u2014 different shop. Holder C.J. Robinson is backend-only. Queenstown Ultra is already in the catalogue and is not this store."
     },
     {
       "id": "eclb-868",
@@ -382,7 +382,7 @@
       "eclbHolderType": "person",
       "publicNameSource": "African Advice / PartiesAndCelebrations liquor store at 10 Voortrekker Street, Aberdeen; Google liquor store at 10 Voortrekker St",
       "geocodePrecision": "street",
-      "notes": "Dedicated bottle store at Voortrekker Square. Blue Bottle 2026 locator still only lists Lin Blue Bottle Liquors at 17 Hoop Street (eclb-200, 2.4km west) — this pin is not branded Blue Bottle. Personal licence holder is backend-only."
+      "notes": "Dedicated bottle store at Voortrekker Square. Blue Bottle 2026 locator still only lists Lin Blue Bottle Liquors at 17 Hoop Street (eclb-200, 2.4km west) \u2014 this pin is not branded Blue Bottle. Personal licence holder is backend-only."
     },
     {
       "id": "eclb-319",
@@ -401,7 +401,7 @@
       "eclbHolderType": "store_brand",
       "publicNameSource": "Google business listing Anam&Zintle Bottlestore at 43 Fort Calata St, Michausdal/Nxuba",
       "geocodePrecision": "street",
-      "notes": "ECLB premises is 39 Fort Calata Street; public listing is 43 Fort Calata. 2.0km+ from Adami's Blue Bottle at 4 Voortrekker — different shop."
+      "notes": "ECLB premises is 39 Fort Calata Street; public listing is 43 Fort Calata. 2.0km+ from Adami's Blue Bottle at 4 Voortrekker \u2014 different shop."
     },
     {
       "id": "eclb-305",
@@ -461,7 +461,7 @@
       "eclbHolderType": "company",
       "publicNameSource": "TOPS at SPAR my-catalogue 2026 8 Donkin Street, Bedford; Maptons SPAR Bedford building coords",
       "geocodePrecision": "building",
-      "notes": "245m from Liquorland Bedford Blue Bottle Express at 26 Donkin (eclb-246) — different shop, not a duplicate. Holder Tait Supermarket is backend-only."
+      "notes": "245m from Liquorland Bedford Blue Bottle Express at 26 Donkin (eclb-246) \u2014 different shop, not a duplicate. Holder Tait Supermarket is backend-only."
     },
     {
       "id": "eclb-281",
@@ -481,7 +481,7 @@
       "eclbHolderType": "company",
       "publicNameSource": "TOPS at SPAR my-catalogue 2026 2 Sauer Street / Sauer Street, Butterworth; SuperSPAR Spargs Butterworth Sauer St",
       "geocodePrecision": "street",
-      "notes": "Distinct from existing TOPS at SPAR Butterworth at Fuller & Carnegie (~270m) and from KWA Key Blue Bottle at Grubb & Blyth (~85m). Same-town CBD, different brands/addresses — do not merge."
+      "notes": "Distinct from existing TOPS at SPAR Butterworth at Fuller & Carnegie (~270m) and from KWA Key Blue Bottle at Grubb & Blyth (~85m). Same-town CBD, different brands/addresses \u2014 do not merge."
     },
     {
       "id": "eclb-1081",
@@ -561,7 +561,7 @@
       "eclbHolderType": "company",
       "publicNameSource": "Shoprite LiquorShop Kentani public address 28 Bell Street (supermarket is 48 Bell Street)",
       "geocodePrecision": "street",
-      "notes": "Liquor shop is 28 Bell Street, not the supermarket at 48 Bell Street. 348m from TOPS at SPAR Kentani (eclb-305) — different chain, different premises."
+      "notes": "Liquor shop is 28 Bell Street, not the supermarket at 48 Bell Street. 348m from TOPS at SPAR Kentani (eclb-305) \u2014 different chain, different premises."
     },
     {
       "id": "eclb-1094",
@@ -641,7 +641,7 @@
       "eclbHolderType": "company",
       "publicNameSource": "TOPS at SPAR my-catalogue 2026 Engcobo High Street; Maptons SUPERSPAR Spargs Engcobo High St building coords",
       "geocodePrecision": "building",
-      "notes": "One pin covers ECLB rows 1145 (Erf 190-192 High Street, reg 6531) and 1146 (Bus Rank Engcobo, reg 6535). AKL Liquor at 76 High Street (eclb-1135) is not pinned — duplicate-risk with this High Street TOPS."
+      "notes": "One pin covers ECLB rows 1145 (Erf 190-192 High Street, reg 6531) and 1146 (Bus Rank Engcobo, reg 6535). AKL Liquor at 76 High Street (eclb-1135) is not pinned \u2014 duplicate-risk with this High Street TOPS."
     },
     {
       "id": "eclb-1053",
@@ -661,7 +661,7 @@
       "eclbHolderType": "company",
       "publicNameSource": "TOPS at SPAR my-catalogue 2026 Middelburg Van Reenen, 21 Van Reenen Street; Maptons SPAR Middelburg 36 Van Reenen St building coords",
       "geocodePrecision": "building",
-      "notes": "Eastern Cape Middelburg, not Mpumalanga. 468m from Navy Planet Blue Bottle at 22 Rosemead (eclb-1052) — different shop. Holder Ons Handelshuis is backend-only."
+      "notes": "Eastern Cape Middelburg, not Mpumalanga. 468m from Navy Planet Blue Bottle at 22 Rosemead (eclb-1052) \u2014 different shop. Holder Ons Handelshuis is backend-only."
     },
     {
       "id": "eclb-1253",
@@ -681,7 +681,7 @@
       "eclbHolderType": "unclear",
       "publicNameSource": "TOPS at SPAR my-catalogue 2026 Somerset East, 1 Njoli Street; Maptons SPAR De Freitas 11 Nojoli St building coords",
       "geocodePrecision": "building",
-      "notes": "114m from Liquor Majestic Blue Bottle at 24 Worcester (eclb-1249) — different street and brand, not a duplicate. Personal/unclear holder name is backend-only."
+      "notes": "114m from Liquor Majestic Blue Bottle at 24 Worcester (eclb-1249) \u2014 different street and brand, not a duplicate. Personal/unclear holder name is backend-only."
     },
     {
       "id": "eclb-1156",
@@ -721,7 +721,7 @@
       "eclbHolderType": "company",
       "publicNameSource": "Shoprite Liquorshop Erf 87 Flagstaff / Flagstaff Square; Maptons Flagstaff Square (Bradlows Shop 23A) building coords",
       "geocodePrecision": "building",
-      "notes": "This is the Flagstaff Square licence, not the May 2026 Shoprite LiquorShop at Shop 2 Godlwana Centre, Main Road R61. Those are two branches — do not collapse them."
+      "notes": "This is the Flagstaff Square licence, not the May 2026 Shoprite LiquorShop at Shop 2 Godlwana Centre, Main Road R61. Those are two branches \u2014 do not collapse them."
     },
     {
       "id": "eclb-309",
@@ -741,7 +741,7 @@
       "eclbHolderType": "store_brand",
       "publicNameSource": "TOPS at SPAR my-catalogue 2026 Cofimvaba, Cnr Main Street & Bellaire Avenue",
       "geocodePrecision": "street",
-      "notes": "Current 2026 TOPS listing. ~570m from Boxer Liquors Cofimvaba (eclb-308) — different centre/brand. Holder Cof Liquor Sales is backend-only."
+      "notes": "Current 2026 TOPS listing. ~570m from Boxer Liquors Cofimvaba (eclb-308) \u2014 different centre/brand. Holder Cof Liquor Sales is backend-only."
     },
     {
       "id": "eclb-877",
@@ -760,7 +760,7 @@
       "eclbHolderType": "store_brand",
       "publicNameSource": "Google business at 66 Lovebird Avenue, Kariega; ECLB premises 66 Lovebird Avenue Mountain View",
       "geocodePrecision": "street",
-      "notes": "Google labels the listing a bar; ECLB off-consumption licence plus the exact Lovebird Avenue business support a dedicated bottle-store pin. 304m from Revolution on Kamehs Road — different shop. Nearest existing catalog liquor (Mosel Road / Prestons) is 1km+."
+      "notes": "Google labels the listing a bar; ECLB off-consumption licence plus the exact Lovebird Avenue business support a dedicated bottle-store pin. 304m from Revolution on Kamehs Road \u2014 different shop. Nearest existing catalog liquor (Mosel Road / Prestons) is 1km+."
     },
     {
       "id": "eclb-852",
@@ -798,7 +798,7 @@
       "eclbHolderType": "store_brand",
       "publicNameSource": "ECLB premises 3 Mentoor Street, Humansdorp; OSM Mentoor Street",
       "geocodePrecision": "street",
-      "notes": "Not cleanly verified on Google. Exact licence street used. 1.4km from DIE OOG / Shoprite / TOPS Humansdorp on Main/Voortrekker — different premises."
+      "notes": "Not cleanly verified on Google. Exact licence street used. 1.4km from DIE OOG / Shoprite / TOPS Humansdorp on Main/Voortrekker \u2014 different premises."
     },
     {
       "id": "eclb-105",
@@ -837,6 +837,104 @@
       "publicNameSource": "Google FAIRSAVE in Xesi/Middledrift; ECLB premises Erf 1317 Main Road, Middledrift",
       "geocodePrecision": "street",
       "notes": "Google listing is weak. Catalogue had no Middledrift pin. Map name is Fairsave Liquors, not the Pty suffix."
+    },
+    {
+      "id": "eclb-908",
+      "name": "TOPS at SPAR Kirkwood",
+      "latitude": -33.400465,
+      "longitude": 25.44168,
+      "address": "15 Main Street, Kirkwood, 6120",
+      "city": "Kirkwood",
+      "province": "Eastern Cape",
+      "brand": "TOPS at SPAR",
+      "locationType": "standalone",
+      "parentName": "SPAR",
+      "source": "eclb",
+      "eclbId": 908,
+      "eclbRegNo": "2830",
+      "eclbLicenceHolder": "M Ehlers Eiendomme (Pty) Limited",
+      "eclbHolderType": "company",
+      "publicNameSource": "TOPS at SPAR my-catalogue 15 Main Street Kirkwood; Think Local Tops @ Spar Kirkwood 15 Main Street 042 230 0450; iGlobal TOPS at SPAR Kirkwood",
+      "geocodePrecision": "street",
+      "notes": "Distinct from Kirkwood Blue Bottle Liquors at 21 Main Street (eclb-906, ~160m) and from SPAR/TOPS Dagbreek at 8 Main Street. Existing Google pin 'Kirkwood Bottle Store 15 Main Street' is geocoded in Gauteng and is not this Eastern Cape shop. 15 Main interpolated from OSM SPAR (8 Main / Searle) and Exact (22 Main). Do not merge with Shoprite LiquorShop at Cnr Market & Main (eclb-910) \u2014 different chain, different unit."
+    },
+    {
+      "id": "eclb-910",
+      "name": "Shoprite LiquorShop Kirkwood",
+      "latitude": -33.4004171,
+      "longitude": 25.4415024,
+      "address": "Cnr Market and Main Streets, Kirkwood, 6120",
+      "city": "Kirkwood",
+      "province": "Eastern Cape",
+      "brand": "Shoprite LiquorShop",
+      "locationType": "standalone",
+      "parentName": "Shoprite",
+      "source": "eclb",
+      "eclbId": 910,
+      "eclbRegNo": "5757",
+      "eclbLicenceHolder": "Shoprite Checkers (Pty) Limited",
+      "eclbHolderType": "company",
+      "publicNameSource": "my-catalogue Shoprite Kirkwood Cnr Market and Main Streets lists a dedicated Shoprite LiquorShop (phone 042 231 8165); OSM Shoprite Mini parent building",
+      "geocodePrecision": "building",
+      "notes": "ECLB premises Erf 243 Shop 6, 243 On Main Centre, 243 Main Street. Public address is Cnr Market and Main Streets. OSM Shoprite Mini is the grocery parent, not the map name. Distinct from TOPS at 15 Main (eclb-908) and Blue Bottle at 21 Main (eclb-906, ~180m)."
+    },
+    {
+      "id": "eclb-459",
+      "name": "Boxer Liquors Elliotdale",
+      "latitude": -31.9641667,
+      "longitude": 28.6844444,
+      "address": "17 Main Road, Elliotdale, 5070",
+      "city": "Elliotdale",
+      "province": "Eastern Cape",
+      "brand": "Boxer Liquors",
+      "locationType": "standalone",
+      "parentName": "Boxer",
+      "source": "eclb",
+      "eclbId": 459,
+      "eclbRegNo": "658",
+      "eclbLicenceHolder": "Boxer Superstores Pty Ltd",
+      "eclbHolderType": "company",
+      "publicNameSource": "Tiendeo Boxer Liquors Store 17 Main Road Elliotdale; Guzzle Boxer SuperStores 17 Main Road",
+      "geocodePrecision": "locality",
+      "notes": "One pin covers the licence pair eclb-459 (Erf 93 Shop 6 Boxer Centre Main Road, reg 658) and eclb-460 (Erf 84 Main Street, reg 660). Dedicated liquor shop at 17 Main Road, not the Boxer Superstores grocery at 31 Main Road. Catalogue had no Elliotdale pin. Town-centre coordinate pending a building-level Maptons/OSM node."
+    },
+    {
+      "id": "eclb-343",
+      "name": "Dimbaza Bottle Store",
+      "latitude": -32.8352778,
+      "longitude": 27.2158333,
+      "address": "661 Stand Street, Dimbaza, 5671",
+      "city": "Dimbaza",
+      "province": "Eastern Cape",
+      "brand": "Dimbaza Bottle Store",
+      "locationType": "standalone",
+      "source": "eclb",
+      "eclbId": 343,
+      "eclbRegNo": "5739",
+      "eclbLicenceHolder": "Shdt Bottle Store (Pty) Limited",
+      "eclbHolderType": "store_brand",
+      "publicNameSource": "Public trading name Dimbaza Bottle Store at 661 Stand Street; ECLB holder SHDT Bottle Store (Pty) Limited Unit 2870",
+      "geocodePrecision": "locality",
+      "notes": "Map name is Dimbaza Bottle Store, not SHDT and not S M Hebe. Existing Google 'KULAS Tarven' Dimbaza pin is geocoded in Gqeberha and is not this shop. Township centroid pending a Stand Street building geocode."
+    },
+    {
+      "id": "eclb-1298",
+      "name": "Big Daddy's Cash & Carry Stutterheim",
+      "latitude": -32.5717004,
+      "longitude": 27.4288759,
+      "address": "Grey Square, Maclean Street, Stutterheim, 4930",
+      "city": "Stutterheim",
+      "province": "Eastern Cape",
+      "brand": "Big Daddy's",
+      "locationType": "standalone",
+      "source": "eclb",
+      "eclbId": 1298,
+      "eclbRegNo": "6216",
+      "eclbLicenceHolder": "Sparks Liquor Cc",
+      "eclbHolderType": "store_brand",
+      "publicNameSource": "Locale.online Big Daddy's Cash & Carry Maclean Street Stutterheim; ECLB Sparks Liquor Cc Grey Square Maclean Street",
+      "geocodePrecision": "street",
+      "notes": "Public fascia is Big Daddy's, not Sparks Liquor. Maptons Pick n Pay Family 2 Maclean Street used as the Grey Square / Maclean Street anchor \u2014 not the grocery itself. Catalogue had no Stutterheim liquor pin. Official Big Daddy's franchise directory does not list Stutterheim; local listings and the Grey Square licence support this independent."
     }
   ]
 }
