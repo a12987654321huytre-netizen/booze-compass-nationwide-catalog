@@ -94,11 +94,26 @@ describe('ECLB merge is additive and never renames', () => {
     expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-58')).toBe(false);
     expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-326')).toBe(false);
     expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-1180')).toBe(false);
+    expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-43')).toBe(false);
+    expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-487')).toBe(false);
+    expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-1135')).toBe(false);
     expect(catalog.find((poi) => poi.id === 'eclb-95')?.name).toBe(
       'Africa Bottle Store Blue Bottle Liquors'
     );
     expect(catalog.find((poi) => poi.id === 'eclb-95')?.eclbLicenceHolder).toBe('Mxolisi Christin');
     expect(catalog.every((poi) => !/mxolisi christin/i.test(poi.name))).toBe(true);
+    const aberdeen = catalog.find((poi) => poi.id === 'eclb-201');
+    expect(aberdeen?.name).toBe('Aberdeen Bottle Store');
+    expect(aberdeen?.eclbLicenceHolder).toBe('Frederick Johannes Stewart');
+    expect(aberdeen?.name).not.toMatch(/stewart/i);
+    expect(aberdeen?.name).not.toMatch(/blue bottle/i);
+    expect(catalog.every((poi) => !/frederick johannes stewart/i.test(poi.name))).toBe(true);
+    expect(catalog.find((poi) => poi.id === 'eclb-304')?.address).toMatch(/28 Bell/i);
+    expect(catalog.find((poi) => poi.id === 'eclb-304')?.address).not.toMatch(/48 Bell/i);
+    expect(catalog.find((poi) => poi.id === 'eclb-478')?.address).toMatch(/Flagstaff Square/i);
+    expect(catalog.find((poi) => poi.id === 'eclb-478')?.address).not.toMatch(/Godlwana/i);
+    expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-1092')).toBe(false);
+    expect(NEW_POIS.pois.some((poi) => poi.id === 'eclb-1146')).toBe(false);
   });
 
   it('confirmed matches keep the existing public name and attach the holder in the backend', () => {
