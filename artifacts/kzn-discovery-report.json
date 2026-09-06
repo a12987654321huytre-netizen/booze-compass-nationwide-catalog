@@ -1,0 +1,281 @@
+{
+  "catalogueBefore": 6739,
+  "kznExistingBefore": 794,
+  "officialKzneraDataFound": false,
+  "officialLicenceRecordsProcessed": 0,
+  "officialKzneraNote": "No live bulk off-consumption register. kznlqa.co.za 502; kznera.org.za timeout; 2023/24 issued-licence PDF truncated at 1MB on Wayback. Portal advertised live 1 June 2026. NLA register is manufacturers/distributors only.",
+  "googleRawResults": 9182,
+  "uniqueGooglePlaces": 1231,
+  "queries": 590,
+  "cappedQueries": 0,
+  "failedQueries": 0,
+  "osmCandidates": 76,
+  "officialChainLocatorCandidates": 193,
+  "gazetteCandidatesChecked": 0,
+  "matchedExistingConfirmed": 806,
+  "newDedicatedAdded": 315,
+  "rejected": 133,
+  "unresolvedReview": 93,
+  "osmNamedUnmatchedReview": 26,
+  "sparTopsMatched": 156,
+  "sparTopsUnmatched": 23,
+  "sparTopsOutOfProvince": 14,
+  "sparFollowupNew": 7,
+  "deleted": 0,
+  "addedByMunicipality": {
+    "eThekwini": 53,
+    "uMgungundlovu": 21,
+    "Ugu": 55,
+    "King Cetshwayo": 39,
+    "Umkhanyakude": 33,
+    "iLembe": 22,
+    "Zululand": 19,
+    "Harry Gwala": 22,
+    "uThukela": 18,
+    "Amajuba": 17,
+    "Umzinyathi": 16
+  },
+  "applied": true,
+  "topNew": [
+    {
+      "name": "Charlies Dop Shop",
+      "address": "17 Howell Rd, Clare Hills, Durban, 4091, South Africa",
+      "city": "Durban",
+      "id": "gplaces-ChIJiXw1kMsA9x4RBnZtJ7hmZ2c"
+    },
+    {
+      "name": "Pick n pay Liquorstore",
+      "address": "262 Florida Rd, Morningside, Durban, 4001, South Africa",
+      "city": "Durban",
+      "id": "gplaces-ChIJl9h09D4H9x4RP1s2KYh1X3Y"
+    },
+    {
+      "name": "Newport Liquors",
+      "address": "35 Newport Ave, Glenashley, Durban North, 4051, South Africa",
+      "city": "Durban North",
+      "id": "gplaces-ChIJW5Ugh9YH9x4RirwZZbI9YYA"
+    },
+    {
+      "name": "Rinaldo Blue Bottle Liquors",
+      "address": "shop 5, 160 Rinaldo Rd, Glen Hills, Durban, 4051, South Africa",
+      "city": "Durban",
+      "id": "gplaces-ChIJzTgqE48H9x4RBFIl5JqFb7I"
+    },
+    {
+      "name": "Blue Bottle Liquors",
+      "address": "536 Marine Dr, Bluff, Durban, 4052, South Africa",
+      "city": "Durban",
+      "id": "gplaces-ChIJ4fYrDgCv9x4RRLWgkdtu2ns"
+    },
+    {
+      "name": "Chiefs Liquor Store",
+      "address": "Wentworth Shopping Centre, 251 Brighton Rd, Wentworth, Bluff, 4052, South Africa",
+      "city": "Bluff",
+      "id": "gplaces-ChIJqYXkGFKp9x4RL3mQNy7Y6Ac"
+    },
+    {
+      "name": "Malvern Liquor store",
+      "address": "10 Coronation Road, Malvern, Queensburgh",
+      "city": "Queensburgh",
+      "id": "gplaces-ChIJf_BxD8qr9x4RBnrI0haga4M"
+    },
+    {
+      "name": "Rams Liquor Store",
+      "address": "Shop No. 3, 110 Phila Ndwandwe Road, Isipingo Rail",
+      "city": "Isipingo Rail",
+      "id": "gplaces-ChIJa7CV1-Ss9x4RIZWWX396EVA"
+    },
+    {
+      "name": "Railway Liquor Store",
+      "address": "Shop 2, Parbhoo Centre, 152 Old Main Road, Isipingo",
+      "city": "Isipingo",
+      "id": "gplaces-ChIJrbCbdeOs9x4RRw6YDno6l30"
+    },
+    {
+      "name": "Deen's Liquor Store",
+      "address": "Shop 4, Joydeen Centre, Everest Street, Shallcross",
+      "city": "Shallcross",
+      "id": "gplaces-ChIJCTMUZhvECwERWuWtST4aDhE"
+    },
+    {
+      "name": "Watson Liquors",
+      "address": "Watson Street, Gandhinagar, oThongathi",
+      "city": "oThongathi",
+      "id": "gplaces-ChIJ5xfx0dAQ9x4RASAncI8h_78"
+    },
+    {
+      "name": "Tongaat Liquor City",
+      "address": "Shop 617, 366 Gopalall Hurbans Rd, Tongaat, Ethekwini, 4400, South Africa",
+      "city": "Ethekwini",
+      "id": "gplaces-ChIJswsf7tEQ9x4RG1hXGcsVu-c"
+    },
+    {
+      "name": "Shoprite LiquorShop Tongaat",
+      "address": "Shop J, Shoprite Centre, 375 Gopalall Hurbans Road, Desainagar",
+      "city": "Desainagar",
+      "id": "gplaces-ChIJ66TrvtAR9x4R3Wxt0VzQjs0"
+    },
+    {
+      "name": "Central Liquors",
+      "address": "4 Laura Street, Gandhinagar, oThongathi",
+      "city": "oThongathi",
+      "id": "gplaces-ChIJuRikldEQ9x4ROjQzI77Y2Eo"
+    },
+    {
+      "name": "Chelmford Liquors Store Tongaat",
+      "address": "262 Gopalall Hurbans Rd, Tongaat, Ethekwini, 4399, South Africa",
+      "city": "Ethekwini",
+      "id": "gplaces-ChIJJ00ZANAQ9x4Ro68YIkYntdc"
+    },
+    {
+      "name": "Checkers LiquorShop Othongathi",
+      "address": "263 Gopalall Hurbans Road, oThongathi",
+      "city": "oThongathi",
+      "id": "gplaces-ChIJeQbPVR8R9x4R6uhfDzruyNs"
+    },
+    {
+      "name": "Chelmsford Liquor Store Tongaat",
+      "address": "252 Gopalall Hurbans Rd, Tongaat, oThongathi, 4400, South Africa",
+      "city": "oThongathi",
+      "id": "gplaces-ChIJW2CMsdoQ9x4RjoK47jcYsnc"
+    },
+    {
+      "name": "Gandis Hill Liquors",
+      "address": "465 Gopalall Hurbans Road, Gandhi`s Hill, oThongathi",
+      "city": "oThongathi",
+      "id": "gplaces-ChIJSRL5NgAR9x4RqsgrCJzPNG8"
+    },
+    {
+      "name": "Liquor City Westside",
+      "address": "2 Strelitzia Pl, Westbrook, oThongathi, 4406, South Africa",
+      "city": "oThongathi",
+      "id": "gplaces-ChIJE7G9J0cR9x4RQonkNayfuKU"
+    },
+    {
+      "name": "Sunrise Blue Bottle express wholesalers",
+      "address": "Shop 1, Sunrise bottle store, bluebottle express.Village Plaza, 69George Sewpersadh Street, Verulam, Ethekwini, 4340, South Africa",
+      "city": "Ethekwini",
+      "id": "gplaces-ChIJ8_fVTUob9x4R6IrLUqYLEvE"
+    },
+    {
+      "name": "Checkers LiquorShop Hillcrest (The Colony)",
+      "address": "Shop 1, The Colony, 50 Old Main Road, Hillcrest",
+      "city": "Hillcrest",
+      "id": "gplaces-ChIJkTuILmT79h4RsWOYZ_BtHgc"
+    },
+    {
+      "name": "Checkers LiquorShop Westown",
+      "address": "Shop No. 308, Westown Square, J B Mcintosh Drive, Durban",
+      "city": "Durban",
+      "id": "gplaces-ChIJI0l_RV_79h4Rfy8NUc9dEYs"
+    },
+    {
+      "name": "TOPS at SPAR 1000 Hills",
+      "address": "86 Old Main Rd, Botha's Hill, Outer West Durban, 3660, South Africa",
+      "city": "Outer West Durban",
+      "id": "gplaces-ChIJKwVU_wj79h4R-XwnWaRJ5l4"
+    },
+    {
+      "name": "TOPS at SPAR Knowles",
+      "address": "22 Chancery Ln, Pinetown CBD, Pinetown, 3620, South Africa",
+      "city": "Pinetown",
+      "id": "gplaces-ChIJzfI9-q2p9x4R4NSwwwp9xtQ"
+    },
+    {
+      "name": "TOPS at SPAR Mega Pinetown",
+      "address": "24 Josiah Gumede Rd Shop 2, Mega Shopping Centre, Pinetown CBD, Pinetown, 3620, South Africa",
+      "city": "Pinetown",
+      "id": "gplaces-ChIJ7UzxvkL_9h4R2IX1R698Cgk"
+    },
+    {
+      "name": "Tops Gillitts Corner",
+      "address": "7 Old Main Rd, Gillitts, Durban, 3610, South Africa",
+      "city": "Durban",
+      "id": "gplaces-ChIJ7YaYw-f79h4RyGgdFarPq7E"
+    },
+    {
+      "name": "Grassmere Liquors",
+      "address": "4 Petunia Pl, Regency Park, Pinetown, 3610, South Africa",
+      "city": "Pinetown",
+      "id": "gplaces-ChIJiUyYy9L_9h4RWrcvHhOsaJQ"
+    },
+    {
+      "name": "Woolworths WCellar Hillcrest",
+      "address": "Shop UF1, Hillcrest Corner Shopping Centre, 50 Old Main Rd, Hillcrest, Durban, 3610, South Africa",
+      "city": "Durban",
+      "id": "gplaces-ChIJxfEqxKr79h4Ralq8C5XsL_0"
+    },
+    {
+      "name": "Lillies Quarter Tops",
+      "address": "12 Old Main Rd, Hillcrest, Durban, 3610, South Africa",
+      "city": "Durban",
+      "id": "gplaces-ChIJO9EI26P79h4R3jv3bH0kRF4"
+    },
+    {
+      "name": "Pick n Pay Kingsburgh Liquor Store",
+      "address": "4 Araucaria Road, Winklespruit, Kingsburgh",
+      "city": "Kingsburgh",
+      "id": "gplaces-ChIJafa4LvpM9h4RAeBfc55c2Dw"
+    },
+    {
+      "name": "Liquor Express Lite Warner Beach",
+      "address": "95 Kingsway Street, Warner Beach, Kingsburgh",
+      "city": "Kingsburgh",
+      "id": "gplaces-ChIJ1ylMSsZN9h4R7St71JDd4Xk"
+    },
+    {
+      "name": "Zwayne Blue Bottle Liquors",
+      "address": "2 Uitsig Road, Astra Park, Kingsburgh",
+      "city": "Kingsburgh",
+      "id": "gplaces-ChIJJ-yidQBN9h4RuASd0F1skdI"
+    },
+    {
+      "name": "Ilovu Discount Liquors",
+      "address": "Shop No. 2, St Winfred, Kingsburg, Durban",
+      "city": "Durban",
+      "id": "gplaces-ChIJLRvPhaxN9h4R9PN2sYw8hhw"
+    },
+    {
+      "name": "Purple Pig Liquors",
+      "address": "407 Toti Twrs, Andrew Zondo Rd, eManzimtoti",
+      "city": "eManzimtoti",
+      "id": "gplaces-ChIJhduVPv1M9h4RJXXswzKjYxQ"
+    },
+    {
+      "name": "TOPS at SPAR Winkle",
+      "address": "10 Winklespruit Road, Kingsburgh",
+      "city": "Kingsburgh",
+      "id": "gplaces-ChIJv1R0a_xM9h4R1JoD1sFNZ-E"
+    },
+    {
+      "name": "TOPS at SPAR Victory",
+      "address": "121 Kingsway Street, Warner Beach, eManzimtoti",
+      "city": "eManzimtoti",
+      "id": "gplaces-ChIJr-Bbph1N9h4RyiD81XMRVjI"
+    },
+    {
+      "name": "Liquor World - Prospecton",
+      "address": "3 Stroude Pl, Prospecton, 4133, South Africa",
+      "city": "Prospecton",
+      "id": "gplaces-ChIJ8UYbbfus9x4Ry4s2mvAct6A"
+    },
+    {
+      "name": "Liquor Express Athlone Park",
+      "address": "Unit 21 Athlone, Centre, Linscott Rd, Athlone Park, Durban, 4160, South Africa",
+      "city": "Durban",
+      "id": "gplaces-ChIJLQLrBAWt9x4R-wrUykWZ2hg"
+    },
+    {
+      "name": "Illovo Liquor Store",
+      "address": "Shop No. 3, Ronnel Court, 21 Elizabeth Avenue, Illovo Beach, Durban",
+      "city": "Durban",
+      "id": "gplaces-ChIJg913vmFM9h4RmEWMB9cEeTk"
+    },
+    {
+      "name": "Kwadambhidi liquor store",
+      "address": "488, Ekuvukeni A, 2920, South Africa",
+      "city": "Ekuvukeni A",
+      "id": "gplaces-ChIJ76PoEAAn8h4RAryizZLChf4"
+    }
+  ]
+}

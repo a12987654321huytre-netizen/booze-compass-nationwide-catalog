@@ -1,0 +1,1382 @@
+{
+  "google": [
+    {
+      "googlePlaceId": "ChIJwV1Pbuqp9x4RzjPNwV5EBtc",
+      "name": "Eliqour Bottle Store",
+      "address": "89 West St, South Beach, Durban, 4068, South Africa",
+      "latitude": -29.8564292,
+      "longitude": 31.0350648,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "tx-liquor-durban-cbd",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJCXCIzssB9x4RHeFssmwaocM",
+      "name": "BR3ND3N'S LIQUOR STORE",
+      "address": "102 Palmiet Rd, Clare estate, Durban, 4091, South Africa",
+      "latitude": -29.8170294,
+      "longitude": 30.9711683,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "tx-liquor-newlands-west",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJE7ID0tAQ9x4RYBILN1qOT9A",
+      "name": "BOTTLE STORE",
+      "address": "Watson Street, Gandhinagar, oThongathi",
+      "latitude": -29.5720226,
+      "longitude": 31.1191472,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "generic name only",
+      "queryId": "nb-tongaat",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJCzFQfwkX9x4RUoGej4sZ9jk",
+      "name": "South Wine",
+      "address": "18 Ramiah Drive, Metcalf Road, oThongathi",
+      "latitude": -29.5621602,
+      "longitude": 31.11717930000001,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "nb-tongaat",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJPdHvo0VN9h4RxFGlwuogz-A",
+      "name": "Trailer Hire & Liquor Store",
+      "address": "20 Rosslyn Rd, eManzimtoti, 4126, South Africa",
+      "latitude": -30.05552269999999,
+      "longitude": 30.8827129,
+      "types": [
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "mixed trailer-hire destination",
+      "queryId": "tx-liquor-amanzimtoti",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJi-zI2aQD9x4RhMNkr-Ze6sA",
+      "name": "Ethembeni Bottle Store",
+      "address": "Unnamed Road, Emachobeni, Iqadi, 4309, South Africa",
+      "latitude": -29.7375251,
+      "longitude": 30.9179939,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "ch-52",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJx6zvgQXl9h4RRRuw_BmTH-Q",
+      "name": "LINDOKUHLE BOTTLE STORE",
+      "address": "South Africa",
+      "latitude": -29.7090668,
+      "longitude": 30.7467946,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "nb-bothas-hill",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ8xLAF4fx9h4RQb0uoNqZ1ts",
+      "name": "hammarsdale unit 6 surbubs",
+      "address": "93645 st, Emalangeni, Mpumalanga, 3699, South Africa",
+      "latitude": -29.8194976,
+      "longitude": 30.6552078,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "ch-101",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJu7IpnNfx9h4RNATT-LX4eds",
+      "name": "Sphear Cebecool",
+      "address": "Magaba Road, Ntshongweni, Pinetown",
+      "latitude": -29.8370919,
+      "longitude": 30.673102,
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "nb-mpumalanga-township-kzn",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJQSgSKwDx9h4RYwO4DzGt8l4",
+      "name": "Kweyama Liquor Store",
+      "address": "56 Ximba Rd, Mpumalanga D, Mpumalanga, 3699, South Africa",
+      "latitude": -29.8268683,
+      "longitude": 30.6298624,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "tx-liquor-mpumalanga-township-kzn",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJCcrXgH6l9h4RNcvo0ELfT58",
+      "name": "Mkhize Store",
+      "address": "390485 Laduma Area MPUMUZA, Pietermaritzburg, 3201, South Africa",
+      "latitude": -29.6259411,
+      "longitude": 30.2937467,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "ch-78",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJtRnTlIij9h4R6uEnp0Mgvcc",
+      "name": "Mahlaba Bottle Store",
+      "address": "South Africa",
+      "latitude": -29.61263049999999,
+      "longitude": 30.284449,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "nb-edendale",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJLbTDsYy79h4RiYObrBkeNzU",
+      "name": "Speedy Liquors",
+      "address": "85 Plymouth Road, Allandale, Pietermaritzburg",
+      "latitude": -29.5666603,
+      "longitude": 30.4143925,
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "reason": "liquor_store + dedicated name",
+      "queryId": "gap-pmb-core-2-2",
+      "businessStatus": "OPERATIONAL",
+      "nearbyDifferentBrands": [],
+      "matchClass": "POSSIBLE_MATCH",
+      "existingId": "gplaces-ChIJsUjLlfK79h4R2FpTb-Q4BYs",
+      "existingName": "Speedy Liquors",
+      "distanceMeters": 12,
+      "reasons": [
+        "same trading name without premises lock"
+      ]
+    },
+    {
+      "googlePlaceId": "ChIJL5l_u6-i9h4RmCwA5Wnctb4",
+      "name": "Family Bottle Store",
+      "address": "33 T100, Edendale T, Pietermaritzburg, 3217, South Africa",
+      "latitude": -29.6717548,
+      "longitude": 30.3338238,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "ch-58",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ6xJXAwCj9h4R1ccg3F2Yb8k",
+      "name": "Zwelihle bottle store",
+      "address": "978X+7Q, Bisley, Pietermaritzburg, 3201, South Africa",
+      "latitude": -29.6343192,
+      "longitude": 30.2993751,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "tx-liquor-edendale",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJcWv9UMKv8B4RJOAFKcak8hs",
+      "name": "Iyanqoba",
+      "address": "741 Prince G Zulu St, King Dinuzulu, Eshowe, 3815, South Africa",
+      "latitude": -28.8911286,
+      "longitude": 31.5094611,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "ch-74",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJXaG0HgAf-h4RosCQJ3obJz8",
+      "name": "Qamba liquor store",
+      "address": "Mahunu reserve, Esikhawini H, Richards Bay, 3887, South Africa",
+      "latitude": -28.87439419999999,
+      "longitude": 31.910331,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "ch-59",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJpx-weHsb-h4RYJSA91Zljo8",
+      "name": "Zenzele Store",
+      "address": "Ward 34, KwaDlangezwa, Empangeni, 3886, South Africa",
+      "latitude": -28.8692763,
+      "longitude": 31.8306397,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "tx-liquor-ntambanana",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ0Uxlfl-l8B4Rj9uoUZ095AA",
+      "name": "Tony's liquor store",
+      "address": "40 Kangela St, Eshowe, 3815, South Africa",
+      "latitude": -28.8889984,
+      "longitude": 31.4662723,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "ch-74",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ23b29YI_9x4R_HM9x05L0SY",
+      "name": "Lt",
+      "address": "62 banda road, Etete, Ballito, 4430, South Africa",
+      "latitude": -29.4211849,
+      "longitude": 31.2339837,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "tx-liquor-ballito",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJLabhH4UV9x4RCbV9A4uXIkI",
+      "name": "Wineology",
+      "address": "1 Old Fort Rd, Salt Rock, Ethekwini, 4391, South Africa",
+      "latitude": -29.483358,
+      "longitude": 31.2269776,
+      "types": [
+        "establishment",
+        "food",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "tx-liquor-ballito",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJX6G713lP9x4RiRV5nlPhXqE",
+      "name": "Riverview Liquor Store",
+      "address": "128 Newark Drive, Tugela, Mandini, 4451, South Africa",
+      "latitude": -29.1883963,
+      "longitude": 31.42043,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "ch-75",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJy7Vw7MwT-h4RvkFLDP4FG-U",
+      "name": "Zamani Liquor store",
+      "address": "Macekane, South Africa",
+      "latitude": -28.6989577,
+      "longitude": 31.8587002,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "tx-liquor-ntambanana",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJgfOyF6Ab-h4Rcvyou8PBXq8",
+      "name": "Qhamuka Sinuva bottle store",
+      "address": "R102, Eniwe, South Africa",
+      "latitude": -28.8298022,
+      "longitude": 31.8670195,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "tx-liquor-ntambanana",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJM7gMre4d-h4RI0WXtlHpc3I",
+      "name": "Mashiya liquor store",
+      "address": "3VQ7+9H, Mahunu, South Africa",
+      "latitude": -28.911146,
+      "longitude": 31.8637602,
+      "types": [
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "tx-liquor-ntambanana",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJYZ-95Rlv-h4Rtxj5gz53Yig",
+      "name": "Kwa Zaba Bottle Store",
+      "address": "Mahlahuva, South Africa",
+      "latitude": -28.4799828,
+      "longitude": 31.8742846,
+      "types": [
+        "bar",
+        "establishment",
+        "food",
+        "point_of_interest",
+        "restaurant"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "tx-liquor-ntambanana",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJA_vKBwCZ8B4RIQAL76zOqJs",
+      "name": "Empisini bottle store",
+      "address": "8GHG+8W, Emukhindini, South Africa",
+      "latitude": -28.6716606,
+      "longitude": 31.52732899999999,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "tx-liquor-ntambanana",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJIdFoHNcf-h4RmNgBA0svheY",
+      "name": "Mkhobosa Liquor and butchery",
+      "address": "4WMH+QG, Nkhubosa 1& 2, South Africa",
+      "latitude": -28.8694128,
+      "longitude": 31.9274419,
+      "types": [
+        "establishment",
+        "food",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "tx-liquor-ntambanana",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJAwmUFpYT-h4Rij4zYJFDMuE",
+      "name": "Sandanezwe Liquor store",
+      "address": "Sihuzu, South Africa",
+      "latitude": -28.6791363,
+      "longitude": 31.8521631,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "tx-liquor-ntambanana",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJX38WQ9WlWB4RvwIsu9Gyb68",
+      "name": "Castelo's",
+      "address": "shop no2, 21 Marine Drive, Uvongo, Margate",
+      "latitude": -30.822809,
+      "longitude": 30.401302,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "gap-south-coast-3-3",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJPbpnVcWkWB4R_UBH8vOanRE",
+      "name": "BOTTLE STORE",
+      "address": "South Africa",
+      "latitude": -30.8227689,
+      "longitude": 30.4012892,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "generic name only",
+      "queryId": "gap-south-coast-3-3",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJS4QEVRmkWB4RsMvz69dz6E8",
+      "name": "Kzn Liquors",
+      "address": "South Africa",
+      "latitude": -30.7509102,
+      "longitude": 30.4183228,
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap-south-coast-4-4",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJjWqUUhmkWB4RNPbTlrcEEH8",
+      "name": "Marburg Liquor Store",
+      "address": "South Africa",
+      "latitude": -30.7508347,
+      "longitude": 30.4177643,
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap-south-coast-4-4",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJh14YbTYx9x4RAfXzhvE7MsI",
+      "name": "101 Roadside Beverages",
+      "address": "30, Berea Township, Glenmill, 4452, South Africa",
+      "latitude": -29.2881826,
+      "longitude": 31.1538564,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "tx-liquor-stanger",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJE3S_rQE39h4RVT-z8WBCUhc",
+      "name": "Spot on Liquors",
+      "address": "South Africa",
+      "latitude": -30.2863447,
+      "longitude": 30.7557262,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "nb-park-rynie",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJl73nYb8j9h4RYrlufR8aajk",
+      "name": "kwaBohlela",
+      "address": "Umzumbe Magistrate, Court Rd, Hibberdene, Mtwalume, 4186, South Africa",
+      "latitude": -30.5086005,
+      "longitude": 30.6175897,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "tx-liquor-hibberdene",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJFaJR-zalWB4Rso5Y0gbfIh0",
+      "name": "Spirits and Wines Junction",
+      "address": "The Redzone Industrial, 50 Junction Road, Shelly Beach, Port Shepstone",
+      "latitude": -30.79263379999999,
+      "longitude": 30.3997007,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "gap-south-coast-4-2",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ49POVcfj7R4Riu-YJAZ_IJQ",
+      "name": "KwaZulu Bar",
+      "address": "Lot 13 of ERF 8794 Portion 44, Osizweni, Newcastle, 2952, South Africa",
+      "latitude": -27.7977865,
+      "longitude": 30.0975003,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "tx-liquor-newcastle-kzn",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJp4f-5arL8x4Rib8-V38QjRM",
+      "name": "Bho liquor store",
+      "address": "South Africa",
+      "latitude": -28.8616554,
+      "longitude": 29.8576742,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "tx-liquor-colenso",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ7ato0PD57R4RqT5itJxPOTE",
+      "name": "KOKO'S CORNER",
+      "address": "Emafusini",
+      "latitude": -28.0292092,
+      "longitude": 30.05495699999999,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "nb-dannhauser",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ86T_t71k8B4RKx5YRapUxaI",
+      "name": "Rhino Ulundi Cash & Carry",
+      "address": "Ulundi BA, Ulundi, South Africa",
+      "latitude": -28.2982052,
+      "longitude": 31.4249056,
+      "types": [
+        "establishment",
+        "food",
+        "grocery_or_supermarket",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "ch-60",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJZa1wsVVH8h4RXJAz33UUz8k",
+      "name": "GREEN LANTERN INN BOTTLE STORE",
+      "address": "44 Alfred St, C.B.A, uMnambithi, 3370, South Africa",
+      "latitude": -28.55318,
+      "longitude": 29.78644,
+      "types": [
+        "establishment",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "tx-liquor-steadville",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJmcKMvnT17x4Rzt_wDIcqXSc",
+      "name": "LADUMA LIQUOR",
+      "address": "South Africa",
+      "latitude": -27.3795973,
+      "longitude": 31.6067072,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "nb-pongola",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJESYMCgBN7h4R9fIE8oSBKHM",
+      "name": "Shoba bottlestore",
+      "address": "HRR4+H9, Paulpietersburg, 3180, South Africa",
+      "latitude": -27.408538,
+      "longitude": 30.805935,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "tx-liquor-paulpietersburg",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ7-K_LvZN7h4R5CKwZDOuHss",
+      "name": "Zakhe supermarket / liquors",
+      "address": "PPR 151, ophuzane road, Ophuzane, Paulpietersburg, 3180, South Africa",
+      "latitude": -27.4425542,
+      "longitude": 30.8154358,
+      "types": [
+        "establishment",
+        "food",
+        "grocery_or_supermarket",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "mixed supermarket / liquor name",
+      "queryId": "ch-82",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJCzBIMwjn7R4RP27TR2u9Jvo",
+      "name": "Blue bottle store",
+      "address": "Ma31 St, Madadeni A, Newcastle, 2951, South Africa",
+      "latitude": -27.7533078,
+      "longitude": 30.0228008,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "tx-liquor-newcastle-kzn",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJk6YgFUjn7R4RNizoQkEm8Jo",
+      "name": "liquor shop",
+      "address": "7314 Md18 St, Madadeni D, Newcastle, 2951, South Africa",
+      "latitude": -27.7483064,
+      "longitude": 30.0527901,
+      "types": [
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "generic name only",
+      "queryId": "tx-liquor-newcastle-kzn",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJo7DMUdLm7R4R-97Kqphjg_0",
+      "name": "Sizakancane Bottle Store",
+      "address": "f2509 section 6, Madadeni, Newcastle, 2951, South Africa",
+      "latitude": -27.7703864,
+      "longitude": 30.0629765,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "tx-liquor-madadeni",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJz5JZRy_h7R4R3hKTO20Pm1M",
+      "name": "Eyakho Supermarket & Bottle Store Complex",
+      "address": "2089 Mm42 St, Madadeni M, Newcastle, 2951, South Africa",
+      "latitude": -27.7649575,
+      "longitude": 30.0766925,
+      "types": [
+        "establishment",
+        "point_of_interest",
+        "shopping_mall"
+      ],
+      "reason": "mixed supermarket / liquor name",
+      "queryId": "tx-liquor-madadeni",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJn1nhDDPj-h4RPrjEMI5X58c",
+      "name": "Jock Morrison and Sons",
+      "address": "Old Main Rd, Hluhluwe, 3960, South Africa",
+      "latitude": -28.00166,
+      "longitude": 32.29527,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "ch-92",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJZbQggTgx5R4RCEtEj5T8j_M",
+      "name": "Amambo SunSet",
+      "address": "P449 D9 Rd, Makhonyeni, Jozini, 3969, South Africa",
+      "latitude": -27.4495022,
+      "longitude": 32.1140597,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "ch-63",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJIXnzthI25R4R9wUkXTSE9jk",
+      "name": "Bizelakho Bottle Store",
+      "address": "D1823 Rd, Jozini, Mphakathi, 3969, South Africa",
+      "latitude": -27.4787149,
+      "longitude": 32.0152026,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "ch-63",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJSepeqTI35R4Ryx85XvitUME",
+      "name": "NGWENYA LIQUOR",
+      "address": "南非SHOP 2 NGWENYA LIQUOR OPPOSIT JOZINI MALL SULDWANA ROAD邮政编码: JOZINI mall, Jozini, 3963, South Africa",
+      "latitude": -27.433848,
+      "longitude": 32.0992932,
+      "types": [
+        "bar",
+        "establishment",
+        "food",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "ch-63",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ0eHviEGr8R4ROorKc5qqXhA",
+      "name": "Mqapheleni Supermarket and Liquor",
+      "address": "Emangidini, South Africa",
+      "latitude": -28.5226627,
+      "longitude": 30.8380051,
+      "types": [
+        "establishment",
+        "food",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "mixed supermarket / liquor name",
+      "queryId": "tx-liquor-babanango",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ7dUfJAAD8h4RAMh8D-0vyEQ",
+      "name": "LIQUORZONE",
+      "address": "Shop 3, De Beers St, Glencoe, 2930, South Africa",
+      "latitude": -28.1762174,
+      "longitude": 30.157212,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "ch-96",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJD8bFzL8n8R4Rw6JC-zbQmOc",
+      "name": "kwa M lifestyle",
+      "address": "ringin area, Ntunjambili, Kranskop, 3268, South Africa",
+      "latitude": -28.9667553,
+      "longitude": 30.8642969,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "ch-95",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ337Ji4us9x4R5b-TAsD1R24",
+      "name": "Glebe Bottle Store",
+      "address": "Glebeland, Road 7, Umlazi, Durban, 4066, South Africa",
+      "latitude": -29.9620879,
+      "longitude": 30.9362015,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "ch-51",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ13JkWkmo9x4RKUC4xAtzt-s",
+      "name": "uShaka Kwikspar",
+      "address": "45 Rutherford St, South Beach, Durban, 4001, South Africa",
+      "latitude": -29.8600239,
+      "longitude": 31.0397119,
+      "types": [
+        "establishment",
+        "food",
+        "grocery_or_supermarket",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "insufficient dedicated-bottle-store evidence",
+      "queryId": "spar-dassenhoek-tops",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED",
+      "discovery": "spar-tops-followup"
+    },
+    {
+      "googlePlaceId": "ChIJu6ItTo139h4RdK5zC24KUVc",
+      "name": "Highflats SuperSpar",
+      "address": "1 R612, Highflats, 3306, South Africa",
+      "latitude": -30.2574596,
+      "longitude": 30.1914543,
+      "types": [
+        "establishment",
+        "food",
+        "grocery_or_supermarket",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "insufficient dedicated-bottle-store evidence",
+      "queryId": "spar-moodleys-highflats-tops",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED",
+      "discovery": "spar-tops-followup"
+    },
+    {
+      "googlePlaceId": "ChIJu6GgKB379h4R983QXBmJ_8c",
+      "name": "Hillcrest Kwikspar",
+      "address": "34 Old Main Rd, Hillcrest, Durban, 3610, South Africa",
+      "latitude": -29.7838501,
+      "longitude": 30.7665603,
+      "types": [
+        "bakery",
+        "establishment",
+        "food",
+        "grocery_or_supermarket",
+        "point_of_interest",
+        "store",
+        "supermarket"
+      ],
+      "reason": "insufficient dedicated-bottle-store evidence",
+      "queryId": "spar-northcrest-tops",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED",
+      "discovery": "spar-tops-followup"
+    },
+    {
+      "googlePlaceId": "ChIJkxqABvmj9h4RbpsNjSN0D1Y",
+      "name": "Kwamabulala shopping center",
+      "address": "Machibisa Rd, Edendale, Pietermaritzburg, 3217, South Africa",
+      "latitude": -29.6474429,
+      "longitude": 30.32300589999999,
+      "types": [
+        "establishment",
+        "point_of_interest",
+        "shopping_mall"
+      ],
+      "reason": "shopping mall pin, not a shop",
+      "queryId": "spar-pinestreet-tops",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED",
+      "discovery": "spar-tops-followup"
+    },
+    {
+      "googlePlaceId": "ChIJxbgmsSM39h4RHVN9MvRHWrE",
+      "name": "Scottburgh Superspar",
+      "address": "Centre, 118 Scott St, Scottburgh, 4180, South Africa",
+      "latitude": -30.285764,
+      "longitude": 30.756143,
+      "types": [
+        "establishment",
+        "food",
+        "grocery_or_supermarket",
+        "point_of_interest",
+        "store",
+        "supermarket"
+      ],
+      "reason": "insufficient dedicated-bottle-store evidence",
+      "queryId": "spar-scottburgh-tops",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED",
+      "discovery": "spar-tops-followup"
+    },
+    {
+      "googlePlaceId": "ChIJG_jm8TU39h4RmsO2CotpSLc",
+      "name": "SaveMor Park Rynie",
+      "address": "Cnr Gardner St, Caine Rd, &, Scottburgh, 4182, South Africa",
+      "latitude": -30.3194615,
+      "longitude": 30.7369028,
+      "types": [
+        "establishment",
+        "food",
+        "grocery_or_supermarket",
+        "point_of_interest",
+        "store",
+        "supermarket"
+      ],
+      "reason": "insufficient dedicated-bottle-store evidence",
+      "queryId": "spar-scottburgh-tops",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED",
+      "discovery": "spar-tops-followup"
+    },
+    {
+      "googlePlaceId": "ChIJiUHRJyY39h4RXPIWxZmJ5nI",
+      "name": "PNP SCOTTBURGH MALL",
+      "address": "R102, Scottburgh South, Scottburgh, 4180, South Africa",
+      "latitude": -30.29285329999999,
+      "longitude": 30.7410889,
+      "types": [
+        "establishment",
+        "food",
+        "grocery_or_supermarket",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "insufficient dedicated-bottle-store evidence",
+      "queryId": "spar-scottburgh-tops",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED",
+      "discovery": "spar-tops-followup"
+    },
+    {
+      "googlePlaceId": "ChIJtfDpJACJ8R4Rm6dJ1-PHgvg",
+      "name": "Spar Tops Uitval",
+      "address": "G5PW+P3, Vaalkop, 2922, South Africa",
+      "latitude": -28.4632141,
+      "longitude": 30.1952211,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "known banner but weak / country-only address",
+      "queryId": "spar-vaalkop-tops",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED",
+      "discovery": "spar-tops-followup"
+    },
+    {
+      "googlePlaceId": "ChIJc4_4DJ6J8R4Rqd0TP7c6a1w",
+      "name": "Vaalkop",
+      "address": "Vaalkop, 2922, South Africa",
+      "latitude": -28.462825,
+      "longitude": 30.1948611,
+      "types": [
+        "locality",
+        "political"
+      ],
+      "reason": "insufficient dedicated-bottle-store evidence",
+      "queryId": "spar-vaalkop-tops",
+      "businessStatus": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "discovery": "spar-tops-followup"
+    },
+    {
+      "googlePlaceId": "ChIJAQRSIDsf8h4Rqq2theEue40",
+      "name": "SaveMor Vaalkop",
+      "address": "168 Helpmekaar Rd Wasbank, Vaalkop, 2922, South Africa",
+      "latitude": -28.3176515,
+      "longitude": 30.1121577,
+      "types": [
+        "establishment",
+        "food",
+        "grocery_or_supermarket",
+        "point_of_interest",
+        "store",
+        "supermarket"
+      ],
+      "reason": "insufficient dedicated-bottle-store evidence",
+      "queryId": "spar-vaalkop-tops",
+      "businessStatus": "OPERATIONAL",
+      "matchClass": "REVIEW_REQUIRED",
+      "discovery": "spar-tops-followup"
+    }
+  ],
+  "osmSupport": [
+    {
+      "name": "PicardiRebel",
+      "osmId": "node/588549155",
+      "latitude": -29.4961541,
+      "longitude": 30.2331552,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Cash & Carry Liquors",
+      "osmId": "node/965174462",
+      "latitude": -27.7672186,
+      "longitude": 30.7996597,
+      "address": "Mark Street",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Pick n Pay Liquor",
+      "osmId": "node/1163149956",
+      "latitude": -27.7587539,
+      "longitude": 29.9288608,
+      "address": "Newcastle",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Induna Liquor Store",
+      "osmId": "node/1562516567",
+      "latitude": -30.4968769,
+      "longitude": 30.6286457,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "LiquorShop Checkers",
+      "osmId": "node/1627380615",
+      "latitude": -30.7963735,
+      "longitude": 30.4057079,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Pick n Pay Liquor",
+      "osmId": "node/1799255469",
+      "latitude": -28.2717431,
+      "longitude": 29.1230102,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Manor Liquors",
+      "osmId": "node/1801494608",
+      "latitude": -29.3204504,
+      "longitude": 31.2797028,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Pick n Pay Liquor Store",
+      "osmId": "node/1869020594",
+      "latitude": -29.750458,
+      "longitude": 30.8150039,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Tops Liquor",
+      "osmId": "node/1874166584",
+      "latitude": -29.1466171,
+      "longitude": 31.4033627,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Tops at Spar",
+      "osmId": "node/2115553786",
+      "latitude": -29.155088,
+      "longitude": 31.411122,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "LiquorShop Checkers",
+      "osmId": "node/10572430452",
+      "latitude": -28.4154403,
+      "longitude": 32.1803331,
+      "address": "Celtis Drive, Mtubatuba",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "LiquorShop Shoprite",
+      "osmId": "node/10648766735",
+      "latitude": -28.4126389,
+      "longitude": 32.1861494,
+      "address": "John Ross Highway, Mtubatuba",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "LiquorShop Shoprite",
+      "osmId": "node/10652213968",
+      "latitude": -28.4110847,
+      "longitude": 32.1865328,
+      "address": "Mtubatuba",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Tops at Spar",
+      "osmId": "node/10654366618",
+      "latitude": -28.413368,
+      "longitude": 32.1861159,
+      "address": "John Ross Highway",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "LiquorShop Shoprite",
+      "osmId": "node/10676140081",
+      "latitude": -28.7526985,
+      "longitude": 32.0518786,
+      "address": "Richards Bay",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Tops at Spar",
+      "osmId": "node/11020889507",
+      "latitude": -28.4141129,
+      "longitude": 32.1879262,
+      "address": "Lot 27, St Lucia Road, Mtubatuba",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Tops at Spar",
+      "osmId": "node/11032808429",
+      "latitude": -27.6897341,
+      "longitude": 32.4479847,
+      "address": "Kwa-Njiya Area, Mnqobokazi Reserve, Induna MR BW Zikhali, Big 5 False Bay, Umbombo, Durban",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Mtuba Liquor",
+      "osmId": "node/11176826381",
+      "latitude": -28.4167791,
+      "longitude": 32.1871309,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Wembezi Bottle Store",
+      "osmId": "node/11210631712",
+      "latitude": -29.041849,
+      "longitude": 29.7939726,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Overland Liquors",
+      "osmId": "node/11862481371",
+      "latitude": -27.8576336,
+      "longitude": 28.9655058,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Emvuleni Liquor Store",
+      "osmId": "node/12307157944",
+      "latitude": -26.6809239,
+      "longitude": 31.0568702,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Tops at Spar",
+      "osmId": "node/12528965482",
+      "latitude": -27.1331169,
+      "longitude": 32.0040232,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "eLiquor",
+      "osmId": "node/12925419904",
+      "latitude": -29.8563926,
+      "longitude": 31.0350295,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Pick n Pay Liquor",
+      "osmId": "node/13442146781",
+      "latitude": -29.5266228,
+      "longitude": 31.2035905,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Pick n Pay Liquor",
+      "osmId": "node/13990432295",
+      "latitude": -28.7554259,
+      "longitude": 32.0662546,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    },
+    {
+      "name": "Mafuta's Tavern & Bottle Store",
+      "osmId": "way/970133079",
+      "latitude": -29.3560931,
+      "longitude": 30.5301566,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+    }
+  ]
+}

@@ -14,6 +14,7 @@ const SNAPSHOT: string[] = JSON.parse(readFileSync(resolve(ART, 'gauteng-id-snap
 const NEW_POIS: { id: string; name: string; address?: string }[] = JSON.parse(
   readFileSync(resolve(ART, 'gauteng-new-pois.json'), 'utf8')
 ).pois;
+const KZN_NEW: { id: string }[] = JSON.parse(readFileSync(resolve(ART, 'kzn-new-pois.json'), 'utf8')).pois;
 const WC_CLEANUP: { removedFromCatalogIds: string[] } = JSON.parse(
   readFileSync(resolve(ART, 'wc-false-positive-cleanup.json'), 'utf8')
 );
@@ -34,7 +35,7 @@ describe('Gauteng saturation — zero deletion', () => {
       'gauteng-pass'
     );
     expect(NEW_POIS.every((poi) => after.has(poi.id))).toBe(true);
-    expect(catalog.length).toBe(SNAPSHOT.length + NEW_POIS.length - WC_REMOVED.size);
+    expect(catalog.length).toBe(SNAPSHOT.length + NEW_POIS.length - WC_REMOVED.size + KZN_NEW.length);
   });
 });
 
@@ -156,7 +157,7 @@ describe('Gauteng saturation — source failure cannot delete', () => {
     expect(beforeGoogle.every((id) => googleIds.includes(id))).toBe(true);
     expect(NEW_POIS.every((poi) => googleIds.includes(poi.id))).toBe(true);
     const removedGoogle = SNAPSHOT.filter((id) => id.startsWith('gplaces-') && WC_REMOVED.has(id));
-    expect(googleIds).toHaveLength(beforeGoogle.length + NEW_POIS.length);
+    expect(googleIds).toHaveLength(beforeGoogle.length + NEW_POIS.length + KZN_NEW.length);
     expect(removedGoogle.every((id) => !googleIds.includes(id))).toBe(true);
     expect((googlePlacesFile as { pois: unknown[] }).pois).toHaveLength(googleIds.length);
   });

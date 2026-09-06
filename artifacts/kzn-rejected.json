@@ -1,0 +1,2490 @@
+[
+  {
+    "googlePlaceId": "ChIJSTdpSu2p9x4RuVpIJMxs9KU",
+    "name": "Audacia Wines",
+    "address": "240 Umbilo Road, KwaKhangela, Durban",
+    "latitude": -29.8652767,
+    "longitude": 31.0004922,
+    "types": [
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "reason": "winery / wine-farm / producer shop",
+    "queryId": "gap-durban-core-2-1",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJzzlcxUHBCwERVNWTL6qJ1xE",
+    "name": "Crown Eating House and super liquor",
+    "address": "95 Umbilo Rd, KwaKhangela, Durban, 4001, South Africa",
+    "latitude": -29.862018,
+    "longitude": 31.0050851,
+    "types": [
+      "establishment",
+      "food",
+      "meal_takeaway",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "reason": "on-consumption (pub/tavern/lounge/restaurant)",
+    "queryId": "tx-liquor-umbilo",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJFRbJNnsH9x4RzcdgEquD9AA",
+    "name": "Exclusive Wines",
+    "address": "269 Mathews Meyiwa Road, Windermere, Berea",
+    "latitude": -29.8322465,
+    "longitude": 31.0223916,
+    "types": [
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "reason": "winery / wine-farm / producer shop",
+    "queryId": "gap-durban-core-3-2",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJaXdG-gwH9x4R_GcbeOUvz5I",
+    "name": "Cha-Cha's Lodge, Liquor Store, Bar, Restaurant & Take Away",
+    "address": "797 Umgeni Rd, Windermere, Berea, 4001, South Africa",
+    "latitude": -29.8254337,
+    "longitude": 31.0260301,
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "lodging",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "reason": "on-consumption (pub/tavern/lounge/restaurant)",
+    "queryId": "tx-liquor-umgeni-park",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJp7MAd3AH9x4RP5-DZJi68VA",
+    "name": "Liquor Control",
+    "address": "22 Gregory Pl, Ocean View, Bluff, 4052, South Africa",
+    "latitude": -29.9157849,
+    "longitude": 31.0211258,
+    "types": [
+      "establishment",
+      "local_government_office",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "tx-liquor-bluff-durban",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJNXR3duOs9x4R-Te78c9fmjE",
+    "name": "Cambridge Food Isipingo (Crossing)",
+    "address": "150 Phila Ndwandwe Road, Isipingo",
+    "latitude": -29.9845984,
+    "longitude": 30.92751400000001,
+    "types": [
+      "supermarket",
+      "liquor_store",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "gap-chatsworth-umlazi-1-3",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJP82AwsQW9x4RLfHaYxgWz8s",
+    "name": "Fairbreeze Liquor Store",
+    "address": "South Africa",
+    "latitude": -29.5448128,
+    "longitude": 31.1380816,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "businessStatus=CLOSED_TEMPORARILY",
+    "queryId": "nb-tongaat",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJ9dYWsvID9x4RWWoL2LudtwY",
+    "name": "Kwa Mashu Power Spar",
+    "address": "300 Malandela Road Kwa Mashu, Durban, 4360, South Africa",
+    "latitude": -29.7481566,
+    "longitude": 30.9742109,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "SPAR supermarket without TOPS banner",
+    "queryId": "ch-54",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJyRjYEI4b9x4RQLR-moG6xjU",
+    "name": "Absa | ATM | Globes Liquor Store",
+    "address": "41 Main Street, Grangetown, Verulam, 4339, South Africa",
+    "latitude": -29.6421058,
+    "longitude": 31.0428467,
+    "types": [
+      "atm",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "ch-104",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJvyy1t1sP9x4RdEf9uVU3JVQ",
+    "name": "Doppio Zero Umhlanga",
+    "address": "7 McCausland Cres, Umhlanga, uMhlanga, 4320, South Africa",
+    "latitude": -29.7256557,
+    "longitude": 31.0865309,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "reason": "dining/lodging types without liquor_store",
+    "queryId": "tx-liquor-umhlanga",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJxxoGhuH69h4RhN6d4UYdHW4",
+    "name": "Lloyds Liquors And Pub",
+    "address": "Shop 2, 5 Old Main Rd, Botha's Hill, Durban, 3610, South Africa",
+    "latitude": -29.7663229,
+    "longitude": 30.7557551,
+    "types": [
+      "bar",
+      "establishment",
+      "food",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "on-consumption (pub/tavern/lounge/restaurant)",
+    "queryId": "tx-liquor-bothas-hill",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJCymltOX_9h4RBk2RUYm6pp4",
+    "name": "Liquor runners",
+    "address": "31 Suzuka Rd, Westmead Ext, Pinetown, 3608, South Africa",
+    "latitude": -29.8152414,
+    "longitude": 30.823777,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "storage"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "tx-liquor-pinetown",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJ08lCNwZT9h4RqFCAf1hsAOs",
+    "name": "Nkeshe's lounge and take away",
+    "address": "Nyambose Pl, Township, Durban, 4066, South Africa",
+    "latitude": -29.9701311,
+    "longitude": 30.8700098,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "hospitality / on-consumption name",
+    "queryId": "ch-51",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJYeq6l29N9h4RbOrYH_oHSxs",
+    "name": "FULELE TAVERN & LIQUOR STORE",
+    "address": "area35 khomo road, Umgababa, South Africa",
+    "latitude": -30.1297233,
+    "longitude": 30.8235594,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "on-consumption (pub/tavern/lounge/restaurant)",
+    "queryId": "tx-liquor-kingsburgh",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJl35lK_NN9h4RgdIzDW_6Q0Q",
+    "name": "Patrick Tarven",
+    "address": "L1099, Nkwali",
+    "latitude": -30.0903046,
+    "longitude": 30.8166683,
+    "types": [
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "reason": "hospitality / on-consumption name",
+    "queryId": "nb-kingsburgh",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJt-BxHACr9x4Rr5o624fOZu8",
+    "name": "Tsalanang Liquor store/ Car Wash",
+    "address": "9 Mhlongo Rd, Lamontville, Chatsworth, 4027, South Africa",
+    "latitude": -29.9408101,
+    "longitude": 30.9454968,
+    "types": [
+      "car_wash",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "tx-liquor-lamontville",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJ9bke02Dx9h4RW87hsgIF93Q",
+    "name": "Bhambhatha's Palace",
+    "address": "211 Saganga Hwy, Mpumalanga D, Mpumalanga, 3701, South Africa",
+    "latitude": -29.834726,
+    "longitude": 30.6256198,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "hospitality / on-consumption name",
+    "queryId": "tx-liquor-mpumalanga-township-kzn",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJixOHJ9fr9h4ReTc4k3cmLRI",
+    "name": "MMM Liqour and Shisanyama",
+    "address": "2080 Sihonqane Road, KwaXimba, Cato Ridge, 3680, South Africa",
+    "latitude": -29.6725905,
+    "longitude": 30.5929916,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "on-consumption (pub/tavern/lounge/restaurant)",
+    "queryId": "ch-102",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJuw6Oi7e79h4RhYgrhJPCoyI",
+    "name": "Pick n Pay Athlone Circle Food",
+    "address": "1 Montgomery Dr, Athlone, Pietermaritzburg, 3201, South Africa",
+    "latitude": -29.58538,
+    "longitude": 30.3501914,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "ch-78",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJ10jRue4l-h4Rt9FKARFPS8M",
+    "name": "Pick n Pay Meerensee",
+    "address": "Mall, Anglers Rod, Meer En See, Richards Bay",
+    "latitude": -28.7817793,
+    "longitude": 32.1004902,
+    "types": [
+      "grocery_or_supermarket",
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "gap-richards-bay-2-3",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJ7WkuRyMj-h4RjY3UJQvW46w",
+    "name": "Cambridge Food Richards Bay",
+    "address": "Cnr Metica Moon & Penny Ln, The Boulevard Shopping Centre, Richards Bay",
+    "latitude": -28.7533863,
+    "longitude": 32.0491515,
+    "types": [
+      "supermarket",
+      "liquor_store",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "gap-richards-bay-2-2",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJnYTWK3Dw8B4Rl8-zfE-rXzk",
+    "name": "FNB Bank ATM Rank Bottle Store",
+    "address": "LOT 176 Main Street, Nkandla, 3604, South Africa",
+    "latitude": -28.62154,
+    "longitude": 31.09217,
+    "types": [
+      "atm",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "ch-94",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJKYlGV_8Z-h4RyutLDq_RBYs",
+    "name": "Empangeni Cash And Carry Liquors",
+    "address": "7 4th St, Kuleka, Empangeni, 3880, South Africa",
+    "latitude": -28.7795227,
+    "longitude": 31.9020943,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "tx-liquor-ntambanana",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJv7r8EZIR-h4R2gSZRZfUCfw",
+    "name": "ANKELA LIQUOR RESTAURANT",
+    "address": "Mangosuthu Hwy, Ngwelezane Township, Empangeni, 3880, South Africa",
+    "latitude": -28.7751913,
+    "longitude": 31.8480706,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "reason": "on-consumption (pub/tavern/lounge/restaurant)",
+    "queryId": "ch-108",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJRaXh2Umv8B4RJbeYIlIyMSI",
+    "name": "Capitec Bank ATM Four Square Liquor Store",
+    "address": "39 Osborne Rd, Eshowe, 3815, South Africa",
+    "latitude": -28.895056,
+    "longitude": 31.466753,
+    "types": [
+      "atm",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "tx-liquor-eshowe",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJXfeipWBN9x4ReuFlEnMf1iQ",
+    "name": "Ibhekelo Tarven",
+    "address": "Ngunezi Rd, Sundumbili, Mandini, 4490, South Africa",
+    "latitude": -29.1342974,
+    "longitude": 31.3856646,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "hospitality / on-consumption name",
+    "queryId": "ch-75",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJKTVhDwAR-h4RUvDqCvELueU",
+    "name": "Bottle store",
+    "address": "Empangeni Central, Empangeni, 3880, South Africa",
+    "latitude": -28.7448047,
+    "longitude": 31.8875679,
+    "types": [
+      "book_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "book_store pin",
+    "queryId": "tx-liquor-ntambanana",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJXZt5zxo39h4R4Y8sqibUUtA",
+    "name": "EKUTHUTHUKENI BOTTLE STORE",
+    "address": "Dududu Road Amandawe, Scottburgh",
+    "latitude": -30.2579672,
+    "longitude": 30.7216653,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "businessStatus=CLOSED_TEMPORARILY",
+    "queryId": "nb-scottburgh",
+    "businessStatus": "CLOSED_TEMPORARILY",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJKcs4Fny1WB4RVSWEgIUKxcY",
+    "name": "VINEYARD LIQUORS AND PUB",
+    "address": "South Africa",
+    "latitude": -31.047948,
+    "longitude": 30.1983873,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "winery / wine-farm / producer shop",
+    "queryId": "ch-77",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJA69fw0Y59h4R5a2O3UU8GPA",
+    "name": "C & B Liquor Distributors",
+    "address": "eMuziwezinto, 4200, South Africa",
+    "latitude": -30.3078261,
+    "longitude": 30.6643522,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "ch-105",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJVwlcfVU49h4RojRx7bxVad0",
+    "name": "Nedbank ATM Jy's Liquor Store",
+    "address": "Naickers' Centre, 329 Main Rd, eMuziwezinto, 4200, South Africa",
+    "latitude": -30.304691,
+    "longitude": 30.666031,
+    "types": [
+      "atm",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "tx-liquor-umzinto",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJa9mfQtzW8x4RBSBtXzcH9KY",
+    "name": "FNB Bank ATM Weenen Liquor Store",
+    "address": "364 Retief Street, Weenen, 3325, South Africa",
+    "latitude": -28.8527466,
+    "longitude": 30.0918465,
+    "types": [
+      "atm",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "ch-85",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJsZ09ai-28x4R0JVrxc9rg-o",
+    "name": "Shell Ultra City South - Estcourt",
+    "address": "3, Southbound, Estcourt, 3310, South Africa",
+    "latitude": -28.92251,
+    "longitude": 29.78198,
+    "types": [
+      "establishment",
+      "gas_station",
+      "point_of_interest"
+    ],
+    "reason": "petrol / ultra city, not a bottle store",
+    "queryId": "tx-liquor-estcourt",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJNU_Z2r26WB4RC-kF6bAIEqM",
+    "name": "FNB Bank ATM Liquor City Margate",
+    "address": "Shop 22 Wartski Drive, Hibiscus Mall, Ramsgate, Margate, 4275, South Africa",
+    "latitude": -30.863704,
+    "longitude": 30.361345,
+    "types": [
+      "atm",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "reason": "ATM / bank pin, not the shop",
+    "queryId": "tx-liquor-margate-kzn",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJh7qkLCHn7R4R-0dPPFVxzUk",
+    "name": "Kwasibali Tavern/ KwaSibali Liquor",
+    "address": "C4615 Section 3, Madadeni G, Newcastle",
+    "latitude": -27.7488691,
+    "longitude": 30.03015719999999,
+    "types": [
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "reason": "on-consumption (pub/tavern/lounge/restaurant)",
+    "queryId": "gap-newcastle-core-2-3",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJM37_fSn57R4RU_ZUGVXIovo",
+    "name": "Protea Hardware Supermarket Liquor Store",
+    "address": "Newcastle Rd, Dannhauser, 3080, South Africa",
+    "latitude": -28.0142335,
+    "longitude": 30.0607263,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "ch-84",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJs1B28Isz7B4R4cjemo4lITo",
+    "name": "Shoprite LiquorShop Volksrust",
+    "address": "Amajuba Shopping Centre Cnr Vrede and, Adelaide Tambo St, Volksrust, 2470, South Africa",
+    "latitude": -27.36762,
+    "longitude": 29.88321999999999,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "outside KZN (Mpumalanga)",
+    "queryId": "tx-liquor-charlestown-kzn",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJNajTP4Yz7B4Rm0DwdPy1V6c",
+    "name": "Overland Liquors",
+    "address": "Volksrust, 2470, South Africa",
+    "latitude": -27.3688752,
+    "longitude": 29.8858275,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "outside KZN (Mpumalanga)",
+    "queryId": "tx-liquor-charlestown-kzn",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJWc0W_Y0z7B4RI8XwIun-kxM",
+    "name": "Dorsland Drankwinkel",
+    "address": "36 Adelaide Tambo St, Volksrust, 2470, South Africa",
+    "latitude": -27.3674992,
+    "longitude": 29.8812113,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "outside KZN (Mpumalanga)",
+    "queryId": "tx-liquor-charlestown-kzn",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJH1Eyfocz7B4RH4P5nZf41C0",
+    "name": "Liquor City Volksrust",
+    "address": "19 Laingsnek St, Volksrust, 2470, South Africa",
+    "latitude": -27.368207,
+    "longitude": 29.8864614,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "outside KZN (Mpumalanga)",
+    "queryId": "tx-liquor-charlestown-kzn",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJt4ycI44z7B4R5P-P0Cs3RlI",
+    "name": "TOPS at SPAR Volksrust",
+    "address": "46 Adelaide Tambo St, Volksrust, 2470, South Africa",
+    "latitude": -27.3674396,
+    "longitude": 29.8821445,
+    "types": [
+      "establishment",
+      "food",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "outside KZN (Mpumalanga)",
+    "queryId": "tx-liquor-charlestown-kzn",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJ7YoTO6Az7B4RWB0GKXDYzMQ",
+    "name": "Malume Bottle Store",
+    "address": "Vukuzakhe, Volksrust, South Africa",
+    "latitude": -27.3719254,
+    "longitude": 29.905483,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "outside KZN (Mpumalanga)",
+    "queryId": "tx-liquor-charlestown-kzn",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJX2t8rvRd7B4RR6dSN0EnlHw",
+    "name": "Checkers LiquorShop Volksrust",
+    "address": "Shop No. 2, Redhill Shopping Centre, Dr Nelson Mandela Dr, Volksrust, 2470, South Africa",
+    "latitude": -27.3587765,
+    "longitude": 29.886372,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "outside KZN (Mpumalanga)",
+    "queryId": "tx-liquor-charlestown-kzn",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJJ8xhrzn17x4RNpCY27_3uVs",
+    "name": "Pick n Pay Family Pongola",
+    "address": "25 Naude Street",
+    "latitude": -27.3763901,
+    "longitude": 31.61222069999999,
+    "types": [
+      "clothing_store",
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "nb-pongola",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJZV4oDztM7h4RlOfeaXH80Vk",
+    "name": "Superspar - Paulpietersburg",
+    "address": "33 Hoog St, Paulpietersburg, 3180, South Africa",
+    "latitude": -27.4249418,
+    "longitude": 30.8191979,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "ch-82",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJxcHo0lRN7h4RvKPBE9be_Ek",
+    "name": "Queenery Wines",
+    "address": "House 689, Paulpietersburg, 3180, South Africa",
+    "latitude": -27.4425542,
+    "longitude": 30.8154358,
+    "types": [
+      "establishment",
+      "food",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "winery / wine-farm / producer shop",
+    "queryId": "ch-82",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJl8-ym2lN7h4RWbZXVkj1QQc",
+    "name": "Emawunteni Bottle Store And Tavern",
+    "address": "30.94264° E, Coordinates, 27 41643° S, Paulpietersburg, 3180, South Africa",
+    "latitude": -27.4427941,
+    "longitude": 30.8152567,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "on-consumption (pub/tavern/lounge/restaurant)",
+    "queryId": "ch-82",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJ_dBGBfpF-h4RBkTNntYmQPA",
+    "name": "SIWELA SM TARVEN",
+    "address": "WARD 05, KWAMSANE RESERVE KOBHANANA AREA, KwaMsane, 3935, South Africa",
+    "latitude": -28.4318481,
+    "longitude": 32.1490999,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "hospitality / on-consumption name",
+    "queryId": "ch-62",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJwfFzby835R4RZSEA62M-SoM",
+    "name": "Cambridge Food Jozini",
+    "address": "522 Main Rd, Jozini, 3969, South Africa",
+    "latitude": -27.4263263,
+    "longitude": 32.0728929,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "ch-63",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJM3LgktKV5B4R1enrVGDDdto",
+    "name": "CISHA UKOMA TARVEN",
+    "address": "EMZILENI THENGANI A MANGUZI KOSI BAY, Thengani, 3973, South Africa",
+    "latitude": -27.0110409,
+    "longitude": 32.7218177,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "hospitality / on-consumption name",
+    "queryId": "ch-64",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJHV9so_PT9R4R4MuQinSYD0k",
+    "name": "Kzn Liquor Authority",
+    "address": "39a Margaret Street, eXobho",
+    "latitude": -30.15107950000001,
+    "longitude": 30.0590188,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "nb-ixopo",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJ9YZLQKst7h4RBtqUCIsjEAc",
+    "name": "Car Wash Bottle Store",
+    "address": "Downtown road, Bhekuzulu, Vryheid, 3100, South Africa",
+    "latitude": -27.7846311,
+    "longitude": 30.8267403,
+    "types": [
+      "bar",
+      "car_wash",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "tx-liquor-vryheid",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJjYvJ8SXo7R4Rdh0rgie9nEY",
+    "name": "Oasis Water Newcastle | Express at Kings Liquor Warehouse",
+    "address": "King's Liquor Warehouse, 20 Hardwick St, Newcastle CBD, Newcastle, 2940, South Africa",
+    "latitude": -27.7554016,
+    "longitude": 29.94062419999999,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest"
+    ],
+    "reason": "warehouse / non-storefront",
+    "queryId": "tx-liquor-newcastle-kzn",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJjyw_TM-t-h4RiTJOWEMJAxE",
+    "name": "Buzani liquor restaurant",
+    "address": "Sovane, 3836, South Africa",
+    "latitude": -27.6573921,
+    "longitude": 31.7819077,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "on-consumption (pub/tavern/lounge/restaurant)",
+    "queryId": "tx-liquor-babanango",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJCwFUfepl8B4RjQ4B632BmRw",
+    "name": "Kwazulu Bottle Store And Tarven",
+    "address": "Mkhazane, South Africa",
+    "latitude": -28.3047922,
+    "longitude": 31.3932868,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "on-consumption (pub/tavern/lounge/restaurant)",
+    "queryId": "tx-liquor-babanango",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJAeUfE50C8h4RDbQtwu8ZXmM",
+    "name": "FNB Bank ATM Tops Glencoe",
+    "address": "Shop 3 De Beers St, Glencoe, 2930, South Africa",
+    "latitude": -28.176224,
+    "longitude": 30.157199,
+    "types": [
+      "atm",
+      "establishment",
+      "finance",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "ch-96",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJiUlcngb79h4RvNRGRbxfYdQ",
+    "name": "Diamond's Discount Liquors Hillcrest",
+    "address": "The Colony Shopping Centre, Old Main Rd, Hillcrest, Durban, 3610, South Africa",
+    "latitude": -29.7596504,
+    "longitude": 30.7202618,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "businessStatus=CLOSED_PERMANENTLY",
+    "queryId": "ch-47",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJh-WMsJEF9x4RDHlNhgWUYjQ",
+    "name": "Norman Goodfellows",
+    "address": "Granada Square, 16 Chartwell Dr, Umhlanga, uMhlanga, 4320, South Africa",
+    "latitude": -29.727648,
+    "longitude": 31.084724,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "businessStatus=CLOSED_PERMANENTLY",
+    "queryId": "ch-48",
+    "businessStatus": "CLOSED_PERMANENTLY",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJB3HuR0mn-h4RCIr0Oqg4BO4",
+    "name": "FNB Bank ATM Hambanathi Bottle Store",
+    "address": "Osuthu Area, Nongoma, 3950, South Africa",
+    "latitude": -27.9138213,
+    "longitude": 31.6462642,
+    "types": [
+      "atm",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "ch-61",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJSRadZGqn-h4Rts2jHtLWU74",
+    "name": "FNB Bank ATM Hambanathi Bottle Store 2",
+    "address": "Khenani Odushwini, Nongoma, 3950, South Africa",
+    "latitude": -27.898184,
+    "longitude": 31.6479746,
+    "types": [
+      "atm",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "ch-61",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJT_iUm2rw8B4RP3I2o1TffBI",
+    "name": "FNB Bank ATM Inkandla Bottle Store",
+    "address": "Shop G1 Ithala Centre, Main Street, Nkandla, 3855, South Africa",
+    "latitude": -28.62395,
+    "longitude": 31.10186,
+    "types": [
+      "atm",
+      "establishment",
+      "finance",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail / ATM / car wash",
+    "queryId": "ch-94",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS"
+  },
+  {
+    "googlePlaceId": "ChIJF-jmiMYB9x4R4zG8LErMRTY",
+    "name": "KWIKSPAR Blair Atholl",
+    "address": "155 Rodger Sishi Rd, Chiltern Hills, Westville, 3629, South Africa",
+    "latitude": -29.8122307,
+    "longitude": 30.9137672,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-blair-atholl-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJIbhuqGgP9x4Rzj3C4SrrA0o",
+    "name": "KWIKSPAR Umdloti",
+    "address": "Shop 1, M27, Umdloti Beach, eMdloti, 4350, South Africa",
+    "latitude": -29.6690962,
+    "longitude": 31.1164701,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-circle-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJY0iA5DD_9h4Ro-LPOsIiQEE",
+    "name": "SPAR Main",
+    "address": "Shop 12, Sandy's Centre, 174 Josiah Gumede Rd, Cowies Hill Park, Pinetown, 3610, South Africa",
+    "latitude": -29.8222116,
+    "longitude": 30.8807498,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-circle-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ-94whQOs9x4RQDqgvVpfLjw",
+    "name": "SPAR Austerville",
+    "address": "5 Alabama Rd, Jacobs, Bluff, 4026, South Africa",
+    "latitude": -29.9403143,
+    "longitude": 30.9828259,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-dassenhoek-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ0bW5ykL-9h4Rkq6FHabM0iQ",
+    "name": "The SPAR Group Ltd",
+    "address": "22 Chancery Ln, Pinetown CBD, Pinetown, 3610, South Africa",
+    "latitude": -29.8198158,
+    "longitude": 30.862427,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "SPAR supermarket without TOPS banner",
+    "queryId": "spar-dassenhoek-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJVyXrDvbu9h4R1Go30Onyqeo",
+    "name": "SUPERSPAR Dunbars",
+    "address": "1 Old Main Rd Cato Ridge Durban, Cato Ridge, 3680, South Africa",
+    "latitude": -29.7316185,
+    "longitude": 30.5911709,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-dunbars-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ7eVniCY35R4RVSQUIUj-B7k",
+    "name": "SPAR, Jozini",
+    "address": "Tops @ Spar, Liquor Store, Main Rd, Ndumu, 3996, South Africa",
+    "latitude": -27.429957,
+    "longitude": 32.06940490000001,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "shopping_mall"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-ingonyama-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJFyOL5uSn-h4RCNOaogit5X0",
+    "name": "SPAR Nongoma",
+    "address": "Shop GF01A, Isizwe shopping, Lot 120 King Dinizulu Hwy, Nongoma, 3950, South Africa",
+    "latitude": -27.911652,
+    "longitude": 31.6473774,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-ingonyama-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJbxoSlfqp9x4RDb-TGLFrn4M",
+    "name": "SUPERSPAR Glenwood",
+    "address": "Hunt Rd, The Village, Durban, 4001, South Africa",
+    "latitude": -29.8544395,
+    "longitude": 30.9974378,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-ingonyama-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ95rgckan-h4RDg5a7rCfGJQ",
+    "name": "Superspar",
+    "address": "Nongoma, 3950, South Africa",
+    "latitude": -27.908444,
+    "longitude": 31.6463056,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-ingonyama-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJfX9iStZl8B4RuUm1n4V0dcw",
+    "name": "SUPERSPAR Supatrade Ulundi",
+    "address": "1 Princess Magogo St, Shop 1, King Senzakhona Centre, Prince Mkabayi St, Ulundi BA, Ulundi, 3838, South Africa",
+    "latitude": -28.3023342,
+    "longitude": 31.4218555,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-ingonyama-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJA5auGH289h4RKniIjtCJGB0",
+    "name": "SUPERSPAR Northway",
+    "address": "Northway Mall, 20 Otto's Blf Sta, Woodlands, Pietermaritzburg, 3201, South Africa",
+    "latitude": -29.581309,
+    "longitude": 30.39903899999999,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-jimmy-s-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJjzX2r-gU9x4RrWyMVczC5Fs",
+    "name": "SUPERSPAR Tiffany's",
+    "address": "Salt Rock Rd, Salt Rock, Ballito, 4390, South Africa",
+    "latitude": -29.48110599999999,
+    "longitude": 31.2278381,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-jimmy-s-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ4-u_FBH89h4RUXbL4ZRr9VY",
+    "name": "KWIKSPAR Maytime",
+    "address": "20 Charles Way, Kloof, Durban, 3640, South Africa",
+    "latitude": -29.793576,
+    "longitude": 30.8196269,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-jimmy-s-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ0297SzX-9h4R27HYgHzp8Qw",
+    "name": "SPAR Sarnia",
+    "address": "Paradise Junction Centre, 176 Underwood Rd, Sarnia, Pinetown, 3610, South Africa",
+    "latitude": -29.8358201,
+    "longitude": 30.8739035,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-jimmy-s-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ90QQ50L-9h4Rz1r4m5kEOCc",
+    "name": "SUPERSPAR Knowles",
+    "address": "22 Chancery Ln, Pinetown CBD, Durban, 3600, South Africa",
+    "latitude": -29.8197252,
+    "longitude": 30.8629681,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-le-pino-liquors-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJM5W-xRXo7x4RzSszApGynhI",
+    "name": "SPAR Louwsburg",
+    "address": "Avenue St, Louwsburg, 3150, South Africa",
+    "latitude": -27.5800507,
+    "longitude": 31.2807011,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-louwsburg-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJO43-cwDR8R4R9fHIvwzlC98",
+    "name": "SUPER SPAR",
+    "address": "981 Mgozi St, Mondlo A, Mondlo, South Africa",
+    "latitude": -27.9874143,
+    "longitude": 30.7210685,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "SPAR supermarket without TOPS banner",
+    "queryId": "spar-mondlo-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJFXpxjFzR8R4R6jSlIwxDLEA",
+    "name": "Shoprite Emondlo",
+    "address": "Emondlo, Mall, Mondlo, 3105, South Africa",
+    "latitude": -27.9986252,
+    "longitude": 30.7284291,
+    "types": [
+      "bakery",
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-mondlo-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ_38k7TUP9x4RsLtEEztlQbg",
+    "name": "SUPERSPAR Salta",
+    "address": "Shop 4 Marine Walk Shopping Centre, Salta, M27, Sibaya, eMdloti, 4319, South Africa",
+    "latitude": -29.6621273,
+    "longitude": 31.1109085,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "meal_takeaway",
+      "point_of_interest",
+      "restaurant",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-mondlo-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJqc4gECmq9x4R6kqCUbV1x8Y",
+    "name": "SUPERSPAR Queensmead",
+    "address": "Teignmouth Rd, Umbilo, Berea, 4075, South Africa",
+    "latitude": -29.8834234,
+    "longitude": 30.9840953,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-mondlo-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJMzC-Z-2t9x4RuZqrqqpaGh4",
+    "name": "SUPERSPAR Moodleys Craigieburn",
+    "address": "70 Calendula Ave, Craigieburn, 4170, South Africa",
+    "latitude": -30.2023316,
+    "longitude": 30.7540683,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-moodleys-craigieburn-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJpTu0uJPT9R4RpUrOuqMHbCI",
+    "name": "SUPERSPAR Highflats",
+    "address": "Centenary Rd Esperanza, R612 Sub 17 of Farm, eXobho, 4111, South Africa",
+    "latitude": -30.1496548,
+    "longitude": 30.06377389999999,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-moodleys-highflats-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJFR0OUdKp9x4R2RTUfe8CWRM",
+    "name": "SPAR Northbeach",
+    "address": "5, Mangrove Beach Centre, 91 Somtseu Rd, North Beach, Durban, 4001, South Africa",
+    "latitude": -29.8446671,
+    "longitude": 31.0337246,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-northbeach-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJFXjHnhrM9h4RVfEiDYG1Xwo",
+    "name": "SPAR Breland",
+    "address": "Old Main Rd, Dalton, 3236, South Africa",
+    "latitude": -29.344997,
+    "longitude": 30.6345606,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-northcrest-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ8YYp6Ulj8B4RB7LX0OAOIKI",
+    "name": "SPAR Express at Shell Senzele",
+    "address": "Unit A, Cnr Mnyamana Rd & R52, Mkhazane, 3838, South Africa",
+    "latitude": -28.3274193,
+    "longitude": 31.4042197,
+    "types": [
+      "convenience_store",
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-northcrest-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJrwtepGb-9h4RbokmQW3XFaA",
+    "name": "SUPERSPAR Mega Pinetown",
+    "address": "24 Josiah Gumede Rd Shop 1, Mega Shopping Centre, Pinetown CBD, Pinetown, 3610, South Africa",
+    "latitude": -29.8141851,
+    "longitude": 30.8569509,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pinestreet-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJXYOSDlkP9x4R322zE24tLCI",
+    "name": "Superspar Umhlanga Rocks",
+    "address": "189 Ridge Rd, Umhlanga, uMhlanga, 4320, South Africa",
+    "latitude": -29.726393,
+    "longitude": 31.0831178,
+    "types": [
+      "cafe",
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pinestreet-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJgQheEMep9x4RDTTpnaA5zIM",
+    "name": "SUPERSPAR West Street",
+    "address": "456 West St, Durban Central, Durban, 4001, South Africa",
+    "latitude": -29.8591283,
+    "longitude": 31.0184616,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pinestreet-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJR7R9ZEP-9h4Rbv269uu7fVk",
+    "name": "KWIKSPAR Hattons",
+    "address": "38 Underwood Rd, Pinetown, Durban, 3610, South Africa",
+    "latitude": -29.82228479999999,
+    "longitude": 30.863247,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pinestreet-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJpefiLf6p9x4RLTTTJNpE-6E",
+    "name": "SUPERSPAR Mega Durban Workshop",
+    "address": "2 Soldiers Way, Durban Central, Durban, 4001, South Africa",
+    "latitude": -29.8562844,
+    "longitude": 31.0240698,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pinestreet-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJYQhSfXf58x4RXNG_XT4YrvQ",
+    "name": "SPAR Nottingham Road",
+    "address": "Fort Nottingham Rd, Nottingham Road, 3280, South Africa",
+    "latitude": -29.3591947,
+    "longitude": 29.9933776,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pinestreet-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJXVkIvzSQ8B4RYZyFdtWeHvk",
+    "name": "SUPERSPAR Melmoth",
+    "address": "Lot 36 Jacob Cohn St, eMthonjaneni, 3835, South Africa",
+    "latitude": -28.5926493,
+    "longitude": 31.3997863,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pinestreet-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJzQ3cyNXH8R4Ri3mjDg78-b4",
+    "name": "SPAR Nqutu",
+    "address": "Spar street, Casino, Nqutu, 3134, South Africa",
+    "latitude": -28.2108484,
+    "longitude": 30.6773418,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pinestreet-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJmx2KI0EC-h4ROzZL9iLoEho",
+    "name": "SUPERSPAR Mtunzini",
+    "address": "18 Hely Hutchins St, eMthunzini, 3867, South Africa",
+    "latitude": -28.9505335,
+    "longitude": 31.7575282,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pinestreet-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJaw2N2w699h4RtlJY2LL_T8o",
+    "name": "SUPERSPAR Southgate",
+    "address": "19 Trelawney Rd, Westgate, Pietermaritzburg, 3201, South Africa",
+    "latitude": -29.6382475,
+    "longitude": 30.3818571,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pinestreet-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJBSo_NqcR-h4R-YN8chKC6y8",
+    "name": "SUPERSPAR Fiveways",
+    "address": "4 Paul Ave, Fairview, Empangeni, 3880, South Africa",
+    "latitude": -28.7576625,
+    "longitude": 31.9016615,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pinestreet-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJo7e-vPC99h4Rmv2XSuxAs80",
+    "name": "Spar - Polly Shorts",
+    "address": "DB Downs Road, Cleland, Pietermaritzburg, 3201, South Africa",
+    "latitude": -29.65127,
+    "longitude": 30.42243,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pollyshorts-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJl8fa_Dip9x4R3J1MEK97ELs",
+    "name": "SUPERSPAR Bluff",
+    "address": "884 Bluff Rd, Grosvenor, Bluff, 4052, South Africa",
+    "latitude": -29.9112548,
+    "longitude": 31.0132293,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pollyshorts-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ-XuzMhFz8R4Ra_BDQJQrOHU",
+    "name": "SPAR Khonzinkosi",
+    "address": "R33, Tugela Ferry, 3010, South Africa",
+    "latitude": -28.749195,
+    "longitude": 30.4437969,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pollyshorts-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ09ifUd9z8R4RuwKjmBMN1Q0",
+    "name": "SPAR Express at Shell Khonzinkosi",
+    "address": "R33, Sampofu, 3010, South Africa",
+    "latitude": -28.7489913,
+    "longitude": 30.4434877,
+    "types": [
+      "convenience_store",
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-pollyshorts-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJq6qqqgZP-h4RaywQvVKrRSE",
+    "name": "SUPERSPAR Mtuba",
+    "address": "Cnr, & Inkosi Mtuba Rd, John Ross Hwy, Mtubatuba, 3935, South Africa",
+    "latitude": -28.4139835,
+    "longitude": 32.1852629,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-power-mtu-d550ba-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJTYSrhkqo9x4RsQ6Dp4643UE",
+    "name": "SUPERSPAR Seapoint",
+    "address": "577 Mahatma Gandhi Rd, South Beach, Durban, 4001, South Africa",
+    "latitude": -29.85672,
+    "longitude": 31.0360226,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJU6QHO2EH9x4RtxOa_F6rFfM",
+    "name": "SUPERSPAR Avonmore",
+    "address": "277 Avondale Rd, Essenwood, Berea, 4001, South Africa",
+    "latitude": -29.8367858,
+    "longitude": 31.0143239,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJvbB3tWID9x4RyYCmMFEh2Mc",
+    "name": "SUPERSPAR Power Inanda",
+    "address": "5595 Curnick Ndlovu Hwy, Inanda Namibia, Inanda, 4309, South Africa",
+    "latitude": -29.698799,
+    "longitude": 30.934793,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJqecbyO_l8x4RjrwyC35hPS4",
+    "name": "SPAR Mooi River",
+    "address": "1 Stock Ln, Mooi River, 3300, South Africa",
+    "latitude": -29.2082494,
+    "longitude": 30.0008049,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJFZNHMyOp9h4RtSPTOTPvoTU",
+    "name": "SUPERSPAR Howick",
+    "address": "Spar Ctr, Harvard St, Howick, 3290, South Africa",
+    "latitude": -29.4862561,
+    "longitude": 30.2330128,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJVVVVVVUi-h4RXiaAHJ6Uvuo",
+    "name": "SUPERSPAR Lakeside",
+    "address": "6 Mark Strasse, Richards Bay Central, Richards Bay, 3875, South Africa",
+    "latitude": -28.7549559,
+    "longitude": 32.0492937,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJGf-qh1ir9x4RCJ9zEgdzC4o",
+    "name": "SUPERSPAR Yellowwood Park",
+    "address": "Pelican Pl, Yellowwood Park, Durban, 4011, South Africa",
+    "latitude": -29.9190459,
+    "longitude": 30.9412475,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJGWyOWYTn7R4Rnzt3ZwICsEs",
+    "name": "SUPERSPAR Madadeni",
+    "address": "Cnr Mad1 &, Mad3 St, Newcastle, 2951, South Africa",
+    "latitude": -27.7595596,
+    "longitude": 30.0382398,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJnY7RXbS99h4RoQIjGqmE3ho",
+    "name": "SUPERSPAR Mills",
+    "address": "72 Blackburrow Rd, Hayfields, Pietermaritzburg, 4700, South Africa",
+    "latitude": -29.622069,
+    "longitude": 30.408514,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJg7G6uHEG9x4RrKBtjDx2ITA",
+    "name": "SUPERSPAR Eastmans",
+    "address": "42 Ashley Ave, Glenashley, Durban North, 4051, South Africa",
+    "latitude": -29.7577687,
+    "longitude": 31.0489941,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJBfbK_qJT8h4R2ujLeAs6LK0",
+    "name": "SUPERSPAR Winterton",
+    "address": "Cnr Union St &, Springfield Rd, Winterton, 3340, South Africa",
+    "latitude": -28.8122332,
+    "longitude": 29.5369028,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJf6_6jLns9h4RwATgu8xe--I",
+    "name": "SUPERSPAR Camperdown",
+    "address": "8 Shepstone St, Camperdown, 3720, South Africa",
+    "latitude": -29.7273864,
+    "longitude": 30.540461,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJIznNxdW6WB4RyaruKHY_lmI",
+    "name": "SPAR Uvongo",
+    "address": "Shop 1, Dolphin Centre, Marine Dr, Uvongo, Margate, 4270, South Africa",
+    "latitude": -30.8329104,
+    "longitude": 30.393077,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJVVVVVboe-h4RQeHeLhgrZfQ",
+    "name": "SUPERSPAR Esikhawini Renckens",
+    "address": "Mall, 1 Mdlebe Ntshona Rd, Esikhawini H, Richards Bay, 4490, South Africa",
+    "latitude": -28.8720551,
+    "longitude": 31.9000572,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJL6sj0y6p9x4R7NlG9HQmhwY",
+    "name": "KWIKSPAR Crossways",
+    "address": "271 Marine Dr, Ocean View, Bluff, 4052, South Africa",
+    "latitude": -29.9137184,
+    "longitude": 31.0277088,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-savoy-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJVVVVVQA39h4R1VfStFDzZ1I",
+    "name": "Pick n Pay Scottburgh",
+    "address": "Mall, Margaret Ave, Scottburgh, 4180, South Africa",
+    "latitude": -30.2930298,
+    "longitude": 30.7410489,
+    "types": [
+      "clothing_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-scottburgh-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJzaygCgs39h4RU-JLjofiI9E",
+    "name": "Checkers Scottburgh",
+    "address": "92 Williamson St, Scottburgh, 4180, South Africa",
+    "latitude": -30.2870478,
+    "longitude": 30.7539202,
+    "types": [
+      "bakery",
+      "cafe",
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-scottburgh-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJJ9njUTJJ9h4RP6lNITSuPS0",
+    "name": "SUPERSPAR Umkomaas",
+    "address": "2 Brad St, eMkhomazi, 4170, South Africa",
+    "latitude": -30.2042109,
+    "longitude": 30.7994117,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-scottburgh-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJCVhSz4689h4R1ccTIeCvi_8",
+    "name": "SUPERSPAR Selgro",
+    "address": "Selgro Centre, 361 Church St, Pietermaritzburg, 3201, South Africa",
+    "latitude": -29.597491,
+    "longitude": 30.3833175,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-spargs-spences-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJBYqv450C8h4RbKZW9XIxhaI",
+    "name": "SPAR Glencoe",
+    "address": "Union St, Glencoe, 2930, South Africa",
+    "latitude": -28.1757204,
+    "longitude": 30.1588565,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-spargs-spences-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJd_iupztV9x4RC-NEiLfN4g4",
+    "name": "SPAR Ging",
+    "address": "15 Main St, Gingindlovu, KwaGingindlovu, 3815, South Africa",
+    "latitude": -29.0309337,
+    "longitude": 31.5829009,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-spargs-spences-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJUYSPoWVO9x4RKP9MNWquY7s",
+    "name": "SPAR Mandini Renckens",
+    "address": "Shop 15, Old Mutual Centre, MR 459, Mandini, 4490, South Africa",
+    "latitude": -29.1430939,
+    "longitude": 31.4042326,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-spargs-spences-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJQcGAjJT58R4RxyVj4Z-dBcM",
+    "name": "KWIKSPAR Jeff's",
+    "address": "42 Karel Landman St, Dundee, 3000, South Africa",
+    "latitude": -28.1642548,
+    "longitude": 30.232589,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-spargs-spences-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ44_wP62v8B4ReblBdylPrjM",
+    "name": "SPAR Adams",
+    "address": "1 Osborne Rd, Eshowe, 3815, South Africa",
+    "latitude": -28.8986217,
+    "longitude": 31.4646039,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-spargs-spences-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ0XmYvouv8B4RNjdin6xdBxw",
+    "name": "SUPERSPAR Eshowe",
+    "address": "108 Osborne Rd, Eshowe, 3815, South Africa",
+    "latitude": -28.89061,
+    "longitude": 31.472261,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-spargs-spences-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJaR7sT5su7h4RYDLGYu4nQy4",
+    "name": "Spar - Vryheid",
+    "address": "237 Cnr Utrecht & East Street, Vryheid, 3100, South Africa",
+    "latitude": -27.764707,
+    "longitude": 30.7971029,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-spargs-spences-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJaU-lBQw58R4RX1MNuZGyRY4",
+    "name": "Esfam Spar Trust",
+    "address": "82 Oakes Street, Enhlalakahle, Greytown, 3500, South Africa",
+    "latitude": -29.0749287,
+    "longitude": 30.6070448,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "SPAR supermarket without TOPS banner",
+    "queryId": "spar-spargs-spences-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJ33JitbLT8B4RFSxoS52Tv3Q",
+    "name": "SUPERSPAR Renckens Mapumulo",
+    "address": "Old Main Rd Umphumulo Mapumulo, Umphumulo, 4470, South Africa",
+    "latitude": -29.1578143,
+    "longitude": 31.0668279,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-spargs-spences-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJwyQp1fyj9h4RA7oU5D8476c",
+    "name": "SUPERSPAR Mega Edendale",
+    "address": "Kwamabulala Shopping Centre, Machibisa Rd, Edendale, Pietermaritzburg, 3217, South Africa",
+    "latitude": -29.6474849,
+    "longitude": 30.3211981,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-stansfield-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  },
+  {
+    "googlePlaceId": "ChIJqyHQyIes9x4RgqSZXxaVb8w",
+    "name": "SUPERSPAR Mega City Umlazi",
+    "address": "Griffiths Mxenge Hwy Umlazi Mega City, Shop M8, Umlazi V, Umlazi, 4089, South Africa",
+    "latitude": -29.9533033,
+    "longitude": 30.9400297,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "spar-stansfield-tops",
+    "businessStatus": "OPERATIONAL",
+    "matchClass": "REJECTED_FOR_COMPASS",
+    "discovery": "spar-tops-followup"
+  }
+]
