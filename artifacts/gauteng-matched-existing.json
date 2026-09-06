@@ -1,0 +1,310 @@
+[
+  {
+    "googlePlaceId": "ChIJKal8q75ZlR4Rsj6Ld72DBcI",
+    "name": "Whisky Emporium Mamelodi",
+    "address": "Ext 20, shop No 4 Mahube Max City Shopping Centre, Cnr Tsamaya & K54 Road Mahube Valley, Mamelodi, Pretoria",
+    "latitude": -25.6988957,
+    "longitude": 28.4220105,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store + dedicated name",
+    "queryId": "gap:tshwane-east:n:2:0",
+    "nearbyDifferentBrands": [
+      {
+        "id": "gplaces-ChIJ0RmyLLlZlR4RSLkJ0yOJv_c",
+        "name": "Shoprite LiquorShop Mams Mall Mamelodi",
+        "meters": 308
+      },
+      {
+        "id": "gplaces-ChIJ_0dRPWNZlR4RiVCk88NJNOU",
+        "name": "Mahube Boxer Liquors",
+        "meters": 316
+      },
+      {
+        "id": "gplaces-ChIJHSEPjFhZlR4R6GbswrfcW5g",
+        "name": "TOPS at SPAR Mams Mall",
+        "meters": 380
+      }
+    ],
+    "matchClass": "MATCH_CONFIRMED",
+    "existingId": "gplaces-ChIJ2zO-YRKZlR4RwlbSkKPh98Y",
+    "existingName": "Liquor City Mamelodi",
+    "distanceMeters": 8,
+    "reasons": [
+      "same brand + overlapping branch identity"
+    ]
+  },
+  {
+    "googlePlaceId": "ChIJT6aqpCgLlR4RbZ6usjRKHHY",
+    "name": "Blackheath SUPERSPAR & TOPS",
+    "address": "Corner Beyers Naude & Mountainview Roads, Blackheath, Randburg, 2194, South Africa",
+    "latitude": -26.136647,
+    "longitude": 27.976481,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "dedicated liquor-retail name",
+    "queryId": "town:johannesburg-cbd:tops",
+    "nearbyDifferentBrands": [],
+    "matchClass": "MATCH_CONFIRMED",
+    "existingId": "gplaces-ChIJqZKQICYLlR4R1ONeMxiB6Ro",
+    "existingName": "TOPS at SPAR Blackheath",
+    "distanceMeters": 7,
+    "reasons": [
+      "same brand + overlapping branch identity"
+    ]
+  },
+  {
+    "googlePlaceId": "ChIJ04uuiX9zlR4Rw7nhUhU2EzI",
+    "name": "Whisky Emporium Grayston",
+    "address": "Shop 5, The Grayston Shopping Centre Corner Helen Road &, Grayston Dr, Grayston, Sandton, 2031, South Africa",
+    "latitude": -26.0999837,
+    "longitude": 28.0660332,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store + dedicated name",
+    "queryId": "town:sandton:liquor-store",
+    "nearbyDifferentBrands": [],
+    "matchClass": "MATCH_CONFIRMED",
+    "existingId": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+    "existingName": "Liquor City Grayston",
+    "distanceMeters": 1,
+    "reasons": [
+      "same brand + same house/street"
+    ]
+  },
+  {
+    "googlePlaceId": "ChIJOyCU1gynlR4RBeZOpTEYDiE",
+    "name": "Liquor City Soweto",
+    "address": "10558 Mohloka St, Pimville Zone 3, Pimville, 1804, South Africa",
+    "latitude": -26.2622602,
+    "longitude": 27.8993709,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store + dedicated name",
+    "queryId": "town:soweto:bottle-store",
+    "nearbyDifferentBrands": [],
+    "matchClass": "MATCH_CONFIRMED",
+    "existingId": "gplaces-ChIJga6af4anlR4RaYrubZGvC9M",
+    "existingName": "Whisky Emporium Soweto",
+    "distanceMeters": 0,
+    "reasons": [
+      "same brand + same house/street"
+    ]
+  },
+  {
+    "googlePlaceId": "ChIJwa5oRq51lR4Rz2JLT_8qMps",
+    "name": "Whisky Emporium Ferndale",
+    "address": "Shop L88A, Ferndale On Republic, Republic Rd, Ferndale, Randburg, 2125, South Africa",
+    "latitude": -26.1046164,
+    "longitude": 27.9917761,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store + dedicated name",
+    "queryId": "town:randburg:liquor-store",
+    "nearbyDifferentBrands": [],
+    "matchClass": "MATCH_CONFIRMED",
+    "existingId": "gplaces-ChIJiSphjiN1lR4Rx07R4KLE-TI",
+    "existingName": "Liquor City Ferndale",
+    "distanceMeters": 32,
+    "reasons": [
+      "same brand + overlapping branch identity"
+    ]
+  },
+  {
+    "googlePlaceId": "ChIJKbqkWvtZlR4R7kxqmNe44G4",
+    "name": "Whisky Emporium Mamelodi Square",
+    "address": "Shop 27A – mamelodi Square, Mamelodi X35 Corner Tsamaya & Shilovhane avenue, Mamelodi, Pretoria, 0122, South Africa",
+    "latitude": -25.7039464,
+    "longitude": 28.3932317,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store + dedicated name",
+    "queryId": "town:mamelodi:liquor-store",
+    "nearbyDifferentBrands": [
+      {
+        "id": "gplaces-ChIJnYCSpLRflR4R7xhzK0Bq9Gc",
+        "name": "Shoprite LiquorShop Mamelodi Square",
+        "meters": 60
+      }
+    ],
+    "matchClass": "MATCH_CONFIRMED",
+    "existingId": "gplaces-ChIJmR-piyFZlR4Rbr8PB7tfIqA",
+    "existingName": "Liquor City Mamelodi Square",
+    "distanceMeters": 1,
+    "reasons": [
+      "same brand + same house/street"
+    ]
+  },
+  {
+    "googlePlaceId": "ChIJT7u8rDbZvx4RX4BzyZDtFcc",
+    "name": "Whisky Emporium Wonderboom",
+    "address": "Shop B2, Block B, Wonderboom Value Mart, Lavender Rd, Wonderboom, Pretoria, 0066, South Africa",
+    "latitude": -25.6819983,
+    "longitude": 28.1924752,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store + dedicated name",
+    "queryId": "town:pretoria-north:liquor-store",
+    "nearbyDifferentBrands": [
+      {
+        "id": "gplaces-ChIJUe07CMjZvx4Rq4secvXeq7U",
+        "name": "TOPS at SPAR Wonderboom Junction",
+        "meters": 389
+      }
+    ],
+    "matchClass": "MATCH_CONFIRMED",
+    "existingId": "gplaces-ChIJDcFmpiXZvx4RUkph1hibS5U",
+    "existingName": "Liquor City Wonderboom",
+    "distanceMeters": 3,
+    "reasons": [
+      "same brand + overlapping branch identity"
+    ]
+  },
+  {
+    "googlePlaceId": "ChIJgeMqup8XlR4RI6Ws4zRfi1I",
+    "name": "Whisky Emporium North Rand",
+    "address": "Food Lovers Building, N Rand Rd, Beyers Park, Boksburg, 1459, South Africa",
+    "latitude": -26.1797607,
+    "longitude": 28.2605162,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store + dedicated name",
+    "queryId": "town:boksburg:liquor-store",
+    "nearbyDifferentBrands": [],
+    "matchClass": "MATCH_CONFIRMED",
+    "existingId": "gplaces-ChIJCyfWLc11lR4Rdei_x5rcOQ4",
+    "existingName": "Liquor City North Rand",
+    "distanceMeters": 4,
+    "reasons": [
+      "same brand + overlapping branch identity"
+    ]
+  },
+  {
+    "googlePlaceId": "ChIJiw21JJYRlR4R7J0l9kcgGKw",
+    "name": "Whisky Emporium Webber Road",
+    "address": "141 Webber Rd, Lambton, Germiston, 1407, South Africa",
+    "latitude": -26.2471917,
+    "longitude": 28.1812722,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store + dedicated name",
+    "queryId": "town:germiston:liquor-store",
+    "nearbyDifferentBrands": [
+      {
+        "id": "gplaces-ChIJGZLMzhURlR4RjcZ5RO5UZV4",
+        "name": "Checkers LiquorShop Lambton",
+        "meters": 292
+      }
+    ],
+    "matchClass": "MATCH_CONFIRMED",
+    "existingId": "gplaces-ChIJR70xyZkQlR4RwjFHkP_SBYg",
+    "existingName": "Liquor City Webber Road Liquors",
+    "distanceMeters": 2,
+    "reasons": [
+      "same brand + overlapping branch identity"
+    ]
+  },
+  {
+    "googlePlaceId": "ChIJAeM3egQQlR4Rzji0KUHAsfQ",
+    "name": "Liquor City Apple Tree",
+    "address": "Ring Rd W &, St Austell St, New Redruth, Alberton, 1449, South Africa",
+    "latitude": -26.2606062,
+    "longitude": 28.1162916,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store + dedicated name",
+    "queryId": "town:alberton:bottle-store",
+    "nearbyDifferentBrands": [],
+    "matchClass": "MATCH_CONFIRMED",
+    "existingId": "gplaces-ChIJ0Y_xpPgRlR4R0Zi8thTtvVI",
+    "existingName": "Whisky Emporium Apple Tree",
+    "distanceMeters": 28,
+    "reasons": [
+      "same brand + overlapping branch identity"
+    ]
+  },
+  {
+    "googlePlaceId": "ChIJWQUNh-k7lR4R0iBFQMzmmjU",
+    "name": "Shoprite LiquorShop Mayfield Square",
+    "address": "Mayfield Square, 622 Laurie Road, Daveyton, Benoni, 2091, South Africa",
+    "latitude": -26.1343185,
+    "longitude": 28.408557,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store + dedicated name",
+    "queryId": "town:daveyton:liquor-store",
+    "nearbyDifferentBrands": [],
+    "matchClass": "MATCH_CONFIRMED",
+    "existingId": "gplaces-ChIJU5jV2u47lR4RiZP7HwNRm98",
+    "existingName": "Shoprite LiquorShop Mayfield Square",
+    "distanceMeters": 114,
+    "reasons": [
+      "same brand + same centre"
+    ]
+  },
+  {
+    "name": "Waverley Liquor Store",
+    "existingId": "gplaces-ChIJIa2Q0tXfvx4R1rwDWnrYTaU",
+    "existingName": "Checkers LiquorShop Waverley",
+    "distanceMeters": 6,
+    "reasons": [
+      "same house/street — Google duplicate of Checkers Waverley"
+    ],
+    "matchClass": "MATCH_CONFIRMED"
+  },
+  {
+    "name": "Yuan Sheng BlueBottle liquor store",
+    "existingName": "阿明Liquor 烟酒专卖店",
+    "distanceMeters": 3,
+    "reasons": [
+      "same house/street — bilingual listing of one shop"
+    ],
+    "matchClass": "MATCH_CONFIRMED"
+  }
+]

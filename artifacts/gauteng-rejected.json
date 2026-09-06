@@ -1,0 +1,463 @@
+[
+  {
+    "googlePlaceId": "ChIJCz2_c5LElR4RyYi-mygpwRQ",
+    "name": "Annan's Liquor Distributors",
+    "address": "Onyx Drive, Carletonville",
+    "latitude": -26.351522,
+    "longitude": 27.396423,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "distributor / wholesale / non-retail",
+    "queryId": "gap:carletonville:n:1:0"
+  },
+  {
+    "googlePlaceId": "ChIJoX2R2ZXNvx4RmUJfI4Du5i4",
+    "name": "TTKM liquor store",
+    "address": "00102C Phiring Section Kgabalatsane, Brits",
+    "latitude": -25.5439015,
+    "longitude": 27.9650544,
+    "types": [
+      "liquor_store",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "reason": "outside Gauteng (North West)",
+    "queryId": "gap:tshwane-north:n:0:0"
+  },
+  {
+    "googlePlaceId": "ChIJ-_JTmnfJvx4RlIw_svL3GXQ",
+    "name": "Rob Led Centre",
+    "address": "90 Madibeng Hills, Makanyaneng, Klipgat",
+    "latitude": -25.4659052,
+    "longitude": 28.0313855,
+    "types": [
+      "grocery_or_supermarket",
+      "liquor_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "reason": "outside Gauteng (North West)",
+    "queryId": "gap:tshwane-north:n:1:1"
+  },
+  {
+    "googlePlaceId": "ChIJx3o9TgjPvx4Rjwfs6b8PtVc",
+    "name": "Soshanguve Boxer Superstores",
+    "address": "Soshanguve Plaza, Buitenkant Street, Soshanguve",
+    "latitude": -25.4940676,
+    "longitude": 28.0917037,
+    "types": [
+      "supermarket",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "reason": "Boxer Superstores grocery, not Boxer Liquors",
+    "queryId": "gap:tshwane-north:n:1:2"
+  },
+  {
+    "googlePlaceId": "ChIJM7R8I1ZUlB4RR4N7p2g0lsQ",
+    "name": "OASIS LIQUOR DISTRIBUTORS",
+    "address": "Union Road, Evaton Central, Evaton",
+    "latitude": -26.5391015,
+    "longitude": 27.8703569,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "distributor / wholesale / non-retail",
+    "queryId": "gap:sedibeng-north:n:0:2"
+  },
+  {
+    "googlePlaceId": "ChIJEwUVImBTlB4RIpCJLnPVF3s",
+    "name": "Cambridge Food Evaton",
+    "address": "Lombard Mbatha St & Max Rd, Evaton West, Evaton",
+    "latitude": -26.5289419,
+    "longitude": 27.8295198,
+    "types": [
+      "supermarket",
+      "liquor_store",
+      "grocery_or_supermarket",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "gap:sedibeng-north:n:0:1"
+  },
+  {
+    "googlePlaceId": "ChIJX7b3KwEMlR4RAWn9SdWZ-Cs",
+    "name": "Pick n Pay Family Braamfontein",
+    "address": "Jorissen St Postnet 273, Priv/Bagx4 Menlo Pk, Bertha Rd, Braamfontein, Johannesburg, 2017, South Africa",
+    "latitude": -26.1927227,
+    "longitude": 28.0337231,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "town:johannesburg-cbd:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJD1GUGTUNlR4RkhbnbaHki4k",
+    "name": "Shoprite Alexandra",
+    "address": "Corner 1st & Chadwick Avenue, Alexandra, Gauteng, 2090, South Africa",
+    "latitude": -26.1042223,
+    "longitude": 28.0856648,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "town:sandton:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJQeBF5HZ2lR4R96Pc4X06__Y",
+    "name": "Pick n Pay Northlands",
+    "address": "NewMarket Rd, Hoogland, Randburg, 2169, South Africa",
+    "latitude": -26.0398873,
+    "longitude": 27.9568239,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "town:randburg:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJTQVA0fF5lR4Rwbb-mvFsB9Y",
+    "name": "MOME'S LIQUOR DISTRIBUTORS",
+    "address": "5374 Pear St, Diepsloot West 5, Diepsloot, 2189, South Africa",
+    "latitude": -25.9321735,
+    "longitude": 28.0073527,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "distributor / wholesale / non-retail",
+    "queryId": "town:diepsloot:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJVVVVVbmnlR4RaoewX7c7fas",
+    "name": "Shoprite Eldorado Park",
+    "address": "Shoprite Centre, 9 Circle Road, Eldorado Park, Johannesburg, 2001, South Africa",
+    "latitude": -26.2920125,
+    "longitude": 27.9067356,
+    "types": [
+      "bakery",
+      "establishment",
+      "finance",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "travel_agency"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "town:eldorado-park:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJdVOXHbe7lR4R_XEDQwdH05k",
+    "name": "Fkay Lounge",
+    "address": "3647 Kgotlelela Dr, Simunye, Westonaria, 1779, South Africa",
+    "latitude": -26.3293973,
+    "longitude": 27.691265,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "hospitality / on-consumption name",
+    "queryId": "town:westonaria:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJq5-J2dbLlR4R61hvwouLNro",
+    "name": "President Hyper Fochville",
+    "address": "Corner Kerk Street and, Losberg Ave, Fochville, 2515, South Africa",
+    "latitude": -26.4922451,
+    "longitude": 27.4941272,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "town:fochville:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJMQ79tWnFlR4RwGC2HYh0g3E",
+    "name": "Mr Liquor Pub & Grill",
+    "address": "5 Amethyst St, Carletonville, 2499, South Africa",
+    "latitude": -26.3552492,
+    "longitude": 27.3975906,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "reason": "on-consumption (pub/tavern/lounge)",
+    "queryId": "town:carletonville:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJg5DzZ5DzlR4R8ZaA0OEKAWY",
+    "name": "Magalies Liquor Wholesaler",
+    "address": "41 Rustenburg Rd, Magaliesburg, 1791, South Africa",
+    "latitude": -26.0011647,
+    "longitude": 27.5468784,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail",
+    "queryId": "town:magaliesburg:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJ78CIcAVhlR4Rq-tc578e4Tk",
+    "name": "Spar Waterkloof",
+    "address": "Main Str &, Crown St, Waterkloof, Pretoria, 0122, South Africa",
+    "latitude": -25.7749971,
+    "longitude": 28.2403428,
+    "types": [
+      "convenience_store",
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "town:hatfield:tops"
+  },
+  {
+    "googlePlaceId": "ChIJ5ysn5ylglR4RZOpPM6EelmA",
+    "name": "SUPERSPAR Kilner Park",
+    "address": "25 Lynette St, Kilner Park, Pretoria, 0186, South Africa",
+    "latitude": -25.7203099,
+    "longitude": 28.2596891,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "town:hatfield:tops"
+  },
+  {
+    "googlePlaceId": "ChIJd8m8gI3Nvx4R9pddYDWJjLs",
+    "name": "Pick n Pay Ga-Rankuwa",
+    "address": "Ga-Rankuwa 320, Ga-Rankuwa Unit 16, Ga-Rankuwa, 0208, South Africa",
+    "latitude": -25.5972621,
+    "longitude": 27.9893301,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "town:ga-rankuwa:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJQU98hxgrvh4RgbgQYCtmBQI",
+    "name": "Damdoryn Tops",
+    "address": "Cnr Old Rustenburg Rd &, R512, Hartbeespoort, 0216, South Africa",
+    "latitude": -25.7247547,
+    "longitude": 27.8309136,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "outside Gauteng (North West)",
+    "queryId": "town:mabopane:tops"
+  },
+  {
+    "googlePlaceId": "ChIJUd14T0_Zvx4RmzMl_6lD9hM",
+    "name": "SPAR Mountain View",
+    "address": "449 Karel Trichardt Ave, Mountain View, Pretoria, 0082, South Africa",
+    "latitude": -25.7011477,
+    "longitude": 28.1614077,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "town:mabopane:tops"
+  },
+  {
+    "googlePlaceId": "ChIJY_zLYVcalR4RykKSFGoRZ74",
+    "name": "SA Cash and Carry | SA Liquor Junction Hill",
+    "address": "Ginstein St, Union Settlement, Junction Hill, Germiston, 1428, South Africa",
+    "latitude": -26.2922581,
+    "longitude": 28.1628701,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "distributor / wholesale / non-retail",
+    "queryId": "town:germiston:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJLSdUBONrlR4Rj2cftl4Fnnk",
+    "name": "Liquor Moyeng Clothing Brand",
+    "address": "B444, Tshepang care centre, Kempton Park Other, Thembisa, 1632, South Africa",
+    "latitude": -26.0355544,
+    "longitude": 28.2109094,
+    "types": [
+      "clothing_store",
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "distributor / wholesale / non-retail",
+    "queryId": "town:tembisa:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJjXIQENAblR4RaRfyB8VDqWg",
+    "name": "Vila's Lifestyle Cafe",
+    "address": "238 Masiteng street, Credi, Section, Katlehong, Germiston, 1431, South Africa",
+    "latitude": -26.320145,
+    "longitude": 28.150986,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "hospitality / on-consumption name",
+    "queryId": "town:katlehong:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJJwpj5KkelR4RrOdCM1IHv8w",
+    "name": "Cambridge Food Vosloorus",
+    "address": "Bierman Rd & Mc Botha Dr, Vosloorus, 1475, South Africa",
+    "latitude": -26.343597,
+    "longitude": 28.206299,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "town:vosloorus:liquor-store"
+  },
+  {
+    "googlePlaceId": "ChIJD2gyq0BelR4RQ8gGhLeBTPc",
+    "name": "Pick n Pay The Grove",
+    "address": "The Grove Mall, Simon Vermooten Rd, Equestria, Pretoria, 0184, South Africa",
+    "latitude": -25.7664277,
+    "longitude": 28.3250704,
+    "types": [
+      "clothing_store",
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "chain:19:Pick n Pay Liquor Pretoria"
+  },
+  {
+    "googlePlaceId": "ChIJG7QY1TtjlR4RJy5s7n3CpvY",
+    "name": "BP, PnP Express, PnP Liquor and Debonairs",
+    "address": "564 Church St, Pretoria West, Pretoria, 0183, South Africa",
+    "latitude": -25.749356,
+    "longitude": 28.1492652,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "mixed petrol/grocery destination",
+    "queryId": "chain:19:Pick n Pay Liquor Pretoria"
+  },
+  {
+    "googlePlaceId": "ChIJE3vFIbKZlR4ROjS23wp44g8",
+    "name": "Pick n Pay liquor Chamdor black Friday deals",
+    "address": "28 Jacobs St, Chamdor, Johannesburg, 1754, South Africa",
+    "latitude": -26.1572731,
+    "longitude": 27.7969988,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "mixed petrol/grocery destination",
+    "queryId": "chain:37:drankwinkel Krugersdorp"
+  },
+  {
+    "googlePlaceId": "ChIJ7S5F2lFYlB4RUNhLigPj41E",
+    "name": "President Hyper Vaal",
+    "address": "Corner Playfair Boulevard &, Ascot On Vaal Rd, Vaal, Vereeniging, 1911, South Africa",
+    "latitude": -26.697812,
+    "longitude": 27.88638,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "liquor_store",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "bare supermarket / hyper without liquor banner",
+    "queryId": "chain:38:drankwinkel Vereeniging"
+  }
+]

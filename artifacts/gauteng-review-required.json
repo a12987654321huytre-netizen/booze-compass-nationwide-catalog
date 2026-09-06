@@ -1,0 +1,1795 @@
+{
+  "google": [
+    {
+      "googlePlaceId": "ChIJuyJplKm_lR4RHXMMCoI0tJs",
+      "name": "Jb Lifestyle Corner",
+      "address": "Plot 193 King, Hillside, Randfontein",
+      "latitude": -26.20441139999999,
+      "longitude": 27.6321859,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "gap:west-rand:n:0:5",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJUbmHetSjlR4R6_xeHkLlMyo",
+      "name": "Malindis Inn Trading Enterprise",
+      "address": "Ext 3, 5265 3rd Avenue, Rietvallei, Krugersdorp",
+      "latitude": -26.2001439,
+      "longitude": 27.741756,
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "gap:west-rand:n:0:9",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJKY1rdlfFlR4RMLOXiUloz0w",
+      "name": "OVERLAND BLYVOOR",
+      "address": "7th Ave 1 Main Road Blyvooruitzicht, Carletonville",
+      "latitude": -26.4215129,
+      "longitude": 27.3736712,
+      "types": [
+        "liquor_store",
+        "hardware_store",
+        "store",
+        "car_repair",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "gap:carletonville:n:0:0",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJqehLfNrHlR4R_tgyChkpTAc",
+      "name": "East Driefontein Bottle Store",
+      "address": "South Africa",
+      "latitude": -26.388102,
+      "longitude": 27.5148375,
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap:carletonville:n:0:4",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJD-SWdOHHlR4RcxnjktnbqSY",
+      "name": "ngulele' s place",
+      "address": "2670/32 Pelican Avenue, Blybank, Carletonville",
+      "latitude": -26.3414152,
+      "longitude": 27.4757919,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "gap:carletonville:n:1:3",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ-ywbkZHMvx4RcFedR1zBk_4",
+      "name": "Discount Liquor Store",
+      "address": "South Africa",
+      "latitude": -25.5376835,
+      "longitude": 27.9580655,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "province unresolved",
+      "queryId": "gap:tshwane-north:n:0:0",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ4UMvGvXLvx4RyvclMBkqCBE",
+      "name": "TLHAPI LIQUOR STORE",
+      "address": "966 New-Stand, Klipgat",
+      "latitude": -25.4829825,
+      "longitude": 27.9957919,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "province unresolved",
+      "queryId": "gap:tshwane-north:n:1:0",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJL9Ymkx_Jvx4RLsKuR3GBK9g",
+      "name": "Boikie's Liquor Store",
+      "address": "South Africa",
+      "latitude": -25.4778289,
+      "longitude": 28.0639145,
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap:tshwane-north:n:1:1",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJbQed-96YlR4R-CFSpyxLGI4",
+      "name": "LIQUOR Store",
+      "address": "Albertina Sisulu Road, Lewisham, Johannesburg",
+      "latitude": -26.12059019999999,
+      "longitude": 27.81202129999999,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "generic name only",
+      "queryId": "gap:west-rand:n:2:9",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ3boyJUjHvx4RfZTMhxxM1lM",
+      "name": "Lagiva Drop SA Wines",
+      "address": "6880 Block F4, Gauteng, Pretoria, Hammanskraal, New Eersterus, Molefe Makinta street, 0400 Lucas Mangope Road, Gauteng, Pretoria",
+      "latitude": -25.4418768,
+      "longitude": 28.1288265,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "gap:tshwane-north:n:2:4",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ5xg4UZ7Bvx4RdSfGxVEntzM",
+      "name": "The End Tarven",
+      "address": "13850, Kanana ext 10, Hammanskraal",
+      "latitude": -25.4079976,
+      "longitude": 28.2426855,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "gap:tshwane-north:n:3:6",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJVyb3UjHAvx4RTOL-02_O6fo",
+      "name": "Liquor Shop",
+      "address": "South Africa",
+      "latitude": -25.4056806,
+      "longitude": 28.2820601,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "generic name only",
+      "queryId": "gap:tshwane-north:n:3:7",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJPfbGyELAvx4Rrk1XPQZNL3g",
+      "name": "Temba Liquor Store",
+      "address": "South Africa",
+      "latitude": -25.3951764,
+      "longitude": 28.2649462,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap:tshwane-north:n:3:7",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJQVZ0Np3Bvx4RQSjZ_nUwvQ8",
+      "name": "MAHLORI'S PLACE",
+      "address": "LOLA STREET, SEKAMPANENG, Temba",
+      "latitude": -25.3914917,
+      "longitude": 28.2321016,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "gap:tshwane-north:n:4:5",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ0dPq9SK5vx4RZt-aMWh8kVE",
+      "name": "Rams complex corfutrim liquor store",
+      "address": "Mogogelo",
+      "latitude": -25.356346,
+      "longitude": 28.1357709,
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap:tshwane-north:n:5:3",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJcXTgkOm_vx4RiJbLTyhIVac",
+      "name": "itumeleng",
+      "address": "South Africa",
+      "latitude": -25.348219,
+      "longitude": 28.2828345,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap:tshwane-north:n:5:8",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJe_rBsr6Vvx4RTl31VLEQj98",
+      "name": "Safari Liquor Store",
+      "address": "South Africa",
+      "latitude": -25.3467719,
+      "longitude": 28.3709199,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap:tshwane-north:n:5:9",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJIX-jTvS7vx4RDIP3T6hlvkM",
+      "name": "MATHAMIWHITEMOUNTAIN",
+      "address": "3309b Riverside Section, Mathibestad",
+      "latitude": -25.2858058,
+      "longitude": 28.1662133,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "gap:tshwane-north:n:6:4",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJB3GwN46-vx4RYAAA5R_iKrA",
+      "name": "J&K",
+      "address": "Danhouse",
+      "latitude": -25.3039025,
+      "longitude": 28.2422997,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap:tshwane-north:n:6:6",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJobXtLlWlvx4R9vcx8fFeYDQ",
+      "name": "HM",
+      "address": "Makapanstad",
+      "latitude": -25.2289516,
+      "longitude": 28.1147171,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap:tshwane-north:n:8:2",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJe45rLAa7vx4R0vQvG-JPgbc",
+      "name": "Andzo's tarven",
+      "address": "4th evenew, Hammanskraal, Makapanstad",
+      "latitude": -25.237059,
+      "longitude": 28.1200893,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "gap:tshwane-north:n:8:2",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJBwJlCl2r6h4RI89AefmYBiA",
+      "name": "Liquor City Ekangala",
+      "address": "1123, Ekangala D, Bronkhorspruit",
+      "latitude": -25.6958077,
+      "longitude": 28.7460038,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "province unresolved",
+      "queryId": "gap:tshwane-east:n:2:7",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJxQa3kPP9vx4RictUWD9PFv0",
+      "name": "Lekwane Tarven & Restaurants",
+      "address": "3865 Ext2 Joe slovo, Refilwe, Pretoria",
+      "latitude": -25.6358439,
+      "longitude": 28.5222408,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "gap:tshwane-east:n:4:1",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJk2ZZs6pVlB4RbnXE7abi8eU",
+      "name": "konis inn tarven",
+      "address": "Zone 7b, 11412 Vena Street, Sebokeng",
+      "latitude": -26.54974,
+      "longitude": 27.86688999999999,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "gap:sedibeng-north:n:0:2",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJlZT-iABVlB4RwY7ADZXmbEw",
+      "name": "Brains Sorghum Beer Depot",
+      "address": "Union Road, Sebokeng Unit 3, Sebokeng",
+      "latitude": -26.5354068,
+      "longitude": 27.88115549999999,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "gap:sedibeng-north:n:0:2",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ4fN4F-FVlB4RgK_QYDl0EJg",
+      "name": "Cheers Inn",
+      "address": "567014 Sebokeng Zone3",
+      "latitude": -26.5313339,
+      "longitude": 27.873718,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "gap:sedibeng-north:n:0:2",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJR9Kt2G5TlB4RkESn6awu7gQ",
+      "name": "Mokhele's place",
+      "address": "1283 Sabelo Phama Street, Boitumelo, Sebokeng",
+      "latitude": -26.5634061,
+      "longitude": 27.8293655,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "gap:sedibeng-north:n:0:0",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJTwbegyBXlB4RgwtqSkHvUD0",
+      "name": "Sanza's Bev Den",
+      "address": "70 14578 washington street, beverly hills phase 5, Vereeniging",
+      "latitude": -26.5344077,
+      "longitude": 27.8141864,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "gap:sedibeng-north:n:0:0",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJg96z7p5UlB4R1CAXTxwUjrQ",
+      "name": "West End Bottle Store & Butchery",
+      "address": "South Africa",
+      "latitude": -26.5279528,
+      "longitude": 27.8351514,
+      "types": [
+        "liquor_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap:sedibeng-north:n:0:1",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJVwUHKtRUlB4ReU-d-u1rHeI",
+      "name": "Ha Sibongile",
+      "address": "Extension 1, Orange Farm",
+      "latitude": -26.4999156,
+      "longitude": 27.8748841,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "gap:sedibeng-north:n:1:2",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJi2zgkf_8lB4RKEpZph1YgGg",
+      "name": "Randvaal Liquor",
+      "address": "South Africa",
+      "latitude": -26.4988061,
+      "longitude": 28.0661504,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap:sedibeng-north:n:1:6",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJTe6r_KOrlR4REe9kN44CFM0",
+      "name": "Stimela's place",
+      "address": "10754 extension 7B, Orange Farm",
+      "latitude": -26.4730395,
+      "longitude": 27.8506636,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "gap:sedibeng-north:n:2:1",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJFYpzgm6rlR4Rvxe7IsAJsAc",
+      "name": "Kubheka S Liquor Store",
+      "address": "South Africa",
+      "latitude": -26.47039759999999,
+      "longitude": 27.84868519999999,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap:sedibeng-north:n:2:1",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJXSTvTHGrlR4R4QaNqHXegMA",
+      "name": "Brothers Place",
+      "address": "Golden Highway, Orange Farm, Johannesburg",
+      "latitude": -26.4621608,
+      "longitude": 27.8476837,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "gap:sedibeng-north:n:2:1",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJzaZXi8nZlB4RaEmQfUc5Frg",
+      "name": "Time & Again",
+      "address": "Shop 08 Heidelberg Road, Greater Nigel, Nigel",
+      "latitude": -26.4171986,
+      "longitude": 28.4645615,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "gap:nigel:n:0:1",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJD-uOHszZlB4Re0dGvP8fuEM",
+      "name": "Bonus Liquor Market",
+      "address": "South Africa",
+      "latitude": -26.4156269,
+      "longitude": 28.4700495,
+      "types": [
+        "liquor_store",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "reason": "weak / country-only address",
+      "queryId": "gap:nigel:n:0:1",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJAUxFFTZulR4RbfIREN5ydUA",
+      "name": "Tall Horse Wines",
+      "address": "724 16th Rd, Randjespark, Midrand, 1685, South Africa",
+      "latitude": -25.9699069,
+      "longitude": 28.1344206,
+      "types": [
+        "establishment",
+        "food",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "town:midrand:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJjVhJjrB2lR4R2qkSAE6AMYk",
+      "name": "Liquior shop",
+      "address": "Fourways Mall, Fourways, Ruby Cl, Fourways, Sandton, 2055, South Africa",
+      "latitude": -26.018662,
+      "longitude": 28.007836,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "generic name only",
+      "queryId": "town:fourways:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJt1xrgZSplR4RSoD-H8NrEok",
+      "name": "Lenyora 101 Liquor Store",
+      "address": "58 Town Road, Allie Cl, Ennerdale, 1830, South Africa",
+      "latitude": -26.4129564,
+      "longitude": 27.8340861,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:ennerdale:bottle-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJORqv-qBUlB4RfVZjUE_P0O4",
+      "name": "Green Valley Bottle Store (Disoufeng)",
+      "address": "48, 56 West Rd, Evaton Central, Evaton, 1985, South Africa",
+      "latitude": -26.520632,
+      "longitude": 27.8332009,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:orange-farm:bottle-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJo8G3a9RUlB4RT1_s1NavZzI",
+      "name": "MMM Bottle Store",
+      "address": "Stretford, 1805, South Africa",
+      "latitude": -26.49838,
+      "longitude": 27.87341,
+      "types": [
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ],
+      "reason": "tagged transit_station without liquor_store",
+      "queryId": "town:orange-farm:bottle-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJEV9qTINUlB4RfChTGaq6qLg",
+      "name": "Pooe's Liquor Store",
+      "address": "173 West Rd, Evaton Central, Evaton, 1985, South Africa",
+      "latitude": -26.53521,
+      "longitude": 27.83599,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:orange-farm:bottle-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJI03gXwCZlR4RImcOsuF_ylM",
+      "name": "West village bottle store",
+      "address": "West Village, Krugersdorp, 1739, South Africa",
+      "latitude": -26.1171084,
+      "longitude": 27.7534635,
+      "types": [
+        "establishment",
+        "point_of_interest",
+        "taxi_stand"
+      ],
+      "reason": "dedicated liquor-retail name",
+      "queryId": "town:krugersdorp:liquor-store",
+      "nearbyDifferentBrands": [],
+      "matchClass": "POSSIBLE_MATCH",
+      "existingId": "gplaces-ChIJu5KsF8SZlR4RIQf82wzjES0",
+      "existingName": "West Village Bottle Store",
+      "distanceMeters": 342,
+      "reasons": [
+        "same trading name without premises lock"
+      ]
+    },
+    {
+      "googlePlaceId": "ChIJF3HTmHq9lR4R_VX7kRRVEa0",
+      "name": "OVERLAND STUBBS LIQUOR STORE",
+      "address": "2 Potgieter St, Westerloor, Randfontein, 1759, South Africa",
+      "latitude": -26.1941195,
+      "longitude": 27.700566,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:randfontein:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ00R048SXlR4RT1lMs_fEi2Q",
+      "name": "Alma Cafe & Bottle Store",
+      "address": "35 Freda Ave, Gauteng, Randfontein, 1760, South Africa",
+      "latitude": -26.1699719,
+      "longitude": 27.70539,
+      "types": [
+        "bar",
+        "cafe",
+        "establishment",
+        "food",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:randfontein:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJjdZvo-HzlR4RuG4irjBdW6U",
+      "name": "Bra Coma's Place",
+      "address": "642, EkhayaStreet GA - Mogale, Magaliesburg, Krugersdorp, 1739, South Africa",
+      "latitude": -25.9949498,
+      "longitude": 27.5362284,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "unclear trading identity",
+      "queryId": "town:magaliesburg:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJdUXQDgDHlR4RoIi6lJRL7AM",
+      "name": "White House Simunye Bottle Store",
+      "address": "2678/1 Dove St, Blybank, Carletonville, 2499, South Africa",
+      "latitude": -26.3401513,
+      "longitude": 27.4719256,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:carletonville:bottle-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJN87Db_CelR4RD6A8g6_yMQ4",
+      "name": "Ruimsig Super Spar Tops",
+      "address": "Amorosa, Roodepoort, South Africa",
+      "latitude": -26.09368,
+      "longitude": 27.8684,
+      "types": [
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ],
+      "reason": "tagged transit_station without liquor_store",
+      "queryId": "town:muldersdrift:tops",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJk9a9dXF9lR4RxyJG4U7R1w8",
+      "name": "Moketi bottle store",
+      "address": "Shop 1F, Mphalane St, Saulsville, Pretoria, 0125, South Africa",
+      "latitude": -25.7790991,
+      "longitude": 28.0574274,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:atteridgeville:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJYxUv4oPZvx4RHUY9BdeNWOs",
+      "name": "V&M Kelders",
+      "address": "521 Lavender Rd, Wonderboom, Pretoria, 0182, South Africa",
+      "latitude": -25.652696,
+      "longitude": 28.1923385,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "town:pretoria-north:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ-ZPjPXUXlR4R8R_VBZUoNtk",
+      "name": "Motshweni Bottle Store",
+      "address": "37 Mabuya Ave, Wattville, Benoni, 1501, South Africa",
+      "latitude": -26.2146459,
+      "longitude": 28.292512,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:benoni:bottle-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJ9eHZVgARlR4R8fqJoikkF0g",
+      "name": "Mj bottle store",
+      "address": "29 Linton Jones St, Germiston South (Industries E A), Germiston, 1401, South Africa",
+      "latitude": -26.2214751,
+      "longitude": 28.169734,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:germiston:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJpRSSFQAhlR4RZ_yHI7QGV_4",
+      "name": "Madisenke liquor store",
+      "address": "1303 Mbula St, Tsakani, Brakpan, 1548, South Africa",
+      "latitude": -26.358998,
+      "longitude": 28.384599,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:brakpan:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJn9kPRQDXlB4RteUxcXRRNEU",
+      "name": "Mackenzieville Bottle Store",
+      "address": "134 Balfour Rd, Mackenzieville, Nigel, 1491, South Africa",
+      "latitude": -26.4400189,
+      "longitude": 28.5198547,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:nigel:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJwzKJSW8blR4RCSrbnojqw_o",
+      "name": "K1 Busy Corner BLUE BOTTLE LIQUORS EXPRESS",
+      "address": "1406 Moloto St, Nhlapo, Katlehong, 1431, South Africa",
+      "latitude": -26.3117552,
+      "longitude": 28.1555317,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:katlehong:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJJc9VHLIdlR4RoW3sQh_MEtY",
+      "name": "Mankwali Bottle Store",
+      "address": "Umbrella St, Greenfields, Katlehong, 1458, South Africa",
+      "latitude": -26.3918747,
+      "longitude": 28.1275153,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:katlehong:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJOyLkLGMflR4RcsgL6YJY6gU",
+      "name": "E Park Bottle store",
+      "address": "8012 Masianoke St, Vosloorus, 1486, South Africa",
+      "latitude": -26.34752,
+      "longitude": 28.21418,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:vosloorus:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJF93W5dXDlB4RSGW9IjUu748",
+      "name": "Batloung and Nkosi",
+      "address": "5751 Mogari Cres, Ratanda, Heidelberg - GP, 1443, South Africa",
+      "latitude": -26.5731761,
+      "longitude": 28.3249855,
+      "types": [
+        "establishment",
+        "liquor_store",
+        "point_of_interest",
+        "store"
+      ],
+      "reason": "liquor_store type but weak/unclear name",
+      "queryId": "town:ratanda:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJf8bZ2ipVlB4RnrRzJ-w-LMc",
+      "name": "Lovers Bottle Store",
+      "address": "14008 Motebang St, Sebokeng Unit 11, Sebokeng, 1983, South Africa",
+      "latitude": -26.5764878,
+      "longitude": 27.8479303,
+      "types": [
+        "bar",
+        "establishment",
+        "point_of_interest"
+      ],
+      "reason": "bar type with dedicated liquor name",
+      "queryId": "town:sebokeng:liquor-store",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJvQI6dNQOlR4RUD7qkf2sW1w",
+      "name": "Ultra Southdale",
+      "address": "Southdale, Johannesburg South, 2091, South Africa",
+      "latitude": -26.2411702,
+      "longitude": 28.0226588,
+      "types": [
+        "establishment",
+        "point_of_interest",
+        "shopping_mall"
+      ],
+      "reason": "shopping mall pin, not a shop",
+      "queryId": "chain:27:Ultra Liquors Johannesburg",
+      "matchClass": "REVIEW_REQUIRED"
+    },
+    {
+      "googlePlaceId": "ChIJOSPiZRkOlR4R6gwar_eld1I",
+      "name": "Ultra Liquor, Jules Str",
+      "address": "Malvern, Johannesburg, 2094, South Africa",
+      "latitude": -26.20263,
+      "longitude": 28.10458,
+      "types": [
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ],
+      "reason": "tagged transit_station without liquor_store",
+      "queryId": "chain:27:Ultra Liquors Johannesburg",
+      "matchClass": "REVIEW_REQUIRED"
+    }
+  ],
+  "osmSupport": [
+    {
+      "name": "Faeriedale Liquor Land",
+      "osmId": "node/293714851",
+      "latitude": -25.78945,
+      "longitude": 28.31454,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tops at Spar",
+      "osmId": "node/293714931",
+      "latitude": -25.7752524,
+      "longitude": 28.3360899,
+      "address": "Pretoria",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor City",
+      "osmId": "node/296232054",
+      "latitude": -25.78306,
+      "longitude": 28.29981,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Pic n Pay Liquor",
+      "osmId": "node/296435171",
+      "latitude": -25.7037844,
+      "longitude": 28.2409653,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor City",
+      "osmId": "node/302089179",
+      "latitude": -25.68031,
+      "longitude": 28.27319,
+      "address": "Tibouchina Street, Zambezi Junction Pretoria",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Picardi Rebel",
+      "osmId": "node/302089408",
+      "latitude": -25.6774026,
+      "longitude": 28.2491756,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "picknpay liquor",
+      "osmId": "node/302092696",
+      "latitude": -25.6788,
+      "longitude": 28.21714,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Pick n Pay Liquor",
+      "osmId": "node/303787258",
+      "latitude": -25.907275,
+      "longitude": 28.1412913,
+      "address": "Bothrill Avenue, Blu Valley Mall Centurion",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor City",
+      "osmId": "node/303800456",
+      "latitude": -25.88286,
+      "longitude": 28.16251,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Picardi Rebel",
+      "osmId": "node/303800659",
+      "latitude": -25.87641,
+      "longitude": 28.17508,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Pick n Pay Liquor",
+      "osmId": "node/307693547",
+      "latitude": -25.7472767,
+      "longitude": 28.1489269,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor City",
+      "osmId": "node/333575679",
+      "latitude": -26.0920901,
+      "longitude": 27.9770035,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor Boys",
+      "osmId": "node/373386161",
+      "latitude": -26.1035319,
+      "longitude": 27.9243815,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor Boys",
+      "osmId": "node/373387714",
+      "latitude": -26.1011813,
+      "longitude": 27.9412674,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor boys",
+      "osmId": "node/373467967",
+      "latitude": -26.0554233,
+      "longitude": 27.9644738,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liqour boys",
+      "osmId": "node/373468791",
+      "latitude": -26.0603314,
+      "longitude": 27.9578727,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tops at Spar",
+      "osmId": "node/396010095",
+      "latitude": -25.774494,
+      "longitude": 28.2404133,
+      "address": "Pretoria",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tops",
+      "osmId": "node/466057689",
+      "latitude": -25.79479,
+      "longitude": 28.30139,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Pick n Pay Liquors",
+      "osmId": "node/529395229",
+      "latitude": -25.8233316,
+      "longitude": 28.3118953,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tops at Spar",
+      "osmId": "node/550179552",
+      "latitude": -25.8076356,
+      "longitude": 28.2981166,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tops at Spar",
+      "osmId": "node/614776465",
+      "latitude": -26.1210103,
+      "longitude": 27.97682,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tops at Spar",
+      "osmId": "node/614836571",
+      "latitude": -26.12727,
+      "longitude": 27.9688,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tops",
+      "osmId": "node/656847956",
+      "latitude": -26.0826028,
+      "longitude": 28.0853943,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Ormonde liquor",
+      "osmId": "node/670232740",
+      "latitude": -26.2402015,
+      "longitude": 28.0058175,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquoranca",
+      "osmId": "node/859397776",
+      "latitude": -26.1507624,
+      "longitude": 27.943647,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Pick 'n Pay Liquor",
+      "osmId": "node/859398065",
+      "latitude": -26.1258937,
+      "longitude": 27.9038349,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor Store",
+      "osmId": "node/859398445",
+      "latitude": -26.1475023,
+      "longitude": 27.9214529,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor World",
+      "osmId": "node/859398519",
+      "latitude": -26.1413042,
+      "longitude": 27.922028,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Ultra liquors",
+      "osmId": "node/897271534",
+      "latitude": -26.1259425,
+      "longitude": 28.0851346,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Barrels & Bottles",
+      "osmId": "node/969090625",
+      "latitude": -26.073641,
+      "longitude": 28.0129275,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tops at Spar",
+      "osmId": "node/1001181972",
+      "latitude": -25.6432696,
+      "longitude": 28.1015193,
+      "address": "Pretoria",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor Warehouse",
+      "osmId": "node/1046184530",
+      "latitude": -26.1303189,
+      "longitude": 28.1601334,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Picardi Rebel",
+      "osmId": "node/1056217210",
+      "latitude": -26.1483194,
+      "longitude": 28.0801228,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor City",
+      "osmId": "node/1271439950",
+      "latitude": -26.1658069,
+      "longitude": 28.2558739,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Caribbean Liquorland",
+      "osmId": "node/1526144670",
+      "latitude": -26.2389691,
+      "longitude": 28.4059987,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor City",
+      "osmId": "node/1546940801",
+      "latitude": -25.7018331,
+      "longitude": 28.4223194,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tops",
+      "osmId": "node/1596034041",
+      "latitude": -26.6015635,
+      "longitude": 27.8462583,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor City",
+      "osmId": "node/1612964515",
+      "latitude": -26.1798869,
+      "longitude": 28.2434189,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Pick 'n Pay Liquor",
+      "osmId": "node/1613091206",
+      "latitude": -26.2655156,
+      "longitude": 28.0585924,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tops",
+      "osmId": "node/1620478202",
+      "latitude": -26.0366631,
+      "longitude": 28.0791478,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor City",
+      "osmId": "node/1632700188",
+      "latitude": -26.1681706,
+      "longitude": 28.2746027,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor City",
+      "osmId": "node/1640889373",
+      "latitude": -25.7686699,
+      "longitude": 28.2896611,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor Warehouse",
+      "osmId": "node/1641045831",
+      "latitude": -26.1159698,
+      "longitude": 28.0098745,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor Store",
+      "osmId": "node/1730591430",
+      "latitude": -26.3320813,
+      "longitude": 28.1165277,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor Store",
+      "osmId": "node/1731536479",
+      "latitude": -26.1742585,
+      "longitude": 27.9460634,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tops at Spar",
+      "osmId": "node/2479617389",
+      "latitude": -25.8760738,
+      "longitude": 28.1125958,
+      "address": "Centurion",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Alma's Bottle Store",
+      "osmId": "node/2882998948",
+      "latitude": -26.1699902,
+      "longitude": 27.7055651,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Maziya Bottle Store",
+      "osmId": "node/2964499706",
+      "latitude": -26.5022546,
+      "longitude": 27.8827871,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor Store",
+      "osmId": "node/3071919320",
+      "latitude": -26.303707,
+      "longitude": 28.447349,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor City",
+      "osmId": "node/3071928244",
+      "latitude": -25.6799397,
+      "longitude": 28.2419537,
+      "address": "Doctor Swanepoel Road",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tops",
+      "osmId": "node/5770357750",
+      "latitude": -25.8856211,
+      "longitude": 28.1036269,
+      "address": "Centurion",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "FGT Liquor Store",
+      "osmId": "node/5862356002",
+      "latitude": -26.1861201,
+      "longitude": 28.048771,
+      "address": "Claim Street",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Ultra Liquor Store",
+      "osmId": "node/6271252314",
+      "latitude": -26.1259965,
+      "longitude": 28.0847957,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Kirkney Liquor",
+      "osmId": "node/6403442777",
+      "latitude": -25.7162741,
+      "longitude": 28.1202785,
+      "address": "Van der Hoff Road Pretoria",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Pick n Pay Liquor",
+      "osmId": "node/6434248049",
+      "latitude": -25.6850244,
+      "longitude": 28.1888799,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "SA Liquors",
+      "osmId": "node/6446324838",
+      "latitude": -25.7166199,
+      "longitude": 28.1273256,
+      "address": "Pretoria",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "A.D. Liquor Store",
+      "osmId": "node/6509543268",
+      "latitude": -25.7192751,
+      "longitude": 28.1513105,
+      "address": "Van der Hoff Road Pretoria",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor City",
+      "osmId": "node/6515415533",
+      "latitude": -25.7447324,
+      "longitude": 28.2054699,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tops",
+      "osmId": "node/6547657887",
+      "latitude": -25.6279665,
+      "longitude": 28.2042073,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Tony's Liquor",
+      "osmId": "node/6551503177",
+      "latitude": -25.7511671,
+      "longitude": 28.2020886,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Pretoria West Liquor",
+      "osmId": "node/6603020026",
+      "latitude": -25.7171429,
+      "longitude": 28.1056269,
+      "address": "Pretoria",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "SaveMor Liquor",
+      "osmId": "node/6605147165",
+      "latitude": -25.7251617,
+      "longitude": 28.1635898,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "LiquorShop Checkers",
+      "osmId": "node/6669821112",
+      "latitude": -25.6989795,
+      "longitude": 28.1834963,
+      "address": "Pretoria",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "OK Liquor",
+      "osmId": "node/6802058696",
+      "latitude": -25.7467695,
+      "longitude": 28.113768,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Booboo's Liquor Store",
+      "osmId": "node/7246606247",
+      "latitude": -25.7677072,
+      "longitude": 28.077874,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "LiquorShop Checkers",
+      "osmId": "node/7409879841",
+      "latitude": -25.7831011,
+      "longitude": 28.274642,
+      "address": "Menlo Park",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Checkers Liquor",
+      "osmId": "node/7424910565",
+      "latitude": -25.6699601,
+      "longitude": 28.1113817,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Shoprite Liquor Store",
+      "osmId": "node/7991163185",
+      "latitude": -25.5095117,
+      "longitude": 28.1061536,
+      "address": "Phumulani Crescent",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Jakaranda Liquor Store",
+      "osmId": "node/8323384969",
+      "latitude": -25.6586147,
+      "longitude": 28.0819217,
+      "address": "Longmore Road",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Liquor City",
+      "osmId": "node/9698543403",
+      "latitude": -25.9744899,
+      "longitude": 28.0802063,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "LiquorShop Shoprite",
+      "osmId": "node/10026543132",
+      "latitude": -26.2030462,
+      "longitude": 28.0443558,
+      "address": "80 Pritchard Street Johannesburg",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "TOPS",
+      "osmId": "node/10057769083",
+      "latitude": -25.733808,
+      "longitude": 28.3035423,
+      "address": "617 Pretoria Road Silverton Pretoria",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "LiquorShop Checkers",
+      "osmId": "node/10058053100",
+      "latitude": -25.6732103,
+      "longitude": 28.1733647,
+      "address": "Pretoria",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Pick n Pay Liquor",
+      "osmId": "node/10776505261",
+      "latitude": -26.0386323,
+      "longitude": 27.9933655,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "LiquorShop Checkers",
+      "osmId": "node/11218084017",
+      "latitude": -25.6816452,
+      "longitude": 28.2519358,
+      "address": "Pretoria",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Pick n Pay Liquor",
+      "osmId": "node/11310679324",
+      "latitude": -26.0168349,
+      "longitude": 27.9986881,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "LiquorShop Checkers",
+      "osmId": "node/11878821064",
+      "latitude": -25.8242237,
+      "longitude": 28.315655,
+      "address": "Pretoria",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Ultra Liquors Centurion",
+      "osmId": "node/12290219401",
+      "latitude": -25.8624043,
+      "longitude": 28.1880383,
+      "address": "6 Kersieboom Crescent",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Pick n Pay Liquor",
+      "osmId": "node/13036771509",
+      "latitude": -26.3441573,
+      "longitude": 28.216229,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    },
+    {
+      "name": "Rhodesfield Liquor Store",
+      "osmId": "way/261373087",
+      "latitude": -26.1200648,
+      "longitude": 28.2304627,
+      "address": null,
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "OSM dedicated name not auto-added (no Google pin)"
+    }
+  ],
+  "gazetteAndLocator": [
+    {
+      "name": "Drinkify Liquors",
+      "address": "Shop No. 2 Arlington House, Corner Kerk / Rahima Moosa / Rissik / Loveday, Johannesburg",
+      "source": "Gauteng gazette 2025/312",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "liquor-store application; no current Google pin"
+    },
+    {
+      "name": "Harmonie Liquor Shop",
+      "address": "66 Friedman Street, Kempton Park",
+      "source": "Gauteng gazette 2025/343",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "liquor-store application; Google shows pharmacy at that street number"
+    },
+    {
+      "name": "LG Liquors",
+      "address": "401 Aroma Crescent, Lotus Gardens, Tshwane",
+      "source": "Gauteng gazette 2026/142",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "liquor-store application; Google has the street only"
+    },
+    {
+      "name": "All Seasons Liquor Store",
+      "address": "76 High Street, Mayfair West, Johannesburg",
+      "source": "Gauteng gazette 2024/231",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "liquor-store application; not verified on Google under this trading name"
+    },
+    {
+      "name": "Grove Liquor Store",
+      "address": "207 Louis Botha Avenue, Orange Grove, Johannesburg",
+      "source": "Gauteng gazette 2024/133",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "application; Google has Liquor and Ice on Louis Botha, identity uncertain"
+    },
+    {
+      "name": "Uptown Liquor Store",
+      "address": "250 Albertina Sisulu Street, Johannesburg CBD",
+      "source": "Gauteng gazette 2024/133",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "application; not verified as a current pin"
+    },
+    {
+      "name": "Berea Hyper Liquor",
+      "address": "7-9 Tudhope Avenue, Berea, Johannesburg",
+      "source": "Gauteng gazette 2025/343",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "application; no current Google bottle-store pin"
+    },
+    {
+      "name": "Ayobus Liquor Store",
+      "address": "66 Kotze Street, Hillbrow, Johannesburg",
+      "source": "Gauteng gazette 2025/310",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "application; Hillbrow Liquor already nearby, identity uncertain — not merged"
+    },
+    {
+      "name": "Raborife Liquor Store",
+      "address": "417 Hlatywayo Street, Orlando East, Soweto",
+      "source": "Gauteng gazette 2025/312",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "application; not verified under this trading name"
+    },
+    {
+      "name": "OK Liquor Stoneridge",
+      "address": "Shop XXOU012, Stoneridge Centre, Greenstone Hill",
+      "source": "Gauteng gazette 2025/312",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "application; Google currently shows OK FOODS grocery at Stoneridge"
+    },
+    {
+      "name": "Pick n Pay Liquor Fleurhof Mall",
+      "address": "Stand 2956 Ext 33, Helpmekaar Street, Fleurhof",
+      "source": "Gauteng gazette 2026/107",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "application for a new store; mall pin only, not open/verified"
+    },
+    {
+      "name": "Ultra Liquors Mamelodi",
+      "address": "1683 Tsamaya Street, Mahube Valley, Mamelodi",
+      "source": "Gauteng gazette 2025/343",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "application; Google shows Kit Kat Cash & Carry at that address"
+    },
+    {
+      "name": "Ultra Liquors Meyerton Express",
+      "address": "Erf 28, Loch Street, Meyerton",
+      "source": "Ultra official locator",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "locator branch; Google did not return a current Ultra pin on Loch Street"
+    },
+    {
+      "name": "Moiloa Liquor Store",
+      "address": "Stand 1118/9 Molele Street, Molapo, Soweto",
+      "source": "Gauteng gazette 2024/231",
+      "matchClass": "REVIEW_REQUIRED",
+      "reason": "application; not verified under this trading name"
+    }
+  ]
+}

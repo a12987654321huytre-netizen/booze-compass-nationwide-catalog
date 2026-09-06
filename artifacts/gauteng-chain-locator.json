@@ -1,0 +1,3336 @@
+{
+  "matched": [
+    {
+      "locator": {
+        "name": "Ultra Liquors Alrode",
+        "address": "37 Bosworth St, Alrode, Alberton, 1451",
+        "town": "Alberton"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJLbyYEvUblR4R1mkdZvCRVdw",
+          "name": "Ultra Liquors Alberton"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Atteridgeville Express",
+        "address": "Erf 16248, Cnr Khosa, Phudufufu & Umkhombe Streets, Atteridgeville Ext 25, Pretoria",
+        "town": "Atteridgeville"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJC0MSkasTlR4RcjRJlFGSm0o",
+          "name": "Ultra Liquors Edenvale"
+        },
+        {
+          "id": "gplaces-ChIJbz21PeSdlR4RaqEdRteWxRc",
+          "name": "Ultra Liquors Rietfontein"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Carletonville",
+        "address": "2 Onyx Street, Carletonville",
+        "town": "Carletonville"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJlTZOcZLElR4RedUTEWCLcic",
+          "name": "Ul Ultra Liquors"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Carletonville Express",
+        "address": "Erf 1424, Shop 5, Annan Wedge Shopping Centre, Annan Road, Carletonville Ext 2",
+        "town": "Carletonville"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJH426QNt3lR4R0JR2k7a-iNU",
+          "name": "Ultra Liquors Fourways"
+        },
+        {
+          "id": "gplaces-ChIJyV90gVkjlR4R0lGGrSt00vE",
+          "name": "Ultra Liquors Sherwood"
+        },
+        {
+          "id": "gplaces-ChIJLbyYEvUblR4R1mkdZvCRVdw",
+          "name": "Ultra Liquors Alberton"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Church Street",
+        "address": "92 WF Nkomo Street, Pretoria West",
+        "town": "Pretoria"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ_3UGqONglR4RUcpV3vJH1QQ",
+          "name": "ULTRA Liquor Express Hazelwood."
+        },
+        {
+          "id": "gplaces-ChIJM9_AJ4RilR4RNpwob-tV4Lw",
+          "name": "ULTRA Liquors Pretoria West"
+        },
+        {
+          "id": "gplaces-ChIJX4i8xdpflR4R8IE8UItskcg",
+          "name": "ULTRA Liquors Meyerspark"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Corlett Drive",
+        "address": "220/228 Louis Botha Ave & Corlett Dr, Bramley, Johannesburg, 2090",
+        "town": "Johannesburg"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJI66MnBMNlR4RgL05I_IRQEw",
+          "name": "Ultra Liquors - Corlett"
+        },
+        {
+          "id": "gplaces-ChIJz8usztoPlR4RG9GLKB2cArY",
+          "name": "Ultra Liquors Steeldale"
+        },
+        {
+          "id": "gplaces-ChIJ2Wyl17yZlR4RmyqDZe2capo",
+          "name": "Victoria Ultra Liquors"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Cresta",
+        "address": "Corner of Beyers Naude and Weltevreden Road, Blackheath, Randburg",
+        "town": "Randburg"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJjdAmEdF1lR4R3bBd2QZov6M",
+          "name": "Ultra Liquors Malanshof"
+        },
+        {
+          "id": "gplaces-ChIJyV90gVkjlR4R0lGGrSt00vE",
+          "name": "Ultra Liquors Sherwood"
+        },
+        {
+          "id": "gplaces-ChIJf4Tapn0MlR4R6Mcx3HCsdRA",
+          "name": "Ultra Liquors Parkview"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Eastleigh Edenvale",
+        "address": "Central And Main Road, Eastleigh, Edenvale",
+        "town": "Edenvale"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJyV90gVkjlR4R0lGGrSt00vE",
+          "name": "Ultra Liquors Sherwood"
+        },
+        {
+          "id": "gplaces-ChIJC0MSkasTlR4RcjRJlFGSm0o",
+          "name": "Ultra Liquors Edenvale"
+        },
+        {
+          "id": "gplaces-ChIJbz21PeSdlR4RaqEdRteWxRc",
+          "name": "Ultra Liquors Rietfontein"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Hazelwood",
+        "address": "22 Pinaster Ave, Hazelwood, Pretoria, 0081",
+        "town": "Pretoria"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ_3UGqONglR4RUcpV3vJH1QQ",
+          "name": "ULTRA Liquor Express Hazelwood."
+        },
+        {
+          "id": "gplaces-ChIJM9_AJ4RilR4RNpwob-tV4Lw",
+          "name": "ULTRA Liquors Pretoria West"
+        },
+        {
+          "id": "gplaces-ChIJX4i8xdpflR4R8IE8UItskcg",
+          "name": "ULTRA Liquors Meyerspark"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Heidelberg",
+        "address": "Portion 3, Erf 6858, Makapan Street, Heidelberg, Sedibeng, Gauteng",
+        "town": "Heidelberg"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJx3yjsUbdlB4RXPeMSoWkbnk",
+          "name": "Ultra Liquor Heidelberg"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Jules Street",
+        "address": "441 Jules St, Malvern, Johannesburg, 2094",
+        "town": "Johannesburg"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJI66MnBMNlR4RgL05I_IRQEw",
+          "name": "Ultra Liquors - Corlett"
+        },
+        {
+          "id": "gplaces-ChIJz8usztoPlR4RG9GLKB2cArY",
+          "name": "Ultra Liquors Steeldale"
+        },
+        {
+          "id": "gplaces-ChIJ2Wyl17yZlR4RmyqDZe2capo",
+          "name": "Victoria Ultra Liquors"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Magalies",
+        "address": "41 Rustenburg Road, Magaliesburg",
+        "town": "Magaliesburg"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJf8FkNe6ZlR4Rx8IkJUyg6eM",
+          "name": "Ultra Liquors Rembrandt"
+        },
+        {
+          "id": "gplaces-ChIJzXPV7irzlR4R6wHIabeKVNw",
+          "name": "Ultra Liquors Magalies"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Malanshof Express",
+        "address": "Cnr Philip Le Roux Avenue + 16 Hans Schoeman Streets, Malanshof Shopping Centre, Malanshof, Randburg",
+        "town": "Randburg"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJjdAmEdF1lR4R3bBd2QZov6M",
+          "name": "Ultra Liquors Malanshof"
+        },
+        {
+          "id": "gplaces-ChIJH426QNt3lR4R0JR2k7a-iNU",
+          "name": "Ultra Liquors Fourways"
+        },
+        {
+          "id": "gplaces-ChIJLY6S02D3lB4Ro-MsT92zfoc",
+          "name": "Ultra Liquors Vereeniging CBD"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Mamelodi",
+        "address": "7262 Tsamaya Avenue, Mamelodi, Pretoria, 0147",
+        "town": "Mamelodi"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ_3UGqONglR4RUcpV3vJH1QQ",
+          "name": "ULTRA Liquor Express Hazelwood."
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Orange Farm",
+        "address": "Orange Farm Town Square, Stretford Station, No. 1 Link Road, Orange Farm, Soweto, 1841",
+        "town": "Orange Farm"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJz8usztoPlR4RG9GLKB2cArY",
+          "name": "Ultra Liquors Steeldale"
+        },
+        {
+          "id": "gplaces-ChIJyV90gVkjlR4R0lGGrSt00vE",
+          "name": "Ultra Liquors Sherwood"
+        },
+        {
+          "id": "gplaces-ChIJhzd4DGWrlR4RffskbxwY-cg",
+          "name": "Ultra Liqours"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Park Vanderbijlpark",
+        "address": "25 Shakespeare Road, Vanderbijlpark",
+        "town": "Vanderbijlpark"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJQZ6YdT1alB4RbngwXqdxA-g",
+          "name": "ULTRA Liquors"
+        },
+        {
+          "id": "gplaces-ChIJb_TbrR5alB4R_q3EzRLJIqk",
+          "name": "Ultra Liquor Store"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Parkview",
+        "address": "54 Tyrone Ave, Parkview, Johannesburg, 2122",
+        "town": "Johannesburg"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJI66MnBMNlR4RgL05I_IRQEw",
+          "name": "Ultra Liquors - Corlett"
+        },
+        {
+          "id": "gplaces-ChIJz8usztoPlR4RG9GLKB2cArY",
+          "name": "Ultra Liquors Steeldale"
+        },
+        {
+          "id": "gplaces-ChIJ2Wyl17yZlR4RmyqDZe2capo",
+          "name": "Victoria Ultra Liquors"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Paul Kruger",
+        "address": "561 Paul Kruger St, Eloffsdal, Pretoria, 0084",
+        "town": "Pretoria"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ_3UGqONglR4RUcpV3vJH1QQ",
+          "name": "ULTRA Liquor Express Hazelwood."
+        },
+        {
+          "id": "gplaces-ChIJM9_AJ4RilR4RNpwob-tV4Lw",
+          "name": "ULTRA Liquors Pretoria West"
+        },
+        {
+          "id": "gplaces-ChIJX4i8xdpflR4R8IE8UItskcg",
+          "name": "ULTRA Liquors Meyerspark"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Pepper Square",
+        "address": "Cnr Oosthuizen & North Rand Road, Pepper Square Mall, Bardene Ext 12, Boksburg, 1459",
+        "town": "Boksburg"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJyTZH3J0Jvh4RgnFlHMO_l8s",
+          "name": "Ultra Liquors Platinum Square"
+        },
+        {
+          "id": "gplaces-ChIJyV90gVkjlR4R0lGGrSt00vE",
+          "name": "Ultra Liquors Sherwood"
+        },
+        {
+          "id": "gplaces-ChIJDRfxTQALlR4RowPGII6hhhU",
+          "name": "Ultra Liquors - Florida"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Rembrandt",
+        "address": "111 Rustenburg Road, Krugersdorp",
+        "town": "Krugersdorp"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ2Wyl17yZlR4RmyqDZe2capo",
+          "name": "Victoria Ultra Liquors"
+        },
+        {
+          "id": "gplaces-ChIJf8FkNe6ZlR4Rx8IkJUyg6eM",
+          "name": "Ultra Liquors Rembrandt"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Rietfontein",
+        "address": "Plot 141, Cnr Beyers Naude & College Rd, Muldersdrift",
+        "town": "Muldersdrift"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJC0MSkasTlR4RcjRJlFGSm0o",
+          "name": "Ultra Liquors Edenvale"
+        },
+        {
+          "id": "gplaces-ChIJbz21PeSdlR4RaqEdRteWxRc",
+          "name": "Ultra Liquors Rietfontein"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Sherwood Brakpan Express",
+        "address": "Cnr Hospital And Craven Road, Sherwood, Brakpan",
+        "town": "Brakpan"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJyV90gVkjlR4R0lGGrSt00vE",
+          "name": "Ultra Liquors Sherwood"
+        },
+        {
+          "id": "gplaces-ChIJC0MSkasTlR4RcjRJlFGSm0o",
+          "name": "Ultra Liquors Edenvale"
+        },
+        {
+          "id": "gplaces-ChIJbz21PeSdlR4RaqEdRteWxRc",
+          "name": "Ultra Liquors Rietfontein"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Southdale Express",
+        "address": "Shop 8, Southdale Shopping Centre, Alamein Rd, Southdale",
+        "town": "Johannesburg"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJI66MnBMNlR4RgL05I_IRQEw",
+          "name": "Ultra Liquors - Corlett"
+        },
+        {
+          "id": "gplaces-ChIJH426QNt3lR4R0JR2k7a-iNU",
+          "name": "Ultra Liquors Fourways"
+        },
+        {
+          "id": "gplaces-ChIJz8usztoPlR4RG9GLKB2cArY",
+          "name": "Ultra Liquors Steeldale"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Springbok Springs",
+        "address": "7 Ermelo Road, Strubenvale, Springs",
+        "town": "Springs"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJE3uQT7wllR4RF4Cs-SL16VE",
+          "name": "Ultra liquors springs"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Steeldale Express",
+        "address": "Cnr Proton & Southern, Klipriviersberg Rd, Steeldale, Alberton",
+        "town": "Alberton"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJLbyYEvUblR4R1mkdZvCRVdw",
+          "name": "Ultra Liquors Alberton"
+        },
+        {
+          "id": "gplaces-ChIJC0MSkasTlR4RcjRJlFGSm0o",
+          "name": "Ultra Liquors Edenvale"
+        },
+        {
+          "id": "gplaces-ChIJbz21PeSdlR4RaqEdRteWxRc",
+          "name": "Ultra Liquors Rietfontein"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Summerfield Express",
+        "address": "Shop 1, Summerfield Shopping Centre, Cnr Reier Rd & Finch Street, Atlasville Ext 2, Boksburg",
+        "town": "Boksburg"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJH426QNt3lR4R0JR2k7a-iNU",
+          "name": "Ultra Liquors Fourways"
+        },
+        {
+          "id": "gplaces-ChIJyV90gVkjlR4R0lGGrSt00vE",
+          "name": "Ultra Liquors Sherwood"
+        },
+        {
+          "id": "gplaces-ChIJLbyYEvUblR4R1mkdZvCRVdw",
+          "name": "Ultra Liquors Alberton"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Vaal Hyper Express",
+        "address": "2 Gill Street, Vanderbijlpark",
+        "town": "Vanderbijlpark"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJQZ6YdT1alB4RbngwXqdxA-g",
+          "name": "ULTRA Liquors"
+        },
+        {
+          "id": "gplaces-ChIJb_TbrR5alB4R_q3EzRLJIqk",
+          "name": "Ultra Liquor Store"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Victoria",
+        "address": "12 Market Street, Krugersdorp",
+        "town": "Krugersdorp"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ2Wyl17yZlR4RmyqDZe2capo",
+          "name": "Victoria Ultra Liquors"
+        },
+        {
+          "id": "gplaces-ChIJf8FkNe6ZlR4Rx8IkJUyg6eM",
+          "name": "Ultra Liquors Rembrandt"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Westgate Express",
+        "address": "Shop 46, Westgate Shopping Centre, Ontdekkers Road, Roodepoort",
+        "town": "Roodepoort"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJH426QNt3lR4R0JR2k7a-iNU",
+          "name": "Ultra Liquors Fourways"
+        },
+        {
+          "id": "gplaces-ChIJyV90gVkjlR4R0lGGrSt00vE",
+          "name": "Ultra Liquors Sherwood"
+        },
+        {
+          "id": "gplaces-ChIJLbyYEvUblR4R1mkdZvCRVdw",
+          "name": "Ultra Liquors Alberton"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Wolmer Express",
+        "address": "142 Main Road, Pretoria North",
+        "town": "Pretoria North"
+      },
+      "brand": "ultra",
+      "existing": [
+        {
+          "id": "gplaces-ChIJyV90gVkjlR4R0lGGrSt00vE",
+          "name": "Ultra Liquors Sherwood"
+        },
+        {
+          "id": "gplaces-ChIJDRfxTQALlR4RowPGII6hhhU",
+          "name": "Ultra Liquors - Florida"
+        },
+        {
+          "id": "gplaces-ChIJC0MSkasTlR4RcjRJlFGSm0o",
+          "name": "Ultra Liquors Edenvale"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Akasia",
+        "address": "Karen Park Crossing, Cnr Heinrich & Doreg Ave",
+        "town": "Akasia"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Akasia Orchards",
+        "address": "Shop 13 Orchards Shopping Centre, Cnr Doreen and Garden Roads",
+        "town": "Akasia"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJKQMxqi0wvh4RWT3uZ5ccZLg",
+          "name": "tops at SPAR"
+        },
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJr3WXbSZulR4RQ7mfScB0EcQ",
+          "name": "TOPS at SPAR Carlswald"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Arcadia",
+        "address": "Cnr Park & 329 Wessels Streets",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Atlasville",
+        "address": "Cnr Finch & Reier Street",
+        "town": "Boksburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Bardene",
+        "address": "Cnr North Rand Road & 1st Street",
+        "town": "Boksburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Bedfordview",
+        "address": "11 Nicol Road & van Buuren Road",
+        "town": "Bedfordview"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJizYmvHYRlR4RbTkI39y_4iA",
+          "name": "TOPS at SPAR Primrose"
+        },
+        {
+          "id": "gplaces-ChIJpclC3poVlR4Rb5wtm-5-O8g",
+          "name": "TOPS at SPAR Stop N Go"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Benoni Totius",
+        "address": "111 Totius Rd",
+        "town": "Benoni"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJP84EeJI9lR4RVc8GYQBzSNw",
+          "name": "TOPS at SPAR The Falls"
+        },
+        {
+          "id": "gplaces-ChIJvXKdSXI9lR4RpdegGkBX_rg",
+          "name": "TOPS at SPAR The Market Benoni"
+        },
+        {
+          "id": "gplaces-ChIJmyKgQ309lR4RvgbS60nRmLs",
+          "name": "TOPS at SPAR Rynfield"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Benoni Tom Jones",
+        "address": "C/O Tom Jones & Ampthill Avenue",
+        "town": "Benoni"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJP84EeJI9lR4RVc8GYQBzSNw",
+          "name": "TOPS at SPAR The Falls"
+        },
+        {
+          "id": "gplaces-ChIJvXKdSXI9lR4RpdegGkBX_rg",
+          "name": "TOPS at SPAR The Market Benoni"
+        },
+        {
+          "id": "gplaces-ChIJmyKgQ309lR4RvgbS60nRmLs",
+          "name": "TOPS at SPAR Rynfield"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Benoni Great North",
+        "address": "Cnr Great North Rd & Webb Street",
+        "town": "Benoni"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Bergbron",
+        "address": "Cnr Gordon Rd & Bergbron St",
+        "town": "Johannesburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJmXE6YSQMlR4RJO4NadiK_J8",
+          "name": "TOPS at SPAR Fontana Highpoint"
+        },
+        {
+          "id": "gplaces-ChIJp37_E7MPlR4R03iH_FNHrk8",
+          "name": "TOPS at SPAR Ghandi"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Bertrams",
+        "address": "Cnr Albertina Sisulu & Fuller Str",
+        "town": "Johannesburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJmXE6YSQMlR4RJO4NadiK_J8",
+          "name": "TOPS at SPAR Fontana Highpoint"
+        },
+        {
+          "id": "gplaces-ChIJp37_E7MPlR4R03iH_FNHrk8",
+          "name": "TOPS at SPAR Ghandi"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Bronkhorstspruit",
+        "address": "29 Lanham Street",
+        "town": "Bronkhorstspruit"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJXVpdXBSy6h4RZygECSq_JaQ",
+          "name": "TOPS at SPAR Bronco"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Buccleuch",
+        "address": "The Bridge S/Centre, 10 Gibson Drive",
+        "town": "Midrand"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJr3WXbSZulR4RQ7mfScB0EcQ",
+          "name": "TOPS at SPAR Carlswald"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Carlswald",
+        "address": "Cnr New & Lever Road",
+        "town": "Midrand"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJr3WXbSZulR4RQ7mfScB0EcQ",
+          "name": "TOPS at SPAR Carlswald"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Centurion Springbok",
+        "address": "184 Springbok Street",
+        "town": "Centurion"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ-Ur0aPFllR4RQWiQQNeZu3Q",
+          "name": "TOPS at SPAR Lenchen Avenue"
+        },
+        {
+          "id": "gplaces-ChIJT90yS0hllR4Rowi9juQI4oQ",
+          "name": "TOPS at SPAR Jean Avenue"
+        },
+        {
+          "id": "gplaces-ChIJfSNnTtpllR4RWECk8xepun0",
+          "name": "TOPS at SPAR Centurion"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Centurion Theuns",
+        "address": "402 Theuns van Niekerk Street",
+        "town": "Centurion"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ-Ur0aPFllR4RQWiQQNeZu3Q",
+          "name": "TOPS at SPAR Lenchen Avenue"
+        },
+        {
+          "id": "gplaces-ChIJT90yS0hllR4Rowi9juQI4oQ",
+          "name": "TOPS at SPAR Jean Avenue"
+        },
+        {
+          "id": "gplaces-ChIJfSNnTtpllR4RWECk8xepun0",
+          "name": "TOPS at SPAR Centurion"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Centurion Jean",
+        "address": "C/o Jean Ave & Lenchen Street",
+        "town": "Centurion"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        },
+        {
+          "id": "gplaces-ChIJtU0kkYt0lR4Rh2FA_IT0E0g",
+          "name": "TOPS at SPAR Ferndale"
+        },
+        {
+          "id": "gplaces-ChIJtXDPDDVhlR4RMZFAhQ8MQOU",
+          "name": "TOPS at SPAR Waterkloof"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Clubview",
+        "address": "Clubview Corner Centre, Cnr Harvard and Lyttelton Ave",
+        "town": "Centurion"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Centurion Logan",
+        "address": "Cnr Logan Ave & John Vorster Drive",
+        "town": "Centurion"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Olievenhoutbosch",
+        "address": "Cnr Marais & Voortrekker Road, R55",
+        "town": "Centurion"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Lyttelton",
+        "address": "Cnr Van Riebeeck and Andries Pretorius Streets",
+        "town": "Centurion"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Centurion Crescent",
+        "address": "Shop 12, Centurion Crescent Shopping Centre",
+        "town": "Centurion"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJKQMxqi0wvh4RWT3uZ5ccZLg",
+          "name": "tops at SPAR"
+        },
+        {
+          "id": "gplaces-ChIJr3WXbSZulR4RQ7mfScB0EcQ",
+          "name": "TOPS at SPAR Carlswald"
+        },
+        {
+          "id": "gplaces-ChIJVSjoytFhlR4REtfAfMA4JaU",
+          "name": "TOPS at SPAR Queenswood"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Clayville",
+        "address": "Ext 52, c/o Aluminium & Olifantsfontein Road",
+        "town": "Clayville"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJhzVIs4oRlR4R2cD1SBqGH0s",
+          "name": "TOPS at SPAR Bedfordview"
+        },
+        {
+          "id": "gplaces-ChIJ5WK1OLmflR4R65u7Vo9_V3k",
+          "name": "TOPS at SPAR Retail Crossing"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Dowerglen",
+        "address": "73 Sycamore Drive, Cnr Elm Street",
+        "town": "Edenvale"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        },
+        {
+          "id": "gplaces-ChIJtU0kkYt0lR4Rh2FA_IT0E0g",
+          "name": "TOPS at SPAR Ferndale"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Ebony Park",
+        "address": "Stand 1602 Cnr Bluegum & Arcacia Street",
+        "town": "Midrand"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJr3WXbSZulR4RQ7mfScB0EcQ",
+          "name": "TOPS at SPAR Carlswald"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Elardus Park",
+        "address": "Elardus Park Centre, 837 Barnard Street",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJl9lGDBGBlh4RmjU6yQpfnSI",
+          "name": "TOPS at SPAR Baillie Park"
+        },
+        {
+          "id": "gplaces-ChIJi6XIphiglR4RQY_7CLExG28",
+          "name": "TOPS at SPAR Florida Junction"
+        },
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Equestria Hwy",
+        "address": "Cnr Equestria Road & The Hwy Street",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Equestria Simon Vermooten",
+        "address": "Cnr Simon Vermooten & Furrow Street",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Fairland",
+        "address": "189 Smit Street",
+        "town": "Johannesburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJmXE6YSQMlR4RJO4NadiK_J8",
+          "name": "TOPS at SPAR Fontana Highpoint"
+        },
+        {
+          "id": "gplaces-ChIJp37_E7MPlR4R03iH_FNHrk8",
+          "name": "TOPS at SPAR Ghandi"
+        },
+        {
+          "id": "gplaces-ChIJe0tcRp49lR4Rle8rp5IC7KM",
+          "name": "TOPS at SPAR Jeppe"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Featherbrooke",
+        "address": "Cnr Furrow & Falls Road",
+        "town": "Krugersdorp"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Ferndale",
+        "address": "Cnr Main Rd & Oxford St",
+        "town": "Randburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Fourways Delphinus",
+        "address": "366 Delphinus Street",
+        "town": "Fourways"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ00ZC7cZ2lR4R_kjKA1GPyrg",
+          "name": "TOPS at SPAR Fourways Gardens"
+        },
+        {
+          "id": "gplaces-ChIJaS_-A6R2lR4RTWbaz3EID7I",
+          "name": "TOPS at SPAR Kingfisher"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Fourways Kingfisher",
+        "address": "Cnr Kingfisher & Alexander Streets",
+        "town": "Fourways"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Fourways Witkoppen",
+        "address": "Cnr Witkoppen Road & The Straight",
+        "town": "Fourways"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Germiston Webber",
+        "address": "Shop 9, Cnr Webber & Angus Road",
+        "town": "Germiston"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJIfZ4VRkJvh4RRVX_y3A3j80",
+          "name": "TOPS at SPAR Safari"
+        },
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Garsfontein",
+        "address": "948 St Bernard Drive",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJVSjoytFhlR4REtfAfMA4JaU",
+          "name": "TOPS at SPAR Queenswood"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Hennopspark",
+        "address": "Hennopsview Centre, Cnr Blackwood & Klip Str",
+        "town": "Centurion"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Hercules",
+        "address": "547 Moot Street, Daspoort",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJVSjoytFhlR4REtfAfMA4JaU",
+          "name": "TOPS at SPAR Queenswood"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Honeydew Ridge",
+        "address": "Cnr Paul Kruger & Mozart Str",
+        "town": "Roodepoort"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJi6XIphiglR4RQY_7CLExG28",
+          "name": "TOPS at SPAR Florida Junction"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Johannesburg Jeppe",
+        "address": "157 Jeppe & Rissik Street",
+        "town": "Johannesburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJmXE6YSQMlR4RJO4NadiK_J8",
+          "name": "TOPS at SPAR Fontana Highpoint"
+        },
+        {
+          "id": "gplaces-ChIJp37_E7MPlR4R03iH_FNHrk8",
+          "name": "TOPS at SPAR Ghandi"
+        },
+        {
+          "id": "gplaces-ChIJe0tcRp49lR4Rle8rp5IC7KM",
+          "name": "TOPS at SPAR Jeppe"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Johannesburg Eloff",
+        "address": "41 Eloff Street",
+        "town": "Johannesburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJmXE6YSQMlR4RJO4NadiK_J8",
+          "name": "TOPS at SPAR Fontana Highpoint"
+        },
+        {
+          "id": "gplaces-ChIJp37_E7MPlR4R03iH_FNHrk8",
+          "name": "TOPS at SPAR Ghandi"
+        },
+        {
+          "id": "gplaces-ChIJe0tcRp49lR4Rle8rp5IC7KM",
+          "name": "TOPS at SPAR Jeppe"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Braamfontein",
+        "address": "Cnr Main & Bertha Road",
+        "town": "Johannesburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJmXE6YSQMlR4RJO4NadiK_J8",
+          "name": "TOPS at SPAR Fontana Highpoint"
+        },
+        {
+          "id": "gplaces-ChIJp37_E7MPlR4R03iH_FNHrk8",
+          "name": "TOPS at SPAR Ghandi"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Leondale",
+        "address": "Cnr. Wildebees & Blesbok Street",
+        "town": "Germiston"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Linden",
+        "address": "Cnr 4th & 8th Avenue",
+        "town": "Johannesburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJmXE6YSQMlR4RJO4NadiK_J8",
+          "name": "TOPS at SPAR Fontana Highpoint"
+        },
+        {
+          "id": "gplaces-ChIJp37_E7MPlR4R03iH_FNHrk8",
+          "name": "TOPS at SPAR Ghandi"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Lynnwood Manor",
+        "address": "Cnr Lynnwood & Daventry Roads",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Lynnwood Ridge",
+        "address": "Gift Acres Avenue",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJVSjoytFhlR4REtfAfMA4JaU",
+          "name": "TOPS at SPAR Queenswood"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Menlo Park",
+        "address": "71 13th Street",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJVSjoytFhlR4REtfAfMA4JaU",
+          "name": "TOPS at SPAR Queenswood"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Moreleta Park",
+        "address": "Cnr Rubenstein and Garsfontein",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Morningside",
+        "address": "225 Rivonia Road",
+        "town": "Sandton"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJp73y-blzlR4RvgYThDcW4QY",
+          "name": "TOPS at SPAR Parkmore"
+        },
+        {
+          "id": "gplaces-ChIJ05_-rxNzlR4RFXQQov0TNlg",
+          "name": "TOPS at SPAR Fontana The Wedge"
+        },
+        {
+          "id": "gplaces-ChIJD8ESu4VzlR4RVG2weuRmqpc",
+          "name": "TOPS at SPAR Hobart"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Olifantsfontein Midstream",
+        "address": "Midstream Ridge Shopping Centre, Ridgeway Avenue",
+        "town": "Midstream"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJKQMxqi0wvh4RWT3uZ5ccZLg",
+          "name": "tops at SPAR"
+        },
+        {
+          "id": "gplaces-ChIJr3WXbSZulR4RQ7mfScB0EcQ",
+          "name": "TOPS at SPAR Carlswald"
+        },
+        {
+          "id": "gplaces-ChIJVSjoytFhlR4REtfAfMA4JaU",
+          "name": "TOPS at SPAR Queenswood"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Randburg Mountainview",
+        "address": "Cnr Beyers Naude & Mountainview Roads",
+        "town": "Randburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Randburg Braamfischer",
+        "address": "Cnr Braamfischer & Hunter Street",
+        "town": "Randburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Randfontein",
+        "address": "30 Main Reef Road, Cnr 3rd Street",
+        "town": "Randfontein"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        },
+        {
+          "id": "gplaces-ChIJtU0kkYt0lR4Rh2FA_IT0E0g",
+          "name": "TOPS at SPAR Ferndale"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Randpark Ridge",
+        "address": "93 Randpark Ridge Drive",
+        "town": "Randburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJQYipF_GeQgERNkJatdhFEU8",
+          "name": "TOPS at SPAR Fontainebleau"
+        },
+        {
+          "id": "gplaces-ChIJtU0kkYt0lR4Rh2FA_IT0E0g",
+          "name": "TOPS at SPAR Ferndale"
+        },
+        {
+          "id": "gplaces-ChIJQYR6xuh1lR4RGRs_-xl3yE0",
+          "name": "TOPS at SPAR Malanshof"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Eagle Canyon",
+        "address": "Eagle Canyon Shopping Centre, Cnr Christiaan De Wet & Scott Avenue",
+        "town": "Randburg"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJKQMxqi0wvh4RWT3uZ5ccZLg",
+          "name": "tops at SPAR"
+        },
+        {
+          "id": "gplaces-ChIJjzpEasgxvh4RaZ8x7WP7gvE",
+          "name": "TOPS at SPAR Panorama"
+        },
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Roodepoort Ouklip",
+        "address": "103 Ouklip Road, Cnr Ouklip & Graphite Roads",
+        "town": "Roodepoort"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJi6XIphiglR4RQY_7CLExG28",
+          "name": "TOPS at SPAR Florida Junction"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Roodepoort Beefwood",
+        "address": "17 Beefwood Street",
+        "town": "Roodepoort"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJi6XIphiglR4RQY_7CLExG28",
+          "name": "TOPS at SPAR Florida Junction"
+        },
+        {
+          "id": "gplaces-ChIJ9Yk3dABZlB4RDKxDildP3eo",
+          "name": "TOPS at SPAR Riverview"
+        },
+        {
+          "id": "gplaces-ChIJgSgSQH-glR4R0SpzUDO0dgs",
+          "name": "TOPS at SPAR Florida Market"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Rosslyn",
+        "address": "Rosslyn Shopping Centre, 110 Piet Rautenbach Street",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJr3WXbSZulR4RQ7mfScB0EcQ",
+          "name": "TOPS at SPAR Carlswald"
+        },
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Ruimsig",
+        "address": "Cnr Hendrik Potgieter & Doreen Road",
+        "town": "Roodepoort"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJi6XIphiglR4RQY_7CLExG28",
+          "name": "TOPS at SPAR Florida Junction"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Silver Lakes",
+        "address": "Cnr Solomon Mahlangu & Von Backstrom Drive",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Silverton",
+        "address": "93 Cnr Fakkel and Pretoria Street",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Sinoville",
+        "address": "78 Zambezi Drive",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJVSjoytFhlR4REtfAfMA4JaU",
+          "name": "TOPS at SPAR Queenswood"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Soshanguve Ruth First",
+        "address": "Erf 2458, Cnr Ruth First Road & Aubrey Matlala Str",
+        "town": "Soshanguve"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Soshanguve Block TT",
+        "address": "No 135, Block TT, 6422 Common Duiker Str",
+        "town": "Soshanguve"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJLZ-kS03Ovx4RjC9BdV_6As4",
+          "name": "TOPS at SPAR Sosha"
+        },
+        {
+          "id": "gplaces-ChIJaZgKhpfPvx4RQ1wh95hs6so",
+          "name": "TOPS at SPAR Soshanguve Crossing"
+        },
+        {
+          "id": "gplaces-ChIJ7Yefjq3Ivx4ReQ561bm9MLc",
+          "name": "TOPS at SPAR Maluleke"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Soshanguve Centre",
+        "address": "Shop 114-286, Soshanguve Centre, Duo Crescent, Block FF",
+        "town": "Soshanguve"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ3WE3johhlR4R4AtU2vTveOQ",
+          "name": "TOPS at SPAR Gift Acres"
+        },
+        {
+          "id": "gplaces-ChIJLZ-kS03Ovx4RjC9BdV_6As4",
+          "name": "TOPS at SPAR Sosha"
+        },
+        {
+          "id": "gplaces-ChIJaZgKhpfPvx4RQ1wh95hs6so",
+          "name": "TOPS at SPAR Soshanguve Crossing"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Soshanguve Magagula",
+        "address": "Shop C & D, Magagula Complex, Stand 758 Block H",
+        "town": "Soshanguve"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJKQMxqi0wvh4RWT3uZ5ccZLg",
+          "name": "tops at SPAR"
+        },
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJHSEPjFhZlR4R6GbswrfcW5g",
+          "name": "TOPS at SPAR Mams Mall"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Tembisa",
+        "address": "1 Andrew Mapheto & Isimuko Road",
+        "town": "Tembisa"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJmRaKQYhslR4RpWiVNaPQz7o",
+          "name": "TOPS at SPAR Birch Acres Mall"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR The Reeds",
+        "address": "208 Panorama Road",
+        "town": "Centurion"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ-Ur0aPFllR4RQWiQQNeZu3Q",
+          "name": "TOPS at SPAR Lenchen Avenue"
+        },
+        {
+          "id": "gplaces-ChIJT90yS0hllR4Rowi9juQI4oQ",
+          "name": "TOPS at SPAR Jean Avenue"
+        },
+        {
+          "id": "gplaces-ChIJfSNnTtpllR4RWECk8xepun0",
+          "name": "TOPS at SPAR Centurion"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Three Rivers Blackwood",
+        "address": "Cnr Blackwood & General Hertzog Rd",
+        "town": "Vereeniging"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Three Rivers Assegaai",
+        "address": "Cnr Gen. Hertzog & Assegaai Sts",
+        "town": "Vereeniging"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Vanderbijlpark Stephenson",
+        "address": "6 Stephenson Street",
+        "town": "Vanderbijlpark"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJl9lGDBGBlh4RmjU6yQpfnSI",
+          "name": "TOPS at SPAR Baillie Park"
+        },
+        {
+          "id": "gplaces-ChIJH6dN_XYjlR4RTxbGor4BBbg",
+          "name": "TOPS at SPAR Brenthurst"
+        },
+        {
+          "id": "gplaces-ChIJDQF3PA1ZlB4RS8MKbJ1lhOo",
+          "name": "TOPS at SPAR Save in"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Vanderbijlpark Everest",
+        "address": "Everest Street",
+        "town": "Vanderbijlpark"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJDQF3PA1ZlB4RS8MKbJ1lhOo",
+          "name": "TOPS at SPAR Save in"
+        },
+        {
+          "id": "gplaces-ChIJIU5JYHFblB4RxR5J-GTx9pE",
+          "name": "TOPS at SPAR Stephenson Street"
+        },
+        {
+          "id": "gplaces-ChIJ9Yk3dABZlB4RDKxDildP3eo",
+          "name": "TOPS at SPAR Riverview"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Tsakane",
+        "address": "Cnr Malandela & Mojadji Sts",
+        "town": "Tsakane"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Verwoerdpark",
+        "address": "Cnr Jim Fouche & 2nd Ave",
+        "town": "Alberton"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Villieria",
+        "address": "1127 Ben Swart Street, Cnr 33rd Ave",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Vorna Valley",
+        "address": "Cnr Albertyn & Harry Galaun",
+        "town": "Midrand"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJr3WXbSZulR4RQ7mfScB0EcQ",
+          "name": "TOPS at SPAR Carlswald"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Vosloorus Sam Sikoti",
+        "address": "18381 Sam Sikoti Ave",
+        "town": "Vosloorus"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ6Sn9K7AelR4RoJo-uV7HKrE",
+          "name": "TOPS at SPAR Vosloorus"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Vosloorus Bierman",
+        "address": "Cnr Bierman & Brickfields Rds",
+        "town": "Vosloorus"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Wapadrand",
+        "address": "Cnr Wapadrand and Lynnwood Roads",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Waterfall Woodmead",
+        "address": "Polofields Crossing Shopping Center, Woodmead Drive & Waterfall Drive",
+        "town": "Midrand"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJr3WXbSZulR4RQ7mfScB0EcQ",
+          "name": "TOPS at SPAR Carlswald"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Waterkloof",
+        "address": "41 Bokmakierie Street",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJp37_E7MPlR4R03iH_FNHrk8",
+          "name": "TOPS at SPAR Ghandi"
+        },
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Weltevreden Park",
+        "address": "Cnr Cornelius & JC Strydom Roads",
+        "town": "Roodepoort"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJScJnXCQrvh4Rth3wKW4lcbE",
+          "name": "TOPS at SPAR The Islands"
+        },
+        {
+          "id": "gplaces-ChIJi6XIphiglR4RQY_7CLExG28",
+          "name": "TOPS at SPAR Florida Junction"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Wierda Park",
+        "address": "1276 Willem Botha Avenue",
+        "town": "Centurion"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ-Ur0aPFllR4RQWiQQNeZu3Q",
+          "name": "TOPS at SPAR Lenchen Avenue"
+        },
+        {
+          "id": "gplaces-ChIJT90yS0hllR4Rowi9juQI4oQ",
+          "name": "TOPS at SPAR Jean Avenue"
+        },
+        {
+          "id": "gplaces-ChIJfSNnTtpllR4RWECk8xepun0",
+          "name": "TOPS at SPAR Centurion"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Wonderboom",
+        "address": "16 Lavender Road",
+        "town": "Pretoria"
+      },
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJN83Ci7lvlR4RsQvcVAbmTmE",
+          "name": "TOPS at SPAR Randjespark"
+        },
+        {
+          "id": "gplaces-ChIJU0VDLr9vlR4REJDXJ9MNNB0",
+          "name": "TOPS at SPAR Midrand"
+        },
+        {
+          "id": "gplaces-ChIJVSjoytFhlR4REtfAfMA4JaU",
+          "name": "TOPS at SPAR Queenswood"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Karaglen",
+        "address": "Karaglen Shopping Centre, Harris Ave, Edenvale",
+        "town": "Edenvale"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Dalview",
+        "address": "1 Craigholm St, Dalview",
+        "town": "Brakpan"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ8SkbMPEjlR4R_sos9sRYFUs",
+          "name": "Liquor City Brakpan"
+        },
+        {
+          "id": "gplaces-ChIJIatqjRwjlR4RmMdPcr17oKI",
+          "name": "Liquor City V C"
+        },
+        {
+          "id": "gplaces-ChIJ5eA8i-UglR4R6fJMAC_o_H4",
+          "name": "Liquor City Tsakane"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Northcliff",
+        "address": "183 Beyers Naudé Dr, Northcliff",
+        "town": "Johannesburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJiadP-wgNlR4R1s-9uw4rcpM",
+          "name": "Liquor City Station"
+        },
+        {
+          "id": "gplaces-ChIJdw1zff51lR4Rk5NlKTuyOBc",
+          "name": "Liquor City The Berliner Cellar"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Kempton Park Long Street",
+        "address": "23 Long St, Kempton Park",
+        "town": "Kempton Park"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJQ_IwvwoVlR4RPZrclUl3RiU",
+          "name": "Liquor City Long Street"
+        },
+        {
+          "id": "gplaces-ChIJi4kHnG5rlR4RYOBjvwywvgk",
+          "name": "Liquor City Birch Acres"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Primrose",
+        "address": "25 Shrock Rd, Primrose",
+        "town": "Germiston"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJV5etKHYRlR4Rzv1N2Gc45Vw",
+          "name": "Liquor City Primrose"
+        },
+        {
+          "id": "gplaces-ChIJqeFlVuoRlR4R8I9IMo4lmec",
+          "name": "Liquor City The Liquor Boys"
+        },
+        {
+          "id": "gplaces-ChIJfdJaTbQblR4Ri5J2FirmEEA",
+          "name": "Liquor City Leondale"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City 28 Degrees Lambton",
+        "address": "28Degrees Shopping Centre, 280 Webber Rd, Lambton",
+        "town": "Germiston"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Sophiatown",
+        "address": "Sophiatown Centre, Edward & Miller, Sophiatown",
+        "town": "Johannesburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJiadP-wgNlR4R1s-9uw4rcpM",
+          "name": "Liquor City Station"
+        },
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Parkhills",
+        "address": "6 Piercy Ave, Parkhills Garden",
+        "town": "Johannesburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJiadP-wgNlR4R1s-9uw4rcpM",
+          "name": "Liquor City Station"
+        },
+        {
+          "id": "gplaces-ChIJdw1zff51lR4Rk5NlKTuyOBc",
+          "name": "Liquor City The Berliner Cellar"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Boksburg Charl Cilliers",
+        "address": "71 Corner 11th Street & Charl Cilliers St, Boksburg",
+        "town": "Boksburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        },
+        {
+          "id": "gplaces-ChIJJZsYNPt2lR4RZuFBvJ8T56k",
+          "name": "Liquor City Broadacres"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Alex Mall",
+        "address": "Alex Mall, London Rd, Alexandra",
+        "town": "Alexandra"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJjYYCkE8TlR4R80vQFu3bRxw",
+          "name": "Whisky Emporium Alex Mall"
+        },
+        {
+          "id": "gplaces-ChIJLSfEdK8SlR4RZFupa11ReMo",
+          "name": "Liquor City Alex Mall"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Alexandra Plaza",
+        "address": "Alexandra Plaza, Cnr Third Street and First Avenue, Alexandra",
+        "town": "Alexandra"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ70wKPwsJvh4R-Wsc0yz3qN4",
+          "name": "Liquor City Safari Tuine"
+        },
+        {
+          "id": "gplaces-ChIJ129z0Y4Jvh4RQPYcAj1tBBQ",
+          "name": "Liquor City Geelhout"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Germiston Blauwbok",
+        "address": "Blauwbok Ave, Germiston",
+        "town": "Germiston"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJqeFlVuoRlR4R8I9IMo4lmec",
+          "name": "Liquor City The Liquor Boys"
+        },
+        {
+          "id": "gplaces-ChIJfdJaTbQblR4Ri5J2FirmEEA",
+          "name": "Liquor City Leondale"
+        },
+        {
+          "id": "gplaces-ChIJR70xyZkQlR4RwjFHkP_SBYg",
+          "name": "Liquor City Webber Road Liquors"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Broadacres",
+        "address": "Broadacres Shopping Centre, Corner Cedar Rd & Valley Road, Fourways",
+        "town": "Fourways"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ70wKPwsJvh4R-Wsc0yz3qN4",
+          "name": "Liquor City Safari Tuine"
+        },
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Vosloorus Chris Hani",
+        "address": "Chris Hani Mall, Bierman Rd, Vosloorus",
+        "town": "Vosloorus"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJJ2yFZK4elR4REEY0Wrf-ZG4",
+          "name": "Liquor City Chris Hani"
+        },
+        {
+          "id": "gplaces-ChIJ62b2OkynlR4R4gXx1VhfXLU",
+          "name": "Liquor City Protea Gardens"
+        },
+        {
+          "id": "gplaces-ChIJkYvvW8qnlR4R4SIUOLLsyJ0",
+          "name": "Whisky Emporium Maponya Mall"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Clayville",
+        "address": "Clayville Shopping Centre, Olifantsfontein Rd, Clayville",
+        "town": "Clayville"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Melville",
+        "address": "Cnr 3rd Avenue & Main Road, Melville",
+        "town": "Johannesburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ70wKPwsJvh4R-Wsc0yz3qN4",
+          "name": "Liquor City Safari Tuine"
+        },
+        {
+          "id": "gplaces-ChIJ129z0Y4Jvh4RQPYcAj1tBBQ",
+          "name": "Liquor City Geelhout"
+        },
+        {
+          "id": "gplaces-ChIJiadP-wgNlR4R1s-9uw4rcpM",
+          "name": "Liquor City Station"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Klippoortjie",
+        "address": "Cnr Heidelberg Rd & Van Dyk Rd, Klippoortjie AH",
+        "town": "Boksburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ70wKPwsJvh4R-Wsc0yz3qN4",
+          "name": "Liquor City Safari Tuine"
+        },
+        {
+          "id": "gplaces-ChIJJZsYNPt2lR4RZuFBvJ8T56k",
+          "name": "Liquor City Broadacres"
+        },
+        {
+          "id": "gplaces-ChIJt0SNXEQWlR4REZP0DCFImeQ",
+          "name": "Liquor City Parkdene Boulevard"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Bassonia",
+        "address": "Comaro St & Soetdoring Ave, Bassonia",
+        "town": "Johannesburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ129z0Y4Jvh4RQPYcAj1tBBQ",
+          "name": "Liquor City Geelhout"
+        },
+        {
+          "id": "gplaces-ChIJiadP-wgNlR4R1s-9uw4rcpM",
+          "name": "Liquor City Station"
+        },
+        {
+          "id": "gplaces-ChIJdw1zff51lR4Rk5NlKTuyOBc",
+          "name": "Liquor City The Berliner Cellar"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Dawn Park",
+        "address": "Dawn Park Complex, Hassink Hwy, Dawn Park",
+        "town": "Boksburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJt0SNXEQWlR4REZP0DCFImeQ",
+          "name": "Liquor City Parkdene Boulevard"
+        },
+        {
+          "id": "gplaces-ChIJCyfWLc11lR4Rdei_x5rcOQ4",
+          "name": "Liquor City North Rand"
+        },
+        {
+          "id": "gplaces-ChIJu72y2q4XlR4RpWWTDfFjLiA",
+          "name": "Liquor City Satellite"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Dawn Park Galahad",
+        "address": "Dawn Park Shopping Centre, Galahad Rd, Dawn Park",
+        "town": "Boksburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Dobsonville",
+        "address": "Elias Motsoaledi Rd, Dobsonville",
+        "town": "Soweto"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJoW1uNTmklR4Rdq1zib27JTU",
+          "name": "Liquor City Protea Glen"
+        },
+        {
+          "id": "gplaces-ChIJ62b2OkynlR4R4gXx1VhfXLU",
+          "name": "Liquor City Protea Gardens"
+        },
+        {
+          "id": "gplaces-ChIJkYvvW8qnlR4R4SIUOLLsyJ0",
+          "name": "Whisky Emporium Maponya Mall"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Hillbrow Esselen",
+        "address": "Esselen St, Hillbrow",
+        "town": "Johannesburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJiadP-wgNlR4R1s-9uw4rcpM",
+          "name": "Liquor City Station"
+        },
+        {
+          "id": "gplaces-ChIJdw1zff51lR4Rk5NlKTuyOBc",
+          "name": "Liquor City The Berliner Cellar"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Tembisa",
+        "address": "George Nyanga Dr, Tembisa",
+        "town": "Tembisa"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJtxGo1exrlR4RStyES55Bj2o",
+          "name": "Liquor City Tembi Mall"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Glen Marais",
+        "address": "Glen Marais Shopping Centre, 56 Veld St, Glenmarais",
+        "town": "Kempton Park"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Kagiso Mall",
+        "address": "Kagiso Mall, Kagiso Dr, Kagiso",
+        "town": "Krugersdorp"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJAUJfxJeZlR4R1SM7PDTm4uM",
+          "name": "Millennium Liquor City"
+        },
+        {
+          "id": "gplaces-ChIJg4aLP_yZlR4Rz4AJ-mztUNU",
+          "name": "Krugersdop West Liquor City"
+        },
+        {
+          "id": "gplaces-ChIJW95mgtWblR4RQgGD1teguS0",
+          "name": "Liquor city Munsieville"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Lenasia Square",
+        "address": "Lenasia Square Shopping Centre, Station Pl, Lenasia",
+        "town": "Lenasia"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Sesifikile Square",
+        "address": "Sesifikile Square, Mathens & Hill Street",
+        "town": "Johannesburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJiadP-wgNlR4R1s-9uw4rcpM",
+          "name": "Liquor City Station"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        },
+        {
+          "id": "gplaces-ChIJdw1zff51lR4Rk5NlKTuyOBc",
+          "name": "Liquor City The Berliner Cellar"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Southgate",
+        "address": "Shop 15 Southgate Value Market, 54 Rifle Range Rd, Mondeor",
+        "town": "Johannesburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJiadP-wgNlR4R1s-9uw4rcpM",
+          "name": "Liquor City Station"
+        },
+        {
+          "id": "gplaces-ChIJdw1zff51lR4Rk5NlKTuyOBc",
+          "name": "Liquor City The Berliner Cellar"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Hillfox",
+        "address": "Shop 2, Hillfox Power Centre, Hendrik Potgieter Rd, Weltevredenpark",
+        "town": "Roodepoort"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJVdAaKPxvlR4RvP93NNnrGXI",
+          "name": "Liquor city Carlswald Decor Centre"
+        },
+        {
+          "id": "gplaces-ChIJJZsYNPt2lR4RZuFBvJ8T56k",
+          "name": "Liquor City Broadacres"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Ridgeway",
+        "address": "Shop 3, 14 Shakespeare Avenue, Ridgeway",
+        "town": "Johannesburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJiadP-wgNlR4R1s-9uw4rcpM",
+          "name": "Liquor City Station"
+        },
+        {
+          "id": "gplaces-ChIJdw1zff51lR4Rk5NlKTuyOBc",
+          "name": "Liquor City The Berliner Cellar"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Towers Boksburg",
+        "address": "Shop 3, Towers Shopping Centre, North Rand Road, Boksburg",
+        "town": "Boksburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJVdAaKPxvlR4RvP93NNnrGXI",
+          "name": "Liquor city Carlswald Decor Centre"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Anthos Krugersdorp",
+        "address": "Shop 31a, Anthos Shopping Centre, Voortrekker Rd, Krugersdorp",
+        "town": "Krugersdorp"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJVdAaKPxvlR4RvP93NNnrGXI",
+          "name": "Liquor city Carlswald Decor Centre"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Elridge Corner",
+        "address": "Shop 34, Elridge Corner, Boksburg",
+        "town": "Boksburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJmR-piyFZlR4Rbr8PB7tfIqA",
+          "name": "Liquor City Mamelodi Square"
+        },
+        {
+          "id": "gplaces-ChIJt0SNXEQWlR4REZP0DCFImeQ",
+          "name": "Liquor City Parkdene Boulevard"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Hillbrow Caroline",
+        "address": "Shop 8 Martiq Building, 23 Caroline Street, Hillbrow",
+        "town": "Johannesburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJy5PjUtFdlB4RqHZX9nmS7BM",
+          "name": "Liquor City Sasolburg"
+        },
+        {
+          "id": "gplaces-ChIJiadP-wgNlR4R1s-9uw4rcpM",
+          "name": "Liquor City Station"
+        },
+        {
+          "id": "gplaces-ChIJVdAaKPxvlR4RvP93NNnrGXI",
+          "name": "Liquor city Carlswald Decor Centre"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Key West Bedfordview",
+        "address": "Shop G02, Key West Centre, 43 Van Buuren Rd, Bedfordview",
+        "town": "Bedfordview"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJVdAaKPxvlR4RvP93NNnrGXI",
+          "name": "Liquor city Carlswald Decor Centre"
+        },
+        {
+          "id": "gplaces-ChIJJZsYNPt2lR4RZuFBvJ8T56k",
+          "name": "Liquor City Broadacres"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Linksfield Terrace",
+        "address": "Shop 2, Linksfield Terrace Shopping Centre, 108 Linksfield Road, Dowerglen Ext 10",
+        "town": "Edenvale"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJVdAaKPxvlR4RvP93NNnrGXI",
+          "name": "Liquor city Carlswald Decor Centre"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Elspark",
+        "address": "Shop 9 Kingfisher Square, Kingfisher Ave, Elspark",
+        "town": "Germiston"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJmR-piyFZlR4Rbr8PB7tfIqA",
+          "name": "Liquor City Mamelodi Square"
+        },
+        {
+          "id": "gplaces-ChIJFcPb6_Q9lR4R3LacverYbbs",
+          "name": "Liquor City Farrarmere"
+        },
+        {
+          "id": "gplaces-ChIJqeFlVuoRlR4R8I9IMo4lmec",
+          "name": "Liquor City The Liquor Boys"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Jackal Creek",
+        "address": "Shop 21, Jackal Creek Corner, Boundary Road & Slovenia Street",
+        "town": "Roodepoort"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJVdAaKPxvlR4RvP93NNnrGXI",
+          "name": "Liquor city Carlswald Decor Centre"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Meredale",
+        "address": "Unit 3 Meredale Estate",
+        "town": "Johannesburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJiadP-wgNlR4R1s-9uw4rcpM",
+          "name": "Liquor City Station"
+        },
+        {
+          "id": "gplaces-ChIJdw1zff51lR4Rk5NlKTuyOBc",
+          "name": "Liquor City The Berliner Cellar"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Langlaagte",
+        "address": "Wanders Street, Langlaagte",
+        "town": "Johannesburg"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJiadP-wgNlR4R1s-9uw4rcpM",
+          "name": "Liquor City Station"
+        },
+        {
+          "id": "gplaces-ChIJdw1zff51lR4Rk5NlKTuyOBc",
+          "name": "Liquor City The Berliner Cellar"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    },
+    {
+      "locator": {
+        "name": "Liquor City Douglasdale",
+        "address": "Waterford Shopping Centre, Witkoppen Rd, Douglasdale",
+        "town": "Sandton"
+      },
+      "brand": "liquor-city",
+      "existing": [
+        {
+          "id": "gplaces-ChIJHQ_dzzBzlR4RjBoa4EHBM9Y",
+          "name": "Liquor City Grayston"
+        },
+        {
+          "id": "gplaces-ChIJdbcymG9vlR4Rxx28Nz37r-8",
+          "name": "Liquor City Midrand Hyper"
+        },
+        {
+          "id": "gplaces-ChIJIQYHtbF2lR4RLbgyEE6O6CI",
+          "name": "Liquor City Glen Nerine"
+        }
+      ]
+    }
+  ],
+  "unmatched": [
+    {
+      "locator": {
+        "name": "Ultra Liquors Clayville",
+        "address": "32 Axle Road, Clayville, Olifantsfontein, 1666",
+        "town": "Clayville"
+      },
+      "brand": "ultra"
+    },
+    {
+      "locator": {
+        "name": "Ultra Liquors Meyerton Express",
+        "address": "Erf 28, Loch Street, Meyerton",
+        "town": "Meyerton"
+      },
+      "brand": "ultra"
+    },
+    {
+      "locator": {
+        "name": "TOPS at SPAR Vereeniging Stretford",
+        "address": "Erf 16145, Stretford Ext 9",
+        "town": "Orange Farm"
+      },
+      "brand": "tops"
+    }
+  ]
+}

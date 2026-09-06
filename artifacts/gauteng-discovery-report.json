@@ -1,0 +1,188 @@
+{
+  "catalogueBefore": 6517,
+  "gautengExistingBefore": 2328,
+  "googleRawResults": 6282,
+  "uniqueGooglePlaces": 1920,
+  "queries": 535,
+  "cappedQueries": 0,
+  "failedQueries": 0,
+  "osmCandidates": 338,
+  "officialChainLocatorCandidates": 158,
+  "unmatchedPlaceIds": 368,
+  "matchedExistingConfirmed": 13,
+  "matchedLikelyHeldReview": 0,
+  "possibleHeldReview": 1,
+  "newDedicatedAdded": 268,
+  "rejected": 28,
+  "unresolvedReview": 61,
+  "osmNamedUnmatchedReview": 84,
+  "deleted": 0,
+  "addedByMunicipality": {
+    "West Rand": 69,
+    "City of Johannesburg": 39,
+    "City of Tshwane": 78,
+    "Sedibeng": 42,
+    "Ekurhuleni": 40
+  },
+  "chainLocatorMatched": 155,
+  "chainLocatorUnmatched": 1,
+  "topNew": [
+    {
+      "name": "Dwarskloof Bottel Stoor",
+      "address": "Gedeelte 26 Dwarskloof Markgraaf str, Randfontein",
+      "city": "Randfontein",
+      "id": "gplaces-ChIJ10f3M8qVlR4RN1pGX6umg44"
+    },
+    {
+      "name": "Highway Bottle Store",
+      "address": "9th Road, Tenacres AH, Randfontein",
+      "city": "Randfontein",
+      "id": "gplaces-ChIJef4Q3lq-lR4RBaRvbNMAvrI"
+    },
+    {
+      "name": "TOPS at SPAR Family Save",
+      "address": "Van Der Berg Road, Kocksoord, Randfontein",
+      "city": "Randfontein",
+      "id": "gplaces-ChIJAQimrqG9lR4Rvwrt7OjFA94"
+    },
+    {
+      "name": "Manny's Blue Bottle Liqour Express",
+      "address": "Plot 51 Lazar Street, Wheatlands, Randfontein",
+      "city": "Randfontein",
+      "id": "gplaces-ChIJ9cs849-VlR4R5pCfIRUqKA0"
+    },
+    {
+      "name": "Finsbury Liquor Store",
+      "address": "33 Amatola Road, Finsbury, Randfontein",
+      "city": "Randfontein",
+      "id": "gplaces-ChIJVcQ1G-a9lR4RuhAjSEsTDsE"
+    },
+    {
+      "name": "Shoprite LiquorShop Mohlakeng Square",
+      "address": "Mohlakeng Square Intersection of R559 and, R28, Randfontein",
+      "city": "Randfontein",
+      "id": "gplaces-ChIJB9PY7GS9lR4RX_jmWQXrHHE"
+    },
+    {
+      "name": "Tshelofelo Liquor Store",
+      "address": "Hoyi Street, Kagiso, Krugersdorp",
+      "city": "Krugersdorp",
+      "id": "gplaces-ChIJt72IGoKYlR4R5EDXu_JSgyI"
+    },
+    {
+      "name": "BVN BLUE BOTTLE LIQUORS",
+      "address": "Ngqonyela Road, Mohlakeng, Randfontein",
+      "city": "Randfontein",
+      "id": "gplaces-ChIJ5cA6HgS9lR4R5I9makc48ac"
+    },
+    {
+      "name": "Main Reef Liquor Store",
+      "address": "Main Reef Road, Selby, Johannesburg",
+      "city": "Johannesburg",
+      "id": "gplaces-ChIJs_602oqXlR4R4gcthARAvUQ"
+    },
+    {
+      "name": "Johnny's Overland Bottle store",
+      "address": "Plot 31, Randfontein",
+      "city": "Randfontein",
+      "id": "gplaces-ChIJ5TC3cxmVlR4RstzpeC9N77U"
+    },
+    {
+      "name": "Lords Liquor Market",
+      "address": "Kameel Street, Randfontein, Johannesburg",
+      "city": "Johannesburg",
+      "id": "gplaces-ChIJLY-8lLSXlR4RM4BAbda4ZsQ"
+    },
+    {
+      "name": "Wood barrel Liquor",
+      "address": "15 Kameel Street, Greenhills, Randfontein",
+      "city": "Randfontein",
+      "id": "gplaces-ChIJeT4fNeuXlR4RXwbea3dnwWk"
+    },
+    {
+      "name": "Baobab Blue Bottle Liquors",
+      "address": "Baobab Ultra Market Center Cnr R 24 Rustenburg Road and Kalk Street Helderblom West Krugersdorp / Tarlton",
+      "city": "Baobab Ultra Market Center Cnr R 24 Rustenburg Road and Kalk Street Helderblom West Krugersdorp / Tarlton",
+      "id": "gplaces-ChIJibXqQqWXlR4RdwTLgsh2wmM"
+    },
+    {
+      "name": "Majestic Liquor Store",
+      "address": "50 Von Brandis Street, Krugersdorp",
+      "city": "Krugersdorp",
+      "id": "gplaces-ChIJZ2B8ayqZlR4Ri_4UcPfZC7Q"
+    },
+    {
+      "name": "Ndis Liquorland Express",
+      "address": "851 Ralerata Street, Randfontein",
+      "city": "Randfontein",
+      "id": "gplaces-ChIJffb_EwK9lR4RYFYGFgiwe8k"
+    },
+    {
+      "name": "Eyethu Bottle Store",
+      "address": "Mohohlo Street, Mohlakeng, Randfontein",
+      "city": "Randfontein",
+      "id": "gplaces-ChIJwz29nv28lR4RHQhwCzbLz_I"
+    },
+    {
+      "name": "Motima Lenyora Liquor Store",
+      "address": "2135 Thebenare Street, Mohlakeng, Soweto",
+      "city": "Soweto",
+      "id": "gplaces-ChIJKUGH0P28lR4R_1JlAikp2w8"
+    },
+    {
+      "name": "Shoprite LiquorShop Mohlakeng",
+      "address": "Ntuli Shopping Centre, 444 Ntuli Street, Randfontein",
+      "city": "Randfontein",
+      "id": "gplaces-ChIJ38mNMy29lR4R8mMJSfqDZmY"
+    },
+    {
+      "name": "Country Wide Liquor Tarlton",
+      "address": "6 Rustenburg Road, Tarlton, Wolfelea AH",
+      "city": "Wolfelea AH",
+      "id": "gplaces-ChIJ1f3d01KZlR4RMf2bWkDPmk8"
+    },
+    {
+      "name": "Kgomotso Liquor Store",
+      "address": "27 N14, Marabeth",
+      "city": "Marabeth",
+      "id": "gplaces-ChIJNeZYdGSRlR4RUdhF5hd0gUM"
+    },
+    {
+      "name": "Cradle blue bottle liquors",
+      "address": "Plot 68 R563 sterkfontein, Sterkfontein Street, Krugersdorp",
+      "city": "Krugersdorp",
+      "id": "gplaces-ChIJlxn-yjuRlR4RNWhlWZ3qbDI"
+    },
+    {
+      "name": "TOPS at SPAR Carleton",
+      "address": "2 Annan Road, Carletonville",
+      "city": "Carletonville",
+      "id": "gplaces-ChIJX0GQu__ElR4RmwnKagRtWIc"
+    },
+    {
+      "name": "Pick n Pay Liquor",
+      "address": "Raisin Street, Carletonville",
+      "city": "Carletonville",
+      "id": "gplaces-ChIJq6N5D-3ElR4R4eQ2xjkDFDA"
+    },
+    {
+      "name": "Shoprite LiquorShop Annan Drive",
+      "address": "And, Gateway Mall Cnr Annan Service Rd, Osmium Street, Carletonville",
+      "city": "Carletonville",
+      "id": "gplaces-ChIJger8Qo3ElR4RlR1Kt2As7gE"
+    },
+    {
+      "name": "Hyper Liquor",
+      "address": "Paul Kruger Street, Oberholzer, Carletonville",
+      "city": "Carletonville",
+      "id": "gplaces-ChIJIUxfgb_ElR4RFPk3AOEli8E"
+    }
+  ],
+  "gazetteCandidatesChecked": 22,
+  "gazetteCurrentlyUnverifiedReview": 14,
+  "chainFollowupAdded": [
+    "Ultra Liquors Clayville",
+    "Pick n Pay Liqour"
+  ],
+  "catalogueAfterGoogleFile": 5886
+}
