@@ -42,23 +42,22 @@ describe('resolveStoreIdentity - parent supermarket vs liquor outlet', () => {
     expect(result.name).not.toBe('Woolworths Cellar');
   });
 
-  it('DOES rewrite Woolworths → Woolworths Cellar when it is a liquor outlet', () => {
+  it('does NOT infer WCellar from a Woolworths supermarket even if tagged shop=alcohol', () => {
     const result = resolveStoreIdentity(
       { name: 'Woolworths', shop: 'alcohol' },
       { classifiedAsLiquor: true }
     );
-    expect(result.name).toBe('Woolworths Cellar');
-    expect(result.parentName).toBe('Woolworths');
-    expect(result.locationType).toBe('attached-counter');
+    expect(result.name).toBe('Woolworths');
+    expect(result.name).not.toBe('Woolworths Cellar');
   });
 
-  it('rewrites a supermarket with alcohol=yes named Woolworths to Woolworths Cellar', () => {
+  it('does NOT infer WCellar from Woolworths Eikestad Mall', () => {
     const result = resolveStoreIdentity(
-      { name: 'Woolworths', shop: 'supermarket', alcohol: 'yes' },
+      { name: 'Woolworths Eikestad Mall', shop: 'alcohol' },
       { classifiedAsLiquor: true }
     );
-    expect(result.name).toBe('Woolworths Cellar');
-    expect(result.locationType).toBe('attached-counter');
+    expect(result.name).toBe('Woolworths Eikestad Mall');
+    expect(result.name).not.toBe('Woolworths Cellar');
   });
 
   it('keeps Food Lover\'s Market as the parent, not the liquor identity', () => {

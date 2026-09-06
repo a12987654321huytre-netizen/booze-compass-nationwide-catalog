@@ -1,0 +1,286 @@
+{
+  "falsePositivesReviewed": 44,
+  "wineFarmTastingRemovedFromCompass": 13,
+  "nonRetailRemoved": 25,
+  "residentialUnverifiedMovedToReview": 4,
+  "duplicatesCollapsed": 1,
+  "inferredWCellarRemoved": 1,
+  "removedFromCatalogIds": [
+    "curated-ww-cellar-stellenbosch-cbd",
+    "gplaces-ChIJ2_-YmLFezB0RjFI-dk9cJuk",
+    "gplaces-ChIJ4YDO1_OyzR0RFlwdvpWDR90",
+    "gplaces-ChIJ6bORaeqxzR0Rv4JcUxr6nLM",
+    "gplaces-ChIJ7ZsfMSRBzB0RaJ6NDIG4ccg",
+    "gplaces-ChIJ87l2EtNpzB0Ro21-5sld9c4",
+    "gplaces-ChIJ8xF1m6SzzR0RjKwJGmTXxTc",
+    "gplaces-ChIJD72Xl-tMzB0RmGkQeDqrh4k",
+    "gplaces-ChIJDd0-Nv5p0h0Rc6KfJKtYIKM",
+    "gplaces-ChIJEXoUs9ppzB0R-ZOg9LpynUQ",
+    "gplaces-ChIJE_X_oxFp0h0Rp4u9mdabzbk",
+    "gplaces-ChIJF5ZZSBJp0h0RXn0JPX4NY9s",
+    "gplaces-ChIJFYFTfiDKzR0R4asF2l31STo",
+    "gplaces-ChIJJ4IRqOZbzB0RzIku_6JbTOU",
+    "gplaces-ChIJJz-9AxFGzB0RXEfNPh0xRQk",
+    "gplaces-ChIJLawl40hCzB0RHDEljHNRA3A",
+    "gplaces-ChIJM87AeMOzzR0RNWW5WS6DEU8",
+    "gplaces-ChIJNx_kdRBdzB0RJVR6PRMzMz4",
+    "gplaces-ChIJO1D5VFmyzR0Rp5YYXUxdR2c",
+    "gplaces-ChIJS591SoO1zR0Rjg2RbGc_PX0",
+    "gplaces-ChIJSwrWev5TzB0RygoRF4WBHSw",
+    "gplaces-ChIJV-fhOWOpzR0RGKuFJHUOGdc",
+    "gplaces-ChIJV0j-Sk61zR0R7_b2tgng18M",
+    "gplaces-ChIJVVVVFZBdzB0RTjhlDrZIszw",
+    "gplaces-ChIJVzu2krFezB0R4_vN9TXP_qg",
+    "gplaces-ChIJWVRh14uyzR0RLWzB_vabYMM",
+    "gplaces-ChIJXwNf-sRazB0RLPzYxFYPnBM",
+    "gplaces-ChIJadqRiYeyzR0R0YjcDlIwNLc",
+    "gplaces-ChIJcV7QJMJazB0RAwG4CgPp-RM",
+    "gplaces-ChIJd_T6eYHKzR0RpOZcfB9UWYo",
+    "gplaces-ChIJdb6KuBD1zB0RLCSBM4_HpZs",
+    "gplaces-ChIJgxBNCdiszR0RVa1_GbFFBBk",
+    "gplaces-ChIJi2c8UghdzB0RX_5FwU8JLM8",
+    "gplaces-ChIJmSzw4g9BzB0Rp9zZ-G0HVGI",
+    "gplaces-ChIJmWGArqpRzB0RGrhQdHNZHlc",
+    "gplaces-ChIJofrT8w9BzB0RgV3J5Q2gesY",
+    "gplaces-ChIJpYdauIqszR0RTImV_Dc9XWo",
+    "gplaces-ChIJsQnzYlnLzR0RctXtri-uLpk",
+    "gplaces-ChIJtctPsjyyzR0RhtRvKnWLxdY",
+    "gplaces-ChIJv8NpsBW1zR0R8hsKxXA7UbU",
+    "gplaces-ChIJvcX8EA1DzB0R_K4wuV2D-u4",
+    "gplaces-ChIJx7xOfu1RzB0RqbQC7HvUbwI",
+    "wcla-035543",
+    "wcla-044152"
+  ],
+  "wineFarm": [
+    {
+      "id": "gplaces-ChIJD72Xl-tMzB0RmGkQeDqrh4k",
+      "name": "Seven Sisters Vineyards",
+      "reason": "wine farm / vineyard"
+    },
+    {
+      "id": "gplaces-ChIJ6bORaeqxzR0Rv4JcUxr6nLM",
+      "name": "Miles Mossop Wines (Pty) Ltd",
+      "reason": "winery on Magia Farm"
+    },
+    {
+      "id": "gplaces-ChIJgxBNCdiszR0RVa1_GbFFBBk",
+      "name": "Origin Wine Stellenbosch",
+      "reason": "wine producer / cellar"
+    },
+    {
+      "id": "gplaces-ChIJSwrWev5TzB0RygoRF4WBHSw",
+      "name": "The Daily Wine",
+      "reason": "shop on Koelenhof Wine Cellar"
+    },
+    {
+      "id": "gplaces-ChIJpYdauIqszR0RTImV_Dc9XWo",
+      "name": "The Vineyard Connection",
+      "reason": "Devon Valley wine-farm venue"
+    },
+    {
+      "id": "gplaces-ChIJFYFTfiDKzR0R4asF2l31STo",
+      "name": "Highberry Vineyards & Venue",
+      "reason": "vineyard / venue"
+    },
+    {
+      "id": "gplaces-ChIJDd0-Nv5p0h0Rc6KfJKtYIKM",
+      "name": "Haven Point",
+      "reason": "Overhex Winery cellar door"
+    },
+    {
+      "id": "gplaces-ChIJEXoUs9ppzB0R-ZOg9LpynUQ",
+      "name": "Wade Bales Wine Co.",
+      "reason": "Klein Constantia cellar door"
+    },
+    {
+      "id": "gplaces-ChIJV-fhOWOpzR0RGKuFJHUOGdc",
+      "name": "The Farm Grocer at Laborie",
+      "reason": "estate grocer, not a bottle store"
+    },
+    {
+      "id": "gplaces-ChIJ4YDO1_OyzR0RFlwdvpWDR90",
+      "name": "Dalla Cia Wines & Spirits Co. (Pty) Ltd",
+      "reason": "producer at Distillery Road"
+    },
+    {
+      "id": "gplaces-ChIJF5ZZSBJp0h0RXn0JPX4NY9s",
+      "name": "Azania Wines (Pty) Ltd",
+      "reason": "wine producer"
+    },
+    {
+      "id": "gplaces-ChIJ87l2EtNpzB0Ro21-5sld9c4",
+      "name": "Kronendal Beer Estate",
+      "reason": "beer estate / taproom"
+    },
+    {
+      "id": "gplaces-ChIJVVVVFZBdzB0RTjhlDrZIszw",
+      "name": "Wellington Wine Route",
+      "reason": "wine-tourism office"
+    }
+  ],
+  "nonRetail": [
+    {
+      "id": "gplaces-ChIJO1D5VFmyzR0Rp5YYXUxdR2c",
+      "name": "South African Liquor Brand owners Association (SALBA)",
+      "reason": "industry association"
+    },
+    {
+      "id": "gplaces-ChIJWVRh14uyzR0RLWzB_vabYMM",
+      "name": "Cape Cork Supply (Pty) Ltd",
+      "reason": "packaging / cork supplier"
+    },
+    {
+      "id": "gplaces-ChIJM87AeMOzzR0RNWW5WS6DEU8",
+      "name": "Stellenbosch Street Soirees",
+      "reason": "event, not a storefront"
+    },
+    {
+      "id": "gplaces-ChIJtctPsjyyzR0RhtRvKnWLxdY",
+      "name": "Hegewisch Food and Wine Consultants",
+      "reason": "consultancy"
+    },
+    {
+      "id": "gplaces-ChIJv8NpsBW1zR0R8hsKxXA7UbU",
+      "name": "KWIKSPAR De Helderbosch",
+      "reason": "ordinary supermarket"
+    },
+    {
+      "id": "gplaces-ChIJJz-9AxFGzB0RXEfNPh0xRQk",
+      "name": "Rebel Wholesale Liquor Distributors",
+      "reason": "wholesaler / distributor"
+    },
+    {
+      "id": "gplaces-ChIJi2c8UghdzB0RX_5FwU8JLM8",
+      "name": "GETWINE WAREHOUSE",
+      "reason": "B2B warehouse"
+    },
+    {
+      "id": "gplaces-ChIJ8xF1m6SzzR0RjKwJGmTXxTc",
+      "name": "Sommeliers Warehouse",
+      "reason": "B2B warehouse"
+    },
+    {
+      "id": "gplaces-ChIJXwNf-sRazB0RLPzYxFYPnBM",
+      "name": "Canterbury Liquor Supply",
+      "reason": "supplier"
+    },
+    {
+      "id": "gplaces-ChIJcV7QJMJazB0RAwG4CgPp-RM",
+      "name": "Connaught Liquor Supply",
+      "reason": "supplier"
+    },
+    {
+      "id": "gplaces-ChIJJ4IRqOZbzB0RzIku_6JbTOU",
+      "name": "Hart of Africa Wines BC Wine Distribution",
+      "reason": "distributor"
+    },
+    {
+      "id": "gplaces-ChIJV0j-Sk61zR0R7_b2tgng18M",
+      "name": "wine.co.za",
+      "reason": "website / office"
+    },
+    {
+      "id": "gplaces-ChIJdb6KuBD1zB0RLCSBM4_HpZs",
+      "name": "The Wine Store (Online website )",
+      "reason": "online-only"
+    },
+    {
+      "id": "gplaces-ChIJmSzw4g9BzB0Rp9zZ-G0HVGI",
+      "name": "Wine Time Online",
+      "reason": "online-only"
+    },
+    {
+      "id": "gplaces-ChIJofrT8w9BzB0RgV3J5Q2gesY",
+      "name": "Wine on Time",
+      "reason": "online-only"
+    },
+    {
+      "id": "gplaces-ChIJsQnzYlnLzR0RctXtri-uLpk",
+      "name": "Cape Wine Match",
+      "reason": "non-storefront"
+    },
+    {
+      "id": "gplaces-ChIJE_X_oxFp0h0Rp4u9mdabzbk",
+      "name": "McGregor Wine Meander",
+      "reason": "wine-tourism meander"
+    },
+    {
+      "id": "gplaces-ChIJd_T6eYHKzR0RpOZcfB9UWYo",
+      "name": "Wacky Wine",
+      "reason": "festival / tourism"
+    },
+    {
+      "id": "gplaces-ChIJmWGArqpRzB0RGrhQdHNZHlc",
+      "name": "Orange River Wine",
+      "reason": "office (5th floor Gihon Building)"
+    },
+    {
+      "id": "gplaces-ChIJS591SoO1zR0Rjg2RbGc_PX0",
+      "name": "Somerset Wines Direct",
+      "reason": "business-park / not walk-in retail"
+    },
+    {
+      "id": "gplaces-ChIJVzu2krFezB0R4_vN9TXP_qg",
+      "name": "Meridian Wine Merchants Cape (PTY) Ltd",
+      "reason": "B2B wine merchant"
+    },
+    {
+      "id": "gplaces-ChIJ2_-YmLFezB0RjFI-dk9cJuk",
+      "name": "Cape Wine Works (PTY) LTD",
+      "reason": "industrial producer/office"
+    },
+    {
+      "id": "gplaces-ChIJLawl40hCzB0RHDEljHNRA3A",
+      "name": "NMK Schultz Cape Pty Ltd Fine Wine Spirits",
+      "reason": "industrial B2B"
+    },
+    {
+      "id": "gplaces-ChIJ7ZsfMSRBzB0RaJ6NDIG4ccg",
+      "name": "Rueda Wine Co.",
+      "reason": "industrial producer/office"
+    },
+    {
+      "id": "gplaces-ChIJNx_kdRBdzB0RJVR6PRMzMz4",
+      "name": "Ex Animo Wine Co.",
+      "reason": "office / producer"
+    }
+  ],
+  "residentialReview": [
+    {
+      "id": "gplaces-ChIJadqRiYeyzR0R0YjcDlIwNLc",
+      "name": "Tasteslikemore Wine",
+      "reason": "11 Tennant Road, Tenantville — residential, no storefront evidence"
+    },
+    {
+      "id": "gplaces-ChIJx7xOfu1RzB0RqbQC7HvUbwI",
+      "name": "Freaking Good Wine",
+      "reason": "18 Witkaree Boom, Brackenfell — residential"
+    },
+    {
+      "id": "gplaces-ChIJvcX8EA1DzB0R_K4wuV2D-u4",
+      "name": "Wine Source",
+      "reason": "11 Purcell Way, Kreupelbosch — residential"
+    },
+    {
+      "id": "wcla-035543",
+      "name": "Binta's Liquors",
+      "reason": "62 Cedile Road residential; no public storefront evidence"
+    }
+  ],
+  "duplicateCollapsed": {
+    "droppedId": "wcla-044152",
+    "keptId": "osm-seed-node-13452712711",
+    "name": "Stellenbosch Square WCellar",
+    "reason": "same physical store as OSM W Cellar at Stellenbosch Square"
+  },
+  "inferredWCellar": {
+    "droppedId": "curated-ww-cellar-stellenbosch-cbd",
+    "name": "Woolworths Cellar (Stellenbosch CBD / Eikestad Mall)",
+    "reason": "ordinary Woolworths inferred as WCellar; Woolworths ≠ WCellar"
+  },
+  "googlePoisBefore": 5884,
+  "googlePoisAfter": 5843,
+  "wclaPoisBefore": 736,
+  "wclaPoisAfter": 734,
+  "missingGoogleDrops": []
+}

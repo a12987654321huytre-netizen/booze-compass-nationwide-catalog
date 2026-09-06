@@ -91,6 +91,10 @@ function isParentOnlyName(value: string): boolean {
 
 function applyParentLiquorName(value: string): { name: string; parentName: string } | null {
   for (const mapping of PARENT_LIQUOR_BRANDS) {
+    // Never infer WCellar from a Woolworths supermarket. Woolworths ≠ WCellar.
+    // Only an explicit W Cellar / WCellar / Woolworths Cellar / Woolworths Liquor
+    // name is a distinct cellar operation.
+    if (mapping.parentName === 'Woolworths') continue;
     if (mapping.parentPattern.test(value) || mapping.parentPattern.test(normalizeName(value))) {
       if (matchesKnownBrand(value) || matchesGenericLiquorKeyword(value)) return null;
       const liquorBits = /liquor|cellar|tops|bottle|drank/i.test(value);
@@ -115,8 +119,9 @@ function expandAbbreviations(value: string): string | null {
  * 1. Curated name wins when we already know the real identity.
  * 2. Prefer a specific liquor name over a generic "Liquor store".
  * 3. Prefer a liquor-outlet identity over a parent supermarket name.
- * 4. Never promote operator=Woolworths into "Woolworths Cellar" unless
- *    the candidate is already classified as a liquor outlet.
+ * 4. Never infer Woolworths Cellar from a bare Woolworths name. WCellar
+ *    is a distinct operation and needs its own name (W Cellar / WCellar /
+ *    Woolworths Cellar / Woolworths Liquor).
  * 5. Fall back to "Liquor store" only when nothing usable exists.
  */
 export function resolveStoreIdentity(

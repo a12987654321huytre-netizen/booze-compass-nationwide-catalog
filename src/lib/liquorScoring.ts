@@ -27,9 +27,20 @@ export const LIQUOR_CONFIDENCE_THRESHOLD = 70;
 const BROADER_SHOP_TYPES = new Set(['supermarket', 'convenience', 'general', 'department_store']);
 
 const WINE_ESTATE_NAME =
-  /\b(wine estate|winery|wine farm|tasting room|wine tasting|tastery|wine route|wine valley|winelands|wine lands|wine region|\w+kelder)\b/i;
+  /\b(wine estate|winery|wine farm|tasting room|wine tasting|tastery|wine route|wine valley|winelands|wine lands|wine region|cellar door|vineyards?|beer estate|\w+kelder)\b/i;
 
-const WINE_PRODUCER_NAME = /\bwines$/i;
+const WINE_PRODUCER_NAME = /\bwines(\s+\(pty\))?(\s+ltd)?$/i;
+
+const PRODUCER_ADDRESS =
+  /\b(wine cellar|wine estate|winery|wine farm|vineyard|cellar door|klein constantia|groot constantia|laborie|overhex)\b/i;
+
+const NON_RETAIL_NAME =
+  /\b(association|salba|federation|chamber of|consultants?|soirees?|soir[eé]es?|festival|wine meander|brand owners|cork supply|packaging)\b/i;
+
+const B2B_SUPPLY_NAME =
+  /\b((liquor|wine)\s+(supply|supplier|distributors?|distribution)|wholesale liquor distributors?|sommeliers warehouse|getwine warehouse|wines direct|wine merchants?|wine works)\b/i;
+
+const ONLINE_ONLY_NAME = /\b(online website|wine time online|wine on time)\b/i;
 
 const NOT_A_BOTTLE_STORE_NAME = /\b(tavern|shebeen|nightclub|night club|pub|takeaway|take away|restaurant|cafe|café|deli)\b/i;
 
@@ -42,7 +53,7 @@ const STRONG_RETAIL_NAME =
  * no liquor banner, is not the bottle store — even if the type says so.
  */
 const BARE_SUPERMARKET_NAME =
-  /\b(shoprite|checkers|pick n pay|picknpay|woolworths|food lover|ok foods|ok grocer|ok minimarket|cambridge food|usave|superspar|\bspar\b|boxer|game)\b/i;
+  /\b(shoprite|checkers|pick n pay|picknpay|woolworths|food lover|ok foods|ok grocer|ok minimarket|cambridge food|usave|superspar|kwikspar|\bspar\b|boxer|game)\b/i;
 
 function isBareSupermarket(name?: string): boolean {
   if (!name) return false;
@@ -73,6 +84,30 @@ export function scoreLiquorCandidate(tags: OsmTags, name?: string): LiquorScoreR
   }
 
   const display = name ?? tags.name ?? '';
+  if (display && NON_RETAIL_NAME.test(display) && !STRONG_RETAIL_NAME.test(display) && !matchesKnownBrand(display)) {
+    return {
+      score: 0,
+      accepted: false,
+      reasons: [{ signal: 'industry body / event / non-retail — not a bottle store', score: 0 }],
+      rejectedAs: 'not-retail',
+    };
+  }
+  if (display && B2B_SUPPLY_NAME.test(display) && !STRONG_RETAIL_NAME.test(display) && !matchesKnownBrand(display)) {
+    return {
+      score: 0,
+      accepted: false,
+      reasons: [{ signal: 'supplier / distributor / B2B warehouse — not a bottle store', score: 0 }],
+      rejectedAs: 'not-retail',
+    };
+  }
+  if (display && ONLINE_ONLY_NAME.test(display) && !STRONG_RETAIL_NAME.test(display)) {
+    return {
+      score: 0,
+      accepted: false,
+      reasons: [{ signal: 'online-only listing — not a walk-in bottle store', score: 0 }],
+      rejectedAs: 'not-retail',
+    };
+  }
   if (display && NOT_A_BOTTLE_STORE_NAME.test(display) && !STRONG_RETAIL_NAME.test(display) && !matchesKnownBrand(display)) {
     return {
       score: 0,
@@ -162,8 +197,22 @@ export function scoreLiquorCandidate(tags: OsmTags, name?: string): LiquorScoreR
 
 function isWineEstate(tags: OsmTags, name?: string): boolean {
   if (tags.craft === 'winery' || tags.tourism === 'winery') return true;
-  const haystack = [name, tags.name, tags.alt_name, tags.official_name]
+  const display = name ?? tags.name ?? '';
+  // Dedicated bottle-store / known-banner names are not producer venues,
+  // even when the address sits near a cellar or the fascia says "cellar".
+  if (
+    matchesKnownBrand(display) ||
+    STRONG_RETAIL_NAME.test(display) ||
+    /fine wine cellar/i.test(display)
+  ) {
+    return false;
+  }
+  const haystack = [name, tags.name, tags.alt_name, tags.official_name, tags['addr:full'], tags['addr:street']]
     .filter(Boolean)
     .join(' ');
-  return WINE_ESTATE_NAME.test(haystack) || WINE_PRODUCER_NAME.test(haystack);
+  if (WINE_ESTATE_NAME.test(haystack) || WINE_PRODUCER_NAME.test(haystack)) return true;
+  if (PRODUCER_ADDRESS.test(haystack) && !/drankwinkel|bottle store|liquor store|liquorshop/i.test(display)) {
+    return true;
+  }
+  return false;
 }

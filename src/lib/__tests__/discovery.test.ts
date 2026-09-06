@@ -21,14 +21,14 @@ describe('discoverLocal - Cape Town / Stellenbosch seed + curated', () => {
     expect(result.stores.some((s) => s.name === 'Village Liquors')).toBe(true);
   });
 
-  it('surfaces curated Woolworths Cellar at Stellenbosch CBD, not the parent supermarket', () => {
+  it('does not infer WCellar from the Stellenbosch CBD Woolworths supermarket', () => {
     const loc = TEST_LOCATIONS.find((l) => l.id === 'stellenbosch-cbd')!;
     const result = discoverLocal(loc.latitude, loc.longitude, 1500);
-    const cellar = result.stores.find((s) => s.name === 'Woolworths Cellar');
-    expect(cellar).toBeTruthy();
-    expect(cellar?.source).toBe('curated');
-    expect(cellar?.locationType).toBe('attached-counter');
-    expect(cellar?.parentName).toBe('Woolworths');
+    expect(result.stores.some((s) => s.id === 'curated-ww-cellar-stellenbosch-cbd')).toBe(false);
+    expect(result.stores.some((s) => s.source === 'curated' && s.name === 'Woolworths Cellar')).toBe(
+      false
+    );
+    expect(result.stores.some((s) => /^woolworths$/i.test(s.name))).toBe(false);
   });
 
   it('surfaces Market Liquor as an attached counter of Food Lover\'s Market', () => {

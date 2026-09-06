@@ -400,6 +400,24 @@
       ],
       "matchClass": "REVIEW_REQUIRED",
       "reviewWhy": "geocode snapped to a different premises; identity/address still ambiguous"
+    },
+    {
+      "licenceNo": "WCP/035543",
+      "premisesName": "Binta's Liquors",
+      "licenceHolder": "Bintas Liquor (Pty) Ltd",
+      "address": "62 Cedile Road, STELLENBOSCH, 7600",
+      "suburb": "Stellenbosch",
+      "licenceType": "Consumption Off",
+      "pdfPage": "196",
+      "sourceStatus": "REVIEW_REQUIRED",
+      "nameKind": "dedicated",
+      "confidence": "LOW",
+      "brand": "Binta's Liquors",
+      "matchClass": "REVIEW_REQUIRED",
+      "reasons": [
+        "residential address (62 Cedile Road / Cedile Street, Kayamandi)",
+        "liquor-sounding name is not enough without a public retail storefront"
+      ]
     }
   ],
   "count": 18,

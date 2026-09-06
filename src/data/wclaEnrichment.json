@@ -6230,6 +6230,19 @@
       "suburb": "BROOKLYN",
       "pdfPage": "17",
       "matchClass": "MATCH_CONFIRMED"
+    },
+    {
+      "existingId": "osm-seed-node-13452712711",
+      "wclaLicenceNo": "WCP/044152",
+      "wclaLicenceHolder": "Woolworths (Pty) Ltd",
+      "wclaHolderType": "company",
+      "wclaLicenceType": "Consumption Off",
+      "address": "Shop No 48, Stellenbosch Square, Cnr Webersvallei Road & R44, JAMESTOWN, Stellenbosch, 7600",
+      "premisesName": "Stellenbosch Square WCellar",
+      "suburb": "Jamestown",
+      "pdfPage": "192",
+      "matchClass": "MATCH_CONFIRMED",
+      "notes": "Same physical Stellenbosch Square WCellar as OSM W Cellar. Duplicate pin collapsed."
     }
   ]
 }

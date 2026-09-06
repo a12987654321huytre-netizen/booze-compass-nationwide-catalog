@@ -82,9 +82,10 @@ describe('scoreLiquorCandidate - must NOT classify every supermarket as a liquor
     expect(result.accepted).toBe(false);
   });
 
-  it('rejects a plain SPAR', () => {
-    const result = scoreLiquorCandidate({ shop: 'supermarket' }, 'SPAR Die Boord');
+  it('rejects a KWIKSPAR supermarket without a liquor banner', () => {
+    const result = scoreLiquorCandidate({ shop: 'alcohol' }, 'KWIKSPAR De Helderbosch');
     expect(result.accepted).toBe(false);
+    expect(result.rejectedAs).toBe('bare-supermarket');
   });
 
   it('rejects a Pick n Pay with no liquor signal', () => {
@@ -156,6 +157,46 @@ describe('scoreLiquorCandidate - wine estates are not bottle stores', () => {
     const result = scoreLiquorCandidate({ shop: 'alcohol' }, 'Wellington Wine Route');
     expect(result.accepted).toBe(false);
     expect(result.rejectedAs).toBe('wine-estate');
+  });
+
+  it('rejects a vineyard / estate even when Google typed it liquor_store', () => {
+    const result = scoreLiquorCandidate({ shop: 'alcohol' }, 'Seven Sisters Vineyards');
+    expect(result.accepted).toBe(false);
+    expect(result.rejectedAs).toBe('wine-estate');
+  });
+
+  it('rejects a producer shop sitting on a wine cellar address', () => {
+    const result = scoreLiquorCandidate(
+      { shop: 'alcohol', 'addr:full': 'Koelenhof Wine Cellar, R304 Koelenhof, Stellenbosch' },
+      'The Daily Wine'
+    );
+    expect(result.accepted).toBe(false);
+    expect(result.rejectedAs).toBe('wine-estate');
+  });
+});
+
+describe('scoreLiquorCandidate - industry bodies, events, suppliers are not bottle stores', () => {
+  it('rejects SALBA', () => {
+    const result = scoreLiquorCandidate({ shop: 'alcohol' }, 'South African Liquor Brand owners Association (SALBA)');
+    expect(result.accepted).toBe(false);
+    expect(result.rejectedAs).toBe('not-retail');
+  });
+
+  it('rejects a cork / packaging supplier', () => {
+    const result = scoreLiquorCandidate({ shop: 'alcohol' }, 'Cape Cork Supply (Pty) Ltd');
+    expect(result.accepted).toBe(false);
+    expect(result.rejectedAs).toBe('not-retail');
+  });
+
+  it('rejects a street soiree / event', () => {
+    const result = scoreLiquorCandidate({ shop: 'alcohol' }, 'Stellenbosch Street Soirees');
+    expect(result.accepted).toBe(false);
+    expect(result.rejectedAs).toBe('not-retail');
+  });
+
+  it('still accepts a dedicated liquor warehouse that is a walk-in store', () => {
+    const result = scoreLiquorCandidate({ shop: 'alcohol' }, 'Warehouse Liquor Store');
+    expect(result.accepted).toBe(true);
   });
 });
 

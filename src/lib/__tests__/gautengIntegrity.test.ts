@@ -14,21 +14,27 @@ const SNAPSHOT: string[] = JSON.parse(readFileSync(resolve(ART, 'gauteng-id-snap
 const NEW_POIS: { id: string; name: string; address?: string }[] = JSON.parse(
   readFileSync(resolve(ART, 'gauteng-new-pois.json'), 'utf8')
 ).pois;
+const WC_CLEANUP: { removedFromCatalogIds: string[] } = JSON.parse(
+  readFileSync(resolve(ART, 'wc-false-positive-cleanup.json'), 'utf8')
+);
+const WC_REMOVED = new Set(WC_CLEANUP.removedFromCatalogIds);
 
 describe('Gauteng saturation — zero deletion', () => {
-  it('keeps every pre-pass POI id', () => {
+  it('keeps every pre-pass POI id except later explicit WC false-positive removals', () => {
     resetCatalogCache();
     const catalog = loadCatalog();
     const after = new Set(catalog.map((poi) => poi.id));
     expect(SNAPSHOT).toHaveLength(6517);
-    const missing = SNAPSHOT.filter((id) => !after.has(id));
+    const preserved = SNAPSHOT.filter((id) => !WC_REMOVED.has(id));
+    const missing = preserved.filter((id) => !after.has(id));
     expect(missing).toEqual([]);
     assertAdditive(
-      SNAPSHOT,
+      preserved,
       catalog.map((poi) => poi.id),
       'gauteng-pass'
     );
-    expect(catalog.length).toBe(SNAPSHOT.length + NEW_POIS.length);
+    expect(NEW_POIS.every((poi) => after.has(poi.id))).toBe(true);
+    expect(catalog.length).toBe(SNAPSHOT.length + NEW_POIS.length - WC_REMOVED.size);
   });
 });
 
@@ -144,12 +150,14 @@ describe('Gauteng saturation — source failure cannot delete', () => {
     expect(result.added).toHaveLength(0);
   });
 
-  it('google catalog file only grew by the new Gauteng ids', () => {
+  it('google catalog file only grew by the new Gauteng ids, minus explicit WC false-positive removals', () => {
     const googleIds = googleCatalogPois().map((poi) => poi.id);
-    const beforeGoogle = SNAPSHOT.filter((id) => id.startsWith('gplaces-'));
+    const beforeGoogle = SNAPSHOT.filter((id) => id.startsWith('gplaces-') && !WC_REMOVED.has(id));
     expect(beforeGoogle.every((id) => googleIds.includes(id))).toBe(true);
     expect(NEW_POIS.every((poi) => googleIds.includes(poi.id))).toBe(true);
+    const removedGoogle = SNAPSHOT.filter((id) => id.startsWith('gplaces-') && WC_REMOVED.has(id));
     expect(googleIds).toHaveLength(beforeGoogle.length + NEW_POIS.length);
+    expect(removedGoogle.every((id) => !googleIds.includes(id))).toBe(true);
     expect((googlePlacesFile as { pois: unknown[] }).pois).toHaveLength(googleIds.length);
   });
 });

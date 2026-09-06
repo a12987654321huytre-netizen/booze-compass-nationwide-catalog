@@ -27,9 +27,8 @@ export const TEST_LOCATIONS: TestLocation[] = [
       'Game Liquor',
       'Parade Liquors',
       'Checkers LiquorShop',
-      'Woolworths Cellar',
     ],
-    notes: 'Dense cluster of real bottle stores. Woolworths supermarket must NOT win over Woolworths Cellar.',
+    notes: 'Dense cluster of real bottle stores. Ordinary Woolworths is not WCellar.',
   },
   {
     id: 'village-liquors',
