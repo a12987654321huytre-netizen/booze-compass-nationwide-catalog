@@ -27,7 +27,7 @@ export const LIQUOR_CONFIDENCE_THRESHOLD = 70;
 const BROADER_SHOP_TYPES = new Set(['supermarket', 'convenience', 'general', 'department_store']);
 
 const WINE_ESTATE_NAME =
-  /\b(wine estate|winery|wine farm|tasting room|wine tasting|tastery|wine route|wine valley|winelands|wine lands|wine region|cellar door|vineyards?|beer estate|\w+kelder)\b/i;
+  /\b(wine estate|winery|wine farm|tasting room|wine tasting|tastery|wine route|wine valley|winelands|wine lands|wine region|cellar door|vineyards?|beer estate|private cellar|\w+kelder|\w+\s+estate)\b/i;
 
 const WINE_PRODUCER_NAME = /\bwines(\s+\(pty\))?(\s+ltd)?$/i;
 
@@ -207,7 +207,15 @@ function isWineEstate(tags: OsmTags, name?: string): boolean {
   ) {
     return false;
   }
-  const haystack = [name, tags.name, tags.alt_name, tags.official_name, tags['addr:full'], tags['addr:street']]
+  const haystack = [
+    name,
+    tags.name,
+    tags.alt_name,
+    tags.official_name,
+    tags['name:en'],
+    tags['addr:full'],
+    tags['addr:street'],
+  ]
     .filter(Boolean)
     .join(' ');
   if (WINE_ESTATE_NAME.test(haystack) || WINE_PRODUCER_NAME.test(haystack)) return true;

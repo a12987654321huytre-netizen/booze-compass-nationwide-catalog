@@ -173,6 +173,29 @@ describe('scoreLiquorCandidate - wine estates are not bottle stores', () => {
     expect(result.accepted).toBe(false);
     expect(result.rejectedAs).toBe('wine-estate');
   });
+
+  it('rejects a private cellar / appointment tasting venue', () => {
+    const result = scoreLiquorCandidate({ shop: 'alcohol' }, 'Bein Private Cellar');
+    expect(result.accepted).toBe(false);
+    expect(result.rejectedAs).toBe('wine-estate');
+  });
+
+  it('rejects a wine tastery even when tagged shop=wine', () => {
+    const result = scoreLiquorCandidate({ shop: 'wine' }, 'Peter Falke wine tastery');
+    expect(result.accepted).toBe(false);
+    expect(result.rejectedAs).toBe('wine-estate');
+  });
+
+  it('rejects a named estate even without the words wine/winery', () => {
+    const result = scoreLiquorCandidate({ shop: 'wine' }, 'Hartenberg Estate');
+    expect(result.accepted).toBe(false);
+    expect(result.rejectedAs).toBe('wine-estate');
+  });
+
+  it('still accepts TOPS at a centre called The Vineyard', () => {
+    const result = scoreLiquorCandidate({ shop: 'alcohol' }, 'TOPS at SPAR The Vineyard');
+    expect(result.accepted).toBe(true);
+  });
 });
 
 describe('scoreLiquorCandidate - industry bodies, events, suppliers are not bottle stores', () => {
@@ -190,6 +213,18 @@ describe('scoreLiquorCandidate - industry bodies, events, suppliers are not bott
 
   it('rejects a street soiree / event', () => {
     const result = scoreLiquorCandidate({ shop: 'alcohol' }, 'Stellenbosch Street Soirees');
+    expect(result.accepted).toBe(false);
+    expect(result.rejectedAs).toBe('not-retail');
+  });
+
+  it('rejects a hotel/restaurant liquor distributor', () => {
+    const result = scoreLiquorCandidate({ shop: 'alcohol' }, 'Restaurant & Hotel Liquor Distributors');
+    expect(result.accepted).toBe(false);
+    expect(result.rejectedAs).toBe('not-retail');
+  });
+
+  it('rejects Agesi Liquor Distributors as B2B, not a bottle store', () => {
+    const result = scoreLiquorCandidate({ shop: 'alcohol' }, 'Agesi Liquor Distributors');
     expect(result.accepted).toBe(false);
     expect(result.rejectedAs).toBe('not-retail');
   });

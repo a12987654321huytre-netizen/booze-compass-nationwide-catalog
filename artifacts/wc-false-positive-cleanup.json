@@ -1,12 +1,13 @@
 {
-  "falsePositivesReviewed": 44,
-  "wineFarmTastingRemovedFromCompass": 13,
-  "nonRetailRemoved": 25,
+  "falsePositivesReviewed": 53,
+  "wineFarmTastingRemovedFromCompass": 20,
+  "nonRetailRemoved": 27,
   "residentialUnverifiedMovedToReview": 4,
   "duplicatesCollapsed": 1,
   "inferredWCellarRemoved": 1,
   "removedFromCatalogIds": [
     "curated-ww-cellar-stellenbosch-cbd",
+    "gplaces-ChIJ1bwnZsqrzR0ROpCm5p7y2rU",
     "gplaces-ChIJ2_-YmLFezB0RjFI-dk9cJuk",
     "gplaces-ChIJ4YDO1_OyzR0RFlwdvpWDR90",
     "gplaces-ChIJ6bORaeqxzR0Rv4JcUxr6nLM",
@@ -34,6 +35,7 @@
     "gplaces-ChIJWVRh14uyzR0RLWzB_vabYMM",
     "gplaces-ChIJXwNf-sRazB0RLPzYxFYPnBM",
     "gplaces-ChIJadqRiYeyzR0R0YjcDlIwNLc",
+    "gplaces-ChIJbUPeS5xazB0RkMDDuxMby88",
     "gplaces-ChIJcV7QJMJazB0RAwG4CgPp-RM",
     "gplaces-ChIJd_T6eYHKzR0RpOZcfB9UWYo",
     "gplaces-ChIJdb6KuBD1zB0RLCSBM4_HpZs",
@@ -243,23 +245,33 @@
       "id": "gplaces-ChIJNx_kdRBdzB0RJVR6PRMzMz4",
       "name": "Ex Animo Wine Co.",
       "reason": "office / producer"
+    },
+    {
+      "id": "gplaces-ChIJbUPeS5xazB0RkMDDuxMby88",
+      "name": "Restaurant & Hotel Liquor Distributors",
+      "reason": "B2B liquor distributor, not a walk-in bottle store"
+    },
+    {
+      "id": "gplaces-ChIJ1bwnZsqrzR0ROpCm5p7y2rU",
+      "name": "Agesi Liquor Distributors",
+      "reason": "B2B liquor distributor, not a walk-in bottle store"
     }
   ],
   "residentialReview": [
     {
       "id": "gplaces-ChIJadqRiYeyzR0R0YjcDlIwNLc",
       "name": "Tasteslikemore Wine",
-      "reason": "11 Tennant Road, Tenantville — residential, no storefront evidence"
+      "reason": "11 Tennant Road, Tenantville \u2014 residential, no storefront evidence"
     },
     {
       "id": "gplaces-ChIJx7xOfu1RzB0RqbQC7HvUbwI",
       "name": "Freaking Good Wine",
-      "reason": "18 Witkaree Boom, Brackenfell — residential"
+      "reason": "18 Witkaree Boom, Brackenfell \u2014 residential"
     },
     {
       "id": "gplaces-ChIJvcX8EA1DzB0R_K4wuV2D-u4",
       "name": "Wine Source",
-      "reason": "11 Purcell Way, Kreupelbosch — residential"
+      "reason": "11 Purcell Way, Kreupelbosch \u2014 residential"
     },
     {
       "id": "wcla-035543",
@@ -276,11 +288,48 @@
   "inferredWCellar": {
     "droppedId": "curated-ww-cellar-stellenbosch-cbd",
     "name": "Woolworths Cellar (Stellenbosch CBD / Eikestad Mall)",
-    "reason": "ordinary Woolworths inferred as WCellar; Woolworths ≠ WCellar"
+    "reason": "ordinary Woolworths inferred as WCellar; Woolworths \u2260 WCellar"
   },
   "googlePoisBefore": 5884,
-  "googlePoisAfter": 5843,
+  "googlePoisAfter": 5841,
   "wclaPoisBefore": 736,
   "wclaPoisAfter": 734,
-  "missingGoogleDrops": []
+  "missingGoogleDrops": [],
+  "residualOsmCompassExclusions": [
+    {
+      "id": "osm-seed-node-3194852639",
+      "name": "Bein Wine",
+      "reason": "Stellenbosch private cellar"
+    },
+    {
+      "id": "osm-seed-node-6049446285",
+      "name": "Peter Falke wine tastery",
+      "reason": "estate tasting room"
+    },
+    {
+      "id": "osm-seed-way-1047766512",
+      "name": "Zorgvliet Wine tasting",
+      "reason": "estate tasting room"
+    },
+    {
+      "id": "osm-seed-node-6562500977",
+      "name": "Tasting room",
+      "reason": "producer tasting room"
+    },
+    {
+      "id": "osm-seed-node-3194757035",
+      "name": "J.C. Le Roux",
+      "reason": "sparkling-wine tasting venue"
+    },
+    {
+      "id": "osm-seed-node-11127595005",
+      "name": "Bartinney",
+      "reason": "wine estate tasting shed"
+    },
+    {
+      "id": "osm-seed-node-6077417985",
+      "name": "Camber / Camberley Wines",
+      "reason": "farm tasting room"
+    }
+  ]
 }

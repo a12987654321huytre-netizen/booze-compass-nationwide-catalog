@@ -69,6 +69,34 @@ describe('Western Cape false-positive cleanup', () => {
       false
     );
     expect(names.some((n) => n.includes('seven sisters'))).toBe(false);
+    expect(names.some((n) => n === 'bein wine' || n.includes('peter falke'))).toBe(false);
+  });
+
+  it('drops Bein Wine and remaining Stellenbosch tasting rooms from compass', () => {
+    expect(discoverLocal(-33.9618756, 18.7356317, 300).stores.some((s) => /bein/i.test(s.name))).toBe(
+      false
+    );
+    expect(discoverLocal(-34.0003205, 18.8391284, 300).stores.some((s) => /peter falke/i.test(s.name))).toBe(
+      false
+    );
+    expect(discoverLocal(-33.9130034, 18.930379, 300).stores.some((s) => /zorgvliet/i.test(s.name))).toBe(
+      false
+    );
+    expect(discoverLocal(-33.904438, 18.8103205, 400).stores.some((s) => /le roux/i.test(s.name))).toBe(
+      false
+    );
+    expect(discoverLocal(-33.9262342, 18.9324574, 400).stores.some((s) => /bartinney/i.test(s.name))).toBe(
+      false
+    );
+    expect(discoverLocal(-33.918791, 18.93233, 400).stores.some((s) => /camber/i.test(s.name))).toBe(false);
+  });
+
+  it('removes remaining Western Cape B2B distributors from the catalog', () => {
+    const catalog = loadCatalog();
+    expect(catalog.some((poi) => poi.id === 'gplaces-ChIJbUPeS5xazB0RkMDDuxMby88')).toBe(false);
+    expect(catalog.some((poi) => poi.id === 'gplaces-ChIJ1bwnZsqrzR0ROpCm5p7y2rU')).toBe(false);
+    expect(catalog.some((poi) => /hotel liquor distributors/i.test(poi.name))).toBe(false);
+    expect(catalog.some((poi) => /agesi liquor distributors/i.test(poi.name))).toBe(false);
   });
 
   it('keeps genuine Stellenbosch bottle stores', () => {
@@ -91,6 +119,6 @@ describe('Western Cape false-positive cleanup', () => {
 
   it('provider failure still cannot delete', () => {
     expect(sourceStateAllowsDeletion('SOURCE_FAILED')).toBe(false);
-    expect(CLEANUP.removedFromCatalogIds).toHaveLength(44);
+    expect(CLEANUP.removedFromCatalogIds).toHaveLength(46);
   });
 });
