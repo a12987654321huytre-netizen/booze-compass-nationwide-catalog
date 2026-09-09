@@ -1,0 +1,698 @@
+[
+  {
+    "googlePlaceId": "ChIJlYmhgtkLvh4RbMxHB6ArPhQ",
+    "name": "Jj Liquor Store",
+    "address": "South Africa",
+    "latitude": -25.6648008,
+    "longitude": 27.2351398,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-rustenburg-east",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJecdbGonfvR4ROodbs98kbVY",
+    "name": "R & M Liquors",
+    "address": "South Africa",
+    "latitude": -25.5659277,
+    "longitude": 27.1696433,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-phokeng",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJefv2kmQXvh4RKH2sq6OQGy0",
+    "name": "Mount Magablues Bottle Store",
+    "address": "South Africa",
+    "latitude": -25.6988046,
+    "longitude": 27.4887665,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-marikana",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJQVH0bE81vh4RXyP7ycTBqto",
+    "name": "Ko Jules",
+    "address": "1880 Block B Ext1, Lethlabile-A, Brits",
+    "latitude": -25.4771903,
+    "longitude": 27.8365163,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-letlhabile",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ8X2acHs3vh4RUTQa2DcmN1g",
+    "name": "Rantho s Inn",
+    "address": "Letlhabile001 block i, Jericho Road, Brits, Letlhabile",
+    "latitude": -25.4657153,
+    "longitude": 27.8292677,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-letlhabile",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ5x7LkBc3vh4R7FW7Iw_lJIo",
+    "name": "Easy Price Liquor",
+    "address": "Warmbad St, Lethlabile-A, Brits, South Africa",
+    "latitude": -25.4963646,
+    "longitude": 27.8431219,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-letlhabile",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJT1nd37Muvh4Rx_tDx4JDIBU",
+    "name": "Monate Sitruskelder",
+    "address": "Damdoryn, Hartbeespoortdam, Hartbeespoort, 0250, South Africa",
+    "latitude": -25.720251,
+    "longitude": 27.815065,
+    "types": [
+      "establishment",
+      "food",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "tx-liquor-hartbeespoort",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJy6S7itEvvh4Rfck3WCM3LcU",
+    "name": "AFSAAL Dranwinkel",
+    "address": "R104, Hartbeespoort, 0216, South Africa",
+    "latitude": -25.7171904,
+    "longitude": 27.7511045,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "tx-liquor-hartbeespoort",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJQQA3_nIrvh4RZ_jZrNGJNq0",
+    "name": "LiquorShop",
+    "address": "South Africa",
+    "latitude": -25.7299655,
+    "longitude": 27.8868968,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "generic name only",
+    "queryId": "nb-hartbeespoort",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJgeez88fRvR4RIXTCcnrcgoc",
+    "name": "Bra god two liquid store",
+    "address": "700933, Ledig",
+    "latitude": -25.3635147,
+    "longitude": 27.05881299999999,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-sun-city-nw",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJH9D-R9d9vh4R__M7n_KKZF0",
+    "name": "Platinum Cash & Carry Mogwase",
+    "address": "Mogwase, South Africa",
+    "latitude": -25.2589817,
+    "longitude": 27.2716434,
+    "types": [
+      "establishment",
+      "home_goods_store",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "tx-liquor-mogwase",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJt6wOkcHfvR4RHXtdFEzXwkI",
+    "name": "Tumo Bottle Store",
+    "address": "R565, Saron, Phokeng, 0335, South Africa",
+    "latitude": -25.5763463,
+    "longitude": 27.1560622,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-phokeng",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJIfIS7GP6lh4RWcAtdz5_yMA",
+    "name": "Boitumelo Bottle Store",
+    "address": "10700 Ugaga St, Jouberton, Klerksdorp, 2574, South Africa",
+    "latitude": -26.8852459,
+    "longitude": 26.5916629,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-jouberton",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Dr Kenneth Kaunda",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJey1JFNwLvh4ReONAJJ6bB0A",
+    "name": "D&S liquor store",
+    "address": "1066 Sidzuma St, Tlhabane Unit B, Tlhabane, 0309, South Africa",
+    "latitude": -25.6425137,
+    "longitude": 27.2247654,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-tlhabane",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ-eqqzMExvh4RgEhyGnLtByw",
+    "name": "TCM Bottle Store",
+    "address": "2827 phsae 2, Oukasie, Brits, 0250, South Africa",
+    "latitude": -25.6016886,
+    "longitude": 27.7920303,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-brits",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ5cbXUj3zlh4Rd_ttLLrO0Xo",
+    "name": "NORVAAL LIQUOR",
+    "address": "South Africa",
+    "latitude": -26.8418959,
+    "longitude": 26.7737735,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-stilfontein",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Dr Kenneth Kaunda",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ5bmkz9Tylh4RMSCIepSfD6c",
+    "name": "R And J Liquor Store",
+    "address": "South Africa",
+    "latitude": -26.8518016,
+    "longitude": 26.796168,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-stilfontein",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Dr Kenneth Kaunda",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJfT4DC8julh4R6Z6BnNnavIs",
+    "name": "Bottle Store",
+    "address": "Orkney, 2619, South Africa",
+    "latitude": -26.9923939,
+    "longitude": 26.6775544,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "generic name only",
+    "queryId": "tx-liquor-orkney",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Dr Kenneth Kaunda",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJmZ88DVHvlh4RzTEqvYo-6Lc",
+    "name": "Kings Family Bottle Store",
+    "address": "17534 extension6, Kanana, Orkney, 2619, South Africa",
+    "latitude": -26.955563,
+    "longitude": 26.63469,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-orkney",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Dr Kenneth Kaunda",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJQ3FW-KAVlh4RoGbqDMN_1sg",
+    "name": "Johnny's take weny",
+    "address": "Van Riebeeck Street, Ventersdorp",
+    "latitude": -26.3173879,
+    "longitude": 26.823334,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-ventersdorp",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Dr Kenneth Kaunda",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJlWfNoL_xlh4REqIAjGRM5-I",
+    "name": "Dawkinsville Bottle Store",
+    "address": "Bottle Store, 5 Ivan Walker St, Dawkinsville, Klerksdorp, 2577, South Africa",
+    "latitude": -26.8673413,
+    "longitude": 26.6760781,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-alabama-klerksdorp",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Dr Kenneth Kaunda",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJKQ67A2tQvR4Rkd556mCZl5c",
+    "name": "Bc Bazaar Bottle Store",
+    "address": "South Africa",
+    "latitude": -26.0562923,
+    "longitude": 25.8317319,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-itsoseng",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Ngaka Modiri Molema",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJTTlFan3Olx4RJ-uH4Kx4C0s",
+    "name": "SPOT-ON",
+    "address": "116 Voortrekker Street, Coligny",
+    "latitude": -26.3321184,
+    "longitude": 26.3147732,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-coligny",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Ngaka Modiri Molema",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJoQcMqXjxvR4R_FX-zj5oEgs",
+    "name": "1 Stop Liquor Store",
+    "address": "South Africa",
+    "latitude": -25.8682257,
+    "longitude": 26.8974235,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-koster-nw",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJKY0s0njxvR4RwoUzkP1qEsE",
+    "name": "PLATINUM EXPRESS LIQUOR",
+    "address": "South Africa",
+    "latitude": -25.8702915,
+    "longitude": 26.8972628,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-koster-nw",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJya5LRcy9vR4R1QhQC3N3SnE",
+    "name": "Liquor Express",
+    "address": "South Africa",
+    "latitude": -25.6506901,
+    "longitude": 26.6869431,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-swartruggens",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Ngaka Modiri Molema",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJH4fdk8u9vR4RNfG5GpUVFnc",
+    "name": "THEO'S DISCOUNT LIQUOR STORE",
+    "address": "South Africa",
+    "latitude": -25.65166699999999,
+    "longitude": 26.6837988,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-swartruggens",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Ngaka Modiri Molema",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJb3RWtdO9vR4R5GK3vZSChS0",
+    "name": "Chill Liquor",
+    "address": "South Africa",
+    "latitude": -25.650008,
+    "longitude": 26.693676,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-swartruggens",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Ngaka Modiri Molema",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ3Wzn1A_5vR4RmZiNf_Smupw",
+    "name": "Abc Store",
+    "address": "R509, Derby",
+    "latitude": -25.9125486,
+    "longitude": 27.0438863,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-derby-nw",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "North West",
+    "district": "Bojanala Platinum",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "name": "LiquorShop Shoprite",
+    "osmId": "node/11805129438",
+    "latitude": -26.7185792,
+    "longitude": 27.0642829,
+    "address": "Potchefstroom, North West",
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Hekpoort Drankwinkel",
+    "osmId": "node/370184532",
+    "latitude": -25.8937382,
+    "longitude": 27.6017828,
+    "address": null,
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Liquor City",
+    "osmId": "node/687084510",
+    "latitude": -25.6960578,
+    "longitude": 27.2545063,
+    "address": null,
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Tops at Spar",
+    "osmId": "node/1978993715",
+    "latitude": -25.7763451,
+    "longitude": 27.8583699,
+    "address": "Corner R512 and Oberon Road, Broederstroom",
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Liquor City",
+    "osmId": "node/6657273285",
+    "latitude": -25.7315948,
+    "longitude": 27.88674,
+    "address": null,
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Rosirapa Liquor",
+    "osmId": "node/12592954166",
+    "latitude": -25.6360518,
+    "longitude": 27.2114631,
+    "address": null,
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Game liquor store",
+    "osmId": "node/7406485887",
+    "latitude": -26.8548765,
+    "longitude": 26.6756671,
+    "address": "16, Central Avenue, Klerksdorp",
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Goudkop Liquor Shop",
+    "osmId": "node/7442858586",
+    "latitude": -26.8504437,
+    "longitude": 26.6899084,
+    "address": null,
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Norvaal liquor store",
+    "osmId": "node/7464192886",
+    "latitude": -26.842187,
+    "longitude": 26.7736735,
+    "address": null,
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Blue bottle liquer store",
+    "osmId": "node/7493922023",
+    "latitude": -26.9120071,
+    "longitude": 26.6680635,
+    "address": null,
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Windpomo liquor shop",
+    "osmId": "node/7616289123",
+    "latitude": -26.8420261,
+    "longitude": 26.6513772,
+    "address": null,
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Die Welkom Drankwinkel",
+    "osmId": "node/2066337587",
+    "latitude": -26.148999,
+    "longitude": 26.159856,
+    "address": null,
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Tops at Spar",
+    "osmId": "node/2066379519",
+    "latitude": -26.148746,
+    "longitude": 26.162074,
+    "address": "33 Gerrit Maritz Street, Lichtenburg, Lichtenburg",
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "DJ Liquor",
+    "osmId": "node/8712148694",
+    "latitude": -25.5947691,
+    "longitude": 26.4242031,
+    "address": null,
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "googlePlaceId": "ChIJdclr1KDxvR4RYmDHFlvczcs",
+    "name": "Blikspens Biltong deli & Bottelstoor",
+    "address": "1 Duister Eloff Rd, Koster, 0348, South Africa",
+    "latitude": -25.8697071,
+    "longitude": 26.8966464,
+    "reason": "mixed biltong deli + bottelstoor — not auto-added",
+    "assignedProvince": "North West",
+    "matchClass": "REVIEW_REQUIRED",
+    "fromNewFilter": true
+  }
+]

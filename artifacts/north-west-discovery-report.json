@@ -1,0 +1,174 @@
+{
+  "province": "North West",
+  "catalogueBefore": 7523,
+  "existingPoisBeforePass": 327,
+  "officialDataFound": false,
+  "officialRecordsProcessed": 0,
+  "officialNote": "NW DEDECT / Liquor Act 6 of 2016 in effect from April 2025. Public material is renewal notices, not a bottle-store POI register.",
+  "googleQueries": 830,
+  "googleRawResults": 7872,
+  "uniqueGooglePlaces": 2184,
+  "osmCandidates": 152,
+  "chainLocatorCandidates": 390,
+  "gazetteCandidatesChecked": 0,
+  "matchedExisting": 306,
+  "newDedicatedBottleStoresAdded": 93,
+  "rejected": 7,
+  "unresolvedReview": 44,
+  "catalogueAfter": 7616,
+  "previousIdsPreserved": "7054 / 7054",
+  "deleted": 0,
+  "topNew": [
+    {
+      "name": "Shoprite LiquorShop Bafokeng",
+      "address": "Bafokeng Plaza, R565, Bafokeng",
+      "city": "Bafokeng",
+      "id": "gplaces-ChIJcTOKIu3fvR4RG9MsGYvoPpI"
+    },
+    {
+      "name": "Country Wide Liquor Marikana",
+      "address": "Karee Road",
+      "city": "Karee Road",
+      "id": "gplaces-ChIJ88MXAGUXvh4R963DCdeOw5I"
+    },
+    {
+      "name": "Verland Liquors",
+      "address": "Karee Road",
+      "city": "Karee Road",
+      "id": "gplaces-ChIJ-_swAGUXvh4RGIiYgDlldvQ"
+    },
+    {
+      "name": "Marikana Boxer Liquors",
+      "address": "Main Road, Marikana, North-West",
+      "city": "North-West",
+      "id": "gplaces-ChIJYRfLvm8Xvh4R53LUSScbR5U"
+    },
+    {
+      "name": "Shoprite LiquorShop Marikana",
+      "address": "Marikana centre, Marikana Road, Marikana",
+      "city": "Marikana",
+      "id": "gplaces-ChIJLxXJUGMgvh4RNyAq8VOnK3Y"
+    },
+    {
+      "name": "Liquor City Marikana",
+      "address": "297 Jq Farm, Marikana",
+      "city": "Marikana",
+      "id": "gplaces-ChIJU8HMTPQXvh4RUFElOGrWFqs"
+    },
+    {
+      "name": "Shoprite LiquorShop Lethlabile",
+      "address": "Cnr, Osaletseng Street, Brits",
+      "city": "Brits",
+      "id": "gplaces-ChIJ_z5cHIQxvh4Re6fMsx1jatc"
+    },
+    {
+      "name": "Bob Liquor Store",
+      "address": "513 Block G, BRITS, Brits",
+      "city": "Brits",
+      "id": "gplaces-ChIJZ0RR1r01vh4RViG5tHiFwv8"
+    },
+    {
+      "name": "Best End Liquor Store",
+      "address": "Letlhabile Road, Brits",
+      "city": "Brits",
+      "id": "gplaces-ChIJ0V7c9MM3vh4RAyDf5ouNlDo"
+    },
+    {
+      "name": "BOB CORNER LIQUOR STORE",
+      "address": "BOB STREET, Letlhabile, LETLHABILE, 0264, South Africa",
+      "city": "LETLHABILE",
+      "id": "gplaces-ChIJ3Z4NJIo1vh4RFRLefg8fbEs"
+    },
+    {
+      "name": "Five Sisters Liquor Store",
+      "address": "1670 Phaphamang St, Lethlabile-A, Brits, South Africa",
+      "city": "Brits",
+      "id": "gplaces-ChIJO9Wo8uE1vh4RBKHvd8Onh4g"
+    },
+    {
+      "name": "Liquor City Zandfontein",
+      "address": "R104 Zandfontein, Hartbeespoort, 0216, South Africa",
+      "city": "Hartbeespoort",
+      "id": "gplaces-ChIJexNFuptjlR4RsJjx6oozEFA"
+    },
+    {
+      "name": "Damdoryn Tops",
+      "address": "Cnr Old Rustenburg Rd &, R512, Hartbeespoort, 0216, South Africa",
+      "city": "Hartbeespoort",
+      "id": "gplaces-ChIJQU98hxgrvh4RgbgQYCtmBQI"
+    },
+    {
+      "name": "Stop Inn Liquor store",
+      "address": "Ptn 141 zandfontein, Hartbeespoort, 0250, South Africa",
+      "city": "Hartbeespoort",
+      "id": "gplaces-ChIJRR_6EtIvvh4RR1zzJ7Y--6U"
+    },
+    {
+      "name": "Ultra Liquors Broederstroom",
+      "address": "Plot 12, 512 Pilendaba Road, Broederstroom, 0240, South Africa",
+      "city": "Broederstroom",
+      "id": "gplaces-ChIJO06aBNyBlR4RUXU9s3mP8lc"
+    },
+    {
+      "name": "Liquor City Mooinooi",
+      "address": "Wilkinson Ave, Mooinooi, 0325, South Africa",
+      "city": "Mooinooi",
+      "id": "gplaces-ChIJESDmpHMivh4Rz1N1NFb8rLM"
+    },
+    {
+      "name": "Overland Liquorello's Drive Thru Liquor Store",
+      "address": "12 Bellingham Ave, Mooinooi, 0325, South Africa",
+      "city": "Mooinooi",
+      "id": "gplaces-ChIJczGtFHEivh4R8RWogjW0Rco"
+    },
+    {
+      "name": "TOPS at SPAR Mooi Nooi",
+      "address": "1 Wilkinson Ave, Mooinooi, 0325, South Africa",
+      "city": "Mooinooi",
+      "id": "gplaces-ChIJlxQRACEjvh4RiKZEIuCrV2M"
+    },
+    {
+      "name": "Liquor City Sun Villiage",
+      "address": "Shop No. 23, Sun Village Complex, Rustenburg, Johannesburg",
+      "city": "Johannesburg",
+      "id": "gplaces-ChIJ6ZEeWrzWvR4RcYqwUVOrWOM"
+    },
+    {
+      "name": "Botshabelo Liquor Store",
+      "address": "108 R556, Norleng, Sun City",
+      "city": "Sun City",
+      "id": "gplaces-ChIJuUwdlUfRvR4ROekzCdj1E_E"
+    },
+    {
+      "name": "Happy Liquor Market",
+      "address": "R565, Ledig",
+      "city": "Ledig",
+      "id": "gplaces-ChIJ6z1dKDrRvR4RUuOTpLTYSqQ"
+    },
+    {
+      "name": "Mogwase Liquor Store ( OVERLAND MOGWASE)",
+      "address": "16 Station Road Mogwase Complex, Mogwase, 0314, South Africa",
+      "city": "Mogwase",
+      "id": "gplaces-ChIJDdibZfp_vh4RHDzg1ROK018"
+    },
+    {
+      "name": "Kgatlego liquor store",
+      "address": "E119 windsor Section, Windsor, Phokeng, South Africa",
+      "city": "Phokeng",
+      "id": "gplaces-ChIJlXytMADfvR4RLjenj0QqIWg"
+    },
+    {
+      "name": "Overland liquors express",
+      "address": "ZA, 6 Marlowe Road, Orkney",
+      "city": "Orkney",
+      "id": "gplaces-ChIJWaOs61pVlh4RA4LL6nzdAJ4"
+    }
+  ],
+  "addedByDistrict": {
+    "Bojanala Platinum": 32,
+    "Unassigned": 14,
+    "Dr Kenneth Kaunda": 18,
+    "Ngaka Modiri Molema": 7,
+    "Dr Ruth Segomotsi Mompati": 22
+  }
+}

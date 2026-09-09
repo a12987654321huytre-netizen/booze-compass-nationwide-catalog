@@ -1,0 +1,175 @@
+{
+  "province": "Limpopo",
+  "catalogueBefore": 7184,
+  "existingPoisBeforePass": 246,
+  "officialDataFound": false,
+  "officialRecordsProcessed": 0,
+  "officialNote": "LEDET / Limpopo liquor licensing has forms and renewals only — no public bulk off-consumption register.",
+  "googleQueries": 830,
+  "googleRawResults": 7872,
+  "uniqueGooglePlaces": 2184,
+  "osmCandidates": 152,
+  "chainLocatorCandidates": 390,
+  "gazetteCandidatesChecked": 0,
+  "matchedExisting": 261,
+  "newDedicatedBottleStoresAdded": 130,
+  "rejected": 50,
+  "unresolvedReview": 58,
+  "catalogueAfter": 7314,
+  "previousIdsPreserved": "7054 / 7054",
+  "deleted": 0,
+  "topNew": [
+    {
+      "name": "Top's at Spar",
+      "address": "Game Ctr, Market St, Polokwane",
+      "city": "Polokwane",
+      "id": "gplaces-ChIJQy5uAiXYxh4Ru_nVtjzsbNY"
+    },
+    {
+      "name": "Polokwane Liquor Store",
+      "address": "53 President Paul Kruger Street, Polokwane Central, Polokwane",
+      "city": "Polokwane",
+      "id": "gplaces-ChIJJ4pcESfYxh4R_YAbD58_mCw"
+    },
+    {
+      "name": "DJs liquor store",
+      "address": "Cbd city centre, 97 Dahl Street, Polokwane",
+      "city": "Polokwane",
+      "id": "gplaces-ChIJGaml7i7Zxh4RVBBgt6ylp-w"
+    },
+    {
+      "name": "Bm Corner Liquor Store",
+      "address": "269 New Era Drive, Seshego-D, Polokwane",
+      "city": "Polokwane",
+      "id": "gplaces-ChIJL_cuNdMgxx4RCO0OO8lTflA"
+    },
+    {
+      "name": "Chicco's Liquor Store",
+      "address": "R567",
+      "city": "R567",
+      "id": "gplaces-ChIJlzlxHNEgxx4RZLU_PMGugew"
+    },
+    {
+      "name": "Tibani Boxer Liquors",
+      "address": "LS Intersection of R567 (D3390) & D19, Shop 25 Portion 37 of Matla’s Location 591, Polokwane",
+      "city": "Polokwane",
+      "id": "gplaces-ChIJc6RVPdkhxx4R4AaUqPGU6AA"
+    },
+    {
+      "name": "Mojuda Liquor Store",
+      "address": "Badimong",
+      "city": "Badimong",
+      "id": "gplaces-ChIJX2uLqJnJxh4RzOzyBFFSwoI"
+    },
+    {
+      "name": "Shoprite LiquorShop Paledi",
+      "address": "Shop 69, Paledi Mall, R71, Polokwane",
+      "city": "Polokwane",
+      "id": "gplaces-ChIJW313_WvJxh4REntaZPswC54"
+    },
+    {
+      "name": "TOPS at SPAR Paledi",
+      "address": "R71 Shop 30, Paledi Mall, Ga Thoka, Mankweng",
+      "city": "Mankweng",
+      "id": "gplaces-ChIJ1TPVbHbJxh4RJe4di1yUs_M"
+    },
+    {
+      "name": "Mentz Liquor",
+      "address": "3QQG+FV, Megoring",
+      "city": "Megoring",
+      "id": "gplaces-ChIJ432KCgDJxh4RWkvCJXN3X0M"
+    },
+    {
+      "name": "Shoprite LiquorShop Bochum",
+      "address": "Cnr Dendron and Blouberg Road, Senwabarwana-A, Senwabarwana, 0626, South Africa",
+      "city": "Senwabarwana",
+      "id": "gplaces-ChIJoWZEt6q8xx4RwG4ITU0zqes"
+    },
+    {
+      "name": "Cumbrae Bottle Store",
+      "address": "Main St, Senwabarwana-A, Senwabarwana, 0790, South Africa",
+      "city": "Senwabarwana",
+      "id": "gplaces-ChIJ9YdMJ1Wjxx4RSZhm8RidHSw"
+    },
+    {
+      "name": "Nahamula Bottle Store",
+      "address": "76 Republic Street, Mogwadi",
+      "city": "Mogwadi",
+      "id": "gplaces-ChIJj84fTH2pxx4R0SuBmZI5aFk"
+    },
+    {
+      "name": "Uncle Cheapies liquor bottle store",
+      "address": "76 Leeuwkuil, Polokwane, 0700, South Africa",
+      "city": "Polokwane",
+      "id": "gplaces-ChIJV1_CGjMnxx4RnMPMbqWFLFE"
+    },
+    {
+      "name": "Liquor World - Polokwane",
+      "address": "1 Beril St, Polokwane Ext 12, Polokwane, 0700, South Africa",
+      "city": "Polokwane",
+      "id": "gplaces-ChIJrR4Yfa3Zxh4RRIANEGXLECg"
+    },
+    {
+      "name": "OASIS LIQUOR STORE",
+      "address": "Kaya street, Nkowankowa",
+      "city": "Nkowankowa",
+      "id": "gplaces-ChIJBQMOo5sHxB4RfbvIhPOMev0"
+    },
+    {
+      "name": "TOPS at SPAR Letsitele",
+      "address": "R529, Letsitele",
+      "city": "Letsitele",
+      "id": "gplaces-ChIJExAFbRX3wx4RzOcSV9Cigqk"
+    },
+    {
+      "name": "OK LIQUOR Letsitele",
+      "address": "R529, Letsitele",
+      "city": "Letsitele",
+      "id": "gplaces-ChIJBWNP_bkJxB4R5ZVFzN5IHQs"
+    },
+    {
+      "name": "Bashabi Liquor Store",
+      "address": "stand no, Kwena moloto 1, 72 Moletjie, Seshego, 0742, South Africa",
+      "city": "Seshego",
+      "id": "gplaces-ChIJVZNrIkAhxx4RnuE8Wj_Cxlc"
+    },
+    {
+      "name": "Chillers Liquor Store",
+      "address": "Phase 2, lethuli Park Lethuli, 32f Tukedi St, Seshego-9F, Polokwane, 0742, South Africa",
+      "city": "Polokwane",
+      "id": "gplaces-ChIJJUALXycnxx4RYca6s8jlySA"
+    },
+    {
+      "name": "Magneetshoogte Boxer Liquors",
+      "address": "R579 Jane Furse Road, Lebowakgomo",
+      "city": "Lebowakgomo",
+      "id": "gplaces-ChIJVd721zYnwR4RgGixDdIGV5M"
+    },
+    {
+      "name": "Masemola Madimetja Bottle Store",
+      "address": "Sepanapudi",
+      "city": "Sepanapudi",
+      "id": "gplaces-ChIJi1uQyfInwR4RwmaU4qMxgK0"
+    },
+    {
+      "name": "Mankweng Bottle Store",
+      "address": "Unnamed Road, Mankweng-A, Mankweng, 0727, South Africa",
+      "city": "Mankweng",
+      "id": "gplaces-ChIJlblPQD7Jxh4RHLPK0Qnvplw"
+    },
+    {
+      "name": "RJL LIQUOR",
+      "address": "Nobody Ga Mothiba, Nobody, Polokwane, 0726, South Africa",
+      "city": "Polokwane",
+      "id": "gplaces-ChIJq0TQi2_Pxh4R8x_2E2TDEgo"
+    }
+  ],
+  "addedByDistrict": {
+    "Capricorn": 22,
+    "Unassigned": 22,
+    "Mopani": 18,
+    "Vhembe": 21,
+    "Waterberg": 27,
+    "Sekhukhune": 20
+  }
+}

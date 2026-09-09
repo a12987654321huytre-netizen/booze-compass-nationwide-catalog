@@ -1,0 +1,954 @@
+{
+  "nationalCatalogueBefore": 7054,
+  "freeStateAdded": 130,
+  "limpopoAdded": 130,
+  "mpumalangaAdded": 140,
+  "northernCapeAdded": 69,
+  "northWestAdded": 93,
+  "totalNewDedicatedBottleStoresAdded": 562,
+  "totalMatchedExisting": 1341,
+  "totalRejected": 112,
+  "totalReviewRequired": 216,
+  "finalNationalCatalogue": 7616,
+  "originalMasterIdsPreserved": "7054 / 7054",
+  "deleted": 0,
+  "google": {
+    "queries": 830,
+    "rawResults": 7872,
+    "uniquePlaces": 2184,
+    "cappedQueries": 0,
+    "failedQueries": 0,
+    "gapFollowupQueries": 10
+  },
+  "osmCandidates": 152,
+  "sparTopsMatched": 229,
+  "sparTopsUnmatched": 28,
+  "sparTopsOutOfProvince": 133,
+  "sparFollowupNew": 10,
+  "applied": true,
+  "filter": {
+    "classifiedNew": 572,
+    "droppedReject": [
+      "gplaces-ChIJ-QqlAAAb6R4RIxW_NjncWvE",
+      "gplaces-ChIJ1Wxrl1MLxh4R9iDJ8SBU_js",
+      "gplaces-ChIJ6QM_9t-fwh4R1gnN4-KgsSs",
+      "gplaces-ChIJI48PYygsmx4RI4ge0IMcaX0",
+      "gplaces-ChIJKeqRlsKxxR4R6NIb10duv8I",
+      "gplaces-ChIJMSeYKgAV6x4RkA7H1w2fsEc",
+      "gplaces-ChIJS0dOuWoHxB4R7Ax6RovqmC8",
+      "gplaces-ChIJT3oQtQA1wB4RrPUgQV8SVfA",
+      "gplaces-ChIJ________xh4R4apKHjkR4To",
+      "gplaces-ChIJh4mXjnOv8h4R2CKQiyz9ASo",
+      "gplaces-ChIJlyvvecqhuB4RvJZRJq_MIiw"
+    ],
+    "droppedMatch": {
+      "gplaces-ChIJX1dtE6nz6h4RxE2gheqwoTo": "gplaces-ChIJ6w0cvmvz6h4RkpHOTOdHE5U",
+      "gplaces-ChIJffPH0IYt5h4RZsC98tIz4bs": "gplaces-ChIJa3igOkYt5h4RvlXpdyWHrUk"
+    },
+    "droppedReview": [
+      "gplaces-ChIJ1cKbLZJZjR4R_u4CPIitAdY",
+      "gplaces-ChIJ7yBGXSInxx4Rmm0esev9xKA",
+      "gplaces-ChIJByA7P5nLxR4RC8e_10OhTl0",
+      "gplaces-ChIJS2i0M_eyxh4R1y0QEkJMgDg",
+      "gplaces-ChIJUStRw-Nlwx4RkSSJ3CcdX0E",
+      "gplaces-ChIJXQ0TC-rJxh4RexQ9XysVbPI",
+      "gplaces-ChIJdclr1KDxvR4RYmDHFlvczcs"
+    ],
+    "gapAdds": [
+      "gplaces-ChIJ4RO8JEkz5h4ROxMg3DARMmw",
+      "gplaces-ChIJ8f5v2tCgxR4RWbEQQj-jaHY",
+      "gplaces-ChIJ41pdXP0LwR4R4rmQJgmGAGw",
+      "gplaces-ChIJK6UOKXm_wR4RcpDZLbXSddM",
+      "gplaces-ChIJpUkmfFe8vh4R3ae5vXJ2URY",
+      "gplaces-ChIJ4R1cKXFrwR4RzCEb_v6KYWc",
+      "gplaces-ChIJSSV6kcCpxh4RYCg-4KQRtuQ",
+      "gplaces-ChIJLRIOxderxx4R2U1e5Erz5Wk",
+      "gplaces-ChIJJ9W03zS6gR4RpBGZrzWIycg",
+      "gplaces-ChIJfUJ_HABvJBwREZxaQ5_-ibo"
+    ]
+  },
+  "gapSweep": {
+    "philippolis": "generic Google pin 'LIQUOR STORE' held in REVIEW; no named TOPS/drankwinkel",
+    "victoriaWest": "Liquorland Express added (rescued from WC false-reject)",
+    "alexanderBay": "no SA bottle store; Google returns Oranjemund Namibia only — true gap"
+  },
+  "provinces": {
+    "Free State": {
+      "province": "Free State",
+      "catalogueBefore": 7054,
+      "existingPoisBeforePass": 335,
+      "officialDataFound": false,
+      "officialRecordsProcessed": 0,
+      "officialNote": "FSGLTA (gla.fs.gov.za) live but no bulk liquor-store register. liquorcontrol.co.za is a hosting placeholder. Act s45 requires a website register; none is downloadable.",
+      "googleQueries": 830,
+      "googleRawResults": 7872,
+      "uniqueGooglePlaces": 2184,
+      "osmCandidates": 152,
+      "chainLocatorCandidates": 390,
+      "gazetteCandidatesChecked": 0,
+      "matchedExisting": 341,
+      "newDedicatedBottleStoresAdded": 130,
+      "rejected": 7,
+      "unresolvedReview": 45,
+      "catalogueAfter": 7184,
+      "previousIdsPreserved": "7054 / 7054",
+      "deleted": 0,
+      "topNew": [
+        {
+          "name": "Coolsite Bottle Store",
+          "address": "29 Harvey Road, Bloemfontein Central, Bloemfontein",
+          "city": "Bloemfontein",
+          "id": "gplaces-ChIJ9clQi2PFjx4RNEtbTMW7Rck"
+        },
+        {
+          "name": "REJOICE BOTTLE STORE",
+          "address": "Douglas Street, Bloemfontein Central, Bloemfontein",
+          "city": "Bloemfontein",
+          "id": "gplaces-ChIJXWp1lWPFjx4R-5sPEbf17aA"
+        },
+        {
+          "name": "Tsie's Bottle-Store",
+          "address": "Magano Street, Batho, Mangaung",
+          "city": "Mangaung",
+          "id": "gplaces-ChIJ87gDZH_Pjx4R6Cde8mG7Bho"
+        },
+        {
+          "name": "Gardenia Liquors",
+          "address": "54 Wildeals Street, Gardenia Park, Bloemfontein",
+          "city": "Bloemfontein",
+          "id": "gplaces-ChIJK_UWOOjEjx4RLZpDkC7FoVQ"
+        },
+        {
+          "name": "Pick n Pay liquor",
+          "address": "MIDDESTAD CENTRE, Bloemfontein Central, Bloemfontein, 9301, South Africa",
+          "city": "Bloemfontein",
+          "id": "gplaces-ChIJRemgEGPFjx4RmO5e4wvsfKQ"
+        },
+        {
+          "name": "TOPS at SPAR Heuwelsig",
+          "address": "Centre, 10 Ogilvie Thompson St, Heuwelsig, Bloemfontein, 9332, South Africa",
+          "city": "Bloemfontein",
+          "id": "gplaces-ChIJLX0QIejajx4R0AuNL1vpxd4"
+        },
+        {
+          "name": "States Liquor Store",
+          "address": "43426 Modise Street, Rocklands, Bloemfontein",
+          "city": "Bloemfontein",
+          "id": "gplaces-ChIJQTOuOLvIjx4ROYLcIHJCEnI"
+        },
+        {
+          "name": "Prestige Liquor",
+          "address": "Thaba Nchu 20, Thaba Nchu",
+          "city": "Thaba Nchu",
+          "id": "gplaces-ChIJue_Djc5rjh4RaB2H4U1ol6U"
+        },
+        {
+          "name": "Shoprite LiquorShop Thaba Nchu",
+          "address": "Cnr Main and, End Street, Thaba Nchu",
+          "city": "Thaba Nchu",
+          "id": "gplaces-ChIJ1UwOtolrjh4R0QYDU5_fhAw"
+        },
+        {
+          "name": "Thaba Nchu Bottle Store",
+          "address": "Van Riebeeck Street, Thaba Nchu",
+          "city": "Thaba Nchu",
+          "id": "gplaces-ChIJuQAb-X1pjh4RACsAbc0S8_w"
+        },
+        {
+          "name": "Bakubung Liquor Store",
+          "address": "Thaba Nchu 19, Thaba Nchu",
+          "city": "Thaba Nchu",
+          "id": "gplaces-ChIJC_PSkbBpjh4RNCblW_lsinA"
+        },
+        {
+          "name": "Kiss Kiss Liquorstore",
+          "address": "Selosesha Unit 1, Thaba Nchu",
+          "city": "Thaba Nchu",
+          "id": "gplaces-ChIJv0OxHgBrjh4RMRSXQH9trBw"
+        },
+        {
+          "name": "Terror's Bottle Store",
+          "address": "Thaba Nchu 16, Thaba Nchu",
+          "city": "Thaba Nchu",
+          "id": "gplaces-ChIJAVImFmdpjh4Ro_JN49GA8VU"
+        },
+        {
+          "name": "Monday liquor store",
+          "address": "31 Government Ave, Virginia, 9431, South Africa",
+          "city": "Virginia",
+          "id": "gplaces-ChIJkVmssCKekR4RQ_ZpVfkUFFE"
+        },
+        {
+          "name": "Overland Liquors, Odendalsrus",
+          "address": "112 Church St, Ou Dorp, Odendaalsrus, 9480, South Africa",
+          "city": "Odendaalsrus",
+          "id": "gplaces-ChIJx4pcuJYRkR4RT0EhxB_Yh8w"
+        },
+        {
+          "name": "Thabang Liquor Ha Thiza",
+          "address": "6302 Lekotta Ave, Kgotsong, Bothaville, 9660, South Africa",
+          "city": "Bothaville",
+          "id": "gplaces-ChIJ0b2TRQDNlh4RQbY7VgCAT5Y"
+        },
+        {
+          "name": "Thabang liquor aka ditenteng",
+          "address": "Kgotsong, Bothaville, 9660, South Africa",
+          "city": "Bothaville",
+          "id": "gplaces-ChIJpQjiSgDNlh4R2OJthXsvGJ0"
+        },
+        {
+          "name": "Overland liquors Hoopstad",
+          "address": "ZA, 22 wessel street, Hoopstad",
+          "city": "Hoopstad",
+          "id": "gplaces-ChIJEcDX4867kB4RuGD-NkEKpl0"
+        },
+        {
+          "name": "FREE BIRD BLUE BOTTLE LIQUORS",
+          "address": "Van Zyl Street, Hoopstad",
+          "city": "Hoopstad",
+          "id": "gplaces-ChIJtcPw55i7kB4RWTLkS0n4Goo"
+        },
+        {
+          "name": "Big house blue bottle",
+          "address": "Fs, ZA, 39 Piet Retief Street, Theunissen",
+          "city": "Theunissen",
+          "id": "gplaces-ChIJd3BNMO-_kR4RfJgvrWSImls"
+        },
+        {
+          "name": "Fenix Liquors",
+          "address": "38 Piet Retief Street, Theunissen",
+          "city": "Theunissen",
+          "id": "gplaces-ChIJX4mpa5O_kR4RCYnnwPQHLRc"
+        },
+        {
+          "name": "Theunissen Bottle Store",
+          "address": "Piet Retief Street, Theunissen",
+          "city": "Theunissen",
+          "id": "gplaces-ChIJS59zhLC-kR4RI_rXxCxXHJw"
+        },
+        {
+          "name": "A&J Drankwinkel",
+          "address": "No 1, 56 Piet Retief Street, Theunissen",
+          "city": "Theunissen",
+          "id": "gplaces-ChIJOdoPpR6_kR4RWQwYVe2k9c8"
+        },
+        {
+          "name": "Ditto Drankwinkel",
+          "address": "C/O Jim Fouche, Woltemade Street, &, Theunissen",
+          "city": "Theunissen",
+          "id": "gplaces-ChIJW1vWkNK_kR4RhP5uq8k_yFE"
+        }
+      ],
+      "addedByDistrict": {
+        "Mangaung": 14,
+        "Lejweleputswa": 30,
+        "Fezile Dabi": 22,
+        "Unassigned": 10,
+        "Thabo Mofutsanyana": 38,
+        "Xhariep": 16
+      }
+    },
+    "Limpopo": {
+      "province": "Limpopo",
+      "catalogueBefore": 7184,
+      "existingPoisBeforePass": 246,
+      "officialDataFound": false,
+      "officialRecordsProcessed": 0,
+      "officialNote": "LEDET / Limpopo liquor licensing has forms and renewals only — no public bulk off-consumption register.",
+      "googleQueries": 830,
+      "googleRawResults": 7872,
+      "uniqueGooglePlaces": 2184,
+      "osmCandidates": 152,
+      "chainLocatorCandidates": 390,
+      "gazetteCandidatesChecked": 0,
+      "matchedExisting": 261,
+      "newDedicatedBottleStoresAdded": 130,
+      "rejected": 50,
+      "unresolvedReview": 58,
+      "catalogueAfter": 7314,
+      "previousIdsPreserved": "7054 / 7054",
+      "deleted": 0,
+      "topNew": [
+        {
+          "name": "Top's at Spar",
+          "address": "Game Ctr, Market St, Polokwane",
+          "city": "Polokwane",
+          "id": "gplaces-ChIJQy5uAiXYxh4Ru_nVtjzsbNY"
+        },
+        {
+          "name": "Polokwane Liquor Store",
+          "address": "53 President Paul Kruger Street, Polokwane Central, Polokwane",
+          "city": "Polokwane",
+          "id": "gplaces-ChIJJ4pcESfYxh4R_YAbD58_mCw"
+        },
+        {
+          "name": "DJs liquor store",
+          "address": "Cbd city centre, 97 Dahl Street, Polokwane",
+          "city": "Polokwane",
+          "id": "gplaces-ChIJGaml7i7Zxh4RVBBgt6ylp-w"
+        },
+        {
+          "name": "Bm Corner Liquor Store",
+          "address": "269 New Era Drive, Seshego-D, Polokwane",
+          "city": "Polokwane",
+          "id": "gplaces-ChIJL_cuNdMgxx4RCO0OO8lTflA"
+        },
+        {
+          "name": "Chicco's Liquor Store",
+          "address": "R567",
+          "city": "R567",
+          "id": "gplaces-ChIJlzlxHNEgxx4RZLU_PMGugew"
+        },
+        {
+          "name": "Tibani Boxer Liquors",
+          "address": "LS Intersection of R567 (D3390) & D19, Shop 25 Portion 37 of Matla’s Location 591, Polokwane",
+          "city": "Polokwane",
+          "id": "gplaces-ChIJc6RVPdkhxx4R4AaUqPGU6AA"
+        },
+        {
+          "name": "Mojuda Liquor Store",
+          "address": "Badimong",
+          "city": "Badimong",
+          "id": "gplaces-ChIJX2uLqJnJxh4RzOzyBFFSwoI"
+        },
+        {
+          "name": "Shoprite LiquorShop Paledi",
+          "address": "Shop 69, Paledi Mall, R71, Polokwane",
+          "city": "Polokwane",
+          "id": "gplaces-ChIJW313_WvJxh4REntaZPswC54"
+        },
+        {
+          "name": "TOPS at SPAR Paledi",
+          "address": "R71 Shop 30, Paledi Mall, Ga Thoka, Mankweng",
+          "city": "Mankweng",
+          "id": "gplaces-ChIJ1TPVbHbJxh4RJe4di1yUs_M"
+        },
+        {
+          "name": "Mentz Liquor",
+          "address": "3QQG+FV, Megoring",
+          "city": "Megoring",
+          "id": "gplaces-ChIJ432KCgDJxh4RWkvCJXN3X0M"
+        },
+        {
+          "name": "Shoprite LiquorShop Bochum",
+          "address": "Cnr Dendron and Blouberg Road, Senwabarwana-A, Senwabarwana, 0626, South Africa",
+          "city": "Senwabarwana",
+          "id": "gplaces-ChIJoWZEt6q8xx4RwG4ITU0zqes"
+        },
+        {
+          "name": "Cumbrae Bottle Store",
+          "address": "Main St, Senwabarwana-A, Senwabarwana, 0790, South Africa",
+          "city": "Senwabarwana",
+          "id": "gplaces-ChIJ9YdMJ1Wjxx4RSZhm8RidHSw"
+        },
+        {
+          "name": "Nahamula Bottle Store",
+          "address": "76 Republic Street, Mogwadi",
+          "city": "Mogwadi",
+          "id": "gplaces-ChIJj84fTH2pxx4R0SuBmZI5aFk"
+        },
+        {
+          "name": "Uncle Cheapies liquor bottle store",
+          "address": "76 Leeuwkuil, Polokwane, 0700, South Africa",
+          "city": "Polokwane",
+          "id": "gplaces-ChIJV1_CGjMnxx4RnMPMbqWFLFE"
+        },
+        {
+          "name": "Liquor World - Polokwane",
+          "address": "1 Beril St, Polokwane Ext 12, Polokwane, 0700, South Africa",
+          "city": "Polokwane",
+          "id": "gplaces-ChIJrR4Yfa3Zxh4RRIANEGXLECg"
+        },
+        {
+          "name": "OASIS LIQUOR STORE",
+          "address": "Kaya street, Nkowankowa",
+          "city": "Nkowankowa",
+          "id": "gplaces-ChIJBQMOo5sHxB4RfbvIhPOMev0"
+        },
+        {
+          "name": "TOPS at SPAR Letsitele",
+          "address": "R529, Letsitele",
+          "city": "Letsitele",
+          "id": "gplaces-ChIJExAFbRX3wx4RzOcSV9Cigqk"
+        },
+        {
+          "name": "OK LIQUOR Letsitele",
+          "address": "R529, Letsitele",
+          "city": "Letsitele",
+          "id": "gplaces-ChIJBWNP_bkJxB4R5ZVFzN5IHQs"
+        },
+        {
+          "name": "Bashabi Liquor Store",
+          "address": "stand no, Kwena moloto 1, 72 Moletjie, Seshego, 0742, South Africa",
+          "city": "Seshego",
+          "id": "gplaces-ChIJVZNrIkAhxx4RnuE8Wj_Cxlc"
+        },
+        {
+          "name": "Chillers Liquor Store",
+          "address": "Phase 2, lethuli Park Lethuli, 32f Tukedi St, Seshego-9F, Polokwane, 0742, South Africa",
+          "city": "Polokwane",
+          "id": "gplaces-ChIJJUALXycnxx4RYca6s8jlySA"
+        },
+        {
+          "name": "Magneetshoogte Boxer Liquors",
+          "address": "R579 Jane Furse Road, Lebowakgomo",
+          "city": "Lebowakgomo",
+          "id": "gplaces-ChIJVd721zYnwR4RgGixDdIGV5M"
+        },
+        {
+          "name": "Masemola Madimetja Bottle Store",
+          "address": "Sepanapudi",
+          "city": "Sepanapudi",
+          "id": "gplaces-ChIJi1uQyfInwR4RwmaU4qMxgK0"
+        },
+        {
+          "name": "Mankweng Bottle Store",
+          "address": "Unnamed Road, Mankweng-A, Mankweng, 0727, South Africa",
+          "city": "Mankweng",
+          "id": "gplaces-ChIJlblPQD7Jxh4RHLPK0Qnvplw"
+        },
+        {
+          "name": "RJL LIQUOR",
+          "address": "Nobody Ga Mothiba, Nobody, Polokwane, 0726, South Africa",
+          "city": "Polokwane",
+          "id": "gplaces-ChIJq0TQi2_Pxh4R8x_2E2TDEgo"
+        }
+      ],
+      "addedByDistrict": {
+        "Capricorn": 22,
+        "Unassigned": 22,
+        "Mopani": 18,
+        "Vhembe": 21,
+        "Waterberg": 27,
+        "Sekhukhune": 20
+      }
+    },
+    "Mpumalanga": {
+      "province": "Mpumalanga",
+      "catalogueBefore": 7314,
+      "existingPoisBeforePass": 220,
+      "officialDataFound": false,
+      "officialRecordsProcessed": 0,
+      "officialNote": "MER is the current regulator (Mpumalanga Economic Regulator Act 2 of 2017). mer.org.za is a 2019 S3 stub. meronline.org.za public liquor-register search is login-walled; no account created; MER RECORDS SEARCHED: 0.",
+      "merProvincialLiquorRegisterAccessible": false,
+      "merRecordsSearchedProcessed": 0,
+      "googleQueries": 830,
+      "googleRawResults": 7872,
+      "uniqueGooglePlaces": 2184,
+      "osmCandidates": 152,
+      "chainLocatorCandidates": 390,
+      "gazetteCandidatesChecked": 0,
+      "matchedExisting": 255,
+      "newDedicatedBottleStoresAdded": 140,
+      "rejected": 25,
+      "unresolvedReview": 48,
+      "catalogueAfter": 7454,
+      "previousIdsPreserved": "7054 / 7054",
+      "deleted": 0,
+      "topNew": [
+        {
+          "name": "Liquor City (Papegaai Bottle Store)",
+          "address": "28 Richter St, Trichardt, 2300, South Africa",
+          "city": "Trichardt",
+          "id": "gplaces-ChIJ1aoicdcT6x4RCaT_lrO2UJ4"
+        },
+        {
+          "name": "Sponono Liquor Store",
+          "address": "1219, Emjindini Trust, Barberton, 1300, South Africa",
+          "city": "Barberton",
+          "id": "gplaces-ChIJUz4cd81V6B4RUqMDNzVxfQw"
+        },
+        {
+          "name": "Blue Bottle Liquors Barrel&Basket",
+          "address": "Torchwood St, Emjejane, Malalane, 1330, South Africa",
+          "city": "Malalane",
+          "id": "gplaces-ChIJIUHW_4jZ5x4RcCJbU-zGVWY"
+        },
+        {
+          "name": "TOPS at SPAR Bushbuckridge",
+          "address": "Cnr R533 & R40 Shop 1, Twin City Shopping Complex, Marijane A, Bushbuckridge",
+          "city": "Bushbuckridge",
+          "id": "gplaces-ChIJiSTvVc6Nwh4R_jWbLBbsr_g"
+        },
+        {
+          "name": "Shoprite LiquorShop Bushbuckridge",
+          "address": "Cnr Graskop And, Mapuleng Shopping Centre, Klaserie Rd, Bushbuckridge",
+          "city": "Bushbuckridge",
+          "id": "gplaces-ChIJ9UzAPgqOwh4RMipZnPpUGbI"
+        },
+        {
+          "name": "Bushbuckridge Boxer Liquors",
+          "address": "Shop 57 Twin City Shopping Centre, Bushbuckridge",
+          "city": "Bushbuckridge",
+          "id": "gplaces-ChIJgfzc5OmNwh4RzKIoUfd8Sxg"
+        },
+        {
+          "name": "Liquor city Hyper Bushbuckridge",
+          "address": "Twincity Shopping centre, R40, Bushbuckridge",
+          "city": "Bushbuckridge",
+          "id": "gplaces-ChIJq5lp7LyNwh4RBEw874UeHmM"
+        },
+        {
+          "name": "Dwarsloop Boxer Liquors",
+          "address": "Dwarsloop Mall, Mafemani-A, Saselani",
+          "city": "Saselani",
+          "id": "gplaces-ChIJOcwLnGOTwh4RwSF3-Kvcqec"
+        },
+        {
+          "name": "Shoprite LiquorShop Dwarsloop",
+          "address": "Dwarsloop Mall, R40, Saselani",
+          "city": "Saselani",
+          "id": "gplaces-ChIJNZQbyzGTwh4RT5EJ0jW24Sc"
+        },
+        {
+          "name": "TOPS at SPAR Dwarsloop",
+          "address": "R40 Dwarsloop Mall, Mafemani-A, Mafemani",
+          "city": "Mafemani",
+          "id": "gplaces-ChIJM0s0D3ySwh4REaCmhvp1gAE"
+        },
+        {
+          "name": "PicardiRebel",
+          "address": "Plaza, 22 Thulamahashe Road, Tsakani, Acornhoek",
+          "city": "Acornhoek",
+          "id": "gplaces-ChIJ____rwzwwh4RdH7aBlBV-gY"
+        },
+        {
+          "name": "Mzanzi liquor",
+          "address": "Acornhoek",
+          "city": "Acornhoek",
+          "id": "gplaces-ChIJ1VsrPObvwh4RITI6FC2Z9kk"
+        },
+        {
+          "name": "TOPS at SPAR Tintswalo",
+          "address": "Main St, Acornhoek",
+          "city": "Acornhoek",
+          "id": "gplaces-ChIJUznLnbLxwh4RY9QX2lo0ABQ"
+        },
+        {
+          "name": "Acornhoek Bottle Store",
+          "address": "Stand 11, Acornhoek-A, MBOMBELA",
+          "city": "MBOMBELA",
+          "id": "gplaces-ChIJ____rwzwwh4RYCr1poAy7yc"
+        },
+        {
+          "name": "Acornhoek Boxer Liquors",
+          "address": "R40, Acornhoek",
+          "city": "Acornhoek",
+          "id": "gplaces-ChIJMcN4EEnxwh4Rce78p0wY7XY"
+        },
+        {
+          "name": "Shoprite LiquorShop Acornhoek Mall",
+          "address": "Cnr R40 & Greenvalley Road, Acornhoek",
+          "city": "Acornhoek",
+          "id": "gplaces-ChIJs_MS8ibxwh4R9lEl3_E1ios"
+        },
+        {
+          "name": "ORCA LIQOURE STORE",
+          "address": "Greenvalley, Acornhoek",
+          "city": "Acornhoek",
+          "id": "gplaces-ChIJ58QVsATxwh4RvcsDG0J9jTw"
+        },
+        {
+          "name": "Pick 'n pay liquor shop",
+          "address": "1280 R40, Marijane A, Bushbuckridge, 1280, South Africa",
+          "city": "Bushbuckridge",
+          "id": "gplaces-ChIJfSz1XACNwh4R-XwGs_LNktw"
+        },
+        {
+          "name": "The Graceland park liquor",
+          "address": "4443+XH, Bushbuckridge, South Africa",
+          "city": "Bushbuckridge",
+          "id": "gplaces-ChIJT_XpLQCRwh4R_smwYeZJU4s"
+        },
+        {
+          "name": "TOPS at SPAR Thulamahashe",
+          "address": "Kumani Rd Shop 3, Thulamahashe Mall, Thulamahashe-B, Thulamahashe",
+          "city": "Thulamahashe",
+          "id": "gplaces-ChIJtz1cTSfrwh4RCBGEn61WZBo"
+        },
+        {
+          "name": "Thulamahashe Boxer Liquor",
+          "address": "Thulamahashe Plaza, Main Road, Thulamahashe",
+          "city": "Thulamahashe",
+          "id": "gplaces-ChIJY85c-OeVwh4ROcBPQG7q9bQ"
+        },
+        {
+          "name": "Cross Road Liquor Store",
+          "address": "Cross Road, Calcutta C, Mkhuhlu",
+          "city": "Mkhuhlu",
+          "id": "gplaces-ChIJW5lHT-Sfwh4RoQoU_yol-d4"
+        },
+        {
+          "name": "Harmony liquor cross",
+          "address": "Calcutta C, Calcutta",
+          "city": "Calcutta",
+          "id": "gplaces-ChIJPc8IGyGZwh4RESaY-MckkHw"
+        },
+        {
+          "name": "TOPS at SPAR Graskop",
+          "address": "Cnr Richardson Ave & Church St, Graskop",
+          "city": "Graskop",
+          "id": "gplaces-ChIJncjwWa5jwh4Rn65wg0EEqmw"
+        }
+      ],
+      "addedByDistrict": {
+        "Gert Sibande": 39,
+        "Ehlanzeni": 41,
+        "Unassigned": 36,
+        "Nkangala": 24
+      }
+    },
+    "Northern Cape": {
+      "province": "Northern Cape",
+      "catalogueBefore": 7454,
+      "existingPoisBeforePass": 147,
+      "officialDataFound": false,
+      "officialRecordsProcessed": 0,
+      "officialNote": "Current regulator is the Northern Cape Gambling and Liquor Board (Northern Cape Liquor Act 6 of 2024). ncglb.gov.za did not respond. northerncape.gov.za is live. No bulk liquor-store register found.",
+      "currentRegulatorIdentified": "Northern Cape Gambling and Liquor Board (Northern Cape Liquor Act 6 of 2024) / Department of Economic Development and Tourism",
+      "currentRegulatoryRegisterSourceVerified": false,
+      "legacySourcesAlsoChecked": true,
+      "googleQueries": 830,
+      "googleRawResults": 7872,
+      "uniqueGooglePlaces": 2184,
+      "osmCandidates": 152,
+      "chainLocatorCandidates": 390,
+      "gazetteCandidatesChecked": 0,
+      "matchedExisting": 149,
+      "newDedicatedBottleStoresAdded": 69,
+      "rejected": 6,
+      "unresolvedReview": 20,
+      "catalogueAfter": 7523,
+      "previousIdsPreserved": "7054 / 7054",
+      "deleted": 0,
+      "topNew": [
+        {
+          "name": "Lotus Liquor Store",
+          "address": "60 Stockdale Street, Kimberley",
+          "city": "Kimberley",
+          "id": "gplaces-ChIJRfuCGQAbmx4RLDXS6wN9Xsk"
+        },
+        {
+          "name": "8 Ball Liquor Store",
+          "address": "51 Old De Beers Road, Kimberley",
+          "city": "Kimberley",
+          "id": "gplaces-ChIJzbAil6kbmx4RdHaDJpahNEs"
+        },
+        {
+          "name": "Horse liquor store",
+          "address": "4283 Kgosi Street, Vergenoeg, Kimberley",
+          "city": "Kimberley",
+          "id": "gplaces-ChIJ9wPXR8Ybmx4RtDp8Q8bYt9g"
+        },
+        {
+          "name": "Gwa Liquor Store",
+          "address": "R31, Barkly West",
+          "city": "Barkly West",
+          "id": "gplaces-ChIJIfJI2yCgmx4RtOTik9ofHUM"
+        },
+        {
+          "name": "Regina Liquor Store",
+          "address": "Erasmus Street, Warrenton",
+          "city": "Warrenton",
+          "id": "gplaces-ChIJdcr-glHKmx4R2igKhY4czJM"
+        },
+        {
+          "name": "TOPS at SPAR Warrenton",
+          "address": "62 Erasmus Street, Warrenton",
+          "city": "Warrenton",
+          "id": "gplaces-ChIJYzEQUUXLmx4Rac6Wa8QW5HQ"
+        },
+        {
+          "name": "Morgan's Liquor",
+          "address": "2518 Zone B, Ikhutseng, Warrenton",
+          "city": "Warrenton",
+          "id": "gplaces-ChIJjxk1LiXLmx4R5kkKpbaKaWo"
+        },
+        {
+          "name": "Nkandla bottle store",
+          "address": "4807, Ikhutseng, Warrenton",
+          "city": "Warrenton",
+          "id": "gplaces-ChIJeZw4E-rLmx4RcAgK3_mDq_4"
+        },
+        {
+          "name": "Inacio Liquors/ Overland Jan kempdorp",
+          "address": "11 Stella Street, Jan Kempdorp",
+          "city": "Jan Kempdorp",
+          "id": "gplaces-ChIJ8Qr2pjHTmx4RdVVnPTeeO44"
+        },
+        {
+          "name": "Vaalharts Blue Bottle Liquors",
+          "address": "Van Blerk Street, Jan Kempdorp",
+          "city": "Jan Kempdorp",
+          "id": "gplaces-ChIJZ_3j7rjTmx4RiXcieJFB3Ok"
+        },
+        {
+          "name": "Liquor City Jan Kempdorp",
+          "address": "22 Kalahari Street, Jan Kempdorp",
+          "city": "Jan Kempdorp",
+          "id": "gplaces-ChIJwwXJw47Tmx4R0FFIuVIaEHg"
+        },
+        {
+          "name": "Shoprite LiquorShop Jan Kempdorp",
+          "address": "Shoprite Centre Cnr Df Malan En, Herman Becker Street, Jan Kempdorp",
+          "city": "Jan Kempdorp",
+          "id": "gplaces-ChIJdWAc62UZmx4RRppwpVfNZnI"
+        },
+        {
+          "name": "JUN LIQUOR STORE",
+          "address": "R370, Jan Kempdorp",
+          "city": "Jan Kempdorp",
+          "id": "gplaces-ChIJoQSiAujTmx4RC5JgSYKdhCk"
+        },
+        {
+          "name": "INACIO LIQUOR STORE",
+          "address": "Mimosary Lane, Jan Kempdorp",
+          "city": "Jan Kempdorp",
+          "id": "gplaces-ChIJxbF0GOLTmx4RZMP6auKy6Ug"
+        },
+        {
+          "name": "TSHWARAGANANGG BOTTLE STORE",
+          "address": "2037 Guldenskat, Jan Kempdorp",
+          "city": "Jan Kempdorp",
+          "id": "gplaces-ChIJH2wQPLDTmx4Rf0CFtfZa0Zs"
+        },
+        {
+          "name": "OK LIQUOR Hotazel",
+          "address": "Boardman Rd, Hotazel",
+          "city": "Hotazel",
+          "id": "gplaces-ChIJM4DwGmHHnx4RLadnbDdeKFI"
+        },
+        {
+          "name": "Potties liquor store",
+          "address": "34 Poole St, Klisser, Kimberley, 8301, South Africa",
+          "city": "Kimberley",
+          "id": "gplaces-ChIJXWf4_R4bmx4RrkCrgIRQSE0"
+        },
+        {
+          "name": "Van's Bottle Store",
+          "address": "Van Riebeeck St, Olifantshoek, 8450, South Africa",
+          "city": "Olifantshoek",
+          "id": "gplaces-ChIJC2ZWkE8bnh4Rwq38SAIPvJQ"
+        },
+        {
+          "name": "Shoprite LiquorShop Kuruman",
+          "address": "Kuruman Mall, Livingstone Street, Kuruman",
+          "city": "Kuruman",
+          "id": "gplaces-ChIJMbc91iP5nh4R2b0DWxY1Yns"
+        },
+        {
+          "name": "Jimmy's Liquor Store",
+          "address": "8 Bosch Street, Kuruman",
+          "city": "Kuruman",
+          "id": "gplaces-ChIJnXMiXiH5nh4RJ1dRvzfIxX0"
+        },
+        {
+          "name": "TOPS at SPAR Kuruman",
+          "address": "Oasis Street, Kuruman",
+          "city": "Kuruman",
+          "id": "gplaces-ChIJp8yWxST5nh4RHwwKwsN1ZxQ"
+        },
+        {
+          "name": "Segonyana Mall Boxer Liquors",
+          "address": "Tsenin Road, Kuruman",
+          "city": "Kuruman",
+          "id": "gplaces-ChIJmb6KM0n_nh4RMxuwq971lVQ"
+        },
+        {
+          "name": "TOPS at SPAR Geolaine",
+          "address": "Mokala Mall, Tsenin Road, Kuruman",
+          "city": "Kuruman",
+          "id": "gplaces-ChIJPUU05Kj5nh4RYXAiqJdsAJw"
+        },
+        {
+          "name": "Eilerd Bottle Store",
+          "address": "Vlei Street, Kuruman",
+          "city": "Kuruman",
+          "id": "gplaces-ChIJH3SeojX5nh4Rz8SJJVC2_4Y"
+        }
+      ],
+      "addedByDistrict": {
+        "Frances Baard": 16,
+        "John Taolo Gaetsewe": 10,
+        "Unassigned": 19,
+        "ZF Mgcawu": 6,
+        "Pixley ka Seme": 13,
+        "Namakwa": 5
+      }
+    },
+    "North West": {
+      "province": "North West",
+      "catalogueBefore": 7523,
+      "existingPoisBeforePass": 327,
+      "officialDataFound": false,
+      "officialRecordsProcessed": 0,
+      "officialNote": "NW DEDECT / Liquor Act 6 of 2016 in effect from April 2025. Public material is renewal notices, not a bottle-store POI register.",
+      "googleQueries": 830,
+      "googleRawResults": 7872,
+      "uniqueGooglePlaces": 2184,
+      "osmCandidates": 152,
+      "chainLocatorCandidates": 390,
+      "gazetteCandidatesChecked": 0,
+      "matchedExisting": 306,
+      "newDedicatedBottleStoresAdded": 93,
+      "rejected": 7,
+      "unresolvedReview": 44,
+      "catalogueAfter": 7616,
+      "previousIdsPreserved": "7054 / 7054",
+      "deleted": 0,
+      "topNew": [
+        {
+          "name": "Shoprite LiquorShop Bafokeng",
+          "address": "Bafokeng Plaza, R565, Bafokeng",
+          "city": "Bafokeng",
+          "id": "gplaces-ChIJcTOKIu3fvR4RG9MsGYvoPpI"
+        },
+        {
+          "name": "Country Wide Liquor Marikana",
+          "address": "Karee Road",
+          "city": "Karee Road",
+          "id": "gplaces-ChIJ88MXAGUXvh4R963DCdeOw5I"
+        },
+        {
+          "name": "Verland Liquors",
+          "address": "Karee Road",
+          "city": "Karee Road",
+          "id": "gplaces-ChIJ-_swAGUXvh4RGIiYgDlldvQ"
+        },
+        {
+          "name": "Marikana Boxer Liquors",
+          "address": "Main Road, Marikana, North-West",
+          "city": "North-West",
+          "id": "gplaces-ChIJYRfLvm8Xvh4R53LUSScbR5U"
+        },
+        {
+          "name": "Shoprite LiquorShop Marikana",
+          "address": "Marikana centre, Marikana Road, Marikana",
+          "city": "Marikana",
+          "id": "gplaces-ChIJLxXJUGMgvh4RNyAq8VOnK3Y"
+        },
+        {
+          "name": "Liquor City Marikana",
+          "address": "297 Jq Farm, Marikana",
+          "city": "Marikana",
+          "id": "gplaces-ChIJU8HMTPQXvh4RUFElOGrWFqs"
+        },
+        {
+          "name": "Shoprite LiquorShop Lethlabile",
+          "address": "Cnr, Osaletseng Street, Brits",
+          "city": "Brits",
+          "id": "gplaces-ChIJ_z5cHIQxvh4Re6fMsx1jatc"
+        },
+        {
+          "name": "Bob Liquor Store",
+          "address": "513 Block G, BRITS, Brits",
+          "city": "Brits",
+          "id": "gplaces-ChIJZ0RR1r01vh4RViG5tHiFwv8"
+        },
+        {
+          "name": "Best End Liquor Store",
+          "address": "Letlhabile Road, Brits",
+          "city": "Brits",
+          "id": "gplaces-ChIJ0V7c9MM3vh4RAyDf5ouNlDo"
+        },
+        {
+          "name": "BOB CORNER LIQUOR STORE",
+          "address": "BOB STREET, Letlhabile, LETLHABILE, 0264, South Africa",
+          "city": "LETLHABILE",
+          "id": "gplaces-ChIJ3Z4NJIo1vh4RFRLefg8fbEs"
+        },
+        {
+          "name": "Five Sisters Liquor Store",
+          "address": "1670 Phaphamang St, Lethlabile-A, Brits, South Africa",
+          "city": "Brits",
+          "id": "gplaces-ChIJO9Wo8uE1vh4RBKHvd8Onh4g"
+        },
+        {
+          "name": "Liquor City Zandfontein",
+          "address": "R104 Zandfontein, Hartbeespoort, 0216, South Africa",
+          "city": "Hartbeespoort",
+          "id": "gplaces-ChIJexNFuptjlR4RsJjx6oozEFA"
+        },
+        {
+          "name": "Damdoryn Tops",
+          "address": "Cnr Old Rustenburg Rd &, R512, Hartbeespoort, 0216, South Africa",
+          "city": "Hartbeespoort",
+          "id": "gplaces-ChIJQU98hxgrvh4RgbgQYCtmBQI"
+        },
+        {
+          "name": "Stop Inn Liquor store",
+          "address": "Ptn 141 zandfontein, Hartbeespoort, 0250, South Africa",
+          "city": "Hartbeespoort",
+          "id": "gplaces-ChIJRR_6EtIvvh4RR1zzJ7Y--6U"
+        },
+        {
+          "name": "Ultra Liquors Broederstroom",
+          "address": "Plot 12, 512 Pilendaba Road, Broederstroom, 0240, South Africa",
+          "city": "Broederstroom",
+          "id": "gplaces-ChIJO06aBNyBlR4RUXU9s3mP8lc"
+        },
+        {
+          "name": "Liquor City Mooinooi",
+          "address": "Wilkinson Ave, Mooinooi, 0325, South Africa",
+          "city": "Mooinooi",
+          "id": "gplaces-ChIJESDmpHMivh4Rz1N1NFb8rLM"
+        },
+        {
+          "name": "Overland Liquorello's Drive Thru Liquor Store",
+          "address": "12 Bellingham Ave, Mooinooi, 0325, South Africa",
+          "city": "Mooinooi",
+          "id": "gplaces-ChIJczGtFHEivh4R8RWogjW0Rco"
+        },
+        {
+          "name": "TOPS at SPAR Mooi Nooi",
+          "address": "1 Wilkinson Ave, Mooinooi, 0325, South Africa",
+          "city": "Mooinooi",
+          "id": "gplaces-ChIJlxQRACEjvh4RiKZEIuCrV2M"
+        },
+        {
+          "name": "Liquor City Sun Villiage",
+          "address": "Shop No. 23, Sun Village Complex, Rustenburg, Johannesburg",
+          "city": "Johannesburg",
+          "id": "gplaces-ChIJ6ZEeWrzWvR4RcYqwUVOrWOM"
+        },
+        {
+          "name": "Botshabelo Liquor Store",
+          "address": "108 R556, Norleng, Sun City",
+          "city": "Sun City",
+          "id": "gplaces-ChIJuUwdlUfRvR4ROekzCdj1E_E"
+        },
+        {
+          "name": "Happy Liquor Market",
+          "address": "R565, Ledig",
+          "city": "Ledig",
+          "id": "gplaces-ChIJ6z1dKDrRvR4RUuOTpLTYSqQ"
+        },
+        {
+          "name": "Mogwase Liquor Store ( OVERLAND MOGWASE)",
+          "address": "16 Station Road Mogwase Complex, Mogwase, 0314, South Africa",
+          "city": "Mogwase",
+          "id": "gplaces-ChIJDdibZfp_vh4RHDzg1ROK018"
+        },
+        {
+          "name": "Kgatlego liquor store",
+          "address": "E119 windsor Section, Windsor, Phokeng, South Africa",
+          "city": "Phokeng",
+          "id": "gplaces-ChIJlXytMADfvR4RLjenj0QqIWg"
+        },
+        {
+          "name": "Overland liquors express",
+          "address": "ZA, 6 Marlowe Road, Orkney",
+          "city": "Orkney",
+          "id": "gplaces-ChIJWaOs61pVlh4RA4LL6nzdAJ4"
+        }
+      ],
+      "addedByDistrict": {
+        "Bojanala Platinum": 32,
+        "Unassigned": 14,
+        "Dr Kenneth Kaunda": 18,
+        "Ngaka Modiri Molema": 7,
+        "Dr Ruth Segomotsi Mompati": 22
+      }
+    }
+  }
+}

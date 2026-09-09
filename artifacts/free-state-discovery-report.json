@@ -1,0 +1,175 @@
+{
+  "province": "Free State",
+  "catalogueBefore": 7054,
+  "existingPoisBeforePass": 335,
+  "officialDataFound": false,
+  "officialRecordsProcessed": 0,
+  "officialNote": "FSGLTA (gla.fs.gov.za) live but no bulk liquor-store register. liquorcontrol.co.za is a hosting placeholder. Act s45 requires a website register; none is downloadable.",
+  "googleQueries": 830,
+  "googleRawResults": 7872,
+  "uniqueGooglePlaces": 2184,
+  "osmCandidates": 152,
+  "chainLocatorCandidates": 390,
+  "gazetteCandidatesChecked": 0,
+  "matchedExisting": 341,
+  "newDedicatedBottleStoresAdded": 130,
+  "rejected": 7,
+  "unresolvedReview": 45,
+  "catalogueAfter": 7184,
+  "previousIdsPreserved": "7054 / 7054",
+  "deleted": 0,
+  "topNew": [
+    {
+      "name": "Coolsite Bottle Store",
+      "address": "29 Harvey Road, Bloemfontein Central, Bloemfontein",
+      "city": "Bloemfontein",
+      "id": "gplaces-ChIJ9clQi2PFjx4RNEtbTMW7Rck"
+    },
+    {
+      "name": "REJOICE BOTTLE STORE",
+      "address": "Douglas Street, Bloemfontein Central, Bloemfontein",
+      "city": "Bloemfontein",
+      "id": "gplaces-ChIJXWp1lWPFjx4R-5sPEbf17aA"
+    },
+    {
+      "name": "Tsie's Bottle-Store",
+      "address": "Magano Street, Batho, Mangaung",
+      "city": "Mangaung",
+      "id": "gplaces-ChIJ87gDZH_Pjx4R6Cde8mG7Bho"
+    },
+    {
+      "name": "Gardenia Liquors",
+      "address": "54 Wildeals Street, Gardenia Park, Bloemfontein",
+      "city": "Bloemfontein",
+      "id": "gplaces-ChIJK_UWOOjEjx4RLZpDkC7FoVQ"
+    },
+    {
+      "name": "Pick n Pay liquor",
+      "address": "MIDDESTAD CENTRE, Bloemfontein Central, Bloemfontein, 9301, South Africa",
+      "city": "Bloemfontein",
+      "id": "gplaces-ChIJRemgEGPFjx4RmO5e4wvsfKQ"
+    },
+    {
+      "name": "TOPS at SPAR Heuwelsig",
+      "address": "Centre, 10 Ogilvie Thompson St, Heuwelsig, Bloemfontein, 9332, South Africa",
+      "city": "Bloemfontein",
+      "id": "gplaces-ChIJLX0QIejajx4R0AuNL1vpxd4"
+    },
+    {
+      "name": "States Liquor Store",
+      "address": "43426 Modise Street, Rocklands, Bloemfontein",
+      "city": "Bloemfontein",
+      "id": "gplaces-ChIJQTOuOLvIjx4ROYLcIHJCEnI"
+    },
+    {
+      "name": "Prestige Liquor",
+      "address": "Thaba Nchu 20, Thaba Nchu",
+      "city": "Thaba Nchu",
+      "id": "gplaces-ChIJue_Djc5rjh4RaB2H4U1ol6U"
+    },
+    {
+      "name": "Shoprite LiquorShop Thaba Nchu",
+      "address": "Cnr Main and, End Street, Thaba Nchu",
+      "city": "Thaba Nchu",
+      "id": "gplaces-ChIJ1UwOtolrjh4R0QYDU5_fhAw"
+    },
+    {
+      "name": "Thaba Nchu Bottle Store",
+      "address": "Van Riebeeck Street, Thaba Nchu",
+      "city": "Thaba Nchu",
+      "id": "gplaces-ChIJuQAb-X1pjh4RACsAbc0S8_w"
+    },
+    {
+      "name": "Bakubung Liquor Store",
+      "address": "Thaba Nchu 19, Thaba Nchu",
+      "city": "Thaba Nchu",
+      "id": "gplaces-ChIJC_PSkbBpjh4RNCblW_lsinA"
+    },
+    {
+      "name": "Kiss Kiss Liquorstore",
+      "address": "Selosesha Unit 1, Thaba Nchu",
+      "city": "Thaba Nchu",
+      "id": "gplaces-ChIJv0OxHgBrjh4RMRSXQH9trBw"
+    },
+    {
+      "name": "Terror's Bottle Store",
+      "address": "Thaba Nchu 16, Thaba Nchu",
+      "city": "Thaba Nchu",
+      "id": "gplaces-ChIJAVImFmdpjh4Ro_JN49GA8VU"
+    },
+    {
+      "name": "Monday liquor store",
+      "address": "31 Government Ave, Virginia, 9431, South Africa",
+      "city": "Virginia",
+      "id": "gplaces-ChIJkVmssCKekR4RQ_ZpVfkUFFE"
+    },
+    {
+      "name": "Overland Liquors, Odendalsrus",
+      "address": "112 Church St, Ou Dorp, Odendaalsrus, 9480, South Africa",
+      "city": "Odendaalsrus",
+      "id": "gplaces-ChIJx4pcuJYRkR4RT0EhxB_Yh8w"
+    },
+    {
+      "name": "Thabang Liquor Ha Thiza",
+      "address": "6302 Lekotta Ave, Kgotsong, Bothaville, 9660, South Africa",
+      "city": "Bothaville",
+      "id": "gplaces-ChIJ0b2TRQDNlh4RQbY7VgCAT5Y"
+    },
+    {
+      "name": "Thabang liquor aka ditenteng",
+      "address": "Kgotsong, Bothaville, 9660, South Africa",
+      "city": "Bothaville",
+      "id": "gplaces-ChIJpQjiSgDNlh4R2OJthXsvGJ0"
+    },
+    {
+      "name": "Overland liquors Hoopstad",
+      "address": "ZA, 22 wessel street, Hoopstad",
+      "city": "Hoopstad",
+      "id": "gplaces-ChIJEcDX4867kB4RuGD-NkEKpl0"
+    },
+    {
+      "name": "FREE BIRD BLUE BOTTLE LIQUORS",
+      "address": "Van Zyl Street, Hoopstad",
+      "city": "Hoopstad",
+      "id": "gplaces-ChIJtcPw55i7kB4RWTLkS0n4Goo"
+    },
+    {
+      "name": "Big house blue bottle",
+      "address": "Fs, ZA, 39 Piet Retief Street, Theunissen",
+      "city": "Theunissen",
+      "id": "gplaces-ChIJd3BNMO-_kR4RfJgvrWSImls"
+    },
+    {
+      "name": "Fenix Liquors",
+      "address": "38 Piet Retief Street, Theunissen",
+      "city": "Theunissen",
+      "id": "gplaces-ChIJX4mpa5O_kR4RCYnnwPQHLRc"
+    },
+    {
+      "name": "Theunissen Bottle Store",
+      "address": "Piet Retief Street, Theunissen",
+      "city": "Theunissen",
+      "id": "gplaces-ChIJS59zhLC-kR4RI_rXxCxXHJw"
+    },
+    {
+      "name": "A&J Drankwinkel",
+      "address": "No 1, 56 Piet Retief Street, Theunissen",
+      "city": "Theunissen",
+      "id": "gplaces-ChIJOdoPpR6_kR4RWQwYVe2k9c8"
+    },
+    {
+      "name": "Ditto Drankwinkel",
+      "address": "C/O Jim Fouche, Woltemade Street, &, Theunissen",
+      "city": "Theunissen",
+      "id": "gplaces-ChIJW1vWkNK_kR4RhP5uq8k_yFE"
+    }
+  ],
+  "addedByDistrict": {
+    "Mangaung": 14,
+    "Lejweleputswa": 30,
+    "Fezile Dabi": 22,
+    "Unassigned": 10,
+    "Thabo Mofutsanyana": 38,
+    "Xhariep": 16
+  }
+}

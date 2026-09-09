@@ -1,0 +1,178 @@
+{
+  "province": "Northern Cape",
+  "catalogueBefore": 7454,
+  "existingPoisBeforePass": 147,
+  "officialDataFound": false,
+  "officialRecordsProcessed": 0,
+  "officialNote": "Current regulator is the Northern Cape Gambling and Liquor Board (Northern Cape Liquor Act 6 of 2024). ncglb.gov.za did not respond. northerncape.gov.za is live. No bulk liquor-store register found.",
+  "currentRegulatorIdentified": "Northern Cape Gambling and Liquor Board (Northern Cape Liquor Act 6 of 2024) / Department of Economic Development and Tourism",
+  "currentRegulatoryRegisterSourceVerified": false,
+  "legacySourcesAlsoChecked": true,
+  "googleQueries": 830,
+  "googleRawResults": 7872,
+  "uniqueGooglePlaces": 2184,
+  "osmCandidates": 152,
+  "chainLocatorCandidates": 390,
+  "gazetteCandidatesChecked": 0,
+  "matchedExisting": 149,
+  "newDedicatedBottleStoresAdded": 69,
+  "rejected": 6,
+  "unresolvedReview": 20,
+  "catalogueAfter": 7523,
+  "previousIdsPreserved": "7054 / 7054",
+  "deleted": 0,
+  "topNew": [
+    {
+      "name": "Lotus Liquor Store",
+      "address": "60 Stockdale Street, Kimberley",
+      "city": "Kimberley",
+      "id": "gplaces-ChIJRfuCGQAbmx4RLDXS6wN9Xsk"
+    },
+    {
+      "name": "8 Ball Liquor Store",
+      "address": "51 Old De Beers Road, Kimberley",
+      "city": "Kimberley",
+      "id": "gplaces-ChIJzbAil6kbmx4RdHaDJpahNEs"
+    },
+    {
+      "name": "Horse liquor store",
+      "address": "4283 Kgosi Street, Vergenoeg, Kimberley",
+      "city": "Kimberley",
+      "id": "gplaces-ChIJ9wPXR8Ybmx4RtDp8Q8bYt9g"
+    },
+    {
+      "name": "Gwa Liquor Store",
+      "address": "R31, Barkly West",
+      "city": "Barkly West",
+      "id": "gplaces-ChIJIfJI2yCgmx4RtOTik9ofHUM"
+    },
+    {
+      "name": "Regina Liquor Store",
+      "address": "Erasmus Street, Warrenton",
+      "city": "Warrenton",
+      "id": "gplaces-ChIJdcr-glHKmx4R2igKhY4czJM"
+    },
+    {
+      "name": "TOPS at SPAR Warrenton",
+      "address": "62 Erasmus Street, Warrenton",
+      "city": "Warrenton",
+      "id": "gplaces-ChIJYzEQUUXLmx4Rac6Wa8QW5HQ"
+    },
+    {
+      "name": "Morgan's Liquor",
+      "address": "2518 Zone B, Ikhutseng, Warrenton",
+      "city": "Warrenton",
+      "id": "gplaces-ChIJjxk1LiXLmx4R5kkKpbaKaWo"
+    },
+    {
+      "name": "Nkandla bottle store",
+      "address": "4807, Ikhutseng, Warrenton",
+      "city": "Warrenton",
+      "id": "gplaces-ChIJeZw4E-rLmx4RcAgK3_mDq_4"
+    },
+    {
+      "name": "Inacio Liquors/ Overland Jan kempdorp",
+      "address": "11 Stella Street, Jan Kempdorp",
+      "city": "Jan Kempdorp",
+      "id": "gplaces-ChIJ8Qr2pjHTmx4RdVVnPTeeO44"
+    },
+    {
+      "name": "Vaalharts Blue Bottle Liquors",
+      "address": "Van Blerk Street, Jan Kempdorp",
+      "city": "Jan Kempdorp",
+      "id": "gplaces-ChIJZ_3j7rjTmx4RiXcieJFB3Ok"
+    },
+    {
+      "name": "Liquor City Jan Kempdorp",
+      "address": "22 Kalahari Street, Jan Kempdorp",
+      "city": "Jan Kempdorp",
+      "id": "gplaces-ChIJwwXJw47Tmx4R0FFIuVIaEHg"
+    },
+    {
+      "name": "Shoprite LiquorShop Jan Kempdorp",
+      "address": "Shoprite Centre Cnr Df Malan En, Herman Becker Street, Jan Kempdorp",
+      "city": "Jan Kempdorp",
+      "id": "gplaces-ChIJdWAc62UZmx4RRppwpVfNZnI"
+    },
+    {
+      "name": "JUN LIQUOR STORE",
+      "address": "R370, Jan Kempdorp",
+      "city": "Jan Kempdorp",
+      "id": "gplaces-ChIJoQSiAujTmx4RC5JgSYKdhCk"
+    },
+    {
+      "name": "INACIO LIQUOR STORE",
+      "address": "Mimosary Lane, Jan Kempdorp",
+      "city": "Jan Kempdorp",
+      "id": "gplaces-ChIJxbF0GOLTmx4RZMP6auKy6Ug"
+    },
+    {
+      "name": "TSHWARAGANANGG BOTTLE STORE",
+      "address": "2037 Guldenskat, Jan Kempdorp",
+      "city": "Jan Kempdorp",
+      "id": "gplaces-ChIJH2wQPLDTmx4Rf0CFtfZa0Zs"
+    },
+    {
+      "name": "OK LIQUOR Hotazel",
+      "address": "Boardman Rd, Hotazel",
+      "city": "Hotazel",
+      "id": "gplaces-ChIJM4DwGmHHnx4RLadnbDdeKFI"
+    },
+    {
+      "name": "Potties liquor store",
+      "address": "34 Poole St, Klisser, Kimberley, 8301, South Africa",
+      "city": "Kimberley",
+      "id": "gplaces-ChIJXWf4_R4bmx4RrkCrgIRQSE0"
+    },
+    {
+      "name": "Van's Bottle Store",
+      "address": "Van Riebeeck St, Olifantshoek, 8450, South Africa",
+      "city": "Olifantshoek",
+      "id": "gplaces-ChIJC2ZWkE8bnh4Rwq38SAIPvJQ"
+    },
+    {
+      "name": "Shoprite LiquorShop Kuruman",
+      "address": "Kuruman Mall, Livingstone Street, Kuruman",
+      "city": "Kuruman",
+      "id": "gplaces-ChIJMbc91iP5nh4R2b0DWxY1Yns"
+    },
+    {
+      "name": "Jimmy's Liquor Store",
+      "address": "8 Bosch Street, Kuruman",
+      "city": "Kuruman",
+      "id": "gplaces-ChIJnXMiXiH5nh4RJ1dRvzfIxX0"
+    },
+    {
+      "name": "TOPS at SPAR Kuruman",
+      "address": "Oasis Street, Kuruman",
+      "city": "Kuruman",
+      "id": "gplaces-ChIJp8yWxST5nh4RHwwKwsN1ZxQ"
+    },
+    {
+      "name": "Segonyana Mall Boxer Liquors",
+      "address": "Tsenin Road, Kuruman",
+      "city": "Kuruman",
+      "id": "gplaces-ChIJmb6KM0n_nh4RMxuwq971lVQ"
+    },
+    {
+      "name": "TOPS at SPAR Geolaine",
+      "address": "Mokala Mall, Tsenin Road, Kuruman",
+      "city": "Kuruman",
+      "id": "gplaces-ChIJPUU05Kj5nh4RYXAiqJdsAJw"
+    },
+    {
+      "name": "Eilerd Bottle Store",
+      "address": "Vlei Street, Kuruman",
+      "city": "Kuruman",
+      "id": "gplaces-ChIJH3SeojX5nh4Rz8SJJVC2_4Y"
+    }
+  ],
+  "addedByDistrict": {
+    "Frances Baard": 16,
+    "John Taolo Gaetsewe": 10,
+    "Unassigned": 19,
+    "ZF Mgcawu": 6,
+    "Pixley ka Seme": 13,
+    "Namakwa": 5
+  }
+}

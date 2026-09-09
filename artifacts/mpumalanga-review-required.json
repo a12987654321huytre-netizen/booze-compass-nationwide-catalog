@@ -1,0 +1,862 @@
+[
+  {
+    "googlePlaceId": "ChIJ229uh7PZ5x4Rwm9PvETQAug",
+    "name": "Hectorspruit Butchery and bottle store",
+    "address": "Emjejane, Malalane, 1330, South Africa",
+    "latitude": -25.4393245,
+    "longitude": 31.6772703,
+    "types": [
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "mixed cafe/butchery + liquor name",
+    "queryId": "tx-liquor-malalane",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJS5z5Gj6Rwh4Rcif-4ecGNew",
+    "name": "Toy Bottle store",
+    "address": "44R3+WQ, Marijane E, Bushbuckridge, South Africa",
+    "latitude": -24.8577641,
+    "longitude": 31.1044595,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-bushbuckridge",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJk1N2Hz-fwh4RzTBs7SktWSw",
+    "name": "God Mercy",
+    "address": "Stand 294 malubane street, Hazyview, Mkhuhlu",
+    "latitude": -24.9844473,
+    "longitude": 31.238359,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-mkhuhlu",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ13ABCjefwh4Ropsw5H0ZNO4",
+    "name": "Lucky's spaza",
+    "address": "MaF Mkhuhlu, Hazyview",
+    "latitude": -24.9924032,
+    "longitude": 31.2112056,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-mkhuhlu",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJA2dxHP2Ywh4R35cyvbRz7_U",
+    "name": "Alphia Liquor",
+    "address": "South Africa",
+    "latitude": -24.9458485,
+    "longitude": 31.2193592,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-mkhuhlu",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ7Vq8aYftwh4RWyKfmYrZdGA",
+    "name": "Triple Three is 9",
+    "address": "Main Road to Thulamahashe, Orinoco B, 1370, South Africa",
+    "latitude": -24.7377162,
+    "longitude": 31.0884282,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "tx-liquor-thulamahashe",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJcQ4FMXw56B4RForgNIslwU4",
+    "name": "FAKUDE LIQUOR STORE",
+    "address": "South Africa",
+    "latitude": -25.3433496,
+    "longitude": 31.1318737,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-kabokweni",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJuxNYJQM56B4RG3qv1paBR5U",
+    "name": "Vukani Beverages And Hospitality Ltd",
+    "address": "323 Kabokweni Road, White River",
+    "latitude": -25.3465223,
+    "longitude": 31.1219693,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-kabokweni",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJtUnL_eA76B4RLlh-02CwSrI",
+    "name": "KA THAPELO MPILA",
+    "address": "STAND 85/6 MATANGALENI",
+    "latitude": -25.3304312,
+    "longitude": 31.1625462,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-kabokweni",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJS60JGilB6B4RWG9XRP5x2ms",
+    "name": "MTHUNYWA LIQUOR STORE",
+    "address": "South Africa",
+    "latitude": -25.4603707,
+    "longitude": 31.1789221,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-kanyamazane",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJr3lO005v6B4RpiggGDvT0u8",
+    "name": "Mayibuye l s pty ltd",
+    "address": "1773 President Street, Matsulu",
+    "latitude": -25.525026,
+    "longitude": 31.35560599999999,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-matsulu",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJDWmbKGdo6B4RmFTudDa4W6Y",
+    "name": "Roadside Cafe & Liquor Store",
+    "address": "South Africa",
+    "latitude": -25.5364145,
+    "longitude": 31.30199929999999,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "mixed cafe/butchery + liquor name",
+    "queryId": "nb-matsulu",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJSyhujhIy5h4RLGApXt70brs",
+    "name": "PRAXOS LIQUOR STORE",
+    "address": "South Africa",
+    "latitude": -25.6655605,
+    "longitude": 31.8231208,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-tonga-mp",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJq9wP3Fot5h4R5ss4_V987Wg",
+    "name": "Perfect chillas",
+    "address": "main road, Malelane, Phiva",
+    "latitude": -25.641392,
+    "longitude": 31.7700254,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-tonga-mp",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJlWblAAAt5h4Rbquecpr9MVY",
+    "name": "PARK&SHOP LIQUOR SHOP",
+    "address": "South Africa",
+    "latitude": -25.6848613,
+    "longitude": 31.7694618,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "tx-liquor-tonga-mp",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ3wbpo5aU6h4RdE8eSPfBJac",
+    "name": "the LIQUOR BOX",
+    "address": "South Africa",
+    "latitude": -25.8546553,
+    "longitude": 29.1220396,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-kwaguqa",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJMU_Jr76U6h4R0i-xAlxE-aQ",
+    "name": "Quali Save Liquor",
+    "address": "South Africa",
+    "latitude": -25.8640473,
+    "longitude": 29.1209611,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-kwaguqa",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJDZk7dmTr6h4RBElT9UPLvUU",
+    "name": "CLEWER LIQUOR STORE",
+    "address": "South Africa",
+    "latitude": -25.9067602,
+    "longitude": 29.1331901,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-kwaguqa",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJiRCEEPHvwh4Rexj5iRQYnvk",
+    "name": "Emzinto Bottle Store (Mlati's Place)",
+    "address": "Acornhoek, South Africa",
+    "latitude": -24.5896637,
+    "longitude": 31.0945062,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-acornhoek",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJc2EeCADxwh4R-yI9ErRyz3g",
+    "name": "Malungane Bottle Store",
+    "address": "45 Bridgeway Rd, Acornhoek, 1360, South Africa",
+    "latitude": -24.5974383,
+    "longitude": 31.070235,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-acornhoek",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJb0gPhK3vwh4R8GFFth6zP4E",
+    "name": "Prasini place",
+    "address": "95J4+8G2, Cottondale, Acornhoek, 1361, South Africa",
+    "latitude": -24.6191718,
+    "longitude": 31.1562691,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "weak / country-only address",
+    "queryId": "tx-liquor-acornhoek",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJB4-J_BH3vx4RX3MkQEDV4_8",
+    "name": "PHETHENI'S PLACE",
+    "address": "Block 18 Stand 82, Moloto, KwaMhlanga, 1029, South Africa",
+    "latitude": -25.4630888,
+    "longitude": 28.6327647,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "tx-liquor-kwamhlanga",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJbQFzpCcPwB4RQsXdbPs6Km0",
+    "name": "Mabonano Trading Enterprise",
+    "address": "59 Maleleza St, Somarobogo-F, KwaMhlanga, 1022, South Africa",
+    "latitude": -25.3974014,
+    "longitude": 28.8077375,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "tx-liquor-kwamhlanga",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJJYLGzBW06x4R9sRbyF2qsFs",
+    "name": "HENDRINA BOTTLE STORE",
+    "address": "South Africa",
+    "latitude": -26.1609461,
+    "longitude": 29.7165998,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-hendrina",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ-_ZEnmm06x4ROp3yHsL0uFo",
+    "name": "Vaalkrans Drankwinkel",
+    "address": "South Africa",
+    "latitude": -26.15,
+    "longitude": 29.716667,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-hendrina",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ_____zu06x4REFJma_-MIHQ",
+    "name": "Hendrina Liquor Market",
+    "address": "South Africa",
+    "latitude": -26.1598969,
+    "longitude": 29.7252297,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-hendrina",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJvRRHMxzo6h4RE0OP2ezP8Hk",
+    "name": "Kost-Mart Mike's Bottlestore",
+    "address": "South Africa",
+    "latitude": -26.0535501,
+    "longitude": 29.0489633,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-ogies",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJLWHCWmvD6h4Rx81xAIe0utg",
+    "name": "Jazzi joint",
+    "address": "C10 Lerutla, Phola, Ogies",
+    "latitude": -26.0109608,
+    "longitude": 29.0370438,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-ogies",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJdROAhxcV6x4Rp37fnTts2vc",
+    "name": "Coca Cash Liquor Store",
+    "address": "South Africa",
+    "latitude": -26.5543334,
+    "longitude": 29.0808973,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-embalenhle",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Gert Sibande",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ4YNLlk0V6x4RF3QO0n6D9Js",
+    "name": "MAGALELA Liquor store And Distribution",
+    "address": "2162 Ingwe Dr, Embalenhle, 2285, South Africa",
+    "latitude": -26.5499697,
+    "longitude": 29.0773874,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-embalenhle",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Gert Sibande",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJmWigC3wS6x4R8oYXKsAD7CI",
+    "name": "Super Price Liquor Store",
+    "address": "South Africa",
+    "latitude": -26.49778,
+    "longitude": 29.225,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-trichardt",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Gert Sibande",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ27GuiiKg6x4RcVR6kLrviq4",
+    "name": "Sim Green Liquor",
+    "address": "South Africa",
+    "latitude": -26.4889383,
+    "longitude": 29.4425727,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-bethal",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Gert Sibande",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJh2JN-Z-E7B4RHQAbSNBBEps",
+    "name": "Skyline Supermarket And Bottlestore",
+    "address": "45 Dr Nelson Mandela Dr, Meyerville, Standerton, South Africa",
+    "latitude": -26.9683723,
+    "longitude": 29.25527989999999,
+    "types": [
+      "establishment",
+      "food",
+      "grocery_or_supermarket",
+      "point_of_interest",
+      "store",
+      "supermarket"
+    ],
+    "reason": "mixed supermarket / liquor name",
+    "queryId": "tx-liquor-standerton",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Gert Sibande",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJNajTP4Yz7B4Rm0DwdPy1V6c",
+    "name": "Overland Liquors",
+    "address": "South Africa",
+    "latitude": -27.3688752,
+    "longitude": 29.8858275,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-volksrust",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Gert Sibande",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ7YoTO6Az7B4RWB0GKXDYzMQ",
+    "name": "Malume Bottle Store",
+    "address": "South Africa",
+    "latitude": -27.3719254,
+    "longitude": 29.905483,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-volksrust",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Gert Sibande",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ4VIA-iQD6h4R5r7QTblYD9Q",
+    "name": "Dullstroom Cultour Co. Wine Club",
+    "address": "84 Naledi Drive, Dullstroom",
+    "latitude": -25.4181443,
+    "longitude": 30.1065307,
+    "types": [
+      "liquor_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-dullstroom",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ-5akamsi6h4Rk2ZOpIUC80U",
+    "name": "BELFAST SIABONG BOTTLE Store",
+    "address": "South Africa",
+    "latitude": -25.6933323,
+    "longitude": 30.04192880000001,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-belfast-mp",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJD-PS1xAY6h4R7FORRPEc__U",
+    "name": "COSMO BOTTLE STORE",
+    "address": "South Africa",
+    "latitude": -25.6724991,
+    "longitude": 29.9884712,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-belfast-mp",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJM1FwN6jl6x4RNJuzGVuesuA",
+    "name": "Overland Liquor Hyper Ermelo",
+    "address": "25 Oosthuise St, Ermelo, 2351, South Africa",
+    "latitude": -26.5182515,
+    "longitude": 29.986904,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-ermelo",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Gert Sibande",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJa294xH_l6x4RUNC7qPW2li4",
+    "name": "Nkomoniwe Bottle Store",
+    "address": "745 Mthopeng St, Wesselton Ext 2, Ermelo, 2353, South Africa",
+    "latitude": -26.5053646,
+    "longitude": 29.97417759999999,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-ermelo",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Gert Sibande",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJ78NTzHyN6R4RSr4NiI71P_w",
+    "name": "Tititi Bottle Store",
+    "address": "South Africa",
+    "latitude": -25.6406472,
+    "longitude": 30.33974859999999,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-waterval-boven",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Nkangala",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJC8Xjs2gb6R4R-Y0YiY3WDJI",
+    "name": "Lulu Bottle Store",
+    "address": "South Africa",
+    "latitude": -26.0419385,
+    "longitude": 30.7914447,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-elukwatini",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Ehlanzeni",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJy8TcKAAb6R4Rvqlrl0bHSWY",
+    "name": "Mpumalanga liquor store(ETSHANINI)",
+    "address": "WQJ6+GX, Nhlazatshe 1, Elukwatini, South Africa",
+    "latitude": -26.0686875,
+    "longitude": 30.7624375,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-elukwatini",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Mpumalanga",
+    "district": "Gert Sibande",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "name": "Merry Pebbles Liquor Store",
+    "osmId": "node/2093379689",
+    "latitude": -25.0946024,
+    "longitude": 30.7670289,
+    "address": null,
+    "assignedProvince": "Mpumalanga",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Black Pearl bottle store",
+    "osmId": "node/2094319661",
+    "latitude": -24.9335518,
+    "longitude": 30.8422721,
+    "address": null,
+    "assignedProvince": "Mpumalanga",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Breyten liquor shop",
+    "osmId": "node/1100570852",
+    "latitude": -26.3037837,
+    "longitude": 29.9854446,
+    "address": null,
+    "assignedProvince": "Mpumalanga",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Liquor City",
+    "osmId": "node/1988249655",
+    "latitude": -25.8732718,
+    "longitude": 29.2346326,
+    "address": null,
+    "assignedProvince": "Mpumalanga",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Emvuleni Liquor Store",
+    "osmId": "node/12307157944",
+    "latitude": -26.6809239,
+    "longitude": 31.0568702,
+    "address": null,
+    "assignedProvince": "Mpumalanga",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  }
+]

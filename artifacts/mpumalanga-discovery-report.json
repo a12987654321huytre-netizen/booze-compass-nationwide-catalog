@@ -1,0 +1,175 @@
+{
+  "province": "Mpumalanga",
+  "catalogueBefore": 7314,
+  "existingPoisBeforePass": 220,
+  "officialDataFound": false,
+  "officialRecordsProcessed": 0,
+  "officialNote": "MER is the current regulator (Mpumalanga Economic Regulator Act 2 of 2017). mer.org.za is a 2019 S3 stub. meronline.org.za public liquor-register search is login-walled; no account created; MER RECORDS SEARCHED: 0.",
+  "merProvincialLiquorRegisterAccessible": false,
+  "merRecordsSearchedProcessed": 0,
+  "googleQueries": 830,
+  "googleRawResults": 7872,
+  "uniqueGooglePlaces": 2184,
+  "osmCandidates": 152,
+  "chainLocatorCandidates": 390,
+  "gazetteCandidatesChecked": 0,
+  "matchedExisting": 255,
+  "newDedicatedBottleStoresAdded": 140,
+  "rejected": 25,
+  "unresolvedReview": 48,
+  "catalogueAfter": 7454,
+  "previousIdsPreserved": "7054 / 7054",
+  "deleted": 0,
+  "topNew": [
+    {
+      "name": "Liquor City (Papegaai Bottle Store)",
+      "address": "28 Richter St, Trichardt, 2300, South Africa",
+      "city": "Trichardt",
+      "id": "gplaces-ChIJ1aoicdcT6x4RCaT_lrO2UJ4"
+    },
+    {
+      "name": "Sponono Liquor Store",
+      "address": "1219, Emjindini Trust, Barberton, 1300, South Africa",
+      "city": "Barberton",
+      "id": "gplaces-ChIJUz4cd81V6B4RUqMDNzVxfQw"
+    },
+    {
+      "name": "Blue Bottle Liquors Barrel&Basket",
+      "address": "Torchwood St, Emjejane, Malalane, 1330, South Africa",
+      "city": "Malalane",
+      "id": "gplaces-ChIJIUHW_4jZ5x4RcCJbU-zGVWY"
+    },
+    {
+      "name": "TOPS at SPAR Bushbuckridge",
+      "address": "Cnr R533 & R40 Shop 1, Twin City Shopping Complex, Marijane A, Bushbuckridge",
+      "city": "Bushbuckridge",
+      "id": "gplaces-ChIJiSTvVc6Nwh4R_jWbLBbsr_g"
+    },
+    {
+      "name": "Shoprite LiquorShop Bushbuckridge",
+      "address": "Cnr Graskop And, Mapuleng Shopping Centre, Klaserie Rd, Bushbuckridge",
+      "city": "Bushbuckridge",
+      "id": "gplaces-ChIJ9UzAPgqOwh4RMipZnPpUGbI"
+    },
+    {
+      "name": "Bushbuckridge Boxer Liquors",
+      "address": "Shop 57 Twin City Shopping Centre, Bushbuckridge",
+      "city": "Bushbuckridge",
+      "id": "gplaces-ChIJgfzc5OmNwh4RzKIoUfd8Sxg"
+    },
+    {
+      "name": "Liquor city Hyper Bushbuckridge",
+      "address": "Twincity Shopping centre, R40, Bushbuckridge",
+      "city": "Bushbuckridge",
+      "id": "gplaces-ChIJq5lp7LyNwh4RBEw874UeHmM"
+    },
+    {
+      "name": "Dwarsloop Boxer Liquors",
+      "address": "Dwarsloop Mall, Mafemani-A, Saselani",
+      "city": "Saselani",
+      "id": "gplaces-ChIJOcwLnGOTwh4RwSF3-Kvcqec"
+    },
+    {
+      "name": "Shoprite LiquorShop Dwarsloop",
+      "address": "Dwarsloop Mall, R40, Saselani",
+      "city": "Saselani",
+      "id": "gplaces-ChIJNZQbyzGTwh4RT5EJ0jW24Sc"
+    },
+    {
+      "name": "TOPS at SPAR Dwarsloop",
+      "address": "R40 Dwarsloop Mall, Mafemani-A, Mafemani",
+      "city": "Mafemani",
+      "id": "gplaces-ChIJM0s0D3ySwh4REaCmhvp1gAE"
+    },
+    {
+      "name": "PicardiRebel",
+      "address": "Plaza, 22 Thulamahashe Road, Tsakani, Acornhoek",
+      "city": "Acornhoek",
+      "id": "gplaces-ChIJ____rwzwwh4RdH7aBlBV-gY"
+    },
+    {
+      "name": "Mzanzi liquor",
+      "address": "Acornhoek",
+      "city": "Acornhoek",
+      "id": "gplaces-ChIJ1VsrPObvwh4RITI6FC2Z9kk"
+    },
+    {
+      "name": "TOPS at SPAR Tintswalo",
+      "address": "Main St, Acornhoek",
+      "city": "Acornhoek",
+      "id": "gplaces-ChIJUznLnbLxwh4RY9QX2lo0ABQ"
+    },
+    {
+      "name": "Acornhoek Bottle Store",
+      "address": "Stand 11, Acornhoek-A, MBOMBELA",
+      "city": "MBOMBELA",
+      "id": "gplaces-ChIJ____rwzwwh4RYCr1poAy7yc"
+    },
+    {
+      "name": "Acornhoek Boxer Liquors",
+      "address": "R40, Acornhoek",
+      "city": "Acornhoek",
+      "id": "gplaces-ChIJMcN4EEnxwh4Rce78p0wY7XY"
+    },
+    {
+      "name": "Shoprite LiquorShop Acornhoek Mall",
+      "address": "Cnr R40 & Greenvalley Road, Acornhoek",
+      "city": "Acornhoek",
+      "id": "gplaces-ChIJs_MS8ibxwh4R9lEl3_E1ios"
+    },
+    {
+      "name": "ORCA LIQOURE STORE",
+      "address": "Greenvalley, Acornhoek",
+      "city": "Acornhoek",
+      "id": "gplaces-ChIJ58QVsATxwh4RvcsDG0J9jTw"
+    },
+    {
+      "name": "Pick 'n pay liquor shop",
+      "address": "1280 R40, Marijane A, Bushbuckridge, 1280, South Africa",
+      "city": "Bushbuckridge",
+      "id": "gplaces-ChIJfSz1XACNwh4R-XwGs_LNktw"
+    },
+    {
+      "name": "The Graceland park liquor",
+      "address": "4443+XH, Bushbuckridge, South Africa",
+      "city": "Bushbuckridge",
+      "id": "gplaces-ChIJT_XpLQCRwh4R_smwYeZJU4s"
+    },
+    {
+      "name": "TOPS at SPAR Thulamahashe",
+      "address": "Kumani Rd Shop 3, Thulamahashe Mall, Thulamahashe-B, Thulamahashe",
+      "city": "Thulamahashe",
+      "id": "gplaces-ChIJtz1cTSfrwh4RCBGEn61WZBo"
+    },
+    {
+      "name": "Thulamahashe Boxer Liquor",
+      "address": "Thulamahashe Plaza, Main Road, Thulamahashe",
+      "city": "Thulamahashe",
+      "id": "gplaces-ChIJY85c-OeVwh4ROcBPQG7q9bQ"
+    },
+    {
+      "name": "Cross Road Liquor Store",
+      "address": "Cross Road, Calcutta C, Mkhuhlu",
+      "city": "Mkhuhlu",
+      "id": "gplaces-ChIJW5lHT-Sfwh4RoQoU_yol-d4"
+    },
+    {
+      "name": "Harmony liquor cross",
+      "address": "Calcutta C, Calcutta",
+      "city": "Calcutta",
+      "id": "gplaces-ChIJPc8IGyGZwh4RESaY-MckkHw"
+    },
+    {
+      "name": "TOPS at SPAR Graskop",
+      "address": "Cnr Richardson Ave & Church St, Graskop",
+      "city": "Graskop",
+      "id": "gplaces-ChIJncjwWa5jwh4Rn65wg0EEqmw"
+    }
+  ],
+  "addedByDistrict": {
+    "Gert Sibande": 39,
+    "Ehlanzeni": 41,
+    "Unassigned": 36,
+    "Nkangala": 24
+  }
+}

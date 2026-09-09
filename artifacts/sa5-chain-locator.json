@@ -1,0 +1,3770 @@
+{
+  "matched": [
+    {
+      "locator": "Acornhoek TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJUznLnbLxwh4RY9QX2lo0ABQ",
+          "name": "TOPS at SPAR Tintswalo"
+        },
+        {
+          "id": "pending-ChIJb3M0JJXxwh4RPmQrhWfarPw",
+          "name": "TOPS at SPAR Acornhoek"
+        }
+      ]
+    },
+    {
+      "locator": "Aloe TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJrxpSKyovwh4RXtAFD_OVwck",
+          "name": "TOPS at SPAR Aloe"
+        }
+      ]
+    },
+    {
+      "locator": "Belfast TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJQ-n4W2ki6h4RwfaH9X-H-YM",
+          "name": "TOPS at SPAR Belfast Liquor Store"
+        }
+      ]
+    },
+    {
+      "locator": "Bopedi TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJ________xh4R4apKHjkR4To",
+          "name": "TOPS at SUPERSPAR Bopedi"
+        },
+        {
+          "id": "pending-ChIJ4R1cKXFrwR4RzCEb_v6KYWc",
+          "name": "TOPS at SPAR Bopedi"
+        }
+      ]
+    },
+    {
+      "locator": "Bushbuckridge TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJiSTvVc6Nwh4R_jWbLBbsr_g",
+          "name": "TOPS at SPAR Bushbuckridge"
+        }
+      ]
+    },
+    {
+      "locator": "Chippo's TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJn-6m76RL6B4R2uwAmaiR3DA",
+          "name": "TOPS at SPAR Chippos"
+        }
+      ]
+    },
+    {
+      "locator": "City Centre TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJj-OUoyBnzB0RFNIEmKspnFc",
+          "name": "Tops Cape Station"
+        },
+        {
+          "id": "gplaces-ChIJm-aJUttDzB0RAdfI7kAAoFI",
+          "name": "TOPS Wynberg"
+        },
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJ8SZKACKzzR0RHCqUxQAjUrI",
+          "name": "Wine Stellenbosch TOPS @ Kwikspar Paul Roos"
+        }
+      ]
+    },
+    {
+      "locator": "Courtside TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ2bnVHLtL6B4RJZgou3SLSVg",
+          "name": "TOPS at SPAR Courtside"
+        }
+      ]
+    },
+    {
+      "locator": "Crossing TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJg87eyVpL6B4RM6pZuDhAJ8A",
+          "name": "TOPS at SPAR Crossing"
+        },
+        {
+          "id": "gplaces-ChIJU84PwOjZxh4RtwF4WIUyXB4",
+          "name": "TOPS at R71"
+        },
+        {
+          "id": "gplaces-ChIJ5WK1OLmflR4R65u7Vo9_V3k",
+          "name": "TOPS at SPAR Retail Crossing"
+        },
+        {
+          "id": "gplaces-ChIJMZ1UN3VzlR4Rx8J7u-keFcs",
+          "name": "TOPS at SPAR Rivonia Crossing"
+        }
+      ]
+    },
+    {
+      "locator": "De Hallen TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJt2VACw9J6B4RjPfVXGoP84Y",
+          "name": "TOPS at SPAR De Hallen"
+        }
+      ]
+    },
+    {
+      "locator": "Dwarsloop TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJM0s0D3ySwh4REaCmhvp1gAE",
+          "name": "TOPS at SPAR Dwarsloop"
+        }
+      ]
+    },
+    {
+      "locator": "Elukwatini TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJHaFWvhwb6R4RqaEjd5s5HT4",
+          "name": "TOPS at SPAR Elukwatini"
+        }
+      ]
+    },
+    {
+      "locator": "Graskop TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJncjwWa5jwh4Rn65wg0EEqmw",
+          "name": "TOPS at SPAR Graskop"
+        }
+      ]
+    },
+    {
+      "locator": "Highlands TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJt08L6g8j6h4RJqSWUjKyHXM",
+          "name": "TOPS at SPAR Highlands"
+        }
+      ]
+    },
+    {
+      "locator": "Hoedspruit TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJu2NYs8kHwx4R_GzYszHt3EU",
+          "name": "TOPS at SPAR Hoedspruit"
+        }
+      ]
+    },
+    {
+      "locator": "Indlovu TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ_ZA0q7lV9x4RdEA8UJKeSfc",
+          "name": "TOPS at SPAR Ging"
+        },
+        {
+          "id": "pending-ChIJq6qqqrqdwh4RY28ojdSw0_k",
+          "name": "TOPS at SPAR Indlovu"
+        }
+      ]
+    },
+    {
+      "locator": "Jane Furse TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ8VV6xCwnwR4RJ7VNVXRB7x0",
+          "name": "TOPS at SPAR Lebowakgomo"
+        },
+        {
+          "id": "gplaces-ChIJhetxoTSQ8B4RTOFJ6V8E_dE",
+          "name": "TOPS at SPAR Melmoth"
+        },
+        {
+          "id": "wcla-034431",
+          "name": "TOPS at SPAR Touwsrivier"
+        },
+        {
+          "id": "pending-ChIJs7Aax6WfwR4RkA0FsNZr2GM",
+          "name": "TOPS at SPAR Jane Furse"
+        }
+      ]
+    },
+    {
+      "locator": "Komatipoort TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJY_QYEU3I5x4RBR-qJGWDDcA",
+          "name": "TOPS at SPAR Komati"
+        }
+      ]
+    },
+    {
+      "locator": "Longtom TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ4emqLMENwh4Reb_zQCKu344",
+          "name": "TOPS at SPAR Longtom"
+        }
+      ]
+    },
+    {
+      "locator": "Lulekani TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJdfXIeqZdzB0Rbl4Mx5-Uiq0",
+          "name": "TOPS at SPAR Lulekani"
+        }
+      ]
+    },
+    {
+      "locator": "Machado TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJvwUOHMaL6R4RyJt1JSnZMoI",
+          "name": "TOPS at SPAR Machadodorp"
+        }
+      ]
+    },
+    {
+      "locator": "Malelane TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJXQCag5Bx6B4RB-d2LX43Muc",
+          "name": "TOPS at SPAR Malelane"
+        }
+      ]
+    },
+    {
+      "locator": "Matsulu TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJ94jaK8to6B4RnokZxFz1-PM",
+          "name": "TOPS at SPAR Matsulu"
+        }
+      ]
+    },
+    {
+      "locator": "Namakgale TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJdcyrIOVxwx4R75kpaq52g2k",
+          "name": "TOPS at SPAR Namakgale"
+        }
+      ]
+    },
+    {
+      "locator": "Plaza TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJzejzxilL6B4RwlsZGyP3Tn4",
+          "name": "TOPS at SPAR Plaza"
+        },
+        {
+          "id": "gplaces-ChIJWwqhWpxFzB0RLN6FRC2OMyA",
+          "name": "TOPS at SPAR Philippi"
+        },
+        {
+          "id": "gplaces-ChIJu1WqBV0SlR4RQnstMfR6w4E",
+          "name": "TOPS at SPAR Dowerglen"
+        },
+        {
+          "id": "gplaces-ChIJK1uDvK3P9R4RC6bqvOr77s0",
+          "name": "TOPS at SPAR Mega Umzimkhulu"
+        }
+      ]
+    },
+    {
+      "locator": "Riverside TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJQRCJhwUH9x4RiXseBnOhquw",
+          "name": "TOPS at SPAR Riverside"
+        }
+      ]
+    },
+    {
+      "locator": "Sabie TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJP4jsG2N5wh4ReqQxTKdrTEA",
+          "name": "TOPS at SPAR Sabie"
+        }
+      ]
+    },
+    {
+      "locator": "Sonpark TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJvziUJRdK6B4R33F-ITcYhew",
+          "name": "TOPS at SPAR Sonpark"
+        }
+      ]
+    },
+    {
+      "locator": "Thulamahashe TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJtz1cTSfrwh4RCBGEn61WZBo",
+          "name": "TOPS at SPAR Thulamahashe"
+        }
+      ]
+    },
+    {
+      "locator": "Tintswalo TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJUznLnbLxwh4RY9QX2lo0ABQ",
+          "name": "TOPS at SPAR Tintswalo"
+        }
+      ]
+    },
+    {
+      "locator": "Tubatse TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ8euvWNotwh4R31AJT9qUADM",
+          "name": "TOPS at SPAR Tubatse"
+        }
+      ]
+    },
+    {
+      "locator": "Westend TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJoU5zjzdL6B4RYXht7inKm1Q",
+          "name": "TOPS at SPAR Westend"
+        }
+      ]
+    },
+    {
+      "locator": "White River TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJA99xFiKtJhwRsVhJ8rjUi-c",
+          "name": "TOPS at SPAR River City"
+        },
+        {
+          "id": "gplaces-ChIJfdTemymfkR4R66mKq88FXiw",
+          "name": "TOPS at SPAR Goldfields"
+        },
+        {
+          "id": "gplaces-ChIJ9Yk3dABZlB4RDKxDildP3eo",
+          "name": "TOPS at SPAR Riverview"
+        },
+        {
+          "id": "gplaces-ChIJO2g6m4X3lB4Ric9DRND_NqM",
+          "name": "TOPS at SPAR Euro"
+        }
+      ]
+    },
+    {
+      "locator": "Zorba TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ45OwJrBvwx4RF2TuDrbf-P8",
+          "name": "TOPS at SPAR Zorba"
+        }
+      ]
+    },
+    {
+      "locator": "Bela Bela TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJvziUJRdK6B4R33F-ITcYhew",
+          "name": "TOPS at SPAR Sonpark"
+        },
+        {
+          "id": "gplaces-ChIJXThx1sA16B4RckafeGXutRE",
+          "name": "TOPS at SPAR The Grove"
+        },
+        {
+          "id": "gplaces-ChIJzejzxilL6B4RwlsZGyP3Tn4",
+          "name": "TOPS at SPAR Plaza"
+        },
+        {
+          "id": "gplaces-ChIJn-6m76RL6B4R2uwAmaiR3DA",
+          "name": "TOPS at SPAR Chippos"
+        }
+      ]
+    },
+    {
+      "locator": "Bronco TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJXVpdXBSy6h4RZygECSq_JaQ",
+          "name": "TOPS at SPAR Bronco"
+        }
+      ]
+    },
+    {
+      "locator": "City Centre TOPS (NR)",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJj-OUoyBnzB0RFNIEmKspnFc",
+          "name": "Tops Cape Station"
+        },
+        {
+          "id": "gplaces-ChIJm-aJUttDzB0RAdfI7kAAoFI",
+          "name": "TOPS Wynberg"
+        },
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJ8SZKACKzzR0RHCqUxQAjUrI",
+          "name": "Wine Stellenbosch TOPS @ Kwikspar Paul Roos"
+        }
+      ]
+    },
+    {
+      "locator": "Cross TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJWwY9qN5V9h4R123qD_fYRww",
+          "name": "TOPS at SPAR Artemis"
+        },
+        {
+          "id": "gplaces-ChIJg87eyVpL6B4RM6pZuDhAJ8A",
+          "name": "TOPS at SPAR Crossing"
+        },
+        {
+          "id": "gplaces-ChIJU84PwOjZxh4RtwF4WIUyXB4",
+          "name": "TOPS at R71"
+        },
+        {
+          "id": "gplaces-ChIJD_RyzxKxyB4RJmDBXwdKly8",
+          "name": "TOPS at SPAR Cross"
+        }
+      ]
+    },
+    {
+      "locator": "Damdoryn TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJQU98hxgrvh4RgbgQYCtmBQI",
+          "name": "Damdoryn Tops"
+        }
+      ]
+    },
+    {
+      "locator": "Elim Mall TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJa2ewXqRHzB0RsZCQYnQkbOE",
+          "name": "TOPS at SPAR Westgate"
+        },
+        {
+          "id": "gplaces-ChIJu5tBq1DTeh4RBPAqThwhZno",
+          "name": "TOPS at SPAR Rink Street"
+        },
+        {
+          "id": "gplaces-ChIJAdHCbYvLZR4RbWJkqM_Zfb8",
+          "name": "TOPS at SPAR Rosehill"
+        },
+        {
+          "id": "gplaces-ChIJTVC-7e2tJhwRYGPMh_Vt1AA",
+          "name": "TOPS at SPAR Kalahari Mall"
+        }
+      ]
+    },
+    {
+      "locator": "Elim TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJWwKiG6xhlR4R6q8E348UzmI",
+          "name": "TOPS at SPAR Elim Mall"
+        },
+        {
+          "id": "pending-ChIJRzoNJyR7xh4RTv2701zRWj0",
+          "name": "TOPS at SPAR Elim"
+        }
+      ]
+    },
+    {
+      "locator": "Flora Park TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ8Um2ddZJzB0RC9_4XKrirrM",
+          "name": "TOPS at SPAR Mandela Park"
+        },
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJnX6AudFfzB0Rhj-0M-a2erE",
+          "name": "TOPS at SPAR Morningfield"
+        },
+        {
+          "id": "gplaces-ChIJfXDikrB4zR0RfROu2rP8lgY",
+          "name": "KWIKSPAR & TOPS Breedevallei"
+        }
+      ]
+    },
+    {
+      "locator": "Gaby's TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJKSHVi47Zvx4RPjbUyXsFb9Q",
+          "name": "TOPS at SPAR Gaby's"
+        }
+      ]
+    },
+    {
+      "locator": "Gift Acers TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ3WE3johhlR4R4AtU2vTveOQ",
+          "name": "TOPS at SPAR Gift Acres"
+        }
+      ]
+    },
+    {
+      "locator": "Giyani A SAVEMOR Liquors",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJVfWOzBtFxB4RtdIHEth1l2M",
+          "name": "TOPS at SPAR Mopani"
+        },
+        {
+          "id": "gplaces-ChIJBzghBWxPxB4R7gtqEU4thyY",
+          "name": "TOPS at SPAR Giyani"
+        }
+      ]
+    },
+    {
+      "locator": "Giyani TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJVfWOzBtFxB4RtdIHEth1l2M",
+          "name": "TOPS at SPAR Mopani"
+        },
+        {
+          "id": "gplaces-ChIJBzghBWxPxB4R7gtqEU4thyY",
+          "name": "TOPS at SPAR Giyani"
+        }
+      ]
+    },
+    {
+      "locator": "Groblersdal Mall TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJa2ewXqRHzB0RsZCQYnQkbOE",
+          "name": "TOPS at SPAR Westgate"
+        },
+        {
+          "id": "gplaces-ChIJu5tBq1DTeh4RBPAqThwhZno",
+          "name": "TOPS at SPAR Rink Street"
+        },
+        {
+          "id": "gplaces-ChIJAdHCbYvLZR4RbWJkqM_Zfb8",
+          "name": "TOPS at SPAR Rosehill"
+        },
+        {
+          "id": "gplaces-ChIJTVC-7e2tJhwRYGPMh_Vt1AA",
+          "name": "TOPS at SPAR Kalahari Mall"
+        }
+      ]
+    },
+    {
+      "locator": "Groblersdal TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJg7UTdBg1wB4RPYYFQ4KtlII",
+          "name": "TOPS at SPAR Groblersdal"
+        },
+        {
+          "id": "gplaces-ChIJ40uxJEQ1wB4Rsr3Vm2eWhkQ",
+          "name": "TOPS at SPAR Groblersdal Mall"
+        }
+      ]
+    },
+    {
+      "locator": "Kloof TOPS (NR)",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ35F61nFnzB0RIIPNJt7Ec6Q",
+          "name": "TOPS at SPAR Kloof"
+        },
+        {
+          "id": "gplaces-ChIJv-z-qJ-zzR0Rg5jfXcEN4t4",
+          "name": "TOPS at SPAR Paradyskloof R44"
+        },
+        {
+          "id": "gplaces-ChIJtXDPDDVhlR4RMZFAhQ8MQOU",
+          "name": "TOPS at SPAR Waterkloof"
+        },
+        {
+          "id": "gplaces-ChIJkfqXpEanxh4RlQSOGyfuSsk",
+          "name": "TOPS at SPAR Modjadjiskloof"
+        }
+      ]
+    },
+    {
+      "locator": "Kloofsig TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJM8jiWf5jlR4RNgQUVC48Dyk",
+          "name": "TOPS at SPAR Kloofsig"
+        }
+      ]
+    },
+    {
+      "locator": "Kopanong TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJD_uglhnBvx4RqmhK2E4D_oU",
+          "name": "TOPS at SPAR Kopanong"
+        }
+      ]
+    },
+    {
+      "locator": "Lebowakgomo TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ8VV6xCwnwR4RJ7VNVXRB7x0",
+          "name": "TOPS at SPAR Lebowakgomo"
+        }
+      ]
+    },
+    {
+      "locator": "Limpopo TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJe6MnujvYxh4Rqr4fe-60Boo",
+          "name": "TOPS at SPAR Limpopo"
+        }
+      ]
+    },
+    {
+      "locator": "Loerie TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ3RDrxWBtxh4RLicBOpnnzI0",
+          "name": "TOPS at SPAR Loerie"
+        }
+      ]
+    },
+    {
+      "locator": "Louis Trichardt TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJT6nojvFp1h0RifWBmMq6_P4",
+          "name": "TOPS at SPAR Mosselbaai"
+        },
+        {
+          "id": "gplaces-ChIJ490BxxBtxh4ReQIxY0CrwFQ",
+          "name": "TOPS at SPAR Louis Trichardt"
+        },
+        {
+          "id": "gplaces-ChIJ3RDrxWBtxh4RLicBOpnnzI0",
+          "name": "TOPS at SPAR Loerie"
+        },
+        {
+          "id": "gplaces-ChIJsYgEqFRtxh4RpfpMgspC23s",
+          "name": "TOPS at SPAR Soutpansberg"
+        }
+      ]
+    },
+    {
+      "locator": "Madiba Tops",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJoU5zjzdL6B4RYXht7inKm1Q",
+          "name": "TOPS at SPAR Westend"
+        },
+        {
+          "id": "pending-ChIJ94jaK8to6B4RnokZxFz1-PM",
+          "name": "TOPS at SPAR Matsulu"
+        }
+      ]
+    },
+    {
+      "locator": "Mall @55 TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJa2ewXqRHzB0RsZCQYnQkbOE",
+          "name": "TOPS at SPAR Westgate"
+        },
+        {
+          "id": "gplaces-ChIJu5tBq1DTeh4RBPAqThwhZno",
+          "name": "TOPS at SPAR Rink Street"
+        },
+        {
+          "id": "gplaces-ChIJAdHCbYvLZR4RbWJkqM_Zfb8",
+          "name": "TOPS at SPAR Rosehill"
+        },
+        {
+          "id": "gplaces-ChIJTVC-7e2tJhwRYGPMh_Vt1AA",
+          "name": "TOPS at SPAR Kalahari Mall"
+        }
+      ]
+    },
+    {
+      "locator": "Maluleke TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ7Yefjq3Ivx4ReQ561bm9MLc",
+          "name": "TOPS at SPAR Maluleke"
+        }
+      ]
+    },
+    {
+      "locator": "Marapong TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJyT-6Ws-juR4RKE440rp3qcA",
+          "name": "TOPS at SPAR Marula"
+        }
+      ]
+    },
+    {
+      "locator": "Marble Hall TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJWwY9qN5V9h4R123qD_fYRww",
+          "name": "TOPS at SPAR Artemis"
+        },
+        {
+          "id": "gplaces-ChIJp37_E7MPlR4R03iH_FNHrk8",
+          "name": "TOPS at SPAR Ghandi"
+        },
+        {
+          "id": "gplaces-ChIJzejzxilL6B4RwlsZGyP3Tn4",
+          "name": "TOPS at SPAR Plaza"
+        },
+        {
+          "id": "gplaces-ChIJt2VACw9J6B4RjPfVXGoP84Y",
+          "name": "TOPS at SPAR De Hallen"
+        }
+      ]
+    },
+    {
+      "locator": "Marshal SAVEMOR Liquors",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJp37_E7MPlR4R03iH_FNHrk8",
+          "name": "TOPS at SPAR Ghandi"
+        },
+        {
+          "id": "gplaces-ChIJYTl5IjjXxh4RiorXZ9Pi_5I",
+          "name": "TOPS at SPAR Flora Park"
+        }
+      ]
+    },
+    {
+      "locator": "Meatgood TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJh62YSwDNvx4R708C52zpaTk",
+          "name": "TOPS at Meatgood"
+        }
+      ]
+    },
+    {
+      "locator": "Mimo TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJCXV4qQvfvx4R93GT1rQnqic",
+          "name": "TOPS at SPAR Mimo"
+        }
+      ]
+    },
+    {
+      "locator": "Mnandi TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJH_UUWbl7lR4RjQt3Y9D_jHQ",
+          "name": "TOPS at SPAR Mnandi"
+        },
+        {
+          "id": "gplaces-ChIJmbvS1Ol9lR4RfzLtBIFl3Ac",
+          "name": "TOPS at SPAR Atteridgeville"
+        }
+      ]
+    },
+    {
+      "locator": "Modimolle TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJyfNGMnBpvx4Rr27glhVJQnw",
+          "name": "TOPS at SPAR Nylstroom"
+        }
+      ]
+    },
+    {
+      "locator": "Modjadjiskloof TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJkfqXpEanxh4RlQSOGyfuSsk",
+          "name": "TOPS at SPAR Modjadjiskloof"
+        }
+      ]
+    },
+    {
+      "locator": "Mogol TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJwd9OLZyouR4RNIr5uLEfnE0",
+          "name": "Mogol SUPERSPAR and TOPS"
+        },
+        {
+          "id": "pending-ChIJ6yAxu1qmuR4RAB_LSDj5u1Q",
+          "name": "TOPS at SPAR Mogol"
+        }
+      ]
+    },
+    {
+      "locator": "Mokopane TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJo2ajfRy1wB4R0kta3eFbN7Q",
+          "name": "TOPS at SPAR Mokopane"
+        }
+      ]
+    },
+    {
+      "locator": "Molle TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJyfNGMnBpvx4Rr27glhVJQnw",
+          "name": "TOPS at SPAR Nylstroom"
+        }
+      ]
+    },
+    {
+      "locator": "Montana TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ0XgoxUvfvx4RyTfQg_6wRsU",
+          "name": "TOPS at SPAR Montana"
+        }
+      ]
+    },
+    {
+      "locator": "Mopani TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJVfWOzBtFxB4RtdIHEth1l2M",
+          "name": "TOPS at SPAR Mopani"
+        }
+      ]
+    },
+    {
+      "locator": "Mountain View TOPS (GN)",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJQZp88DtfzB0RGHXp7YuTGb0",
+          "name": "TOPS at SPAR Ribeiros"
+        },
+        {
+          "id": "gplaces-ChIJq0wBWwD1zB0Rjh9uNOeECGs",
+          "name": "TOPS AT SPAR WOOD DRIVE"
+        },
+        {
+          "id": "gplaces-ChIJqR3g4RER-h4RDVKNah6ThYo",
+          "name": "TOPS at SPAR Andrews"
+        },
+        {
+          "id": "gplaces-ChIJS9VzS0sX-h4ROMs6UiD3b-I",
+          "name": "TOPS at SPAR Fiveways"
+        }
+      ]
+    },
+    {
+      "locator": "Naboom TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJNXNNnOuhwB4R_P4SXtbqsJQ",
+          "name": "TOPS at SPAR Naboom"
+        }
+      ]
+    },
+    {
+      "locator": "Nkuna Kraal TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJF_o2c8nBvx4Rq-tDVCUL-yo",
+          "name": "TOPS at SPAR Renbro"
+        },
+        {
+          "id": "wcla-045022",
+          "name": "TOPS at SPAR Phesantekraal"
+        }
+      ]
+    },
+    {
+      "locator": "Nzhelele TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJGwI-y4cNxh4RnpTum1J2bnY",
+          "name": "TOPS at SPAR Nzhelele"
+        }
+      ]
+    },
+    {
+      "locator": "Orchards TOPS (NR)",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJj37RapjQvx4RXJZfiunb80M",
+          "name": "TOPS at SPAR Orchards"
+        }
+      ]
+    },
+    {
+      "locator": "Paledi TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJ1TPVbHbJxh4RJe4di1yUs_M",
+          "name": "TOPS at SPAR Paledi"
+        }
+      ]
+    },
+    {
+      "locator": "Panorama TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJjzpEasgxvh4RaZ8x7WP7gvE",
+          "name": "TOPS at SPAR Panorama"
+        },
+        {
+          "id": "gplaces-ChIJA4551YhllR4RmFD1-Wr1fsg",
+          "name": "TOPS at SPAR The Reeds"
+        }
+      ]
+    },
+    {
+      "locator": "Phola Park TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ8Um2ddZJzB0RC9_4XKrirrM",
+          "name": "TOPS at SPAR Mandela Park"
+        },
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJnX6AudFfzB0Rhj-0M-a2erE",
+          "name": "TOPS at SPAR Morningfield"
+        },
+        {
+          "id": "gplaces-ChIJfXDikrB4zR0RfROu2rP8lgY",
+          "name": "KWIKSPAR & TOPS Breedevallei"
+        }
+      ]
+    },
+    {
+      "locator": "Pienaars Rivier TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJX_C0-sRRzB0RTPW8S8LwD3g",
+          "name": "TOPS at SPAR Kuilsrivier"
+        },
+        {
+          "id": "wcla-034431",
+          "name": "TOPS at SPAR Touwsrivier"
+        },
+        {
+          "id": "wcla-034467",
+          "name": "TOPS at SPAR Grootbrakrivier"
+        }
+      ]
+    },
+    {
+      "locator": "Platinum Park TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ8Um2ddZJzB0RC9_4XKrirrM",
+          "name": "TOPS at SPAR Mandela Park"
+        },
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJnX6AudFfzB0Rhj-0M-a2erE",
+          "name": "TOPS at SPAR Morningfield"
+        },
+        {
+          "id": "gplaces-ChIJfXDikrB4zR0RfROu2rP8lgY",
+          "name": "KWIKSPAR & TOPS Breedevallei"
+        }
+      ]
+    },
+    {
+      "locator": "R71 TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJU84PwOjZxh4RtwF4WIUyXB4",
+          "name": "TOPS at R71"
+        },
+        {
+          "id": "pending-ChIJ1TPVbHbJxh4RJe4di1yUs_M",
+          "name": "TOPS at SPAR Paledi"
+        }
+      ]
+    },
+    {
+      "locator": "Renbro TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJF_o2c8nBvx4Rq-tDVCUL-yo",
+          "name": "TOPS at SPAR Renbro"
+        }
+      ]
+    },
+    {
+      "locator": "Safi TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJFajoMgNjlR4RWJ8T9_mP4lw",
+          "name": "TOPS at SPAR Safi"
+        }
+      ]
+    },
+    {
+      "locator": "Sediba TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ1elTYhkrvh4R7H6RsQiUNoY",
+          "name": "TOPS at SPAR Sediba"
+        }
+      ]
+    },
+    {
+      "locator": "Sibasa TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJOz_maebGxR4RUxumgcR4C7Y",
+          "name": "TOPS at SPAR Sibasa"
+        }
+      ]
+    },
+    {
+      "locator": "Silver Place TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJp7sNDLMblR4R-Gkl00-pUjQ",
+          "name": "TOPS at SPAR Choose N Pay"
+        },
+        {
+          "id": "gplaces-ChIJ7dtadVVflR4RaanSa0VMQtc",
+          "name": "TOPS at SPAR Silver Oaks"
+        },
+        {
+          "id": "gplaces-ChIJS8Qh4NFhlR4RYf3AiMtixws",
+          "name": "TOPS at SPAR Silverton"
+        },
+        {
+          "id": "gplaces-ChIJLwIR_t9flR4RK8T600eTW5w",
+          "name": "TOPS at SPAR Silverplace"
+        }
+      ]
+    },
+    {
+      "locator": "Sosha SAVEMOR Liquor",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJLZ-kS03Ovx4RjC9BdV_6As4",
+          "name": "TOPS at SPAR Sosha"
+        },
+        {
+          "id": "gplaces-ChIJaZgKhpfPvx4RQ1wh95hs6so",
+          "name": "TOPS at SPAR Soshanguve Crossing"
+        },
+        {
+          "id": "gplaces-ChIJ7Yefjq3Ivx4ReQ561bm9MLc",
+          "name": "TOPS at SPAR Maluleke"
+        },
+        {
+          "id": "gplaces-ChIJQSyKguVjlR4RXRgbgbH1JFo",
+          "name": "TOPS at SPAR Soshanguve"
+        }
+      ]
+    },
+    {
+      "locator": "Soutpansberg TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJVSjoytFhlR4REtfAfMA4JaU",
+          "name": "TOPS at SPAR Queenswood"
+        },
+        {
+          "id": "gplaces-ChIJsYgEqFRtxh4RpfpMgspC23s",
+          "name": "TOPS at SPAR Soutpansberg"
+        },
+        {
+          "id": "pending-ChIJq6qqqmppxh4RBBuUlpqSmSA",
+          "name": "SPAR Soutpansberg and TOPS"
+        }
+      ]
+    },
+    {
+      "locator": "Sutherland TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJoe-q3zjRXx4RrolmBSXEKbY",
+          "name": "TOPS at SPAR Sprigg Spargs Mthatha"
+        },
+        {
+          "id": "gplaces-ChIJGZ2AStbRXx4RHRTXZGwZad8",
+          "name": "Tops Sutherland"
+        },
+        {
+          "id": "gplaces-ChIJA7hZcJFklR4Rc9SwfLnz_mk",
+          "name": "Sutherland Tops"
+        }
+      ]
+    },
+    {
+      "locator": "Swanees TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJYWj-OexklR4R6eoxSMY8Wmg",
+          "name": "TOPS at SPAR Swanees"
+        }
+      ]
+    },
+    {
+      "locator": "Thaba TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJczd1x7Cxvh4R4smAekPPNc0",
+          "name": "TOPS at SPAR Thaba"
+        },
+        {
+          "id": "gplaces-ChIJFajoMgNjlR4RWJ8T9_mP4lw",
+          "name": "TOPS at SPAR Safi"
+        }
+      ]
+    },
+    {
+      "locator": "Thavhani TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJu6NkgmTHxR4RiIKJBErLMGU",
+          "name": "TOPS at SPAR Thavhani"
+        }
+      ]
+    },
+    {
+      "locator": "The Hill TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJvVR7qJAHzR0RkSG8MRLa4Ik",
+          "name": "TOPS at SPAR Noorder Paarl"
+        },
+        {
+          "id": "gplaces-ChIJTWUUhDypzR0RtP_uOva0zfQ",
+          "name": "TOPS at SPAR Paarl East"
+        },
+        {
+          "id": "gplaces-ChIJnQb-eleozR0RCIXSJuEoSI8",
+          "name": "TOPS at SPAR The Vineyard"
+        }
+      ]
+    },
+    {
+      "locator": "The Islands TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJvVR7qJAHzR0RkSG8MRLa4Ik",
+          "name": "TOPS at SPAR Noorder Paarl"
+        },
+        {
+          "id": "gplaces-ChIJnQb-eleozR0RCIXSJuEoSI8",
+          "name": "TOPS at SPAR The Vineyard"
+        },
+        {
+          "id": "gplaces-ChIJWZ5qdhPnzB0RbS-sG5L88n0",
+          "name": "TOPS at SPAR The Bank"
+        }
+      ]
+    },
+    {
+      "locator": "Thohoyandou TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJcc9EUCjHxR4RkohWKSVPmPk",
+          "name": "TOPS at SPAR Thohoyandou"
+        },
+        {
+          "id": "gplaces-ChIJMdLpI_rHxR4RPS4qRaU4Auo",
+          "name": "TOPS at SPAR Ephondweni"
+        },
+        {
+          "id": "gplaces-ChIJu6NkgmTHxR4RiIKJBErLMGU",
+          "name": "TOPS at SPAR Thavhani"
+        },
+        {
+          "id": "gplaces-ChIJOz_maebGxR4RUxumgcR4C7Y",
+          "name": "TOPS at SPAR Sibasa"
+        }
+      ]
+    },
+    {
+      "locator": "Thornhill TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJxzi1-_LZxh4Rf7nHWAD0mrs",
+          "name": "TOPS at SPAR Thornhill"
+        }
+      ]
+    },
+    {
+      "locator": "Tshakhuma TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJE2hMoLDRxR4RRDObiToSoWA",
+          "name": "TOPS at SPAR Tshakhuma"
+        }
+      ]
+    },
+    {
+      "locator": "Tzaneen TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJqXiJDwsCxB4RtQpxBuHk9SI",
+          "name": "TOPS at SPAR Tzaneen"
+        }
+      ]
+    },
+    {
+      "locator": "Vuwani TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJC3f9GaLNxR4RlX8qehoLb_8",
+          "name": "TOPS at SPAR Vuwani"
+        }
+      ]
+    },
+    {
+      "locator": "West Park TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ8Um2ddZJzB0RC9_4XKrirrM",
+          "name": "TOPS at SPAR Mandela Park"
+        },
+        {
+          "id": "gplaces-ChIJa2ewXqRHzB0RsZCQYnQkbOE",
+          "name": "TOPS at SPAR Westgate"
+        },
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJnX6AudFfzB0Rhj-0M-a2erE",
+          "name": "TOPS at SPAR Morningfield"
+        }
+      ]
+    },
+    {
+      "locator": "Winmore TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJvRn6RnRnlR4RVw7SJlIMTiI",
+          "name": "TOPS at SPAR Winmore"
+        }
+      ]
+    },
+    {
+      "locator": "2nd Avenue TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJSbHvZe5DzB0Rztcfv3APCEE",
+          "name": "TOPS @ SPAR Rosmead"
+        },
+        {
+          "id": "gplaces-ChIJpddik4lRzB0R6Hw4XBsKqvA",
+          "name": "TOPS at SPAR Tyger Manor"
+        },
+        {
+          "id": "gplaces-ChIJQZp88DtfzB0RGHXp7YuTGb0",
+          "name": "TOPS at SPAR Ribeiros"
+        },
+        {
+          "id": "gplaces-ChIJWZ5qdhPnzB0RbS-sG5L88n0",
+          "name": "TOPS at SPAR The Bank"
+        }
+      ]
+    },
+    {
+      "locator": "Artemis TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJWwY9qN5V9h4R123qD_fYRww",
+          "name": "TOPS at SPAR Artemis"
+        }
+      ]
+    },
+    {
+      "locator": "Atlas Mall TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJa2ewXqRHzB0RsZCQYnQkbOE",
+          "name": "TOPS at SPAR Westgate"
+        },
+        {
+          "id": "gplaces-ChIJu5tBq1DTeh4RBPAqThwhZno",
+          "name": "TOPS at SPAR Rink Street"
+        },
+        {
+          "id": "gplaces-ChIJAdHCbYvLZR4RbWJkqM_Zfb8",
+          "name": "TOPS at SPAR Rosehill"
+        },
+        {
+          "id": "gplaces-ChIJTVC-7e2tJhwRYGPMh_Vt1AA",
+          "name": "TOPS at SPAR Kalahari Mall"
+        }
+      ]
+    },
+    {
+      "locator": "Baillie Park TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ8Um2ddZJzB0RC9_4XKrirrM",
+          "name": "TOPS at SPAR Mandela Park"
+        },
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJnX6AudFfzB0Rhj-0M-a2erE",
+          "name": "TOPS at SPAR Morningfield"
+        },
+        {
+          "id": "gplaces-ChIJfXDikrB4zR0RfROu2rP8lgY",
+          "name": "KWIKSPAR & TOPS Breedevallei"
+        }
+      ]
+    },
+    {
+      "locator": "Baysvillage TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJP9TRjDjbjx4RLPAFMcrOST0",
+          "name": "TOPS at SPAR Baysvillage"
+        }
+      ]
+    },
+    {
+      "locator": "Bayswater TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJP9TRjDjbjx4RLPAFMcrOST0",
+          "name": "TOPS at SPAR Baysvillage"
+        },
+        {
+          "id": "gplaces-ChIJyesSD-7Rjx4RTVEOUp9lz90",
+          "name": "TOPS at SPAR"
+        }
+      ]
+    },
+    {
+      "locator": "Bel Air TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJpddik4lRzB0R6Hw4XBsKqvA",
+          "name": "TOPS at SPAR Tyger Manor"
+        },
+        {
+          "id": "gplaces-ChIJk7tHpOFQzB0RuGeHQS5lFnk",
+          "name": "TOPS at SPAR Old Oak Road"
+        },
+        {
+          "id": "gplaces-ChIJbSPBkBHRXx4Rj2wFc2YH48c",
+          "name": "TOPS at SPAR Jimmy's (hotel)"
+        },
+        {
+          "id": "gplaces-ChIJoe-q3zjRXx4RrolmBSXEKbY",
+          "name": "TOPS at SPAR Sprigg Spargs Mthatha"
+        }
+      ]
+    },
+    {
+      "locator": "Bethal TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJWd_j41Kg6x4REiMWF9tcGJI",
+          "name": "TOPS at SPAR Bethal"
+        }
+      ]
+    },
+    {
+      "locator": "Birchgate TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJAQAAAJ9slR4RdhDgP1aQYaM",
+          "name": "TOPS at SPAR Birchgate"
+        }
+      ]
+    },
+    {
+      "locator": "Bloemhof TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJ_9fAywn_mR4RJ9VfGs-Z7mA",
+          "name": "TOPS at SPAR Bloemhof 1"
+        }
+      ]
+    },
+    {
+      "locator": "Bloemhof TOPS 2",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJ_9fAywn_mR4RJ9VfGs-Z7mA",
+          "name": "TOPS at SPAR Bloemhof 1"
+        }
+      ]
+    },
+    {
+      "locator": "Bonanza TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJB9QjQ46ZlR4RHjKGk1f_5gs",
+          "name": "TOPS at SPAR Bonanza"
+        }
+      ]
+    },
+    {
+      "locator": "Bonus TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJS987S5kNkR4RI-8BsM-jc-s",
+          "name": "TOPS at SPAR Bonus"
+        }
+      ]
+    },
+    {
+      "locator": "Botshabelo TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJWRrABL5Bjh4RTyCH2-17zWs",
+          "name": "TOPS at SPAR Botshabelo"
+        }
+      ]
+    },
+    {
+      "locator": "Bredell TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJr2fB_2MVlR4RdrU16_vSk5Q",
+          "name": "TOPS at SPAR Bredell"
+        },
+        {
+          "id": "gplaces-ChIJQ3Lbt3oVlR4RGaKAa1N-cEY",
+          "name": "TOPS at SPAR Brentwood"
+        }
+      ]
+    },
+    {
+      "locator": "Brenthurst TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJH6dN_XYjlR4RTxbGor4BBbg",
+          "name": "TOPS at SPAR Brenthurst"
+        }
+      ]
+    },
+    {
+      "locator": "Brentwood TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJQ3Lbt3oVlR4RGaKAa1N-cEY",
+          "name": "TOPS at SPAR Brentwood"
+        }
+      ]
+    },
+    {
+      "locator": "Carleton TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJX0GQu__ElR4RmwnKagRtWIc",
+          "name": "TOPS at SPAR Carleton"
+        },
+        {
+          "id": "gplaces-ChIJ9-clusPFlR4RzlFHPbrESQM",
+          "name": "TOPS at SPAR Dolomite"
+        }
+      ]
+    },
+    {
+      "locator": "Choose n Pay TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJp7sNDLMblR4R-Gkl00-pUjQ",
+          "name": "TOPS at SPAR Choose N Pay"
+        }
+      ]
+    },
+    {
+      "locator": "Christiana TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJn5TDf6wlmh4RBeZMo8yXBvU",
+          "name": "TOPS at SPAR Christiana"
+        }
+      ]
+    },
+    {
+      "locator": "Constantia TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJGXgSPG4NkR4Rk0Xk0F8S_zA",
+          "name": "TOPS at SPAR Constantia"
+        },
+        {
+          "id": "gplaces-ChIJ_7IDO0lDzB0R4rLsVEkYJ_o",
+          "name": "TOPS Constantia"
+        }
+      ]
+    },
+    {
+      "locator": "Crystal Gate TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJa2ewXqRHzB0RsZCQYnQkbOE",
+          "name": "TOPS at SPAR Westgate"
+        },
+        {
+          "id": "gplaces-ChIJedUsLAULzh0R-uckJRMnFMM",
+          "name": "TOPS at SPAR Hermanus Gateway"
+        },
+        {
+          "id": "gplaces-ChIJ8dLd5Nq6WB4RQuJVIQNe6_Q",
+          "name": "TOPS at SPAR Hopdens (Manaba)"
+        },
+        {
+          "id": "gplaces-ChIJ_QLhnoW6WB4RGOjHRlfOFgY",
+          "name": "TOPS at SPAR Ramsgate"
+        }
+      ]
+    },
+    {
+      "locator": "Danielskuil TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJzXQCr6QvnB4RiV4XGnIcXh4",
+          "name": "TOPS at SPAR Danielskuil"
+        }
+      ]
+    },
+    {
+      "locator": "Delareyville TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJXwJZgcc9mB4RiKNjU30kA9U",
+          "name": "TOPS at SPAR Delareyville"
+        }
+      ]
+    },
+    {
+      "locator": "Delareyville TOPS 2",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJXwJZgcc9mB4RiKNjU30kA9U",
+          "name": "TOPS at SPAR Delareyville"
+        }
+      ]
+    },
+    {
+      "locator": "Delta TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJEeT_pGqZlR4RH327wBhp4HQ",
+          "name": "TOPS at SPAR Delta"
+        }
+      ]
+    },
+    {
+      "locator": "Dericks TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJn2AZgJS9kh4RbWdwkW7eFOY",
+          "name": "Tops @ Spar - Dericks"
+        },
+        {
+          "id": "gplaces-ChIJRx4R1IXZlB4RR7UV4v1B_3E",
+          "name": "TOPS at SPAR Dericks"
+        }
+      ]
+    },
+    {
+      "locator": "Dias TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ0cp23gsnlR4RHOYbjceYFUs",
+          "name": "TOPS at SPAR Dias"
+        }
+      ]
+    },
+    {
+      "locator": "Die oog TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJxYo497B4zR0RVSCEE73zWVA",
+          "name": "TOPS at SPAR Breedevallei"
+        },
+        {
+          "id": "gplaces-ChIJPfkLOn0lex4RB21O4L-i1pw",
+          "name": "TOPS at SPAR Spyros"
+        },
+        {
+          "id": "gplaces-ChIJQfuc69ep9x4RT4eVJrJUbhw",
+          "name": "TOPS at SPAR Mega Durban Workshop"
+        },
+        {
+          "id": "gplaces-ChIJ7_gXkkSBlh4RGQeSLIeKA1E",
+          "name": "TOPS at SPAR Die Akker"
+        }
+      ]
+    },
+    {
+      "locator": "Dolomite TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ9-clusPFlR4RzlFHPbrESQM",
+          "name": "TOPS at SPAR Dolomite"
+        }
+      ]
+    },
+    {
+      "locator": "Doringkruin TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJP_Y7_K_2lh4RrzaYowmnRhw",
+          "name": "TOPS at SPAR Doringkruin"
+        }
+      ]
+    },
+    {
+      "locator": "Douglas TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJW5zlamkU9x4RGua9DmWHZ_Q",
+          "name": "TOPS at SPAR Lifestyle"
+        },
+        {
+          "id": "gplaces-ChIJ__C9bQLhZh4RkqDlOmf99Kc",
+          "name": "TOPS at SPAR Buffalo Flats"
+        },
+        {
+          "id": "gplaces-ChIJD_uglhnBvx4RqmhK2E4D_oU",
+          "name": "TOPS at SPAR Kopanong"
+        },
+        {
+          "id": "pending-ChIJ9W7Bu-K_nB4RSnPNWl-H_ns",
+          "name": "TOPS at SPAR Douglas"
+        }
+      ]
+    },
+    {
+      "locator": "Emalahleni TOPS (Eadie Street)",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJec519SXt6h4RBnBP0DbpiNw",
+          "name": "TOPS at SPAR Eadie Street"
+        },
+        {
+          "id": "gplaces-ChIJ43Wq3snt6h4RdEb1hIFN9SY",
+          "name": "TOPS at SPAR Diederichs"
+        },
+        {
+          "id": "gplaces-ChIJv7Ql2ZLz6h4R9jEoTS_JbOc",
+          "name": "TOPS at SPAR Tasbet"
+        }
+      ]
+    },
+    {
+      "locator": "Ermelo TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJEdarf2kPlR4RXo9Hac1aajY",
+          "name": "TOPS at SPAR Ermelo"
+        }
+      ]
+    },
+    {
+      "locator": "Euro TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJO2g6m4X3lB4Ric9DRND_NqM",
+          "name": "TOPS at SPAR Euro"
+        }
+      ]
+    },
+    {
+      "locator": "Family Save TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJDQF3PA1ZlB4RS8MKbJ1lhOo",
+          "name": "TOPS at SPAR Save in"
+        },
+        {
+          "id": "gplaces-ChIJY06hMEnz6h4Ri9O2b4_9HCs",
+          "name": "TOPS at SPAR Saveways"
+        },
+        {
+          "id": "gplaces-ChIJAQimrqG9lR4Rvwrt7OjFA94",
+          "name": "TOPS at SPAR Family Save"
+        }
+      ]
+    },
+    {
+      "locator": "Feathersquare TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ2ZBrSwCclR4RpykggJvfAjU",
+          "name": "TOPS at SPAR Feathersquare"
+        }
+      ]
+    },
+    {
+      "locator": "Ferryvale TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJAyyXtdDZlB4R_HKyZ5yBg2M",
+          "name": "TOPS at SPAR Ferryvale"
+        }
+      ]
+    },
+    {
+      "locator": "Five Star TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ9Zf66pLceh4RT0tRBgtbypA",
+          "name": "TOPS at SPAR Fiveways"
+        },
+        {
+          "id": "gplaces-ChIJySvg15AE9x4Rs17edL77Uec",
+          "name": "TOPS at SPAR Starwood"
+        },
+        {
+          "id": "gplaces-ChIJS9VzS0sX-h4ROMs6UiD3b-I",
+          "name": "TOPS at SPAR Fiveways"
+        },
+        {
+          "id": "gplaces-ChIJu7hP1ZAS6x4R8nCyyoslNFI",
+          "name": "TOPS at SPAR Five Star"
+        }
+      ]
+    },
+    {
+      "locator": "Flimieda TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJkWQn9NXwlh4R1vFhjeuSenI",
+          "name": "TOPS at SPAR Flimieda"
+        }
+      ]
+    },
+    {
+      "locator": "Foro TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ36XvHE4Kvh4R_f_I5ny1gqQ",
+          "name": "TOPS at SPAR Foro"
+        }
+      ]
+    },
+    {
+      "locator": "Fourway Gardens TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ35F61nFnzB0RIIPNJt7Ec6Q",
+          "name": "TOPS at SPAR Kloof"
+        },
+        {
+          "id": "gplaces-ChIJN7p3UHvKzR0Rh_vZWah-WHY",
+          "name": "TOPS at SPAR Vergelegen"
+        },
+        {
+          "id": "gplaces-ChIJ9XlJyc3_9h4RiM0SQnfhAcM",
+          "name": "TOPS at SPAR Fourways"
+        },
+        {
+          "id": "gplaces-ChIJIfZ4VRkJvh4RRVX_y3A3j80",
+          "name": "TOPS at SPAR Safari"
+        }
+      ]
+    },
+    {
+      "locator": "Frankfort TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJX6mba3tPkx4Rf4FCoENJiN8",
+          "name": "TOPS at SPAR Frankfort"
+        }
+      ]
+    },
+    {
+      "locator": "Gardenia TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJI_Ts1h_Fjx4RauTqQzhLano",
+          "name": "TOPS at SPAR Gardenia"
+        }
+      ]
+    },
+    {
+      "locator": "Geolaine TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJPUU05Kj5nh4RYXAiqJdsAJw",
+          "name": "TOPS at SPAR Geolaine"
+        }
+      ]
+    },
+    {
+      "locator": "Ghandi TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJp37_E7MPlR4R03iH_FNHrk8",
+          "name": "TOPS at SPAR Ghandi"
+        }
+      ]
+    },
+    {
+      "locator": "Goldfields TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJfdTemymfkR4R66mKq88FXiw",
+          "name": "TOPS at SPAR Goldfields"
+        }
+      ]
+    },
+    {
+      "locator": "Gordon Road TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJRwNjcF1nzB0R4ai1StIOw-k",
+          "name": "TOPS at SPAR Cape Quarter"
+        },
+        {
+          "id": "gplaces-ChIJvarEizZdzB0RDWQe1Dzn5oc",
+          "name": "TOPS at SPAR Woodstock Quarter"
+        },
+        {
+          "id": "gplaces-ChIJHTExk61dzB0RrjEjFXQfdWY",
+          "name": "TOPS at SPAR Wex"
+        },
+        {
+          "id": "gplaces-ChIJneqmEVRnzB0Rev2suWP7ARY",
+          "name": "Sea Point TOPS"
+        }
+      ]
+    },
+    {
+      "locator": "Harrismith TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJb5hIw_9h7R4RCjxCQ4K5cPk",
+          "name": "TOPS at SPAR Harrismith"
+        }
+      ]
+    },
+    {
+      "locator": "Harrismith TOPS 2",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJb5hIw_9h7R4RCjxCQ4K5cPk",
+          "name": "TOPS at SPAR Harrismith"
+        }
+      ]
+    },
+    {
+      "locator": "Hartswater TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJzwnUrUl_mR4RW7EtcyL3hPc",
+          "name": "TOPS at SPAR Hartswater"
+        }
+      ]
+    },
+    {
+      "locator": "Heidelberg TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJcWvUn8jdlB4Ri2p2_MA7HNw",
+          "name": "TOPS at SPAR Heidelberg"
+        },
+        {
+          "id": "gplaces-ChIJcZPRkYvclB4Rgor0zFau64E",
+          "name": "TOPS at SPAR Rensburg"
+        },
+        {
+          "id": "gplaces-ChIJWdlPRefZlB4RNBXgSdOIziw",
+          "name": "TOPS at SPAR The Angelo"
+        },
+        {
+          "id": "gplaces-ChIJvRNuILHZlB4RH-pvMUwJMC4",
+          "name": "ANGELO TOPS"
+        }
+      ]
+    },
+    {
+      "locator": "Hennenman TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJVTSYy4B5kR4RD48GWBxb6LU",
+          "name": "TOPS at SPAR Hennenman"
+        }
+      ]
+    },
+    {
+      "locator": "Heuwelsig TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ-R49WdNklR4RkjvyhYGJSsU",
+          "name": "TOPS at SPAR Celtis Ridge"
+        },
+        {
+          "id": "pending-ChIJLX0QIejajx4R0AuNL1vpxd4",
+          "name": "TOPS at SPAR Heuwelsig"
+        }
+      ]
+    },
+    {
+      "locator": "Hobart TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJD8ESu4VzlR4RVG2weuRmqpc",
+          "name": "TOPS at SPAR Hobart"
+        }
+      ]
+    },
+    {
+      "locator": "Kalahari TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJTVC-7e2tJhwRYGPMh_Vt1AA",
+          "name": "TOPS at SPAR Kalahari Mall"
+        }
+      ]
+    },
+    {
+      "locator": "Kanonkop TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJe3BNoRFh6h4R1pTW-QCzB4U",
+          "name": "TOPS at SPAR Kanonkop"
+        }
+      ]
+    },
+    {
+      "locator": "Kathu TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ7-QGtz1Bnh4RMIDo8Ls3V3o",
+          "name": "TOPS at SPAR Kathu"
+        }
+      ]
+    },
+    {
+      "locator": "Kenilworth TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJSbHvZe5DzB0Rztcfv3APCEE",
+          "name": "TOPS @ SPAR Rosmead"
+        },
+        {
+          "id": "gplaces-ChIJ3TgSpRwPlR4RRYUMkgV25Ek",
+          "name": "TOPS at SPAR Kenilworth"
+        }
+      ]
+    },
+    {
+      "locator": "Kingfisher TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJaS_-A6R2lR4RTWbaz3EID7I",
+          "name": "TOPS at SPAR Kingfisher"
+        }
+      ]
+    },
+    {
+      "locator": "Klopperpark TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJlyLzzIwTlR4RC3weoTJJXRk",
+          "name": "TOPS at SPAR Klopperpark"
+        }
+      ]
+    },
+    {
+      "locator": "Kriel TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJwQOGi48D6x4RfDQufvX16KM",
+          "name": "TOPS at SPAR Kriel"
+        }
+      ]
+    },
+    {
+      "locator": "Kuruman TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJp8yWxST5nh4RHwwKwsN1ZxQ",
+          "name": "TOPS at SPAR Kuruman"
+        },
+        {
+          "id": "pending-ChIJPUU05Kj5nh4RYXAiqJdsAJw",
+          "name": "TOPS at SPAR Geolaine"
+        }
+      ]
+    },
+    {
+      "locator": "Ladybrand TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ3XOKYLXIjR4RqP1Hz02q17M",
+          "name": "TOPS at SPAR Ladybrand"
+        }
+      ]
+    },
+    {
+      "locator": "Langenhoven TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJUVJ--knbjx4RPjngGxyWbno",
+          "name": "TOPS AT SPAR"
+        }
+      ]
+    },
+    {
+      "locator": "Lanseria TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJZ_7YC3V4lR4RPEsyj13FxoY",
+          "name": "TOPS at SPAR Lanseria"
+        }
+      ]
+    },
+    {
+      "locator": "Magalies TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ0XgoxUvfvx4RyTfQg_6wRsU",
+          "name": "TOPS at SPAR Montana"
+        },
+        {
+          "id": "gplaces-ChIJw0fvBJELlR4R1vv2_mL1qE0",
+          "name": "TOPS at SPAR Magalies"
+        }
+      ]
+    },
+    {
+      "locator": "Mathambo TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJTUdwXuwblR4RF9_ZHrNObB0",
+          "name": "TOPS at SPAR Mathambo"
+        }
+      ]
+    },
+    {
+      "locator": "Meditas TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJzZvOPSLFjx4Rd3MfrajZzcU",
+          "name": "TOPS at SPAR Meditas"
+        }
+      ]
+    },
+    {
+      "locator": "Meiringspark TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJUbHMTwDxlh4R2TpMpzhrh1Y",
+          "name": "TOPS at SPAR Meiringspark"
+        }
+      ]
+    },
+    {
+      "locator": "Mini Market TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ2Q4rpU-xZh4RhidaeKOjVJ4",
+          "name": "TOPS at SPAR Nicks KWT 2"
+        },
+        {
+          "id": "gplaces-ChIJWSNipX9vlR4RquFm_5xIlYE",
+          "name": "TOPS at SPAR Mega"
+        },
+        {
+          "id": "gplaces-ChIJvXKdSXI9lR4RpdegGkBX_rg",
+          "name": "TOPS at SPAR The Market Benoni"
+        },
+        {
+          "id": "gplaces-ChIJ7yLRmA3l7h4RACGb--6GH_Q",
+          "name": "TOPS at SPAR Piet Retief"
+        }
+      ]
+    },
+    {
+      "locator": "Monument TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJH58Igxsbmx4REqf_Cpo0pHw",
+          "name": "TOPS at SPAR Trevenna Monument"
+        },
+        {
+          "id": "gplaces-ChIJX5EBRdMUlR4Rt4-vBQxM-Es",
+          "name": "TOPS at SPAR Glenacres"
+        },
+        {
+          "id": "gplaces-ChIJH_UUWbl7lR4RjQt3Y9D_jHQ",
+          "name": "TOPS at SPAR Mnandi"
+        },
+        {
+          "id": "gplaces-ChIJpUtZTDdhlR4R32NHKLofFVc",
+          "name": "TOPS at SPAR Monument Park"
+        }
+      ]
+    },
+    {
+      "locator": "Mooi Nooi TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJJwpfz7xdlR4RBgEwFJ3JI5Q",
+          "name": "TOPS at SPAR Mooikloof"
+        },
+        {
+          "id": "gplaces-ChIJcVbyYAPl8x4RgyIhM-y_MhM",
+          "name": "TOPS at SPAR Mooi River"
+        },
+        {
+          "id": "pending-ChIJyX2UZTgD6x4R-BNpkZNMwBE",
+          "name": "TOPS at SPAR Mooilaan"
+        },
+        {
+          "id": "pending-ChIJlxQRACEjvh4RiKZEIuCrV2M",
+          "name": "TOPS at SPAR Mooi Nooi"
+        }
+      ]
+    },
+    {
+      "locator": "Mooilaan TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJyX2UZTgD6x4R-BNpkZNMwBE",
+          "name": "TOPS at SPAR Mooilaan"
+        }
+      ]
+    },
+    {
+      "locator": "Ogies TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJVRZ9FMjp6h4RJedghKDWa4g",
+          "name": "TOPS Ogies"
+        }
+      ]
+    },
+    {
+      "locator": "Ouklip TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ68peqR6flR4RQJoJVPO7nSc",
+          "name": "TOPS at SPAR Ouklip"
+        }
+      ]
+    },
+    {
+      "locator": "Palm Court TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ4zckTOHhZh4RZlAFUE9ymCw",
+          "name": "TOPS at SPAR Lighthouse 1"
+        },
+        {
+          "id": "gplaces-ChIJr-g3fLXH8x4ROCmV51rCfqk",
+          "name": "TOPS at SPAR Estcourt"
+        },
+        {
+          "id": "gplaces-ChIJF2bnDAzZlx4RANf4B7IRh7U",
+          "name": "TOPS at SPAR Palm Sands"
+        },
+        {
+          "id": "gplaces-ChIJ2bnVHLtL6B4RJZgou3SLSVg",
+          "name": "TOPS at SPAR Courtside"
+        }
+      ]
+    },
+    {
+      "locator": "Palm Sands TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJF2bnDAzZlx4RANf4B7IRh7U",
+          "name": "TOPS at SPAR Palm Sands"
+        },
+        {
+          "id": "gplaces-ChIJj-dOgLt1lR4RdydSDODyunQ",
+          "name": "TOPS at SPAR Palm Court"
+        },
+        {
+          "id": "gplaces-ChIJYYQotPQWlR4Rp9S8oJLRUpA",
+          "name": "TOPS at SPAR The Palms"
+        },
+        {
+          "id": "wcla-042740",
+          "name": "TOPS at SPAR Palm Grove"
+        }
+      ]
+    },
+    {
+      "locator": "Parys TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ5xYO2nc-lB4RSzwkKlrSAxI",
+          "name": "TOPS at SPAR Parys"
+        }
+      ]
+    },
+    {
+      "locator": "Polo Fields TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJfdTemymfkR4R66mKq88FXiw",
+          "name": "TOPS at SPAR Goldfields"
+        },
+        {
+          "id": "gplaces-ChIJ92FfK8nZxh4RXJUgC6NrXpw",
+          "name": "TOPS at SPAR Platinum Park"
+        },
+        {
+          "id": "gplaces-ChIJe6MnujvYxh4Rqr4fe-60Boo",
+          "name": "TOPS at SPAR Limpopo"
+        },
+        {
+          "id": "gplaces-ChIJBXsIXcnZxh4R9FbPfeNwOU4",
+          "name": "TOPS at SPAR Polokwane"
+        }
+      ]
+    },
+    {
+      "locator": "Post Office TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ7Vz3A1bDnR4R2STr4RwXcfE",
+          "name": "TOPS at SPAR Postmasburg"
+        },
+        {
+          "id": "gplaces-ChIJizIB2z0jlR4RaYIJNwrB7FE",
+          "name": "TOPS at SPAR Post Office"
+        }
+      ]
+    },
+    {
+      "locator": "Postmasburg TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ7Vz3A1bDnR4R2STr4RwXcfE",
+          "name": "TOPS at SPAR Postmasburg"
+        }
+      ]
+    },
+    {
+      "locator": "Potch TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ7_gXkkSBlh4RGQeSLIeKA1E",
+          "name": "TOPS at SPAR Die Akker"
+        },
+        {
+          "id": "gplaces-ChIJl9lGDBGBlh4RmjU6yQpfnSI",
+          "name": "TOPS at SPAR Baillie Park"
+        },
+        {
+          "id": "gplaces-ChIJccqyVmCBlh4RuxVgUQ2IOpM",
+          "name": "TOPS at SPAR Vyfhoek"
+        },
+        {
+          "id": "gplaces-ChIJ2wfKs5WBlh4RR9xz1wCca9o",
+          "name": "TOPS at SPAR Potch"
+        }
+      ]
+    },
+    {
+      "locator": "Potchefstroom TOPS (Die Akker TOPS )",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ7_gXkkSBlh4RGQeSLIeKA1E",
+          "name": "TOPS at SPAR Die Akker"
+        }
+      ]
+    },
+    {
+      "locator": "Preller TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJj-1gsb3bjx4RaswtX7gZNe0",
+          "name": "TOPS at SPAR Preller Plein"
+        }
+      ]
+    },
+    {
+      "locator": "Prieska TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJMTYLJeKtgh4Rd4B7wK5Je74",
+          "name": "TOPS at SPAR Prieska"
+        }
+      ]
+    },
+    {
+      "locator": "Randgate TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJR-3X6TOWlR4RqVqfhgbcj_w",
+          "name": "TOPS at SPAR Randgate"
+        }
+      ]
+    },
+    {
+      "locator": "Rant En Dal TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJtd4_1-BfzB0RRzAJU95GeCQ",
+          "name": "TOPS at SPAR Sunningdale"
+        },
+        {
+          "id": "gplaces-ChIJA9y2lJthMRwR4WFN4vkXW2s",
+          "name": "TOPS at SPAR Vredendal"
+        },
+        {
+          "id": "gplaces-ChIJ_XMOAhap9h4ROp_PKCspLkY",
+          "name": "TOPS at SPAR Greendale"
+        },
+        {
+          "id": "gplaces-ChIJP_Y7_K_2lh4RrzaYowmnRhw",
+          "name": "TOPS at SPAR Doringkruin"
+        }
+      ]
+    },
+    {
+      "locator": "Reitz TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJ0Sste_3Ykh4RCleTG53FKlE",
+          "name": "TOPS at SPAR Reitz"
+        }
+      ]
+    },
+    {
+      "locator": "Rensburg TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJcZPRkYvclB4Rgor0zFau64E",
+          "name": "TOPS at SPAR Rensburg"
+        }
+      ]
+    },
+    {
+      "locator": "Retail Crossing TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJg87eyVpL6B4RM6pZuDhAJ8A",
+          "name": "TOPS at SPAR Crossing"
+        },
+        {
+          "id": "gplaces-ChIJU84PwOjZxh4RtwF4WIUyXB4",
+          "name": "TOPS at R71"
+        },
+        {
+          "id": "gplaces-ChIJ5WK1OLmflR4R65u7Vo9_V3k",
+          "name": "TOPS at SPAR Retail Crossing"
+        },
+        {
+          "id": "gplaces-ChIJMZ1UN3VzlR4Rx8J7u-keFcs",
+          "name": "TOPS at SPAR Rivonia Crossing"
+        }
+      ]
+    },
+    {
+      "locator": "Ridgeway Gardens TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ35F61nFnzB0RIIPNJt7Ec6Q",
+          "name": "TOPS at SPAR Kloof"
+        },
+        {
+          "id": "gplaces-ChIJN7p3UHvKzR0Rh_vZWah-WHY",
+          "name": "TOPS at SPAR Vergelegen"
+        },
+        {
+          "id": "gplaces-ChIJIfZ4VRkJvh4RRVX_y3A3j80",
+          "name": "TOPS at SPAR Safari"
+        },
+        {
+          "id": "gplaces-ChIJ00ZC7cZ2lR4R_kjKA1GPyrg",
+          "name": "TOPS at SPAR Fourways Gardens"
+        }
+      ]
+    },
+    {
+      "locator": "Riverview TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ9Yk3dABZlB4RDKxDildP3eo",
+          "name": "TOPS at SPAR Riverview"
+        }
+      ]
+    },
+    {
+      "locator": "Robert Broom TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ18tqEj5p0h0Ry-kYE-uscu0",
+          "name": "TOPS at SPAR Robertson"
+        },
+        {
+          "id": "gplaces-ChIJVY73CjiTfR4R0AWnoOsl3Rc",
+          "name": "TOPS at SPAR Camdeboo"
+        },
+        {
+          "id": "gplaces-ChIJt7burDGTfR4Rzs87Uq-_9_s",
+          "name": "TOPS at SPAR Spandau"
+        },
+        {
+          "id": "gplaces-ChIJ0RPom4OZlR4RpFq0YbqQPZU",
+          "name": "TOPS at SPAR Robert Broom"
+        }
+      ]
+    },
+    {
+      "locator": "Robindale TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJb-lTEPV1lR4RyCwKQ7GYS_M",
+          "name": "TOPS at SPAR Robindale"
+        }
+      ]
+    },
+    {
+      "locator": "Roosville TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJNTxrv-Tylx4R-Dg3ipw2g_0",
+          "name": "TOPS at SPAR Roosville"
+        }
+      ]
+    },
+    {
+      "locator": "Rustenburg TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJTy2hYGYJvh4RWotZTdunV5g",
+          "name": "TOPS at SPAR Rustenburg"
+        },
+        {
+          "id": "gplaces-ChIJIfZ4VRkJvh4RRVX_y3A3j80",
+          "name": "TOPS at SPAR Safari"
+        },
+        {
+          "id": "gplaces-ChIJ36XvHE4Kvh4R_f_I5ny1gqQ",
+          "name": "TOPS at SPAR Foro"
+        },
+        {
+          "id": "gplaces-ChIJEeT_pGqZlR4RH327wBhp4HQ",
+          "name": "TOPS at SPAR Delta"
+        }
+      ]
+    },
+    {
+      "locator": "Santinhos TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJV_EU93iwlh4RvohpFmxokiI",
+          "name": "TOPS at SPAR Santinhos"
+        }
+      ]
+    },
+    {
+      "locator": "Sasolburg TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJzfiwx1ZflB4RI7Mc59tgKZw",
+          "name": "TOPS at SPAR Zios"
+        },
+        {
+          "id": "gplaces-ChIJ7XSNQH9dlB4R2AiqHy8yewg",
+          "name": "TOPS at SPAR Sasolburg Boulevard"
+        },
+        {
+          "id": "gplaces-ChIJ8VWRLABflB4R3UrONvTD-MA",
+          "name": "TOPS AT SPAR VAALPARK"
+        }
+      ]
+    },
+    {
+      "locator": "Saveways TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJY06hMEnz6h4Ri9O2b4_9HCs",
+          "name": "TOPS at SPAR Saveways"
+        }
+      ]
+    },
+    {
+      "locator": "Schweizer reneke TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJNff-Em_HmR4Ri1_KHQGhiCg",
+          "name": "TOPS at SPAR Schweizer"
+        }
+      ]
+    },
+    {
+      "locator": "Secunda TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJu7hP1ZAS6x4R8nCyyoslNFI",
+          "name": "TOPS at SPAR Five Star"
+        },
+        {
+          "id": "gplaces-ChIJVTZkqFQS6x4RogoPIBCG_uE",
+          "name": "TOPS at SPAR Secunda"
+        }
+      ]
+    },
+    {
+      "locator": "Simunye TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJB9SlLqJrkh4Rz30ylkdsZIk",
+          "name": "TOPS at SPAR Simunye"
+        }
+      ]
+    },
+    {
+      "locator": "Southern TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJnQb-eleozR0RCIXSJuEoSI8",
+          "name": "TOPS at SPAR The Vineyard"
+        },
+        {
+          "id": "gplaces-ChIJw0bvZsnhZh4RCGoBpnArkqg",
+          "name": "TOPS at SPAR Southernwood"
+        },
+        {
+          "id": "gplaces-ChIJF-aRnPwQlR4ROwI3DbSiOVw",
+          "name": "TOPS at SPAR Southern"
+        },
+        {
+          "id": "gplaces-ChIJ3aswIsmXlR4R7hpJWJIMbec",
+          "name": "TOPS at SPAR Greenhills"
+        }
+      ]
+    },
+    {
+      "locator": "Spartan TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJe3wC1Cq9kh4RFsHPqLoIpns",
+          "name": "TOPS at SPAR Spartan"
+        }
+      ]
+    },
+    {
+      "locator": "Springbok TOPS (SR)",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJmcbk_ZyCORwROVbG3Cof4XY",
+          "name": "TOPS at SPAR Springbok"
+        },
+        {
+          "id": "gplaces-ChIJYWj-OexklR4R6eoxSMY8Wmg",
+          "name": "TOPS at SPAR Swanees"
+        },
+        {
+          "id": "gplaces-ChIJD0Mi-QkllR4RQZ-afVGz2Uk",
+          "name": "TOPS at SPAR Springbok Springs"
+        },
+        {
+          "id": "gplaces-ChIJv7Ql2ZLz6h4R9jEoTS_JbOc",
+          "name": "TOPS at SPAR Tasbet"
+        }
+      ]
+    },
+    {
+      "locator": "St Michaels TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ5-e5nOjulh4R6SHXB6PWg0A",
+          "name": "TOPS at SPAR St Michaels"
+        }
+      ]
+    },
+    {
+      "locator": "Stephenson Street TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ35F61nFnzB0RIIPNJt7Ec6Q",
+          "name": "TOPS at SPAR Kloof"
+        },
+        {
+          "id": "gplaces-ChIJj-OUoyBnzB0RFNIEmKspnFc",
+          "name": "Tops Cape Station"
+        },
+        {
+          "id": "gplaces-ChIJgwPuNQddzB0RQQtMDCREPHM",
+          "name": "TOPS at SPAR Vredehoek"
+        },
+        {
+          "id": "gplaces-ChIJ44sTBVxazB0RHilw9vf1IbI",
+          "name": "TOPS at SPAR Century (Parow)"
+        }
+      ]
+    },
+    {
+      "locator": "Stop N Go TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJpclC3poVlR4Rb5wtm-5-O8g",
+          "name": "TOPS at SPAR Stop N Go"
+        }
+      ]
+    },
+    {
+      "locator": "Sylvania TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJRzmC01UMkR4RcEwzmK6NR9U",
+          "name": "TOPS at SPAR Sylvania"
+        }
+      ]
+    },
+    {
+      "locator": "Tasbet TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJv7Ql2ZLz6h4R9jEoTS_JbOc",
+          "name": "TOPS at SPAR Tasbet"
+        }
+      ]
+    },
+    {
+      "locator": "The Angelo TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJvVR7qJAHzR0RkSG8MRLa4Ik",
+          "name": "TOPS at SPAR Noorder Paarl"
+        },
+        {
+          "id": "gplaces-ChIJnQb-eleozR0RCIXSJuEoSI8",
+          "name": "TOPS at SPAR The Vineyard"
+        },
+        {
+          "id": "gplaces-ChIJWZ5qdhPnzB0RbS-sG5L88n0",
+          "name": "TOPS at SPAR The Bank"
+        }
+      ]
+    },
+    {
+      "locator": "The Falls TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJvVR7qJAHzR0RkSG8MRLa4Ik",
+          "name": "TOPS at SPAR Noorder Paarl"
+        },
+        {
+          "id": "gplaces-ChIJnQb-eleozR0RCIXSJuEoSI8",
+          "name": "TOPS at SPAR The Vineyard"
+        },
+        {
+          "id": "gplaces-ChIJWZ5qdhPnzB0RbS-sG5L88n0",
+          "name": "TOPS at SPAR The Bank"
+        }
+      ]
+    },
+    {
+      "locator": "The Palms TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJvVR7qJAHzR0RkSG8MRLa4Ik",
+          "name": "TOPS at SPAR Noorder Paarl"
+        },
+        {
+          "id": "gplaces-ChIJnQb-eleozR0RCIXSJuEoSI8",
+          "name": "TOPS at SPAR The Vineyard"
+        },
+        {
+          "id": "gplaces-ChIJWZ5qdhPnzB0RbS-sG5L88n0",
+          "name": "TOPS at SPAR The Bank"
+        }
+      ]
+    },
+    {
+      "locator": "The Square TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJPRtZ5YKtzR0RgSxUwrjglxo",
+          "name": "TOPS at SPAR Stone Square"
+        },
+        {
+          "id": "gplaces-ChIJ41i2XgB5zR0RaPQoMLZXll0",
+          "name": "TOPS AT Q SQUARE"
+        },
+        {
+          "id": "gplaces-ChIJvVR7qJAHzR0RkSG8MRLa4Ik",
+          "name": "TOPS at SPAR Noorder Paarl"
+        }
+      ]
+    },
+    {
+      "locator": "The Wedge TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJvVR7qJAHzR0RkSG8MRLa4Ik",
+          "name": "TOPS at SPAR Noorder Paarl"
+        },
+        {
+          "id": "gplaces-ChIJnQb-eleozR0RCIXSJuEoSI8",
+          "name": "TOPS at SPAR The Vineyard"
+        },
+        {
+          "id": "gplaces-ChIJWZ5qdhPnzB0RbS-sG5L88n0",
+          "name": "TOPS at SPAR The Bank"
+        }
+      ]
+    },
+    {
+      "locator": "The Zone TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJsbUL62pfzB0R_bTd30DylsM",
+          "name": "TOPS at SPAR Parklands"
+        },
+        {
+          "id": "gplaces-ChIJvVR7qJAHzR0RkSG8MRLa4Ik",
+          "name": "TOPS at SPAR Noorder Paarl"
+        },
+        {
+          "id": "gplaces-ChIJnQb-eleozR0RCIXSJuEoSI8",
+          "name": "TOPS at SPAR The Vineyard"
+        },
+        {
+          "id": "gplaces-ChIJWZ5qdhPnzB0RbS-sG5L88n0",
+          "name": "TOPS at SPAR The Bank"
+        }
+      ]
+    },
+    {
+      "locator": "Tuscany TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJcwXG8R4Jvh4Rt15kXUNaAeQ",
+          "name": "TOPS at SPAR Tuscany"
+        }
+      ]
+    },
+    {
+      "locator": "Vaalpark TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJ8VWRLABflB4R3UrONvTD-MA",
+          "name": "TOPS AT SPAR VAALPARK"
+        }
+      ]
+    },
+    {
+      "locator": "Ventersburg TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJlX6XavCAkR4R_oZjvRZVm9A",
+          "name": "TOPS at SPAR Ventersburg"
+        }
+      ]
+    },
+    {
+      "locator": "Volksrust TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJt4ycI44z7B4R5P-P0Cs3RlI",
+          "name": "TOPS at SPAR Volksrust"
+        }
+      ]
+    },
+    {
+      "locator": "Vryburg TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJW4gaRm37mB4RqiOAr81dcpA",
+          "name": "TOPS at SPAR Vryburg"
+        },
+        {
+          "id": "gplaces-ChIJLX24vFpZzB0Rdf1WP5ZC3MY",
+          "name": "TOPS at SPAR Cedar"
+        }
+      ]
+    },
+    {
+      "locator": "Vyfhoek TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJccqyVmCBlh4RuxVgUQ2IOpM",
+          "name": "TOPS at SPAR Vyfhoek"
+        }
+      ]
+    },
+    {
+      "locator": "Warrenton TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJYzEQUUXLmx4Rac6Wa8QW5HQ",
+          "name": "TOPS at SPAR Warrenton"
+        }
+      ]
+    },
+    {
+      "locator": "Wesselsbron TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "pending-ChIJA99RR4XhkB4R9klgsRN8s6E",
+          "name": "TOPS at SPAR Wesselsbron"
+        }
+      ]
+    },
+    {
+      "locator": "Westwood TOPS",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJFYLOwjYWlR4R2h2r_H8t90w",
+          "name": "TOPS at SPAR Westwood"
+        }
+      ]
+    },
+    {
+      "locator": "Zio Liquor Contract",
+      "brand": "tops",
+      "existing": [
+        {
+          "id": "gplaces-ChIJzfiwx1ZflB4RI7Mc59tgKZw",
+          "name": "TOPS at SPAR Zios"
+        }
+      ]
+    }
+  ],
+  "unmatched": [
+    {
+      "locator": "Arnot TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Belladonna TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Diphagane TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Golden Dividend SAVEMOR Liquors",
+      "brand": "tops"
+    },
+    {
+      "locator": "KrugerPark TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Matata TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Moratiwa TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Naas TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Shikhumba TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Ximhungwe TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Alldays SAVEMOR LIQUOR",
+      "brand": "tops"
+    },
+    {
+      "locator": "Aqua TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Bynes SAVEMOR Liquors",
+      "brand": "tops"
+    },
+    {
+      "locator": "Dendron TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Firefly TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Mmametlhake SAVEMOR LIQUOR",
+      "brand": "tops"
+    },
+    {
+      "locator": "Mutsindo TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Saselamani TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Setaria TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Aljos TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Bothville TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Bromhof TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Clarens Liquor",
+      "brand": "tops"
+    },
+    {
+      "locator": "Decanter Liquor Boutique",
+      "brand": "tops"
+    },
+    {
+      "locator": "Macys TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Mcleans TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "Northpoint TOPS",
+      "brand": "tops"
+    },
+    {
+      "locator": "One Stop Edleen TOPS",
+      "brand": "tops"
+    }
+  ],
+  "rejectedOutOfProvince": [
+    {
+      "locator": "Ezulwini TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Fresh @ BigBend TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Fresh @ Moneni TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Manzini TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Matsapha TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Mbabane TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Mpaka Savemor Liquor",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Nkonyeni TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Piggs Peak TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Arcadia TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Atterbury TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Atteridgeville TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Barclay Square TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Bloedstreet TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Bon Accord TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Bronberg SAVEMOR LIQUOR",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Celtis Ridge TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Centurion TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Clayville Tops",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Clubview TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Cullinan TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Danville TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Dely Road TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Denlyn TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Doornpoort TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "East Lynne TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Ebony Park TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Elardus Park Tops",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Equestria TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Glenfair Tops",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Hebron Tops",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Hennops TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Hercules TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Jean Avenue TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Jubilee TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Karen Park TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Kilner Park TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Lenchen TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Les Marais TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Lynnwood Lane Tops",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Mams Mall TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Menlo Tops",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Menlyn Maine Tops",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Midstream Ridge TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Midstream TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Monument Park TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Mooikloof TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Moreleta TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Murrayfield TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Nina park TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Noordwyk TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Old Farm TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Queenswood TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Randjes Park TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Rietfontein TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Roodeplaat TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Rosslyn TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Ryneveld TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Sable Hills TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Saxby TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Silver Oaks TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Silverton TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Soshanguve Crossing TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Soshanguve TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Stinkwater TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Tembisa TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "The Reeds TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Valhalla TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Van der Hoff SAVEMOR LIQUOR",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Wapadrand TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Waterkloof TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Wierda TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Willow Way TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Wonderboom Junction TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Woodhill TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Zambezi TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Zeederberg TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Bedfordview TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Benoni TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Bertrams TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Blackheath TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Boksburg TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Buccleuch TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Carlswald TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Craighall Park TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Dowerglen TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Eagle Canyon TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Evaton TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Fairlands TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Ferndale TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Florida Junction TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Florida Market TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Four Way Blackwood TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Glen Acres TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Greenhills TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Homestead TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Kathorus TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Katlehong TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Kibler Park TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Leondale TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Lyndhurst TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Malvern TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Melville TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Meyersdal TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Meyerton TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Midrand TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Norkempark TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Northcliff TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Northwold TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Olivedale TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Parkmore TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Parkrand TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Pineslopes TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Primrose TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Radiokop TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Randfontein TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Randpark Ridge TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Ruimsig TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Rynfield Square TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Sandringham TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Sebokeng TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Selcourt TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Stretford TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Strubensvalley TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Sunninghill TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Sunward Park TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Super A Norwood TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Tsakane Mall TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Vorna Valley TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Walkerville TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Witfield TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Wonderpark TOPS",
+      "reason": "SPAR list bleed — outside five-province pass"
+    },
+    {
+      "locator": "Xavier (Gold Reef TOPS)",
+      "reason": "SPAR list bleed — outside five-province pass"
+    }
+  ]
+}

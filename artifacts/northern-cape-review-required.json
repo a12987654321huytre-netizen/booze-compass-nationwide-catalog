@@ -1,0 +1,319 @@
+[
+  {
+    "googlePlaceId": "ChIJq_R1qY6fmx4RzXym2chGdCw",
+    "name": "LIQUOR STORE",
+    "address": "South Africa",
+    "latitude": -28.5378045,
+    "longitude": 24.5178774,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "generic name only",
+    "queryId": "nb-barkly-west",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Northern Cape",
+    "district": "Frances Baard",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJpSDR6Nihmx4RNHyJh8OPikk",
+    "name": "BAPI BOTTOL STOR",
+    "address": "23 Campbell Street, Barkly West",
+    "latitude": -28.537908,
+    "longitude": 24.5276282,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-barkly-west",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Northern Cape",
+    "district": "Frances Baard",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJt-Xw1u_Lmx4RRLzBWxRaMGc",
+    "name": "VW's Liquor Store and Club Vegas",
+    "address": "VVW9+HC, Warrenton, 8530, South Africa",
+    "latitude": -28.1036584,
+    "longitude": 24.868506,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-warrenton",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Northern Cape",
+    "district": "Frances Baard",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJq4J8_6Mbnh4RBxZoe2G5KEY",
+    "name": "Dezzo trading 68 cc",
+    "address": "Welgelee, Jan fredericks street, Olifantshoek",
+    "latitude": -27.9402831,
+    "longitude": 22.7410877,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-olifantshoek",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Northern Cape",
+    "district": "John Taolo Gaetsewe",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJt7Jl4Sb5nh4RXo9Nu-K5WOQ",
+    "name": "Extreme Liquor Store",
+    "address": "South Africa",
+    "latitude": -27.45947229999999,
+    "longitude": 23.43320809999999,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-kuruman",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Northern Cape",
+    "district": "John Taolo Gaetsewe",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJq5pAPCH5nh4RXefPsVKIk28",
+    "name": "GRAND Liquor",
+    "address": "South Africa",
+    "latitude": -27.4621697,
+    "longitude": 23.4339811,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-kuruman",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Northern Cape",
+    "district": "John Taolo Gaetsewe",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJJ-NwZJkbJBwRNbJAzAVvMvs",
+    "name": "Keimoes",
+    "address": "Keimoes, 8860, South Africa",
+    "latitude": -28.7114028,
+    "longitude": 20.9800042,
+    "types": [
+      "establishment",
+      "liquor_store",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "tx-liquor-keimoes",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Northern Cape",
+    "district": "ZF Mgcawu",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJA9Nrw8zwOBwRSWICS8rficc",
+    "name": "Kleinzee Grocer",
+    "address": "Kleinsee",
+    "latitude": -29.6799168,
+    "longitude": 17.0696395,
+    "types": [
+      "supermarket",
+      "liquor_store",
+      "grocery_or_supermarket",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "weak / country-only address",
+    "queryId": "nb-kleinzee",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Northern Cape",
+    "district": "Namakwa",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJGRs5HHuOKRwRLdpCANd05PU",
+    "name": "Carnarvon Groothandel Drank Maatskappy",
+    "address": "25 Alheit Street, Carnarvon",
+    "latitude": -30.9666314,
+    "longitude": 22.12993179999999,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-carnarvon-nc",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Northern Cape",
+    "district": "Pixley ka Seme",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJIUVxBtBegx4R8swfXL9MNX0",
+    "name": "O.R. Liquorland",
+    "address": "South Africa",
+    "latitude": -29.6221468,
+    "longitude": 24.0834748,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "country-only address without chain evidence",
+    "queryId": "nb-hopetown",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Northern Cape",
+    "district": "Pixley ka Seme",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJY_Flu6FjmR4RgyD7GRVXNTs",
+    "name": "Road house",
+    "address": "Main road Lowermajeakgoro, Pampierstad",
+    "latitude": -27.7763065,
+    "longitude": 24.6608562,
+    "types": [
+      "liquor_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "reason": "liquor_store type but weak/unclear name",
+    "queryId": "nb-pampierstad",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Northern Cape",
+    "district": "Frances Baard",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJn7bdQ9CsJhwRR9VkmaQzNCk",
+    "name": "Empolweni Drankwinkel",
+    "address": "Updustria, 71 King St, Paballelo, Upington, 8800, South Africa",
+    "latitude": -28.4351167,
+    "longitude": 21.2087755,
+    "types": [
+      "bar",
+      "establishment",
+      "point_of_interest"
+    ],
+    "reason": "bar type with dedicated liquor name",
+    "queryId": "tx-liquor-upington-pabalelo",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Northern Cape",
+    "district": "ZF Mgcawu",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "googlePlaceId": "ChIJl6GjrW4Zmx4Rz-yaHBtFJcw",
+    "name": "Lancia One Stop Shop & Liquor",
+    "address": "5QMR+79, Alexandersfontein Hotel, South Africa",
+    "latitude": -28.8167578,
+    "longitude": 24.7909736,
+    "types": [
+      "establishment",
+      "point_of_interest",
+      "store"
+    ],
+    "reason": "dedicated name but weak address without liquor_store type",
+    "queryId": "tx-liquor-modder-river",
+    "businessStatus": "OPERATIONAL",
+    "assignedProvince": "Northern Cape",
+    "district": "Frances Baard",
+    "matchClass": "REVIEW_REQUIRED"
+  },
+  {
+    "name": "Kagung Liquor Store",
+    "osmId": "node/8634512181",
+    "latitude": -27.4291667,
+    "longitude": 23.5661495,
+    "address": null,
+    "assignedProvince": "Northern Cape",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Motribi Bottle Store",
+    "osmId": "node/8711752796",
+    "latitude": -27.3985984,
+    "longitude": 23.4831345,
+    "address": null,
+    "assignedProvince": "Northern Cape",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Kakamas Drankwinkel",
+    "osmId": "node/1319226455",
+    "latitude": -28.7759937,
+    "longitude": 20.6215338,
+    "address": null,
+    "assignedProvince": "Northern Cape",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Venotec Liquor Distributors",
+    "osmId": "node/10096029540",
+    "latitude": -30.6487623,
+    "longitude": 24.0116443,
+    "address": "9, McIvor Street, De Aar",
+    "assignedProvince": "Northern Cape",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Drankwinkel Roux",
+    "osmId": "node/1272153122",
+    "latitude": -30.2101092,
+    "longitude": 17.9335785,
+    "address": null,
+    "assignedProvince": "Northern Cape",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Auret se Drankwinkel",
+    "osmId": "node/1279332359",
+    "latitude": -30.3170505,
+    "longitude": 17.2752595,
+    "address": null,
+    "assignedProvince": "Northern Cape",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  },
+  {
+    "name": "Kleinzee Liquor",
+    "osmId": "node/3419897065",
+    "latitude": -29.6798676,
+    "longitude": 17.0696823,
+    "address": null,
+    "assignedProvince": "Northern Cape",
+    "matchClass": "REVIEW_REQUIRED",
+    "reason": "OSM dedicated name not auto-added (no Google pin / identity lock)"
+  }
+]
