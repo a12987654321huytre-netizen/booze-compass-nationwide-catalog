@@ -16,6 +16,7 @@ const NEW_POIS: { id: string; name: string; address?: string }[] = JSON.parse(
 ).pois;
 const REJECTED: { name?: string }[] = JSON.parse(readFileSync(resolve(ART, 'kzn-rejected.json'), 'utf8'));
 const SA5_NEW: { id: string }[] = JSON.parse(readFileSync(resolve(ART, 'sa5-new-pois.json'), 'utf8')).pois;
+const MER_NEW: { id: string }[] = JSON.parse(readFileSync(resolve(ART, 'mer-new-pois.json'), 'utf8')).pois;
 
 describe('KZN saturation — zero deletion', () => {
   it('keeps every pre-pass POI id and only grows by the new KZN ids', () => {
@@ -31,7 +32,7 @@ describe('KZN saturation — zero deletion', () => {
       'kzn-pass'
     );
     expect(NEW_POIS.every((poi) => after.has(poi.id))).toBe(true);
-    expect(catalog.length).toBe(SNAPSHOT.length + NEW_POIS.length + SA5_NEW.length);
+    expect(catalog.length).toBe(SNAPSHOT.length + NEW_POIS.length + SA5_NEW.length + MER_NEW.length);
     expect(NEW_POIS).toHaveLength(315);
   });
 });
@@ -142,7 +143,7 @@ describe('KZN saturation — source failure cannot delete', () => {
     const beforeGoogle = SNAPSHOT.filter((id) => id.startsWith('gplaces-'));
     expect(beforeGoogle.every((id) => googleIds.includes(id))).toBe(true);
     expect(NEW_POIS.every((poi) => googleIds.includes(poi.id))).toBe(true);
-    expect(googleIds).toHaveLength(beforeGoogle.length + NEW_POIS.length + SA5_NEW.length);
+    expect(googleIds).toHaveLength(beforeGoogle.length + NEW_POIS.length + SA5_NEW.length + MER_NEW.length);
     expect((googlePlacesFile as { pois: unknown[] }).pois).toHaveLength(googleIds.length);
   });
 });

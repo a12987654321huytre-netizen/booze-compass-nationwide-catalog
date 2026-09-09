@@ -1,0 +1,94 @@
+[
+  {
+    "licenceNo": "9-2-1-05216",
+    "holder": "SIBUSISO ISAAC MKHOZA",
+    "tradingName": "Vezubuhle Liquor Store",
+    "status": "Licenced to 31 Jan 2027",
+    "area": "KwaMhlanga",
+    "type": "The Retail Sale of Liquor for Consumption Off the Premises where Liquor is Sold",
+    "class": "REJECTED",
+    "reason": "hospitality / tavern in Google name — not a dedicated bottle store",
+    "origin": "geocode-new"
+  },
+  {
+    "licenceNo": "9-2-1-07670",
+    "holder": "PL CAPITAL (PTY) LTD",
+    "tradingName": "Hectorspruit Bottle Store",
+    "status": "Licenced to 30 Apr 2026",
+    "area": "Emjejane",
+    "type": "The Retail Sale of Liquor for Consumption Off the Premises where Liquor is Sold",
+    "class": "REJECTED",
+    "reason": "mixed butcher/deli + liquor — not auto-added",
+    "origin": "geocode-new"
+  },
+  {
+    "licenceNo": "9-2-1-03851",
+    "holder": "THOMAS SIKHOSANA",
+    "tradingName": "Magalela Liquor Store",
+    "status": "Licenced to 30 Jun 2027",
+    "area": "Embalenhle",
+    "type": "The Retail Sale of Liquor for Consumption Off the Premises where Liquor is Sold",
+    "class": "REJECTED",
+    "reason": "distributor / wholesale — not a walk-in bottle store",
+    "origin": "geocode-new"
+  },
+  {
+    "licenceNo": "9-2-1-11782",
+    "holder": "Oscar Simon Maute",
+    "tradingName": "Two Soul Liquor Store",
+    "status": "Licenced to 31 Oct 2026",
+    "area": "Embalenhle",
+    "type": "The Retail Sale of Liquor for Consumption Off the Premises where Liquor is Sold",
+    "class": "REJECTED",
+    "reason": "distributor / wholesale — not a walk-in bottle store",
+    "origin": "geocode-new"
+  },
+  {
+    "licenceNo": "9-2-1-01397",
+    "type": "The Retail Sale of Liquor for Consumption Off the Premises where Liquor is Sold",
+    "holder": "WELILE JOHN  MALWANE",
+    "customerRef": "MWJ001",
+    "tradingName": "Malwane Liquor Store",
+    "status": "Licenced to 30 Apr 2027",
+    "area": "Kamaqhekeza",
+    "class": "REJECTED",
+    "reason": "Google typed restaurant/food, not liquor_store",
+    "origin": "pregeo"
+  },
+  {
+    "licenceNo": "9-2-1-00421",
+    "type": "The Retail Sale of Liquor for Consumption Off the Premises where Liquor is Sold",
+    "holder": "LUKIMBI SAFARI LODGE (PTY) LTD",
+    "customerRef": "XLS005",
+    "tradingName": "Lukimbi Safari Lodge Wine Cellar",
+    "status": "Licenced to 28 Feb 2027",
+    "area": "Kruger National Park",
+    "class": "REJECTED",
+    "reason": "wine farm / lodge / hotel drankwinkel — hospitality, not a bottle store",
+    "origin": "skip-wine-lodge"
+  },
+  {
+    "licenceNo": "9-2-1-00988",
+    "type": "The Retail Sale of Liquor for Consumption Off the Premises where Liquor is Sold",
+    "holder": "FORVER RESORTS (PTY) LTD",
+    "customerRef": "XFR005",
+    "tradingName": "Forever Resort Aventura Loskopdam Drankwinkel",
+    "status": "Licenced to 28 Feb 2027",
+    "area": "Middelburg",
+    "class": "REJECTED",
+    "reason": "wine farm / lodge / hotel drankwinkel — hospitality, not a bottle store",
+    "origin": "skip-wine-lodge"
+  },
+  {
+    "licenceNo": "9-2-1-04781",
+    "type": "The Retail Sale of Liquor for Consumption Off the Premises where Liquor is Sold",
+    "holder": "FOREVER RESORTS AVENTURA (PTY) LTD",
+    "customerRef": "XVT002",
+    "tradingName": "Badplaas Hotel Drankwinkel",
+    "status": "Licenced to 31 Jan 2027",
+    "area": "Badplaas",
+    "class": "REJECTED",
+    "reason": "wine farm / lodge / hotel drankwinkel — hospitality, not a bottle store",
+    "origin": "skip-wine-lodge"
+  }
+]

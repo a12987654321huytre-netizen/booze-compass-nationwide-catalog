@@ -15,6 +15,7 @@ const NEW_POIS: { id: string; name: string; address?: string; province?: string 
   readFileSync(resolve(ART, 'sa5-new-pois.json'), 'utf8')
 ).pois;
 const REJECTED: { name?: string }[] = JSON.parse(readFileSync(resolve(ART, 'sa5-rejected.json'), 'utf8'));
+const MER_NEW: { id: string }[] = JSON.parse(readFileSync(resolve(ART, 'mer-new-pois.json'), 'utf8')).pois;
 
 describe('Remaining-provinces saturation — zero deletion', () => {
   it('keeps every pre-pass POI id and only grows by the new FS/LP/MP/NC/NW ids', () => {
@@ -30,7 +31,7 @@ describe('Remaining-provinces saturation — zero deletion', () => {
       'sa5-pass'
     );
     expect(NEW_POIS.every((poi) => after.has(poi.id))).toBe(true);
-    expect(catalog.length).toBe(SNAPSHOT.length + NEW_POIS.length);
+    expect(catalog.length).toBe(SNAPSHOT.length + NEW_POIS.length + MER_NEW.length);
     expect(NEW_POIS).toHaveLength(562);
   });
 });
@@ -180,7 +181,7 @@ describe('Remaining-provinces saturation — source failure cannot delete', () =
     const beforeGoogle = SNAPSHOT.filter((id) => id.startsWith('gplaces-'));
     expect(beforeGoogle.every((id) => googleIds.includes(id))).toBe(true);
     expect(NEW_POIS.every((poi) => googleIds.includes(poi.id))).toBe(true);
-    expect(googleIds).toHaveLength(beforeGoogle.length + NEW_POIS.length);
+    expect(googleIds).toHaveLength(beforeGoogle.length + NEW_POIS.length + MER_NEW.length);
     expect((googlePlacesFile as { pois: unknown[] }).pois).toHaveLength(googleIds.length);
   });
 });

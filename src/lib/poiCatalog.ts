@@ -56,6 +56,11 @@ export type CatalogPoi = {
   wclaLicenceNo?: string;
   wclaLicenceHolder?: string;
   wclaHolderType?: string;
+  /** Backend-only MER licence fields. Never copied onto LiquorStore.name. */
+  merLicenceNo?: string;
+  merLicenceHolder?: string;
+  merTradingName?: string;
+  merStatus?: string;
 };
 
 export type PoiEnrichment = {

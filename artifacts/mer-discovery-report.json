@@ -1,0 +1,185 @@
+{
+  "province": "Mpumalanga",
+  "source": "https://meronline.org.za/license-search",
+  "pulledAt": "2026-09-09T14:24:00Z",
+  "officialDataFound": true,
+  "merProvincialLiquorRegisterAccessible": true,
+  "merRecordsSearched": 9648,
+  "merRecordsSearchedProcessed": 9648,
+  "officialRecordsProcessed": 9648,
+  "officialNote": "MEROnline Public User login succeeded. Display All returned 9,648 licences already loaded client-side in DataTables (no street/coords). Current dedicated off-premise names were matched by trading name + area, then unmatched rows were geocoded via Google Places. NEW pins require a liquor_store or dedicated-name place inside the Mpumalanga bbox. Town-centroid-only rows were not added. Holder names are never map names.",
+  "dedicatedOffCurrent": 1141,
+  "matchedExistingNameArea": 211,
+  "reviewNameArea": 206,
+  "unmatchedDedicated": 917,
+  "rejectedRegister": 8314,
+  "rejectedReasons": {
+    "REJECT_NOT_OFF": 6210,
+    "REJECT_SUPERMARKET": 102,
+    "REJECT_NOT_CURRENT": 338,
+    "REJECT_ONOFF": 822,
+    "REJECT_TYPE": 833,
+    "REJECT_WHOLESALE": 6,
+    "REJECT_HOSP": 3
+  },
+  "googleGeocodeNeed": 862,
+  "googleGeocodeNewRaw": 65,
+  "googleGeocodeMatchedRaw": 58,
+  "googleGeocodeReviewRaw": 739,
+  "newDedicatedBottleStoresAdded": 69,
+  "matchedExisting": 273,
+  "rejected": 8322,
+  "unresolvedReview": 984,
+  "catalogueBefore": 7616,
+  "catalogueAfter": 7685,
+  "googleBefore": 6718,
+  "googleAfter": 6787,
+  "previousIdsPreserved": "7616 / 7616",
+  "deleted": 0,
+  "topNew": [
+    {
+      "name": "Liquor City Kamaqhekeza",
+      "address": "Shop No 6 Kamaqhekeza Shopping Centre, Kamaqhekeza, Mpumalanga, 1379, South Africa",
+      "city": "Kamaqhekeza",
+      "id": "gplaces-ChIJM-wYKtMz5h4Rvs7h0xrvniU"
+    },
+    {
+      "name": "Elandsfontein Bottle Store (Ga Moranang)",
+      "address": "South Africa",
+      "city": "Matibidi",
+      "id": "gplaces-ChIJQei3HqNRwh4RsgS24gJKoz4"
+    },
+    {
+      "name": "Hlokohloko Bottle Store",
+      "address": "Mahlangu St, Phola, 2233, South Africa",
+      "city": "Ogies",
+      "id": "gplaces-ChIJed54_OjD6h4RlvSjhyiMNcI"
+    },
+    {
+      "name": "Crossing liquor store badplaas",
+      "address": "R541, Badplaas, eManzana, 1190, South Africa",
+      "city": "Badplaas",
+      "id": "gplaces-ChIJW9w1IewL6R4RNuX0Vn3ako0"
+    },
+    {
+      "name": "maraba bottle store",
+      "address": "marabastad, Mkhondo, 1620, South Africa",
+      "city": "Piet Retief",
+      "id": "gplaces-ChIJ9RehWL_l7h4RKTfAil2u1vw"
+    },
+    {
+      "name": "Dealz R5 Liquor Store",
+      "address": "Yolanda St, Ga-Nala, 2271, South Africa",
+      "city": "Kriel",
+      "id": "gplaces-ChIJl2KZ6D0D6x4RJ0OYPh9JPFY"
+    },
+    {
+      "name": "Klinkies Liquor Store",
+      "address": "Moloto, 1029, South Africa",
+      "city": "Moloto",
+      "id": "gplaces-ChIJn_8lcpD3vx4RFlRPsyrVvtA"
+    },
+    {
+      "name": "Zintu Bottle Store",
+      "address": "XQ4F+JW, Ethandakukhanya, Mkhondo, 2380, South Africa",
+      "city": "Piet Retief",
+      "id": "gplaces-ChIJTyf8JwD77h4RkKuCez59HDI"
+    },
+    {
+      "name": "COSMOS LIQUOR STORE",
+      "address": "Emzinoni, Bethal, 2309, South Africa",
+      "city": "Bethal",
+      "id": "gplaces-ChIJ1ZG-4_ef6x4RIPas07liTZw"
+    },
+    {
+      "name": "Liquor Legends",
+      "address": "103 Petunia St, Balfour, 2410, South Africa",
+      "city": "Balfour",
+      "id": "gplaces-ChIJW9NDz-fLlB4RKXmmGaPkGSc"
+    },
+    {
+      "name": "Mphakeng Liquor Store",
+      "address": "Maboke, 1370, South Africa",
+      "city": "Bushbuckridge",
+      "id": "gplaces-ChIJk-zRUTPzwh4RNbZIpJla0eE"
+    },
+    {
+      "name": "Sim Green Liquor",
+      "address": "Bethal, 2309, South Africa",
+      "city": "Bethal",
+      "id": "gplaces-ChIJ27GuiiKg6x4RcVR6kLrviq4"
+    },
+    {
+      "name": "Way Inn Liquor Store",
+      "address": "eMangweni, South Africa",
+      "city": "Mangweni",
+      "id": "gplaces-ChIJXwtd9HQw5h4RKwsQUWJoiLU"
+    },
+    {
+      "name": "Disco Liquor Store",
+      "address": "Doornpoot farm, eManzana, 1190, South Africa",
+      "city": "Badplaas",
+      "id": "gplaces-ChIJXXaYiOwL6R4RUY5VsFOV2i0"
+    },
+    {
+      "name": "St. Luciano Bottle Store",
+      "address": "Nyamazaneni, South Africa",
+      "city": "Msogwaba",
+      "id": "gplaces-ChIJf6b35FVH6B4Rlxin94t3FVY"
+    },
+    {
+      "name": "Jabulani Liquor Store",
+      "address": "eManzana, 1190, South Africa",
+      "city": "Badplaas",
+      "id": "gplaces-ChIJxQrS4gkL6R4ROaO73PDnltU"
+    },
+    {
+      "name": "Fast Sales Liquor Store",
+      "address": "R543, Dirkiesdorp, 2386, South Africa",
+      "city": "Dirkiesdorp",
+      "id": "gplaces-ChIJb4WDWvaO7h4Rd-Uvz5hQxjA"
+    },
+    {
+      "name": "TOPS at SPAR Mooilaan",
+      "address": "Mooi Ave, Ga-Nala, 2271, South Africa",
+      "city": "Kriel",
+      "id": "gplaces-ChIJyX2UZTgD6x4R-BNpkZNMwBE"
+    },
+    {
+      "name": "Giji's bottle store",
+      "address": "556 Hlatswayo St, Kwazamokuhle, Hendrina, 1098, South Africa",
+      "city": "KwaZamokuhle",
+      "id": "gplaces-ChIJw_4xjC616x4RK3QlmK-6FRg"
+    },
+    {
+      "name": "Shoprite LiquorShop Marapyane",
+      "address": "Shop 11, Marapyane Plaza Marapyane, Hammanskraal, 0407, South Africa",
+      "city": "Marapyane",
+      "id": "gplaces-ChIJex6sXDR7wB4R5U69nfUtsCw"
+    },
+    {
+      "name": "GOLDEN SPOT BOTTLE STORE",
+      "address": "South Africa",
+      "city": "Mbombela",
+      "id": "gplaces-ChIJCZCXB7PL6R4R39g_E1rcs4M"
+    },
+    {
+      "name": "Prime Liquors",
+      "address": "D797, Mzinti, 1352, South Africa",
+      "city": "Mzinti",
+      "id": "gplaces-ChIJ1XlWn7ot5h4R4o79A2a0NJc"
+    },
+    {
+      "name": "Leandra Blue Bottle Liquors",
+      "address": "Leslie, Thuli Fakude, 2265, South Africa",
+      "city": "Leandra",
+      "id": "gplaces-ChIJT5scJjok6x4R8S_YtYxnQXw"
+    },
+    {
+      "name": "Boven bottle store",
+      "address": "4rth Avenue, Emgwenya, 1195, South Africa",
+      "city": "Emgwenya",
+      "id": "gplaces-ChIJkxjLDRqN6R4Rovi0HLwaSYw"
+    }
+  ]
+}
