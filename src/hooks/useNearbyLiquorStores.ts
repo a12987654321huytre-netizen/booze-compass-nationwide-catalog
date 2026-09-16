@@ -57,6 +57,10 @@ export function useNearbyLiquorStores(
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const [radiusIndex, setRadiusIndex] = useState(0);
   const generationRef = useRef(0);
+  /** Last position we actually ran a catalog/network query against. */
+  const lastQueryPosRef = useRef<GeoPosition | null>(null);
+  /** Raw store list from the last query (before distance/bearing overlay). */
+  const lastRawStoresRef = useRef<LiquorStore[]>([]);
 
   const runQuery = useCallback(async (pos: GeoPosition, radiusMeters: number) => {
     const generation = ++generationRef.current;
@@ -64,6 +68,8 @@ export function useNearbyLiquorStores(
     const haveLocal = local.stores.length > 0;
 
     if (haveLocal) {
+      lastRawStoresRef.current = local.stores;
+      lastQueryPosRef.current = pos;
       setStores(applyDistancesAndSort(local.stores, pos));
       setUsingCache(local.meta.fromCache && local.meta.cacheStale);
       setState('ready');
@@ -76,9 +82,12 @@ export function useNearbyLiquorStores(
       const remote = await provider.findNearby(pos.latitude, pos.longitude, radiusMeters);
       if (generation !== generationRef.current) return;
 
-      const merged = applyDistancesAndSort(mergeAdditive(local.stores, remote), pos);
-      if (merged.length > 0) {
-        setStores(merged);
+      const merged = mergeAdditive(local.stores, remote);
+      lastRawStoresRef.current = merged;
+      lastQueryPosRef.current = pos;
+      const ranked = applyDistancesAndSort(merged, pos);
+      if (ranked.length > 0) {
+        setStores(ranked);
         setUsingCache(false);
         setState('ready');
         setErrorMessage(null);
@@ -93,6 +102,7 @@ export function useNearbyLiquorStores(
         return;
       }
       setStores([]);
+      lastRawStoresRef.current = [];
       setState('empty');
     } catch {
       if (generation !== generationRef.current) return;
@@ -108,12 +118,56 @@ export function useNearbyLiquorStores(
 
   useEffect(() => {
     if (!position) return;
+
     const requestedRadius = CONFIG.searchRadiiMeters[radiusIndex] ?? CONFIG.initialRadiusMeters;
-    void runQuery(position, requestedRadius);
+    const last = lastQueryPosRef.current;
+
+    // First query, or user widened the net → always run a full query.
+    const mustQuery =
+      last === null ||
+      // radiusIndex change is handled by comparing whether we still have data;
+      // we always re-query when radiusIndex changes via the dependency array,
+      // but only if we moved far enough OR we never queried at this radius yet.
+      false;
+
+    // Distance since the last *full* query. CONFIG.refreshDistanceMeters is
+    // the intentional threshold so tiny GPS noise does not reshuffle the UI.
+    const movedMeters =
+      last === null
+        ? Infinity
+        : getDistanceMeters(last.latitude, last.longitude, position.latitude, position.longitude);
+
+    const radiusChanged = true; // radiusIndex is in the dep array; we detect via last query
+
+    // Track which radius we last queried so a widen always triggers a new search.
+    // Stored on the ref object as a side field to avoid extra state churn.
+    type PosWithRadius = GeoPosition & { _radius?: number };
+    const lastWithRadius = last as PosWithRadius | null;
+    const lastRadius = lastWithRadius?._radius;
+    const radiusNeedsQuery = lastRadius !== requestedRadius;
+
+    if (mustQuery || last === null || movedMeters >= CONFIG.refreshDistanceMeters || radiusNeedsQuery) {
+      void runQuery(position, requestedRadius).then(() => {
+        // Tag the last query position with the radius we used.
+        if (lastQueryPosRef.current) {
+          (lastQueryPosRef.current as PosWithRadius)._radius = requestedRadius;
+        }
+      });
+      return;
+    }
+
+    // Small GPS drift: only refresh distance/bearing on the existing list.
+    // Do not re-rank in a way that swaps the primary store every few metres —
+    // re-sort is fine (nearest stays nearest if you barely moved) but we avoid
+    // blowing away selection by not changing store identity from a full refetch.
+    if (lastRawStoresRef.current.length > 0) {
+      setStores(applyDistancesAndSort(lastRawStoresRef.current, position));
+    }
   }, [position?.latitude, position?.longitude, radiusIndex, runQuery, position]);
 
   const refresh = useCallback(() => {
     if (!position) return;
+    lastQueryPosRef.current = null;
     setRadiusIndex(0);
     void runQuery(position, CONFIG.searchRadiiMeters[0]);
   }, [position, runQuery]);

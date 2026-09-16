@@ -36,9 +36,14 @@ function needsExplicitCompassPermission(): boolean {
   );
 }
 
+/** Show weak-GPS banner above this; hide only once accuracy is comfortably better. */
+const LOW_ACCURACY_SHOW_M = 100;
+const LOW_ACCURACY_HIDE_M = 70;
+
 export default function App() {
   const [stage, setStage] = useState<AppStage>('intro');
   const [selectedIndex, setSelectedIndex] = useState(0);
+  const [lowAccuracySticky, setLowAccuracySticky] = useState(false);
 
   const dev = useDevSimulation();
   const isDev = import.meta.env.DEV;
@@ -81,10 +86,19 @@ export default function App() {
     return storesWithStatus;
   }, [storesWithStatus, preference]);
 
-  // Keep the selection in range whenever the visible list changes.
+  // Clamp selection if the list shrinks; do not yank back to 0 on every length blip.
+  useEffect(() => {
+    setSelectedIndex((i) => {
+      if (visibleStores.length === 0) return 0;
+      if (i >= visibleStores.length) return 0;
+      return i;
+    });
+  }, [visibleStores.length]);
+
+  // Preference change is intentional — start from the top of the new ranking.
   useEffect(() => {
     setSelectedIndex(0);
-  }, [visibleStores.length, preference]);
+  }, [preference]);
 
   const selected = visibleStores[selectedIndex] ?? null;
 
@@ -93,9 +107,30 @@ export default function App() {
     headingResult.permission === 'unavailable' ? null : headingResult.heading
   );
 
-  const arrived =
-    selected !== null &&
-    (selected.store.distanceMeters ?? Infinity) <= CONFIG.arrivalRadiusMeters;
+  // Arrival hysteresis: enter at CONFIG.arrivalRadiusMeters, leave only a bit further out
+  // so GPS noise at the door doesn't flip Main ↔ Arrived every second.
+  const [arrivedSticky, setArrivedSticky] = useState(false);
+  useEffect(() => {
+    if (!selected) {
+      setArrivedSticky(false);
+      return;
+    }
+    const d = selected.store.distanceMeters ?? Infinity;
+    setArrivedSticky((was) => {
+      if (was) return d <= CONFIG.arrivalRadiusMeters + 25;
+      return d <= CONFIG.arrivalRadiusMeters;
+    });
+  }, [selected?.store.id, selected?.store.distanceMeters]);
+
+  // Accuracy banner hysteresis so it does not flash with every GPS reading.
+  useEffect(() => {
+    const acc = geo.position?.accuracyMeters;
+    if (acc === undefined) return;
+    setLowAccuracySticky((was) => {
+      if (was) return acc > LOW_ACCURACY_HIDE_M;
+      return acc > LOW_ACCURACY_SHOW_M;
+    });
+  }, [geo.position?.accuracyMeters]);
 
   // --- permission flow -------------------------------------------------
 
@@ -129,8 +164,6 @@ export default function App() {
     setSelectedIndex((i) => (i + 1) % visibleStores.length);
   };
 
-  const lowAccuracy = (geo.position?.accuracyMeters ?? 0) > 100;
-
   let content: React.ReactNode;
 
   if (stage === 'intro') {
@@ -149,7 +182,7 @@ export default function App() {
     content = <ErrorScreen message={errorMessage ?? 'Something went wrong.'} onRetry={refresh} />;
   } else if (state === 'empty' || !selected) {
     content = <NoStoresFound onSearchFarther={widenSearch} canSearchFarther={canWidenFurther} />;
-  } else if (arrived) {
+  } else if (arrivedSticky) {
     content = (
       <ArrivedScreen
         storeName={selected.store.name}
@@ -165,7 +198,7 @@ export default function App() {
         status={selected.status}
         rotation={rotation}
         usingCache={usingCache}
-        lowAccuracy={lowAccuracy}
+        lowAccuracy={lowAccuracySticky}
         filterPreference={preference}
         onFilterChange={setPreference}
         filterDisabled={!hasAnyOpeningHours}
