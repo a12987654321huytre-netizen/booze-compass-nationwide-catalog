@@ -23,6 +23,35 @@ type UseNearbyLiquorStoresResult = {
   canWidenFurther: boolean;
 };
 
+/** Sources that ship inside the app build — not "yesterday's intel". */
+const BUNDLED_SOURCES = new Set([
+  'google-places',
+  'osm-seed',
+  'curated',
+  'eclb',
+  'wcla',
+]);
+
+function hasBundledCatalog(sources: readonly string[] | undefined): boolean {
+  if (!sources || sources.length === 0) return false;
+  return sources.some((s) => BUNDLED_SOURCES.has(s));
+}
+
+/**
+ * Banner only when we are genuinely stuck on old localStorage tiles and
+ * do not have the nationwide bundled catalogue answering the query.
+ * Cloudflare deploys often have no /api/bottle-stores — that must not
+ * permanently shame the user with a stale-cache warning.
+ */
+function shouldShowStaleBanner(meta: {
+  fromCache: boolean;
+  cacheStale: boolean;
+  sourcesUsed?: readonly string[];
+}): boolean {
+  if (hasBundledCatalog(meta.sourcesUsed)) return false;
+  return meta.fromCache && meta.cacheStale;
+}
+
 function applyDistancesAndSort(rawStores: LiquorStore[], pos: GeoPosition): LiquorStore[] {
   return rankStores(
     rawStores.map((store) => ({
@@ -77,7 +106,7 @@ export function useNearbyLiquorStores(
     if (haveLocal) {
       lastRawStoresRef.current = local.stores;
       setStores(applyDistancesAndSort(local.stores, pos));
-      setUsingCache(local.meta.fromCache && local.meta.cacheStale);
+      setUsingCache(shouldShowStaleBanner(local.meta));
       setState('ready');
       setErrorMessage(null);
     } else {
@@ -114,7 +143,9 @@ export function useNearbyLiquorStores(
     } catch {
       if (generation !== generationRef.current) return;
       if (haveLocal) {
-        setUsingCache(true);
+        // Network refresh failed (common on Cloudflare without a Pages Function).
+        // Keep serving the bundled catalogue without the stale-cache scare banner.
+        setUsingCache(shouldShowStaleBanner(local.meta));
         setState('ready');
         return;
       }
