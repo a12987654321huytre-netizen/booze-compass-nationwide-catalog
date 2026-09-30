@@ -240,4 +240,20 @@ export const CURATED_EXCLUSIONS: CuratedExclusion[] = [
     radiusMeters: 120,
     reason: 'Camberley Wines farm tasting room, not a bottle store.',
   },
+  {
+    matchName: 'Handelshuis Drankwinkel',
+    latitude: -33.8896164,
+    longitude: 18.6314339,
+    radiusMeters: 200,
+    reason:
+      'WCLA WCP/031109 is an Oudtshoorn farm off-licence (Vlakteplaas). Google snapped the name onto Die Handelshuis furniture shop at 27 Northumberland St, Bellville. Furniture store is not a bottle store. Exclusion is Bellville-only so a verified Oudtshoorn shop door can still be added later.',
+  },
+  {
+    matchName: 'Die Handelshuis',
+    latitude: -33.8896164,
+    longitude: 18.6314339,
+    radiusMeters: 200,
+    reason:
+      'Same Bellville furniture / antiques shop as Handelshuis Drankwinkel namesake. Not a bottle store.',
+  },
 ];
